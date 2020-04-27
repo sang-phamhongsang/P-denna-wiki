@@ -11,13 +11,14 @@ Tillsammans med Lunds universitet vill Jobtechdev,  Trafiklab och Migrationsverk
  
 Med konkreta tips på open source verktyg för webbsida, communitybyggande, konkreta målsättningar i samband med verksamhetsplanering samt hur man mäter ett välmående ekosystem. 
  
+**Call to action**  
+
+* Är ni med och tar fram en checklista för hur man skapar en öppna data plattform? 
+* Vill ni dela mer er av era framgångar eller utmaningar?
+* Är ni med och bidrar till forskningen om hur offentlig sektor blir öppna dataplattform?
+* Vill ni löpande få stöd i att diskutera operativa frågor kring öppna licenser och öppen källkod?
  
-Är ni med och tar fram en checklista för hur man skapar en öppna data plattform? 
-Vill ni dela mer er av era framgångar eller utmaningar?
-Är ni med och bidrar till forskningen om hur offentlig sektor blir öppna dataplattform?
-Vill ni löpande få stöd i att diskutera operativa frågor kring öppna licenser och öppen källkod?
- 
-I såfall kontakt oss på :  länk  
+[Kontakta oss](maria.dalhage@arbetsformedlingen.se) eller anmäl er till meetup (se kolumn till höger.)
 
 **Vem är avsändare**  
 
