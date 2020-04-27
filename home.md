@@ -1,5 +1,20 @@
-# Kunskapsdelning öppna data 
+# Kunskapsdelning öppna data, öppen källkod och öppna licenser 
 
-> Upphovsmännen tror på att gå ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. 
+> Upphovsmännen tror på att gå ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. "Från Ego till Eko"
 
-Att samarbeta kring hanteringen av information kan hjälpa flera att fullfölja sitt uppdrag bättre. Våra kunder delas av andra aktörer inom offentlig förvaltning, det finns en orimlighet i att en medborgare kan ha flertalet "Mina Sidor" för att uträtta ett ärende.  Våra kunders livshändelser och affärshändelser involverar flertalet aktörer inom offentlig förvaltning, men också privata aktörer. Genom att skapa förutsättningar att dela information och teknik, skapas också möjligheter för innovation. Inte genom att börja på ett blankt papper men att hämta inspiration, data och kunskap där den redan finns och förvaltas.
+Vinsterna är många; kostnadseffektiv digitalisering, kompetensdelning; samverkan som ökar chansen till interoperabilitet mellan system och verksamheter. 
+
+Vi tror på att gå från Ego till Eko. Att samarbeta kring vår information för att bättre kunna fullfölja vårt uppdrag. Våra kunder delas av andra aktörer inom offentlig förvaltning.  Våra kunders livshändelser spänner över flertalet aktörer inom offentlig sektor, men också privat sektor. Genom att skapa förutsättningar att dela information och teknik, skapas också möjligheter för innovation. Inte genom att börja på ett blankt papper men genom att hämta inspiration, data och kunskap där den redan finns och förvaltas.  
+
+Finns det ett recept på hur man bygger en öppna dataplattform? Vad säger forskningen?
+Tillsammans med Lunds universitet vill Jobtechdev,  Trafiklab och Migrationsverket dela med oss av våra framgångar och utmaningar till andra aktörer och öppna dataplattformar.  
+ 
+Med konkreta tips på open source verktyg för webbsida, communitybyggande, konkreta målsättningar i samband med VP-arbete samt hur man mäter ett välmående ekosystem. 
+ 
+ 
+Är ni med och tar fram en checklista för hur man skapar en öppna data plattform? 
+Vill ni dela mer er av era framgångar eller utmaningar?
+Är ni med och bidrar till forskningen om hur offentlig sektor blir öppna dataplattform?
+Vill ni löpande få stöd i att diskutera operativa frågor kring öppna licenser och öppen källkod?
+ 
+I såfall kontakt oss på :  länk
