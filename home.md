@@ -1,1 +1,3 @@
 # Kunskapsdelning öppna data 
+
+Upphovsmännen tror på att ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. Att samarbeta kring hanteringen av information kan hjälpa flera att fullfölja sitt uppdrag bättre. Våra kunder delas av andra aktörer inom offentlig förvaltning, det finns en orimlighet i att en medborgare kan ha flertalet "Mina Sidor" för att uträtta ett ärende.  Våra kunders livshändelser och affärshändelser involverar flertalet aktörer inom offentlig förvaltning, men också privata aktörer. Genom att skapa förutsättningar att dela information och teknik, skapas också möjligheter för innovation. Inte genom att börja på ett blankt papper men att hämta inspiration, data och kunskap där den redan finns och förvaltas.
