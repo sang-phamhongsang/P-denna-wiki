@@ -9,7 +9,7 @@ Vi tror på att gå från Ego till Eko. Att samarbeta kring vår information fö
 Finns det ett recept på hur man bygger en öppna dataplattform? Vad säger forskningen?
 Tillsammans med Lunds universitet vill Jobtechdev,  Trafiklab och Migrationsverket dela med oss av våra framgångar och utmaningar till andra aktörer och öppna dataplattformar.  
  
-Med konkreta tips på open source verktyg för webbsida, communitybyggande, konkreta målsättningar i samband med VP-arbete samt hur man mäter ett välmående ekosystem. 
+Med konkreta tips på open source verktyg för webbsida, communitybyggande, konkreta målsättningar i samband med verksamhetsplanering samt hur man mäter ett välmående ekosystem. 
  
  
 Är ni med och tar fram en checklista för hur man skapar en öppna data plattform? 
