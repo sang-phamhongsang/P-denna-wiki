@@ -1,1 +1,1 @@
-[Startsida](home.md)
+[Startsida](home)
