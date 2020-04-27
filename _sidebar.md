@@ -1,7 +1,7 @@
-## På denna wiki
+### På denna wiki
 <hr>
 
-[Kunskapsdelning öppna data,...](home)  
+[Kunskapsdelning öppna data](home)  
 [Delta på meetup](meetup)  
 [Publikationer]  
 [Delat resultat] 
