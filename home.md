@@ -2,6 +2,7 @@
 
 > Upphovsmännen tror på att gå ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. "Från Ego till Eko"
 
+**Varför detta forum?**  
 Vinsterna är många; kostnadseffektiv digitalisering, kompetensdelning; samverkan som ökar chansen till interoperabilitet mellan system och verksamheter. 
 
 Vi tror på att gå från Ego till Eko. Att samarbeta kring vår information för att bättre kunna fullfölja vårt uppdrag. Våra kunder delas av andra aktörer inom offentlig förvaltning.  Våra kunders livshändelser spänner över flertalet aktörer inom offentlig sektor, men också privat sektor. Genom att skapa förutsättningar att dela information och teknik, skapas också möjligheter för innovation. Inte genom att börja på ett blankt papper men genom att hämta inspiration, data och kunskap där den redan finns och förvaltas.  
