@@ -1,2 +1,2 @@
-[Startsida](home)
+[Startsida](home)  
 [Vanliga frågor](Vanliga frågor)
