@@ -1,7 +1,7 @@
-På denna sida:
+På denna sida
 <hr>
 
-[Startsida](home)  
+[Kunskapsdelning öppna data, öppen källkod och öppna licenser](home)  
 [Delta på meetup](meetup)
 
 <hr>
