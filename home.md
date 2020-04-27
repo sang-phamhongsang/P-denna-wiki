@@ -17,4 +17,9 @@ Vill ni dela mer er av era framgångar eller utmaningar?
 Är ni med och bidrar till forskningen om hur offentlig sektor blir öppna dataplattform?
 Vill ni löpande få stöd i att diskutera operativa frågor kring öppna licenser och öppen källkod?
  
-I såfall kontakt oss på :  länk
+I såfall kontakt oss på :  länk  
+
+**Vem är avsändare**  
+
+Detta är en frivilligt initiativ med öppna dataplattformarna Jobtechdev.se och Trafiklab som tillsammans med Lunds universitet samlar kunskap och hostar en mötesplats för kunskapsutbyte gällande operativa frågor kring öppna data, öppna data-plattformar och öppen källkod
+Vårt initiativ ligger under paraplyet DIGG, Internetstiftelsen och SKR i statens ansats att bli bättre på att nyttja öppna data.
