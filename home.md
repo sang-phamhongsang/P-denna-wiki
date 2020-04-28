@@ -23,5 +23,7 @@ Med konkreta tips på open source verktyg för webbsida, communitybyggande, konk
 
 **Vem är avsändare**  
 
-Detta är en frivilligt initiativ med öppna dataplattformarna Jobtechdev.se och Trafiklab som tillsammans med Lunds universitet samlar kunskap och hostar en mötesplats för kunskapsutbyte gällande operativa frågor kring öppna data, öppna data-plattformar och öppen källkod.
-Vårt initiativ ligger under paraplyet DIGG, Internetstiftelsen och SKR i statens ansats att bli bättre på att nyttja öppna data.
+Detta är ett initiativ från Arbetsförmedlingen JobTechDev i samarbete med Digg, Internetstiftelsen och SKR.   
+
+Öppna dataplattformarna Jobtechdev.se och Trafiklab, tillsammans med Lunds universitet samlar och delar kunskap, insikter och verktyg för att bedriva operativ verksamhet kring öppna data, öppna data-plattformar och öppen källkod.
+
