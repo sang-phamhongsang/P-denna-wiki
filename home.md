@@ -23,7 +23,7 @@ Med konkreta tips på open source verktyg för webbsida, communitybyggande, konk
 
 **Vem är avsändare**  
 
-Detta är ett initiativ från Arbetsförmedlingen JobTechDev i samarbete med Digg, Internetstiftelsen och SKR.   
+Detta är ett initiativ från Arbetsförmedlingen i samarbete med Digg, Internetstiftelsen och SKR.   
 
 Öppna dataplattformarna Jobtechdev.se och Trafiklab, tillsammans med Lunds universitet samlar och delar kunskap, insikter och verktyg för att bedriva operativ verksamhet kring öppna data, öppna data-plattformar och öppen källkod.
 
