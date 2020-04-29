@@ -1,4 +1,5 @@
-[Här anmäler du dig](maria.dalhage@arbetsformedlingen.se)
+[Här anmäler du dig](maria.dalhage@arbetsformedlingen.se) För tillfället är detta en sida under arbete. Det finns ännu inget datum för Meetup. Men mer information kommer. Så stay tuned!  
+
 
 # Titel: Ekosystem kring öppen källkod och öppna data - nya möjligheter för privat och offentlig samverkan #
 
