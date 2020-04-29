@@ -12,5 +12,6 @@
 
 
 <hr>
-
 Drivs av Arbetsförmedlingen
+<hr>
+Innehållet på denna sajt, vilket Arbetsförmedlingen är ansvarig för, är licenserad med [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.sv). Personer som bidrar med innehåll till sajten har också godkänt ovan licens för innehållsbidrag om inte annat uttrycks.
