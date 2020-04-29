@@ -8,7 +8,8 @@ Det är därför vi på JobtechDev det senaste året har varit i kontakt med dat
   
 Ta del av vår benchmarking och de rekommendationer som vi fått från Niklas Tideklev på Dialogmakarna.   
 
+| File | License |
+| ------ | ------ |
+| [Benchmarking_hösten_2019.pdf](uploads/8c61c47488d012bd9d320415380fca99/Benchmarking_hösten_2019.pdf) |  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. |
 
-
-[Benchmarking_hösten_2019.pdf](uploads/8c61c47488d012bd9d320415380fca99/Benchmarking_hösten_2019.pdf) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
