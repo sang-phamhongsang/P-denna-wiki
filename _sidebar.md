@@ -5,6 +5,7 @@
 [Delta på meetup](meetup)  
 [Publikationer]
 <hr>
+[Policy för att bidra på sajten](Policy för att bidra)
 <details>
 <summary>Delat material</summary>
 [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
