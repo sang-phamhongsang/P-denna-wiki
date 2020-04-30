@@ -6,7 +6,7 @@
 [Publikationer]
 <hr>
 
-[Policy för att bidra till sajten](Policy för att dela material, rapportera problem eller komma med förbättringsförslag)  
+[Policy för att dela material, rapportera problem eller komma med förbättringsförslag](Policy för att bidra)  
 
 <details>
 <summary>Delat material</summary>
