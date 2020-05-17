@@ -16,4 +16,4 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 [Kontakta oss för anmälan eller bidrag](maria.dalhage@arbetsformedlingen.se) För tillfället är detta en sida under arbete. Det finns ännu inget datum för Meetupserien men mer information kommer. Så stay tuned!  
 
-[Agenda](https://docs.google.com/document/d/1Xuuwg3HutLD_YsMOb69pJgR6rNBScFTLevz9NDkqfz4/edit)
+[Till mötesserien](https://docs.google.com/document/d/1Xuuwg3HutLD_YsMOb69pJgR6rNBScFTLevz9NDkqfz4/edit)
