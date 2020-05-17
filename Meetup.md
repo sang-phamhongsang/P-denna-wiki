@@ -1,7 +1,7 @@
 [Här anmäler du dig](maria.dalhage@arbetsformedlingen.se) För tillfället är detta en sida under arbete. Det finns ännu inget datum för Meetup. Men mer information kommer. Så stay tuned!  
 
 
-# Titel: Ekosystem kring öppen källkod och öppna data - nya möjligheter för privat och offentlig samverkan #
+# Titel:  Myndigheter som öppna plattformsbyggare: Samskapande och samverkan kring Öppen programvara och Öppna data #
 
 Byggandet av ekosystem kring öppen programvara och öppna myndighetsdata utgör en möjlighet för myndigheter att dels kostnadsbespara men framförallt transformeras till innovationsfrämjare för både den privata och offentliga sektorn. Välkomna att se hur!
 
