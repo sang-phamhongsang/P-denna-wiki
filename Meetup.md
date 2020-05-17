@@ -4,7 +4,7 @@ Byggandet av ekosystem kring öppen programvara och öppna myndighetsdata utgör
 
 
 
-**Förslag på beskrivning**  
+**Beskrivning**  
 
 Öppen innovation genom samverkan och samskapande av öppen programvara har sedan länge varit normen bland teknikföretag. Kostnadsbesparingar, snabbare utveckling och ökad innovation är vanliga motiv. Inom det offentliga har fokuset legat på användande av befintlig öppen programvara och tillgängliggörande av öppen myndighetsdata i syfte att främja innovation och öka transparens. Att samutveckla och bidra till skapandet av öppen programvara har därmed fått begränsad uppmärksamhet, men även på grund av legala, kulturella och kunskapsrelaterade utmaningar.  
 
