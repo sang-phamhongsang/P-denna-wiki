@@ -12,6 +12,10 @@
 [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
 </details>
 
+<details>
+<summary>Forskning</summary>
+[Forskningsrapport - dela över organisationsgränser](uploads/4906d174106904b8902edf792092c0e7/EGOV2020.pdf)
+</details>
 
 <hr>
 Drivs av Arbetsförmedlingen
