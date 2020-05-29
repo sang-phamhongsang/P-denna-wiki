@@ -1,3 +1,4 @@
+[_metadata_:url]:- "https://jobtechdev.se"
 # Kunskapsdelning öppna data, öppen källkod och öppna licenser 
 
 > Upphovsmännen tror på att gå ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. "Från Ego till Eko"
