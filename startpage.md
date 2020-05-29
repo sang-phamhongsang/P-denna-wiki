@@ -1,6 +1,6 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
-# Kunskapsdelning öppna data, öppen källkod och öppna licenser 
+# Utdrag från projektet 
 
 > Upphovsmännen tror på att gå ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. "Från Ego till Eko"
 
