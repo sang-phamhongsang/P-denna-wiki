@@ -20,7 +20,10 @@ Med konkreta tips på open source verktyg för webbsida, communitybyggande, konk
 * Är ni med och bidrar till forskningen om hur offentlig sektor blir öppna dataplattform?
 * Vill ni löpande få stöd i att diskutera operativa frågor kring öppna licenser och öppen källkod?
  
-[Kontakta oss](maria.dalhage@arbetsformedlingen.se) eller anmäl er till meetup [(Delta på meetup)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/meetup)
+Läs vår [policy för att dela material](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra), anmäl er till meetup [(Delta på meetup)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/meetup). 
+
+Har ni frågor?
+[Kontakta oss.](maria.dalhage@arbetsformedlingen.se) 
 
 **Vem är avsändare**  
 
