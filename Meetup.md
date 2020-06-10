@@ -15,6 +15,6 @@ Mötesserien syftar till att djupdyka i och diskutera konkreta exempel på öppn
 Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera.
 
 [Kontakta oss för anmälan eller bidrag.](maria.dalhage@arbetsformedlingen.se) 
-Det finns ännu inga datum för respektive meetup, men information kommer inom någon vecka, Så stay tuned!  
+  
 
 [Till mötesserien](https://docs.google.com/document/d/1Xuuwg3HutLD_YsMOb69pJgR6rNBScFTLevz9NDkqfz4/edit)
