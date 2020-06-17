@@ -23,7 +23,7 @@ Med konkreta tips på open source verktyg för webbsida, communitybyggande, konk
 Läs vår [policy för att dela material](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra), anmäl er till meetup [(Delta på meetup)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/meetup). 
 
 Har ni frågor?
-[Kontakta oss.](maria.dalhage@arbetsformedlingen.se) 
+[Kontakta oss.](mailto:maria.dalhage@arbetsformedlingen.se) 
 
 **Vem är avsändare**  
 
