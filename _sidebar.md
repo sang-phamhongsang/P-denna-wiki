@@ -2,7 +2,7 @@
 <hr>
 
 [Introduktion](home)  
-[Delta på meetup](meetup)  
+[Delta på meetup](Digital-Workshop)  
 <hr>
 
 [Policy för att dela material, rapportera problem eller komma med förbättringsförslag](Policy för att bidra)  
