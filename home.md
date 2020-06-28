@@ -18,7 +18,7 @@ Mötena kommer hålla ett virtuellt workshop-format där vi kunskapsdelar genom 
 
 Vårt mål är att hålla en praktisk tyngdpunkt och hjälpa och inspirera myndigheter i hur de kan ta nästa  steg för att öka påverkan och driva på nyttiggörandet av deras öppna data.  
  
-[Till workshopanmälan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/meetup). 
+[Till workshopanmälan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshop). 
   
 
 **Dela med er av er kunskap**
