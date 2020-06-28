@@ -1,4 +1,4 @@
-# Titel:  Myndigheter som öppna plattformsbyggare: Samskapande och samverkan kring öppen programvara och öppna data #
+# Myndigheter som öppna plattformsbyggare: Samskapande och samverkan kring öppna data och öppen källkod #
 
 Byggandet av ekosystem kring öppen programvara och öppna myndighetsdata utgör en möjlighet för myndigheter att dels kostnadsbespara men framförallt transformeras till innovationsfrämjare för både den privata och offentliga sektorn. Välkomna att se hur!
 
@@ -12,12 +12,23 @@ Vi vill med detta forum visa på och diskutera hur myndigheter med hjälp av öp
 
 Mötesserien syftar till att djupdyka i och diskutera konkreta exempel på öppna myndighetsplattformar: JobTech, Arbetsförmedlingens satsning för att förbättra den digitala matchningen, och Trafiklab, Samtrafikens satsning för att främja innovationer kring öppen trafikdata. Behovsbild och kunskapsöversikt ges från DIGG och forskare från Lunds Universitet. Konkret vägledning och kunskapsdelning kring upphandling och utveckling av öppen programvara från ett myndighetsperspektiv kommer även att ges.
 
-Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera.
+**Om formatet**
+
+Varje digital meetup/webbinar är på två timmar. De olika webbinarierna har ett temaområde. Hur många meetups det blir beror på intresse och hur många som vill bidra.
+Du som är intresserad av meetup-serien kan bidra på två sätt:
+
+1. Som deltagare - Bidra genom att vara med i diskussion
+2. Som anordnare - Bidra med en föreläsning på 10, 20, eller 30 min.
+
+
+Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
+
+[Kontakta oss för anmälan eller bidrag.](maria.dalhage@arbetsformedlingen.se) 
 
 **Höstens Digitala Workshops** 
 
-Bokningslänk kommer 10 Juli.
-[Kontakta oss för anmälan eller bidrag.](maria.dalhage@arbetsformedlingen.se) 
+*Bokningslänk kommer 10 Juli*.
+
   
 **Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?** (Agenda kommer längre fram)
 
