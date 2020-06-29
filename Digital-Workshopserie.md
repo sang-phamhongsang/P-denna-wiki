@@ -2,7 +2,7 @@
 
 **Om formatet**
 
-Varje digital meetup/webbinar är på två timmar. De olika webbinarierna har ett temaområde. Hur många meetups det blir beror på intresse och hur många som vill bidra.
+Varje digital workshop är på två timmar. Och kommer att hållas som ett interaktivt webinarie  Hur många workshops det blir beror på intresse och hur många som vill bidra.
 Du som är intresserad av meetup-serien kan bidra på två sätt:
 
 1. Som deltagare - Bidra genom att vara med i diskussion
