@@ -2,7 +2,7 @@
 <hr>
 
 [Introduktion](home)  
-[Digital workshop](Digital-Workshop)  
+[Digital workshop](Digital-Workshopserie)  
 <hr>
 
 [Policy för att dela material, rapportera problem eller komma med förbättringsförslag](Policy för att bidra)  
