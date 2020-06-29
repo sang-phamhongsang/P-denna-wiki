@@ -70,5 +70,3 @@ Hur tar man fram nya dataset med externa aktörer? Vilka möjligheter till samar
 *Jobtechdev, TrafikLab, Migrationsverket*
 
 
-
-[Till mötesserien](https://docs.google.com/document/d/1Xuuwg3HutLD_YsMOb69pJgR6rNBScFTLevz9NDkqfz4/edit)
