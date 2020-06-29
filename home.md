@@ -18,7 +18,7 @@ Nätverket träffas regelbundet via virtuella workshops med start 1/9 och 15/9 i
  
 Workshopserien handlar om hur myndigheter öppet kan samskapa och kunskapsdela kring sina öppna data tillsammans med både offentliga och privata aktörer. Vi pratar även om hur utveckling av relaterad öppen källkod och standarder kan skapa synergieffekter och driva på innovationen baserat på data.
 
-[Till workshopanmälan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshop). 
+[Till workshopanmälan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie). 
   
 **Dela med er av er kunskap**
 
