@@ -14,7 +14,7 @@ Därför vill vi med detta nätverk bjuda in till kunskapsdelning och samverkan 
 
 **Delta i våra virtuella workshops**
 
-Nätverket träffas regelbundet via virtuella workshops med start 1/9 och 15/9 i höst. Därefter kommer vi träffarna att hållas första tisdagen i varje månad.
+Nätverket träffas regelbundet via virtuella workshops med start 1/9 och 15/9 i höst. Därefter kommer träffarna att hållas första tisdagen i varje månad.
  
 Workshopserien handlar om hur myndigheter öppet kan samskapa och kunskapsdela kring sina öppna data tillsammans med både offentliga och privata aktörer. Vi pratar även om hur utveckling av relaterad öppen källkod och standarder kan skapa synergieffekter och driva på innovationen baserat på data.
 
@@ -26,11 +26,11 @@ I samband med träffarna tar vi del av presentationer och diskuterar aktuella ä
 
 Vi välkomnar kontinuerligt förslag på ämnen och presentationer, tillika nytt material eller kompletterings/ändringsförslag till befintligt material.
  
-Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra)
+Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra).
 
 **Vem är avsändare**  
 
-Öppna dataplattformarna [JobTech Dev](https://jobtechdev.se/) och [Trafiklab](https://www.trafiklab.se/), tillsammans med [Lunds universitet](http://cs.lth.se/english/research/software-engineering/) samlar och delar kunskap, insikter och verktyg för att bedriva operativ verksamhet kring öppna data, öppna data-plattformar och öppen källkod. Initiativet sker i samarbete med [DIGG](https://www.digg.se/), [Internetstiftelsen](https://internetstiftelsen.se/) och [SKR](https://skr.se/).   
+Öppna data-plattformarna [JobTech Dev](https://jobtechdev.se/) och [Trafiklab](https://www.trafiklab.se/), tillsammans med [Lunds universitet](http://cs.lth.se/english/research/software-engineering/) samlar och delar kunskap, insikter och verktyg för att bedriva operativ verksamhet kring öppna data, öppna data-plattformar och öppen källkod. Initiativet sker i samarbete med [DIGG](https://www.digg.se/), [Internetstiftelsen](https://internetstiftelsen.se/) och [SKR](https://skr.se/).   
 
 JobTech Dev är [Arbetsförmedlingens](https://arbetsformedlingen.se/) öppna data-plattform som syftar till åstadkomma detta genom bildande av ett ekosystem med intressenter kopplat till den svenska arbetsmarknaden med målet att förbättra den digitala jobb-matchningen. Trafiklab är [Samtrafikens](https://samtrafiken.se/) motsvarande exempel på öppna data-plattform som syftar till att främja tekniska innovation kopplat till kollektivtrafiken i Sverige.
 
