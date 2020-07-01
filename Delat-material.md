@@ -17,7 +17,10 @@ Kontakta oss med en kort beskrivning av det som ska delas.
 ## Listning
 
 ### [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
+Avsändare: Arbetsförmedlingen
 
 ### [Forskningsrapport - dela över organisationsgränser](uploads/4906d174106904b8902edf792092c0e7/EGOV2020.pdf)
+Avsändare: Lunds Universitet
 
 ### [Standard for Public Code](Standard-for-Public-Code)
+Avsändare: Foundation for Public Code
