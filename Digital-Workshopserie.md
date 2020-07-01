@@ -34,7 +34,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 *Johan Linåker (Lunds universitet) Jonas Södergren (Arbetsförmedlingen) Jerry Löfvenhaft (Samtrafiken) samt DIGG.*
 
-[Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/url)
+[Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
 
 **Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar**
 (Agenda kommer längre fram)
