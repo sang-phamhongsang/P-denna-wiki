@@ -28,6 +28,8 @@ Vi välkomnar kontinuerligt förslag på ämnen och presentationer, tillika nytt
  
 Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra)
 
+Till [delat material](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Delat-material)
+
 **Vem är avsändare**  
 
 Öppna data-plattformarna [JobTech Dev](https://jobtechdev.se/) och [Trafiklab](https://www.trafiklab.se/), tillsammans med [Lunds universitet](http://cs.lth.se/english/research/software-engineering/) samlar och delar kunskap, insikter och verktyg för att bedriva operativ verksamhet kring öppna data, öppna data-plattformar och öppen källkod. Initiativet sker i samarbete med [DIGG](https://www.digg.se/), [Internetstiftelsen](https://internetstiftelsen.se/) och [SKR](https://skr.se/).   
