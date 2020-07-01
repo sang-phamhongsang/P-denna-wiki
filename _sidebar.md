@@ -10,6 +10,7 @@
 <details>
 <summary>Delat material</summary>
 [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
+[Standard for Public Code](Standard-for-Public-Code)
 </details>
 
 <details>
