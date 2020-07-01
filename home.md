@@ -26,7 +26,7 @@ I samband med träffarna tar vi del av presentationer och diskuterar aktuella ä
 
 Vi välkomnar kontinuerligt förslag på ämnen och presentationer, tillika nytt material eller kompletterings/ändringsförslag till befintligt material.
  
-Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra).
+Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy%20f%C3%B6r%20att%20bidra)
 
 **Vem är avsändare**  
 
