@@ -1,0 +1,23 @@
+Contributor: Lunds universitet, [Johan Linåker](http://cs.lth.se/johan-linaker/) och [Per Runeson](http://cs.lth.se/per-runeson/).
+
+Öppen innovation lyfter värdet i att samarbeta och kunskapsdela över organisationsgränser för att accelerera innovation och uppnå kostnadseffektiviseringar, tillika möjliggöra nya affärsmodeller. Öppen källkod lyfts ofta som ett exempel och är vanligt förekommande inom det privata sektorn. Inom den offentliga sektorn är däremot öppen källkod inte lika utbrett. Här är det istället ett större fokus på att dela öppna myndighetsdata. Dock återstår mycket att göra vilket lyfts i både rapporter och forskning. Vanliga utmaningar som citeras är att data publiceras utan en tydlig efterfrågan eller problemställning, samt att interaktionen mellan producent och konsument av datan i bästa fall är begränsad till enklare feedbackloopar.
+
+Vi tror att offentliga verksamheter bättre kan utnyttja det potentiella värdeskapandet av sin öppna data genom skapandet av öppna data-plattformar, där den öppna datan tillsammans relaterade öppna källkodsprojekt och öppna standarder delas och samutvecklas. Denna studie har därför som mål att utforska hur offentliga verksamheter i rollen som plattformsledare kan främja och facilitera ett sådant samarbete inom öppna ekosystem bestående av både privata och offentliga aktörer med ett gemensamt intresse för det underliggande plattformen.
+
+I studien tittar vi därför närmre på de två öppna data-plattformarna JobTech Dev och Trafiklab och hur deras respektive plattformsledare, Arbetsförmedlingen och Samtrafiken faciliterar samarbetet inom deras olika ekosystem. Mer specifikt undersöker vi hur styrningen av ekosystemet fungerar samt hur plattformsledaren aktivt samarbetar med ekosystemet för att där via uppnå sina respektive mål.
+
+Studien visar dels på skillnaden i styrning av ekosystemen där det i JobTech Devs fall är Arbetsförmedlingen som är ensam i rollen som plattformsledare, medan det i Trafiklabs fall är Samtrafiken som i sin tur samägs av samtliga regionala kollektivtrafikbolag samt ett antal privata aktörer.
+
+Resultaten pekar vidare på vikten av att plattformsledaren antar en multifunktionell roll för att möjliggöra delningen och samutvecklingen av data och mjukvara mellan aktörerna inom ett ekosystem. Utöver rollen som dataproducent, kan både Arbetsförmedlingen och Samtrafiken även beskrivas som dataförmedlare då de aktivt samlar in, marknadsför och distribuerar data från tredje part. Därtill möjliggör de automatisk transformering av datan mellan olika standarder, samt utvecklar och tillhandahåller API:er, ramverk, bibliotek, verktyg och exempelapplikationer som öppen källkod för att underlätta för ekosystemets aktörer när de ska använda sig av datan för sina respektive syften.
+
+Både Arbetsförmedlingen och Samtrafiken strävar efter ett öppet arbetssätt för att kunna involvera sina ekosystem i utvecklingen av sina respektive plattformar. Målet är att aktörerna inom ekosystemen själva ska börja bidra till de befintliga datamängderna och öppna källkodsprojekten, men även dela med sig av nya. Sett till öppen källkod är sådana bidrag begränsade. Avseende data däremot görs bidrag i viss mån redan idag i inom bägge ekosystem, både i passiv och aktiv form.
+
+I den passiva delningen är det plattformsledaren som aktivt samlar in och vidaredistribuerar datan från ekosystemets aktörer. I JobTech Devs fall samlas jobbannonser in genom skrapningsteknik baserat på öppen källkod. Annonsdata förädlas, transformeras och görs sedan tillgänglig som öppen data. I Trafiklabs fall samlas trafikdata automatiskt in från bl.a. de olika kollektivtrafikbolagen, för att sedan transformeras och tillhandahållas via ett gemensamt API.
+
+Med aktiv delning menar vi istället fallet där dataproducenten aktivt bidrar med sin data till plattformen via en teknisk infrastruktur tillhanadahållen av plattformsledaren. I JobTech Devs fall kan det exemplifieras genom deras MyData-satsning där privatpersoner tillhandahåller sina CV-uppgifter som de i sin tur kan dela vidare till bl.a. annonsplattformar. I Trafiklabs fall är man igång med att utformat en plattform där olika mobility-företag ska kunna skicka in sin data oavsett format.
+
+| File | License |
+| ------ | ------ |
+| [Artikel](uploads/4906d174106904b8902edf792092c0e7/EGOV2020.pdf) |  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. |
+
+
