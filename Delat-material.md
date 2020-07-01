@@ -7,12 +7,12 @@ Kontakta oss med en kort beskrivning av det som ska delas.
 
 *Den skapade sidan bör innehålla följande metadata:*
 1. En titel
-2. Avsändare
+2. Avsändare (Primärt organisation)
 3. En beskrivning av det som delas
 4. Licens för materialet
 5. Länk till materialet
 
-[Kontakta oss för delning](maria.dalhage@arbetsformedlingen.se)
+[Kontakta oss för delning](mailto:maria.dalhage@arbetsformedlingen.se)
 
 ## Listning
 
