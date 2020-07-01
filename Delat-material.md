@@ -15,3 +15,5 @@ Skapa en ny sida och beskriv det som ska delas. Länken till den skapade sidan l
 ## [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
 
 ## [Forskningsrapport - dela över organisationsgränser](uploads/4906d174106904b8902edf792092c0e7/EGOV2020.pdf)
+
+## [Standard for Public Code](Standard-for-Public-Code)
