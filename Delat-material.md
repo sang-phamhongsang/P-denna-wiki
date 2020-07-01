@@ -9,8 +9,8 @@ Skapa en ny sida och beskriv det som ska delas. Länken till den skapade sidan l
 1. En titel
 2. Avsändare
 3. En beskrivning av det som delas
-4. Licens på materialet
-5. Länk till en uppladdad rapport
+4. Licens för materialet
+5. Länk till materialet
 
 ## Listning
 
