@@ -28,4 +28,4 @@ Det blir enklare för alla inblandade ju mer utförlig du är. Det roliga är at
 [Apache 2](https://www.apache.org/licenses/LICENSE-2.0) är den licens som används om du bidrar med källkod. 
 
 ## Referens
-I sann anda av återanvändning har denna manual inspirerats av denna manual. [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
+I sann anda av återanvändning har denna manual inspirerats av denna manual: [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md).
