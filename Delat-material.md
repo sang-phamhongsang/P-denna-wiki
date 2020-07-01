@@ -19,7 +19,7 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 ### [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
 Avsändare: Arbetsförmedlingen
 
-### [Forskningsrapport - dela över organisationsgränser](uploads/4906d174106904b8902edf792092c0e7/EGOV2020.pdf)
+### [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](Samarbete-kring-öppna-data-plattformar-inom-öppna-ekosystem-med-privata-och-offentliga-aktörer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
 Avsändare: Lunds Universitet
 
 ### [Standard for Public Code](Standard-for-Public-Code)
