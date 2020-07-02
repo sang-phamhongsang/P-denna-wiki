@@ -19,7 +19,7 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 ### [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
 Avsändare: Arbetsförmedlingen
 
-### [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](Samarbete-kring-öppna-data-plattformar-inom-öppna-ekosystem-med-privata-och-offentliga-aktörer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
+### [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
 Avsändare: Lunds Universitet
 
 ### [Standard for Public Code](Standard-for-Public-Code)
