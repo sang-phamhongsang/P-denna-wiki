@@ -1,5 +1,8 @@
 Contributor: Lunds universitet, [Johan Linåker](http://cs.lth.se/johan-linaker/) och [Per Runeson](http://cs.lth.se/per-runeson/).
 
+***Detta är en sammanfattning av artikeln "Collaboration in Open Government Data Ecosystems: Open Cross-sector Sharing and Co-development of Data and Software" som är accepterad för publikation vid konferensen 
+[EGOV-CeDEM-ePart 2020](http://dgsociety.org/egov-2020/). Hela artikeln finns att ladda ner och läsa i slutet av denna sida.***
+
 Öppen innovation lyfter värdet i att samarbeta och kunskapsdela över organisationsgränser för att accelerera innovation och uppnå kostnadseffektiviseringar, tillika möjliggöra nya affärsmodeller. Öppen källkod lyfts ofta som ett exempel och är vanligt förekommande inom det privata sektorn. Inom den offentliga sektorn är däremot öppen källkod inte lika utbrett. Här är det istället ett större fokus på att dela öppna myndighetsdata. Dock återstår mycket att göra vilket lyfts i både rapporter och forskning. Vanliga utmaningar som citeras är att data publiceras utan en tydlig efterfrågan eller problemställning, samt att interaktionen mellan producent och konsument av datan i bästa fall är begränsad till enklare feedbackloopar.
 
 Vi tror att offentliga verksamheter bättre kan utnyttja det potentiella värdeskapandet av sin öppna data genom skapandet av öppna data-plattformar, där den öppna datan tillsammans relaterade öppna källkodsprojekt och öppna standarder delas och samutvecklas. Denna studie har därför som mål att utforska hur offentliga verksamheter i rollen som plattformsledare kan främja och facilitera ett sådant samarbete inom öppna ekosystem bestående av både privata och offentliga aktörer med ett gemensamt intresse för det underliggande plattformen.
