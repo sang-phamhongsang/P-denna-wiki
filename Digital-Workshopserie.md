@@ -80,6 +80,27 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 
 *Per Runeson (Lunds universitet), Daniel Melin (Skatteverket), Göran Westerlund (Alingsås kommun), Dimitrij Aleshkov (Helsingborgs Stad).*
 
+
+**Preliminär agenda**
+
+- Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) - 15 min
+
+- Omvärldsanalys - öppen programvara inom det offentliga - Daniel Melin (Kammarkollegiet) - 15 min
+
+- Upphandling av utveckling och support av öppen programvara - Daniel Melin (Kammarkollegiet) - 15 min
+
+- Exempel: Skolportaler - Göran Westerlund (Alingsås kommun) - 15 min
+
+- Utveckling och samarbete kring öppen programvara -  Dimitrij Aleshkov (Helsingborgs Stad) - 20 min
+
+- Diskussion i grupper - 20 min
+    - Fördelar och synergieffekter med öppna data
+    - Upphandling av utveckling och/eller support jämfört med egenutveckling 
+    - Utmaningar och hinder
+
+- Gemensamma reflektioner - 20 min
+
+
 [Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
 
 **Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data**
