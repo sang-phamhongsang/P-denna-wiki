@@ -16,7 +16,6 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 **Höstens Digitala Workshops** 
   
 **Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?** 
-(Agenda kommer längre fram)
 
 Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den onlineworkshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
 
@@ -24,6 +23,21 @@ På höstens första workshop vill vi presentera en första version av policyn o
 Fram till dess kan ni följa och[bidra i projektet här]:(https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
 
 *Catharina Ekdahl och Charlott Galant (PRV), Björn Hagström och Adam Panzer (DIGG)*
+
+**Agenda**
+
+- Inledning – Adam Panzer (DIGG) - 10 min
+
+- PRV:s myndighetssamverkan – Charlott Galant (PRV) - 20 min
+
+- Presentation av rekommendationen om öppna licenser och immaterialrätt https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit – Catharina Ekdahl (PRV) - 30 min
+
+- Frågor och öppen diskussion om rekommendationen – 40 min
+
+- Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) – 10 min
+
+- Om höstens MeetUp-serie – Maria Dalhage (Arbetsförmedlingen) – 10 min 
+
 
 [Boka plats](https://www.goto10.se/evenemang/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/)
 
