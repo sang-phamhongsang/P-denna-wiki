@@ -42,11 +42,34 @@ Fram till dess kan ni följa och[bidra i projektet här]:(https://docs.google.co
 [Boka plats](https://www.goto10.se/evenemang/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/)
 
 **Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
-(Agenda kommer längre fram)
 
 I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckla kring sin öppna data. DIGG kommer att ge en introduktion till området och hur de ser på behovet av samarbetsplattformar. Johan Linåker från Lunds universitet kommer ge en överblick av den aktuella forskningen. Vidare kommer vi få höra presentationer från öppna data-plattformarna JobTech Dev (Arbetsförmedlingen) och Trafiklab (Samtrafiken) om hur de byggt upp och aktivt samverkar med sina respektive ekosystem med offentliga och privata aktörer. Mötet syftar till att inspirera och dela lärdomar och tips för hur myndigheter kan komma igång med liknande samverkansinitiativ kring sin öppna data. Deltagarna på träffen bidrar med erfarenheter och utmaningar från sina egna organisationer.
 
 *Johan Linåker (Lunds universitet) Jonas Södergren (Arbetsförmedlingen) Jerry Löfvenhaft (Samtrafiken) samt DIGG.*
+
+**Preliminär agenda**
+
+
+- Introduktion - (DIGG) - 20 min
+
+- Vad säger forskningen? - Johan Linåker (Lunds universitet) - 20 min
+
+- JobTechDev - Jonas Södergren (Arbetsförmedlingen) - 20 min
+
+- Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 20 min
+
+- Diskussion i grupper (30 min). *Diskussionsämnena kan komma att ändras*
+
+   - Hur får vi fler myndigheter och kommuner att satsa på och samverka kring Öppna data?
+
+   - Vilka utmaningar finns och vilka är gemensamma för många aktörer?
+
+   - Vilken roll och ansvar har myndigheten avseende styrning och ägande av öppna data plattformar?
+ 
+   - Hur bör styrningen och ägande av öppna data plattformar se ut på kort och lång sikt?
+
+- Gemensam reflektion (10 min)
+
 
 [Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
 
