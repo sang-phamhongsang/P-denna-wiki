@@ -27,9 +27,9 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 
 - Inledning – Adam Panzer (DIGG) - 10 min
 
-- PRV:s myndighetssamverkan – Charlott Galant (PRV) - 20 min - [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx)
+- PRV:s myndighetssamverkan – Charlott Galant (PRV) - 20 min - [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf)
 
-- Presentation av [rekommendationen om öppna licenser och immaterialrätt](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) – Catharina Ekdahl (PRV) - 30 min - [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf)
+- Presentation av [rekommendationen om öppna licenser och immaterialrätt](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) – Catharina Ekdahl (PRV) - 30 min - [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx)
 
 - Frågor och öppen diskussion om rekommendationen – 40 min
 
