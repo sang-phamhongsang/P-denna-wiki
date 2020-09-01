@@ -1,5 +1,4 @@
 
-
 **Om formatet**
 
 Varje digital workshop är på två timmar. Och kommer att hållas som ett interaktivt webinarie. Hur många workshops det blir beror på intresse och hur många som vill bidra.
@@ -20,7 +19,7 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den onlineworkshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
 
 På höstens första workshop vill vi presentera en första version av policyn och samtidigt bjuda in nätverket att kommentera resultatet. 
-Fram till dess kan ni följa och[bidra i projektet här]:(https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
+Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
 
 *Catharina Ekdahl och Charlott Galant (PRV), Björn Hagström och Adam Panzer (DIGG)*
 
@@ -28,9 +27,9 @@ Fram till dess kan ni följa och[bidra i projektet här]:(https://docs.google.co
 
 - Inledning – Adam Panzer (DIGG) - 10 min
 
-- PRV:s myndighetssamverkan – Charlott Galant (PRV) - 20 min
+- PRV:s myndighetssamverkan – Charlott Galant (PRV) - 20 min - [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx)
 
-- Presentation av rekommendationen om öppna licenser och immaterialrätt https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit – Catharina Ekdahl (PRV) - 30 min
+- Presentation av rekommendationen om öppna licenser och immaterialrätt [Arbetsdokumentet](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) – Catharina Ekdahl (PRV) - 30 min - [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf)
 
 - Frågor och öppen diskussion om rekommendationen – 40 min
 
@@ -38,8 +37,6 @@ Fram till dess kan ni följa och[bidra i projektet här]:(https://docs.google.co
 
 - Om höstens MeetUp-serie – Maria Dalhage (Arbetsförmedlingen) – 10 min 
 
-
-[Boka plats](https://www.goto10.se/evenemang/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/)
 
 **Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
 
