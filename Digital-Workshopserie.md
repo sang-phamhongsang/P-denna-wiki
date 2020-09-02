@@ -12,7 +12,11 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 [Kontakta oss för bidrag.](mailto:maria.dalhage@arbetsformedlingen.se) 
 
-**Höstens Digitala Workshops** 
+## Höstens Digitala Workshops 
+
+För de workshops som är genomförda kommer presentationerna läggas upp här och eventuell inspelning av workshopen länkas till här.
+
+### Genomförda
   
 **Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?** 
 
@@ -37,6 +41,8 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 
 - Om höstens MeetUp-serie – Maria Dalhage (Arbetsförmedlingen) – 10 min 
 
+
+### Kommande
 
 **Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
 
