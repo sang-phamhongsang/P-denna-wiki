@@ -61,15 +61,17 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 - Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 20 min
 
-- Diskussion i grupper (30 min). *Diskussionsämnena kan komma att ändras*
+- Diskussion i grupper (30 min). 
 
-   - Hur får vi fler myndigheter och kommuner att satsa på och samverka kring Öppna data?
-
-   - Vilka utmaningar finns och vilka är gemensamma för många aktörer?
-
-   - Vilken roll och ansvar har myndigheten avseende styrning och ägande av öppna data plattformar?
+1.  **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
  
-   - Hur bör styrningen och ägande av öppna data plattformar se ut på kort och lång sikt?
+    Alternativt, eller för deltagare som inte tillhör en organisation som delar öppet data; 
+
+2.  **Vilka steg och åtgärder önskar ni att organisationer och myndigheter tar för att deras data ska användas?**
+
+    Resultatet av diskussionerna, blir en lista med åtgärder som kan fungera som startpunkt för 
+    en kollega som ska lägga upp en strategi för öppna data, eller vill få stöd i vilka åtgärder 
+    som finns.
 
 - Gemensam reflektion (10 min)
 
