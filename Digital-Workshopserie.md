@@ -44,7 +44,6 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 - Om höstens MeetUp-serie – Maria Dalhage (Arbetsförmedlingen) – 10 min 
 
 
-### Kommande
 
 **Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
 
@@ -54,14 +53,15 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 **Preliminär agenda**
 
-
-- Introduktion - (DIGG) - 20 min
+- Välkomna till Nätverket - Maria Dalhage (Arbetsförmedlingen) -10 min
+   [Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf](uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf)
+- Introduktion - (DIGG) - 15 min
 
 - Vad säger forskningen? - Johan Linåker (Lunds universitet) - 20 min
 
-- JobTechDev - Jonas Södergren (Arbetsförmedlingen) - 20 min
+- JobTechDev - Jonas Södergren (Arbetsförmedlingen) - 15 min
 
-- Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 20 min
+- Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 15 min
 
 - Diskussion i grupper (30 min). 
 
@@ -79,6 +79,8 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 
 [Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
+
+### Kommande
 
 **Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar**
 (Agenda kommer längre fram)
