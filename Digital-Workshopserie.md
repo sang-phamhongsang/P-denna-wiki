@@ -83,7 +83,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 ### Kommande
 
 **Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar**
-(Agenda kommer längre fram)
+
 
 På vilket sätt hänger satsning på öppen programvara ihop med de satsningar som görs avseende öppna data? Vad finns att tjäna på en samverkan kring utvecklingen av öppen programvara? Hur kan myndigheter och kommuner gå praktiskt till väga? Under denna workshop försöker vi besvara och diskutera dessa frågor med hjälp av inblickar från en rad intressanta talare. Per Runeson kommer ge en introduktion till öppen källkod och samspelet med öppna data. Daniel Melin från Skatteverket (tidigare Kammarkollegiet) kommer presentera en omvärldsanalys av öppen källkod inom det offentliga samt förklara hur upphandling av utveckling och support av öppen källkod fungerar. Göran Westerlund från Alingsås kommun kommer ge ett konkret exempel från utveckling och upphandling av en öppen skolplattform. Dimitrij Aleshkov från Helsingborgs Stad kommer prata kring nyutveckling och engagemang i befintliga öppna källkodsprojekt.
 
