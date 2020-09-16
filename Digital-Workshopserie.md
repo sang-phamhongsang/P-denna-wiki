@@ -53,15 +53,14 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 **Preliminär agenda**
 
-- Välkomna till Nätverket - Maria Dalhage (Arbetsförmedlingen) -10 min
-   [Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf](uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf)
-- Introduktion - (DIGG) - 15 min
+- Välkomna till Nätverket - Maria Dalhage (Arbetsförmedlingen) - 10 min - [Presentation](uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf)
+- Introduktion - (DIGG) - 15 min - [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf)
 
-- Vad säger forskningen? - Johan Linåker (Lunds universitet) - 20 min
+- Vad säger forskningen? - Johan Linåker (Lunds universitet) - 20 min - 
 
-- JobTechDev - Jonas Södergren (Arbetsförmedlingen) - 15 min
+- JobTechDev - Jonas Södergren (Arbetsförmedlingen) - 15 min - 
 
-- Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 15 min
+- Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 15 min - [Presentation](uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsnätverk_Trafiklab_1.0.pdf)
 
 - Diskussion i grupper (30 min). 
 
