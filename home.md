@@ -31,6 +31,9 @@ Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledg
 Till [delat material](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Delat-material)
 
 **Anslagstavlan**
+
+Ni som vill synas i detta forum med ett event, skicka ämne, datum och länk så annonserar vi ut detta vid våra mötestillfällen och på Gitlab.
+
 [Till Anslagstavlan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Anslagstavlan)
 
 **Vem är avsändare**  
