@@ -5,7 +5,7 @@
 
 ## Charlotte Galant (PRV)
 * Charlotte Galant från PRV fortsatte med att ge en bakgrund till PRVs uppdrag samt en introduktion till området immaterialrätt.
-* PRVs uppdrag är att långsiktigt främja tillväxten samt stärka innovationsförmåga och konkurrenskraften i landet. Detta görs dels genom att bevilja ensamrätter kring exempelvis varumärken och upphovsrätter, och dels att genom att arbeta med kunskapshöjning kring immaterialrätt inom ex. offentlig sektor och akademi.
+* PRVs uppdrag är att långsiktigt främja tillväxten samt stärka innovationsförmåga och konkurrenskraften i landet. Detta görs dels genom att bevilja ensamrätter kring design, varumärken och patent, och dels att genom att arbeta med kunskapshöjning kring alla immaterialrätter inom ex. offentlig sektor och akademi.
 * Immaterialrätten beskrivs som ett verktyg för att kunna dela med sig och samverka kring innovationer, eller sk. immateriella eller kunskapstillgångar. Data och mjukvara är två exempel på sådana tillgångar som i många fall representerar betydande delar av en organisations värde.
 * Mer specifikt beskrivs immaterialrätten som ett verktyg för att:
 	* Skydda värdet av tillgången genom att hindra andra från att använda det.
@@ -15,8 +15,8 @@
 * Behovet av samarbete och samverkan lyfts särskilt och hur öppna licenser kan hjälpa till att möjliggöra denna samverkan mellan näringsliv, akademi, samhälle och offentlig sektor. Tillit lyfts som en särskilt viktig aspekt vilket immaterialrätten kan bidra till att skapa genom att se till så att tillgångar tillvaratas på rätt sätt.
 * En annan aspekt som kontrasteras är förhållandet mellan öppenhet och immaterialrätt och huruvida det råder en konflikt mellan de två. Charlotte menar att så ej behöver vara fallet och beskriver hur öppenheten kan delas in i fyra olika nivåer:
 	* Hemlig: Tillgången hålls hemligt för att ingen annan ska kunna utveckla det vidare. Här har immaterialrätten ingen direkt funktion.
-	* Inlåsning/skydd: Tillgången görs öppen men skyddas av upphovsrätt och patent vilket begränsar sättet hur andra kan nyttja den eller utveckla det vidare.
-	* Kontrollerad öppenhet: Tillgången delas öppet för att andra ska kunna nyttja den och utveckla det vidare. Vissa villkor kan föreligga som begränsar hur tillgången får användas. Det kan även vara att man vill lämna tillgången öppen för bara vissa.
+	* Inlåsning/skydd:  Tillgången görs öppen men skyddas av  immaterialrätt vilket ger innehavaren möjlighet att hindra andra  att nyttja den.
+	* Kontrollerad öppenhet: Tillgången delas öppet för att andra ska kunna nyttja den och utveckla det vidare. Här är immaterialrätten ett verktyg för att kunna dela öppet. Med den kontroll som ges av immaterialrätten kan man även lägga på villkor som begränsar hur tillgången får användas. Det kan även vara att man vill lämna tillgången öppen för bara vissa.
 	* Okontrollerad öppenhet: Här delas tillgången helt öppet med alla utan begränsningar. Avsaknaden av immaterialrätten kan här orsaka bekymmer och förvirring. Ett vanligt exempel rör fallet där ett företag använder sig av källkod hämtat från internet utan att veta under vilka förutsättningar källkoden har delats.
 * Utifrån detta kan det konstateras att det inte råder någon konflikt utan snarare en tät koppling mellan öppenhet och immaterialrätt.
 
