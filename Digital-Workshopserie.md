@@ -20,7 +20,7 @@ För de workshops som är genomförda kommer presentationerna läggas upp här o
   
 **Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?** 
 
- [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1---%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
+ [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den onlineworkshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
 
