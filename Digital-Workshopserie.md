@@ -49,11 +49,15 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 
 [Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
+
+För att kunna fortsätta diskussionen även utanför våra träffar, [gör ett inlägg på vårt fråge- och diskussionsforum.](https://forum.jobtechdev.se/c/natverket-oppna-data-oppen-kallkod/)
+
+
 I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckla kring sin öppna data. DIGG kommer att ge en introduktion till området och hur de ser på behovet av samarbetsplattformar. Johan Linåker från Lunds universitet kommer ge en överblick av den aktuella forskningen. Vidare kommer vi få höra presentationer från öppna data-plattformarna JobTech Dev (Arbetsförmedlingen) och Trafiklab (Samtrafiken) om hur de byggt upp och aktivt samverkar med sina respektive ekosystem med offentliga och privata aktörer. Mötet syftar till att inspirera och dela lärdomar och tips för hur myndigheter kan komma igång med liknande samverkansinitiativ kring sin öppna data. Deltagarna på träffen bidrar med erfarenheter och utmaningar från sina egna organisationer.
 
 *Johan Linåker (Lunds universitet) Jonas Södergren (Arbetsförmedlingen) Jerry Löfvenhaft (Samtrafiken) samt DIGG.*
 
-**Preliminär agenda**
+**Agenda**
 
 - Välkomna till Nätverket - Maria Dalhage (Arbetsförmedlingen) - 10 min - [Presentation](uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf)
 - Introduktion - (DIGG) - 15 min - [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf)
@@ -80,6 +84,8 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 
 [Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
+
+
 
 ### Kommande
 
