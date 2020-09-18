@@ -30,6 +30,13 @@ Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledg
 
 Till [delat material](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Delat-material)
 
+**Delta i vårt diskussionsforum**
+
+För att kunna fortsätta diskussionen även utanför våra träffar, gör ett inlägg på vårt fråge- och diskussionsforum.
+
+[Till diskussionsforumet](https://forum.jobtechdev.se/c/natverket-oppna-data-oppen-kallkod/)
+
+
 **Anslagstavlan**
 
 Ni som vill synas i detta forum med ett event, skicka ämne, datum och länk så annonserar vi ut detta vid våra mötestillfällen och på Gitlab.
