@@ -47,6 +47,8 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 
 **Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
 
+[Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
+
 I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckla kring sin öppna data. DIGG kommer att ge en introduktion till området och hur de ser på behovet av samarbetsplattformar. Johan Linåker från Lunds universitet kommer ge en överblick av den aktuella forskningen. Vidare kommer vi få höra presentationer från öppna data-plattformarna JobTech Dev (Arbetsförmedlingen) och Trafiklab (Samtrafiken) om hur de byggt upp och aktivt samverkar med sina respektive ekosystem med offentliga och privata aktörer. Mötet syftar till att inspirera och dela lärdomar och tips för hur myndigheter kan komma igång med liknande samverkansinitiativ kring sin öppna data. Deltagarna på träffen bidrar med erfarenheter och utmaningar från sina egna organisationer.
 
 *Johan Linåker (Lunds universitet) Jonas Södergren (Arbetsförmedlingen) Jerry Löfvenhaft (Samtrafiken) samt DIGG.*
