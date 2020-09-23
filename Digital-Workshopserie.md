@@ -47,7 +47,7 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 
 **Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
 
-[Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
+[Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-2-Samverkan-kring-offentlig-sektors-%C3%B6ppna-data-satsningar) | [Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 
 För att kunna fortsätta diskussionen även utanför våra träffar, [gör ett inlägg på vårt fråge- och diskussionsforum.](https://forum.jobtechdev.se/c/natverket-oppna-data-oppen-kallkod/)
