@@ -94,7 +94,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 På vilket sätt hänger satsning på öppen programvara ihop med de satsningar som görs avseende öppna data? Vad finns att tjäna på en samverkan kring utvecklingen av öppen programvara? Hur kan myndigheter och kommuner gå praktiskt till väga? Under denna workshop försöker vi besvara och diskutera dessa frågor med hjälp av inblickar från en rad intressanta talare. Per Runeson kommer ge en introduktion till öppen källkod och samspelet med öppna data.  Daniel Melin med bred erfarenhet av öppen källkod kommer att prata om myter och missförstånd kring öppen källkod. Göran Westerlund från Alingsås kommun kommer ge ett konkret exempel från utveckling och upphandling av en öppen skolplattform. Dimitrij Aleshkov från Helsingborgs Stad kommer prata kring nyutveckling och engagemang i befintliga öppna källkodsprojekt.
 
-*Per Runeson (Lunds universitet), Daniel Melin (Skatteverket), Göran Westerlund (Alingsås kommun), Dimitrij Aleshkov (Helsingborgs Stad).*
+*Per Runeson (Lunds universitet), Daniel Melin (offentlig sektor), Göran Westerlund (Alingsås kommun), Dimitrij Aleshkov (Helsingborgs Stad).*
 
 
 **Agenda**
