@@ -97,24 +97,22 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 *Per Runeson (Lunds universitet), Daniel Melin (Skatteverket), Göran Westerlund (Alingsås kommun), Dimitrij Aleshkov (Helsingborgs Stad).*
 
 
-**Preliminär agenda**
+**Agenda**
+1.	Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) -10 min
+2.	Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) - 15 min
+3.	Myter och missförstånd kring öppen källkod  - Daniel Melin - 20 min
+4.	Exempel: Skolportaler - Göran Westerlund (Alingsås kommun) - 15 min 
+5.	Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) - 20 min
+6.	Diskussion i grupper - 20 min
+    
+    Frågeställning: Presentera en utmaning du står inför i din verksamhet när det gäller öppen 
+    källkod:
+    - Något tekniskt? 
+    - Ledning (governance)?
+    - Licenser eller annat juridiskt?
+    - Integritetsfrågor?
 
-- Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) - 15 min
-
-- Omvärldsanalys - öppen programvara inom det offentliga - Daniel Melin (Kammarkollegiet) - 15 min
-
-- Upphandling av utveckling och support av öppen programvara - Daniel Melin (Kammarkollegiet) - 15 min
-
-- Exempel: Skolportaler - Göran Westerlund (Alingsås kommun) - 15 min
-
-- Utveckling och samarbete kring öppen programvara -  Dimitrij Aleshkov (Helsingborgs Stad) - 20 min
-
-- Diskussion i grupper - 20 min
-    - Fördelar och synergieffekter med öppna data
-    - Upphandling av utveckling och/eller support jämfört med egenutveckling 
-    - Utmaningar och hinder
-
-- Gemensamma reflektioner - 20 min
+7.	Gemensamma reflektioner - 20 min
 
 
 [Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
@@ -128,12 +126,9 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 [Boka plats](https://www.goto10.se/evenemang/forvaltning-och-ansvar-kring-oppna-data-online/)
 
-**Tisdag 1 december, kl 10:00-12:00: Samverkan i praktiken -  Utveckling av Öppna data mellan offentliga och privata aktörer** 
+**Tisdag 8 december, kl 10:00-12:00: OBS nytt datum
 (Agenda kommer längre fram)
 
-Hur tar man fram nya dataset med externa aktörer? Vilka möjligheter till samarbete har man som offentlig aktör? I denna workshop delas konkreta erfarenheter från bl.a. öppna data-plattformarna JobTech Dev (Arbetsförmedlingen) och Trafiklab (Samtrafiken). Frågor som berörs inkluderar licensval för datan, affärsvärdet kontra allmänvärdet av datan, myndigheten som neutral part i styrning, samt tekniska lösningar för insamling, bearbetning och delning av datan.
-
-*JobTech Dev (Arbetsförmedlingen), TrafikLab (Samtrafiken), Migrationsverket*
 
 [Boka plats](https://www.goto10.se/evenemang/samverkan-i-praktiken-utveckling-av-oppna-data-mellan-offentliga-och-privata-aktorer-online/)
 
