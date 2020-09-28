@@ -126,7 +126,7 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 [Boka plats](https://www.goto10.se/evenemang/forvaltning-och-ansvar-kring-oppna-data-online/)
 
-**Tisdag 8 december, kl 10:00-12:00: Innovationstvälingar ör att innovera på Öppen Data**
+**Tisdag 8 december, kl 10:00-12:00: Innovationstävlingar är att innovera på Öppen Data**
 
 Preliminär agenda:
 - Hack for Sweden - fem år av myndighetshack med öppen data - lessons learned (DIGG)
