@@ -126,10 +126,15 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 [Boka plats](https://www.goto10.se/evenemang/forvaltning-och-ansvar-kring-oppna-data-online/)
 
-**Tisdag 8 december, kl 10:00-12:00: OBS nytt datum
-(Agenda kommer längre fram)
+**Tisdag 8 december, kl 10:00-12:00: Innovationstvälingar ör att innovera på Öppen Data**
 
+Preliminär agenda:
+- Hack for Sweden - fem år av myndighetshack med öppen data - lessons learned (DIGG)
+- ChallengeGov 2.0 
+- Hackathons för att adressera humanitära och sociala utmaningar - (OpenHack)
+- Reflektioner från olika Hackathons - Marcus Österberg
+- Dialog/diskussion
+- Sammanfattning
 
-[Boka plats](https://www.goto10.se/evenemang/samverkan-i-praktiken-utveckling-av-oppna-data-mellan-offentliga-och-privata-aktorer-online/)
-
+Bokningsmöjligheter kommer.
 
