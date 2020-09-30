@@ -126,13 +126,16 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 [Boka plats](https://www.goto10.se/evenemang/forvaltning-och-ansvar-kring-oppna-data-online/)
 
-**Tisdag 8 december, kl 10:00-12:00: Innovationstävlingar är att innovera på Öppen Data**
+**Tisdag 8 december, kl 10:00-12:00: Hackatons och Innovationstävlingar - Så utforskar du potentialen i din Öppna Data**
+
+Hackatons är en designmetod för att snabbt utveckla prototyper och idéer, och används ofta i tävlingsformat för att trigga utforskning av nya användningsfall och potentiella innovationer baserat på öppna data. Hackatons kan på detta sätt, likt andra former av innovationstävlingar, användas för att få nya insikter kring data, hur den kan förbättras/kompletteras men också som ett komplement till de upphandlingar eller innovationsfinansiering som sker i dag. Trots fördelarna finns det begränsningar och ofta felaktiga förväntningar kring dessa innovationstävlingar och dess resultat. I denna workshop diskuterar vi lärdomar, hur vi kan bli bättre på att främja innovationskapandet samt hur vi kan ta tillvara på resultaten på ett hållbart sätt.
 
 Preliminär agenda:
+
 - Hack for Sweden - fem år av myndighetshack med öppen data - lessons learned (DIGG)
-- ChallengeGov 2.0 
-- Hackathons för att adressera humanitära och sociala utmaningar - (OpenHack)
-- Reflektioner från olika Hackathons - Marcus Österberg
+- ChallengeGov 2.0 - Sveriges nya plattform för öppen och datadriven innovation (DIGG)
+- Hackathons och Öppen Källkod för att adressera humanitära och sociala utmaningar - (openhack)
+- Reflektioner kring den faktiska nyttan med Hackathons
 - Dialog/diskussion
 - Sammanfattning
 
