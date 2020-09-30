@@ -10,8 +10,8 @@ Ni som vill synas i detta forum med ett event, skicka ämne, datum och länk så
 
 ****
 
-"Samverkan i praktiken - Utveckling av Öppna data mellan offentliga och privata aktörer" den 1 december, kl 10:00-12:00, ersätts istället med ett nytt event den 8 december; "Hackatons och Innovationstävlingar – Så utforskar du potentialen i din Öppna Data". Ni som har bokat behåller er bokade plats. 
-Har du inte möjlighet att delta kan du avboka din plats via eventsidan (som du hittar via länken här nedan)
+"Samverkan i praktiken - Utveckling av Öppna data mellan offentliga och privata aktörer" den 1 december, kl 10:00-12:00, **ersätts istället med ett nytt event den 8 december**; "Hackatons och Innovationstävlingar – Så utforskar du potentialen i din Öppna Data". **Ni som har bokat behåller er bokade plats.**
+Har du inte möjlighet att delta kan du avboka din plats [via eventsidan].(https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/) 
 
 
 
