@@ -139,5 +139,5 @@ Preliminär agenda:
 - Dialog/diskussion
 - Sammanfattning
 
-Bokningsmöjligheter kommer.
+[Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
