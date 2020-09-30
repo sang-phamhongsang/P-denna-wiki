@@ -10,6 +10,12 @@ Ni som vill synas i detta forum med ett event, skicka ämne, datum och länk så
 
 ****
 
+"Samverkan i praktiken - Utveckling av Öppna data mellan offentliga och privata aktörer" den 1 december, kl 10:00-12:00, ersätts istället med ett nytt event den 8 december; "Hackatons och Innovationstävlingar – Så utforskar du potentialen i din Öppna Data". Ni som har bokat behåller er bokade plats. 
+Har du inte möjlighet att delta kan du avboka din plats via eventsidan (som du hittar via länken här nedan)
+
+
+
+------------------------------------------------------------------------------------------------
 Internetstiftelsen erbjuder nu två nya tider för **gratis workshop/utbildning** om öppna data med Björn Hagström. De tidigare tillfällen har varit väldigt uppskattade och både nybörjare och de som kan lite mer har nytta av att vara med. Allt kommer naturligtvis genomföras digitalt.
 
 De nya tiderna är kl. 9.00-15.30 följande dagar:
