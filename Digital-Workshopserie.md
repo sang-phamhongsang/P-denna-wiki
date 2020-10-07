@@ -87,8 +87,6 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 
 
-### Kommande
-
 **Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar**
 
 
@@ -98,11 +96,11 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 
 
 **Agenda**
-1.	Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) -10 min
-2.	Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) - 15 min
+1.	Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) -10 min [Presentation](uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_Nätverket_Kunskapsdelning_Öppna_data_Öppen_källkod.pdf)
+2.	Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) - 15 min [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf)
 3.	Myter och missförstånd kring öppen källkod  - Daniel Melin - 20 min
-4.	Exempel: Skolportaler - Göran Westerlund (Alingsås kommun) - 15 min 
-5.	Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) - 20 min
+4.	Exempel: Skolportaler - Göran Westerlund (Alingsås kommun) - 15 min [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf)
+5.	Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) - 20 min [Presentation](uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_öppen_programvara.pptx.pdf)
 6.	Diskussion i grupper - 20 min
     
     Frågeställning: Presentera en utmaning du står inför i din verksamhet när det gäller öppen 
@@ -112,10 +110,14 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
     - Licenser eller annat juridiskt?
     - Integritetsfrågor?
 
+
 7.	Gemensamma reflektioner - 20 min
 
 
 [Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
+
+
+### Kommande
 
 **Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data**
  (Agenda kommer längre fram)
