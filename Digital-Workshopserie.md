@@ -110,6 +110,8 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
     - Licenser eller annat juridiskt?
     - Integritetsfrågor?
 
+      [Gruppernas sammanställningar samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
+
 
 7.	Gemensamma reflektioner - 20 min
 
