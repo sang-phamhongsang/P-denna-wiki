@@ -122,13 +122,25 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 ### Kommande
 
 **Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data**
- (Agenda kommer längre fram)
 
 En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan. Hur säkerställer vi att alla dataset kan nås via ett samma ställe med liknande upplevelser trots att det finns många producenter av öppna data.
 
+
+**Agenda**
+
+- Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander - DIGG (20 min
+- Framtidens informationshantering - Caspar Almalander-SKR (20 min)
+- Web 3.0 - När Internet når sin fulla potential: Internetstiftelsen (10 min)
+- Hur ökar man tillgängligheten på sin öppna data?: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions (15 min)
+- Automatisering av dataleveranser, filer & API:r - Peter Mankenskiöld - NSÖD/Tieto/Evry (15 min)
+- Diskussion i grupper: (30 min) - Hinder och vägar framåt
+- Gemensam reflektion (10 min)
+
 *Digg, Internetstiftelsen, SKR*
 
-[Boka plats](https://www.goto10.se/evenemang/forvaltning-och-ansvar-kring-oppna-data-online/)
+[Boka](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
+
+
 
 **Tisdag 8 december, kl 10:00-12:00: Hackatons och Innovationstävlingar - Så utforskar du potentialen i din Öppna Data**
 
