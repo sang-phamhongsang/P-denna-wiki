@@ -23,7 +23,7 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 #### Samverkan kring öppna data
 * Forskningsperspektiv på samverkan kring myndighetsdriva ekosystem för öppna data  
 [Sammanfattning från workshop 15/9 | Johan Linåker (Lunds universitet) | Se även: [Presentation](uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=1544)]
-* [JobTech Dev - Arbetsförmedlingens ekosystem för öppna data kopplat till svenska arbetsmarknaden](/JobTech-Dev---Arbetsförmedlingens-ekosystem-för-öppna-data-kopplat-till-svenska-arbetsmarknaden)  
+* [JobTech Dev - Arbetsförmedlingens ekosystem för öppna data kopplat till svenska arbetsmarknaden](/JobTech-Dev-Arbetsförmedlingens-ekosystem-för-öppna-data-kopplat-till-svenska-arbetsmarknaden)  
 [Sammanfattning från workshop 15/9 | Jonas Södergren (Arbetsförmedlingen) | Se även: [Presentation](uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=2684)]
 * [Trafiklab - Samtrafikens ekosystem för öppna data kopplat till svenska kollektivtrafiken](/Trafiklab---Samtrafikens-ekosystem-för-öppna-data-kopplat-till-svenska-kollektivtrafiken)  
 [Sammanfattning från workshop 15/9 | Jerry Löfvenhaft (Samtrafiken) | Se även: [Presentation](uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsnätverk_Trafiklab_1.0.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=3655)]
