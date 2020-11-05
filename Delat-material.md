@@ -18,11 +18,18 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 
 #### Allmänna resurser och kunskap kring öppna data
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
-En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.
+En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.  
 [Avsändare: Arbetsförmedlingen]  
 
-* [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-krig-utredningen-bakom-nya-Öppna-Data-lagen)  
+* [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-kring-utredningen-bakom-nya-Öppna-Data-lagen)  
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
+
+#### Licenser och immaterialrätt
+* [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
+[Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: Presentation | [Inspelning]()]  
+
+* [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
+[Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: Presentation | [Inspelning]()]  
 
 #### Publicering och förvaltning av öppna data
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
