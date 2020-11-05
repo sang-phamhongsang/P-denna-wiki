@@ -24,6 +24,19 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-krig-utredningen-bakom-nya-Öppna-Data-lagen)  
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 
+#### Publicering och förvaltning av öppna data
+* Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
+[Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]  
+
+* Framtidens informationshantering 
+[Sammanfattning från workshop 3/11 | Caspar Almalander (SKR) | Se även: [Presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip) | Inspelning]  
+
+* Web 3.0 - När Internet når sin fulla potential  
+[Sammanfattning från workshop 3/11 | Daniel Dersén (Internetstiftelsen) | Se även: Presentation | Inspelning]  
+
+* Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data? 
+[Sammanfattning från workshop 3/11 | Eric Hjelmestam och Peter Mankenskiöld (Nationell Skalning Öppna Data (NSÖD) | Se även: Presentation | Inspelning]  
+
 #### Samverkan kring öppna data
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
 [Sammanfattning från workshop 15/9 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=613)]  
