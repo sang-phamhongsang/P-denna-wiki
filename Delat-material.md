@@ -28,13 +28,13 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
 [Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]  
 
-* Framtidens informationshantering 
+* Framtidens informationshantering  
 [Sammanfattning från workshop 3/11 | Caspar Almalander (SKR) | Se även: [Presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip) | Inspelning]  
 
 * Web 3.0 - När Internet når sin fulla potential  
 [Sammanfattning från workshop 3/11 | Daniel Dersén (Internetstiftelsen) | Se även: Presentation | Inspelning]  
 
-* Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data? 
+* Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data?  
 [Sammanfattning från workshop 3/11 | Eric Hjelmestam och Peter Mankenskiöld (Nationell Skalning Öppna Data (NSÖD) | Se även: Presentation | Inspelning]  
 
 #### Samverkan kring öppna data
