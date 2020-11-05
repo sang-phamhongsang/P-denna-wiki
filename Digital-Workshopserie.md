@@ -120,8 +120,6 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 [Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
 
 
-### Kommande
-
 **Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data**
 
 En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan. Hur säkerställer vi att alla dataset kan nås via ett samma ställe med liknande upplevelser trots att det finns många producenter av öppna data.
@@ -129,9 +127,10 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 **Agenda**
 
-- Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander - DIGG (20 min
-- Framtidens informationshantering - Caspar Almalander-SKR (20 min)
-- Web 3.0 - När Internet når sin fulla potential: Internetstiftelsen (10 min)
+- Inledning till dagens workshop: Maria Dalhage [presentation](https://nosad.se)
+- Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander - DIGG (20 min [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)
+- Framtidens informationshantering - Caspar Almalander-SKR (20 min) [presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip)
+- Web 3.0 - När Internet når sin fulla potential: Daniel Dersén - Internetstiftelsen (10 min)
 - Hur ökar man tillgängligheten på sin öppna data?: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions (15 min)
 - Automatisering av dataleveranser, filer & API:r - Peter Mankenskiöld - NSÖD/Tieto/Evry (15 min)
 - Diskussion i grupper: (30 min) - Hinder och vägar framåt
@@ -141,6 +140,8 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 [Boka](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
 
+
+### Kommande
 
 
 **Tisdag 8 december, kl 10:00-12:00: Hackatons och Innovationstävlingar - Så utforskar du potentialen i din Öppna Data**
