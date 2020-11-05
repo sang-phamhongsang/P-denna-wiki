@@ -34,9 +34,11 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 
 #### Allmänna resurser och kunskap kring öppen programvara
 * [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
-[Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]
-* FAQ om upphandling och användning av öppen programvara  
-[Baserat på workshop 6/10 | Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
+[Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]  
+
+* [FAQ om upphandling och användning av öppen programvara](/FAQ-om-upphandling-och-användning-av-öppen-programvara)  
+[Baserat på workshop 6/10 | Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]  
+
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Avsändare: Foundation of Public Code]
 
