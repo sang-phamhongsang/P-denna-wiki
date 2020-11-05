@@ -14,13 +14,15 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 
 ## Delat material
 
-Det delade materialet 
-
 ### Öppna data
 
 #### Allmänna resurser och kunskap kring öppna data
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
-[Avsändare: Arbetsförmedlingen]
+En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.
+[Avsändare: Arbetsförmedlingen]  
+
+* [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-krig-utredningen-bakom-nya-Öppna-Data-lagen)  
+[Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 
 #### Samverkan kring öppna data
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
