@@ -14,6 +14,8 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 
 ## Delat material
 
+Det delade materialet 
+
 ### Öppna data
 
 #### Allmänna resurser och kunskap kring öppna data
@@ -21,6 +23,9 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 [Avsändare: Arbetsförmedlingen]
 
 #### Samverkan kring öppna data
+* [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
+[Sammanfattning från workshop 15/9 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=613)]  
+
 * Forskningsperspektiv på samverkan kring myndighetsdriva ekosystem för öppna data  
 [Sammanfattning från workshop 15/9 | Johan Linåker (Lunds universitet) | Se även: [Presentation](uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=1544)]  
 
