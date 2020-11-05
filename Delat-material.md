@@ -1,6 +1,6 @@
 # Delat material
 
-Detta är en sammanställning för det material som har delats. Syftet med delningen ska vara att förenkla för det offentliga i arbetet med öppna data och öppen källkod. Tanken är att det ska vara enkelt att dela, antingen delas länkar direkt till existerande material på webben eller så laddas material upp på denna wiki.
+Detta är en sammanställning för det material som har delats eller producerats inom nätverket. Syftet med delningen ska vara att förenkla för det offentliga i arbetet med öppna data och öppen källkod. Tanken är att det ska vara enkelt att dela, antingen delas länkar direkt till existerande material på webben eller så laddas material upp på denna wiki.
 
 ## Guide för att dela
 Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. 
@@ -15,6 +15,14 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 [Kontakta oss för delning](mailto:maria.dalhage@arbetsformedlingen.se)
 
 ## Listning
+
+### Samverkan kring Öppna data
+* Forskningsperspektiv på samverkan kring myndighetsdriva ekosystem för öppna data  
+[Från workshop 15/9 | Johan Linåker]
+* JobTech Dev - Arbetsförmedlingens ekosystem för öppna data kopplat till svenska arbetsmarknaden
+* Trafiklab - Samtrafikens ekosystem för öppna data kopplat till svenska kollektivtrafiken
+
+### Öppen programvara
 
 ### [Benchmarking - från data till samhällsnytta](Benchmarking 2019)
 Avsändare: Arbetsförmedlingen
