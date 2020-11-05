@@ -33,7 +33,7 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 ### Öppen programvara
 
 #### Allmänna resurser och kunskap kring öppen programvara
-* Introduktion till öppen programvara och samspelet med öppna data  
+* [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
 [Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]
 * FAQ om upphandling och användning av öppen programvara  
 [Baserat på workshop 6/10 | Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
@@ -41,7 +41,7 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 [Avsändare: Foundation of Public Code]
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara
-* Exempel: Varför Alingsås kommun valde att bygga en egen Skolportal  
+* [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
 [Sammanfattning från workshop 6/10 | Göran Westerlund (Alinsås kommun) | Se även: [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU)]
-* Exempel: Utveckling och samarbete kring öppen programvara i Helsingborg Stad  
+* [Utveckling och samarbete kring öppen programvara i Helsingborg Stad](/Utveckling-och-samarbete-kring-öppen-programvara-i-Helsingborg-Stad)  
 [Sammanfattning från workshop 6/10 | Dimitrij Aleshkov (Helsingborgs Stad) | Se även: [Presentation](uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_öppen_programvara.pptx.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=4131)]
