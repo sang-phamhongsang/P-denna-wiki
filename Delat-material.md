@@ -26,10 +26,10 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 
 #### Licenser och immaterialrätt
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
-[Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: Presentation | [Inspelning]()]  
+[Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]  
 
 * [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
-[Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: Presentation | [Inspelning]()]  
+[Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]  
 
 #### Publicering och förvaltning av öppna data
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
