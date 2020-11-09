@@ -129,7 +129,7 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 - Inledning till dagens workshop: Maria Dalhage [presentation](https://nosad.se)
 - Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander - DIGG (20 min [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)
-- Framtidens informationshantering - Caspar Almalander-SKR (20 min) [presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip)
+- Framtidens informationshantering - Caspar Almalander-SKR (20 min)
 - Web 3.0 - När Internet når sin fulla potential: Daniel Dersén - Internetstiftelsen (10 min) [persentation](uploads/4b61243df74686a1fa1abe71d8e9b7a7/web_3.0.pptx)
 - Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:r -: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions och Peter Mankenskiöld - NSÖD/Tieto/Evry  (30 min) [presentation](uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)
 
