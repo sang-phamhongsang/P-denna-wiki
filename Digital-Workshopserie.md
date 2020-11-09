@@ -144,18 +144,31 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 ### Kommande
 
 
-**Tisdag 8 december, kl 10:00-12:00: Hackatons och Innovationstävlingar - Så utforskar du potentialen i din Öppna Data**
+**Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data**
 
-Hackatons är en designmetod för att snabbt utveckla prototyper och idéer, och används ofta i tävlingsformat för att trigga utforskning av nya användningsfall och potentiella innovationer baserat på öppna data. Hackatons kan på detta sätt, likt andra former av innovationstävlingar, användas för att få nya insikter kring data, hur den kan förbättras/kompletteras men också som ett komplement till de upphandlingar eller innovationsfinansiering som sker i dag. Trots fördelarna finns det begränsningar och ofta felaktiga förväntningar kring dessa innovationstävlingar och dess resultat. I denna workshop diskuterar vi lärdomar, hur vi kan bli bättre på att främja innovationskapandet samt hur vi kan ta tillvara på resultaten på ett hållbart sätt.
+Offentlig sektor satsar på nationella innovationstävlingar och hackathons med syfte att få öppna data i användning; som en del av myndigheternas verksamhetsutveckling och/eller som en katalysator för innovation. Räcker denna ansats eller krävs det något mer för att uppnå det vi vill? 
 
-Preliminär agenda:
 
-- Hack for Sweden - fem år av myndighetshack med öppen data - lessons learned (DIGG)
-- ChallengeGov 2.0 - Sveriges nya plattform för öppen och datadriven innovation (DIGG)
-- Hackathons och Öppen Källkod för att adressera humanitära och sociala utmaningar - (openhack)
-- Reflektioner kring den faktiska nyttan med Hackathons
-- Dialog/diskussion
-- Sammanfattning
+Öppna data, kommunikation, ambition och åtagande är viktiga ingredienser fr att lyckas med en innovationstävling. Diskutera möjligheterna samt utmaningarna tillsammans med oss. 
+
+
+Agenda:
+
+- Inledning Maria Dalhage 10 min
+- Erfarenheter av att anordna digitala hackaton för offentlig förvaltning (Therese Bojia DIGG) 10 min
+- ChallengesGov.se – Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation - Angela Yong 10 min
+- Hackathons för att adressera humanitära och sociala utmaningar - (Lukas Leander OpenHack) 10 min
+- Paneldebatt: Reflektioner från olika Hackathons 20 min
+- Dialog/diskussion  30 min
+- Sammanfattning 30 min
+
+ 
+Förslag till Diskussionsfrågor: 
+
+1. Hur många hackathons har ni medverkat på i år?
+2.  Varför deltar ni/varför deltar ni inte 
+3. Ska hackathons vara en naturlig del av offentlig sektors arbetsuppgifter och hur vill ni utforma detta? 
+
 
 [Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
