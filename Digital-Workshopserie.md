@@ -163,7 +163,7 @@ Offentlig sektor satsar på nationella innovationstävlingar och hackathons med 
 - Sammanfattning 30 min
 
  
-Förslag till Diskussionsfrågor: 
+Diskussionsfrågor: 
 
 1. Hur många hackathons har ni medverkat på i år?
 2. Varför deltar ni/varför deltar ni inte 
