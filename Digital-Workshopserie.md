@@ -152,7 +152,7 @@ Offentlig sektor satsar på nationella innovationstävlingar och hackathons med 
 Öppna data, kommunikation, ambition och åtagande är viktiga ingredienser fr att lyckas med en innovationstävling. Diskutera möjligheterna samt utmaningarna tillsammans med oss. 
 
 
-Agenda:
+**Agenda**
 
 - Inledning Maria Dalhage 10 min
 - Erfarenheter av att anordna digitala hackaton för offentlig förvaltning (Therese Bojia DIGG) 10 min
@@ -166,7 +166,7 @@ Agenda:
 Förslag till Diskussionsfrågor: 
 
 1. Hur många hackathons har ni medverkat på i år?
-2.  Varför deltar ni/varför deltar ni inte 
+2. Varför deltar ni/varför deltar ni inte 
 3. Ska hackathons vara en naturlig del av offentlig sektors arbetsuppgifter och hur vill ni utforma detta? 
 
 
