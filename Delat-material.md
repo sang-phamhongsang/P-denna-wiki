@@ -1,21 +1,11 @@
 Detta är en sammanställning för det material som har delats eller producerats inom nätverket. Syftet med delningen ska vara att förenkla för det offentliga i arbetet med öppna data och öppen källkod. Tanken är att det ska vara enkelt att dela, antingen delas länkar direkt till existerande material på webben eller så laddas material upp på denna wiki.
 
 Generellt delar vi in materialet i tre kategorier
-* *Sammanfattningar från workshops-presentationer* vi håller inom nätverket
-* *Community-resurser* som vi utveckar gemensamt och delar kunskap inom
-* *Externa resurser*, dvs. material som författas och underhålls utanför nätverkets regi
+* **Sammanfattningar från workshops-presentationer** vi håller inom nätverket
+* **Community-resurser** som vi utveckar gemensamt och delar kunskap inom
+* **Externa resurser**, dvs. material som författas och underhålls utanför nätverkets regi
 
-### Guide för att dela
-Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. 
-
-*Den skapade sidan bör innehålla följande metadata:*
-1. En titel
-2. Avsändare (Primärt organisation)
-3. En beskrivning av det som delas
-4. Licens för materialet
-5. Länk till materialet
-
-[Kontakta oss för delning](mailto:maria.dalhage@arbetsformedlingen.se)
+Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. Inkludera gärna titel, avsändare/författare, beskrivning, licens för materialet och länk till det.
 
 ## Delat material - Innehåll och översikt<a name="topp"></a>
 
