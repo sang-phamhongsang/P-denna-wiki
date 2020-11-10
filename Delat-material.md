@@ -1,4 +1,4 @@
-Detta är en sammanställning för det material som har delats eller producerats inom nätverket. Syftet med delningen ska vara att förenkla för det offentliga i arbetet med öppna data och öppen källkod. Tanken är att det ska vara enkelt att dela, antingen delas länkar direkt till existerande material på webben eller så laddas material upp på denna wiki.
+Detta är en sammanställning för det material som har delats eller producerats inom nätverket. Syftet med delningen ska vara att förenkla för det offentliga i arbetet med öppna data och öppen programvara. Tanken är att det ska vara enkelt att dela, antingen delas länkar direkt till existerande material på webben eller så laddas material upp på denna wiki.
 
 Generellt delar vi in materialet i tre kategorier
 * **Sammanfattningar från workshops-presentationer** vi håller inom nätverket
@@ -6,8 +6,6 @@ Generellt delar vi in materialet i tre kategorier
 * **Externa resurser**, dvs. material som författas och underhålls utanför nätverkets regi
 
 Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. Inkludera gärna titel, avsändare/författare, beskrivning, licens för materialet och länk till det.
-
----
 
 ## Delat material - Innehåll och översikt<a name="topp"></a>
 
@@ -23,6 +21,8 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 ---
 
 ### Öppna data
+
+---
 
 #### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a> - [till toppen](#topp)
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
@@ -69,6 +69,8 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Författare/avsändare: Johan Linåker och Per Runeson, Lunds Universitet]
 
 ### Öppen programvara
+
+---
 
 #### Allmänna resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a> - [till toppen](#topp)
 * [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
