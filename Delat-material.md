@@ -18,8 +18,6 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
    * [Allmänna resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
    * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
 
----
-
 ### Öppna data
 
 ---
