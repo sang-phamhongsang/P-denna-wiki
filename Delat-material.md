@@ -17,9 +17,8 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 
 [Kontakta oss för delning](mailto:maria.dalhage@arbetsformedlingen.se)
 
-## Delat material
+## Delat material<a name="topp"></a>
 
-### Innehåll
 * Öppna data
    * [Allmänna resurser och kunskap kring öppna data](#opendata-allmannaresurser)
    * [Licenser och immaterialrätt](#opendata-licenser)
@@ -31,7 +30,7 @@ Kontakta oss med en kort beskrivning av det som ska delas, så lägger vi upp er
 
 ### Öppna data
 
-#### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a>
+#### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a> - [till toppen](#topp)
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
 En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.  
 [Extern resurs | Författare/avsändare: Arbetsförmedlingen]  
@@ -39,14 +38,14 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-kring-utredningen-bakom-nya-Öppna-Data-lagen)  
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 
-#### Licenser och immaterialrätt<a name="opendata-licenser"></a>
+#### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
 [Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]  
 
 * [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
 [Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]  
 
-#### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a>
+#### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a> - [till toppen](#topp)
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
 [Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]  
 
@@ -59,7 +58,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data?  
 [Sammanfattning från workshop 3/11 | Eric Hjelmestam och Peter Mankenskiöld (Nationell Skalning Öppna Data (NSÖD) | Se även: Presentation | Inspelning]  
 
-#### Samverkan kring öppna data<a name="opendata-samverkan"></a>
+#### Samverkan kring öppna data<a name="opendata-samverkan"></a> - [till toppen](#topp)
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
 [Sammanfattning från workshop 15/9 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=613)]  
 
@@ -77,7 +76,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 
 ### Öppen programvara
 
-#### Allmänna resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a>
+#### Allmänna resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a> - [till toppen](#topp)
 * [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
 [Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]  
 
@@ -87,7 +86,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Författare/avsändare: Foundation of Public Code]
 
-#### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a>
+#### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
 [Sammanfattning från workshop 6/10 | Göran Westerlund (Alinsås kommun) | Se även: [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU)]  
 
