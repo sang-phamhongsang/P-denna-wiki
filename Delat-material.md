@@ -75,7 +75,10 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]  
 
 * [FAQ om upphandling och användning av öppen programvara](/FAQ-om-upphandling-och-användning-av-öppen-programvara)  
-[Community-resurs | Baserat på workshop 6/10 och presentation från Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]  
+[Community-resurs | Baserat på workshop 6/10 och presentation från Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
+
+* [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
+[Extern resurs | EU Open Source Observatory]
 
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Författare/avsändare: Foundation of Public Code]
