@@ -172,3 +172,16 @@ Diskussionsfrågor:
 
 [Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
+
+**Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN**
+
+Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
+
+OBS! De som vill delta i arbetsmötet bör ha förberett sig genom att ha läst igenom och bidragit med eventuella kommentarer och förslag i det gemensamma Google-dokument för remissvar som går att nå via http://bit.ly/sou202055. Instruktioner för hur man kan bidra finns i dokumentet. Det finns både möjlighet att vara med och skriva ett helt gemensamt remissvar, och att plocka delar av det som skrivs och skicka in på egen hand! **Skriv gärna in dina eventuella synpunkter i dokumentet senast tisdag 24/11**, så att övriga deltagare har chans att läsa igenom dem innan mötet den 27:e.
+
+_Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige_
+
+[För agenda och bokning](https://civictech.se/workshop-kring-remissvar-till-oppna-data-utredningen/?fbclid=IwAR3t-j0f3w87RziPSxot_be984OFDUIpwk8EY-oUxyas7reAHxZCa1IATr8)
+
+
+
