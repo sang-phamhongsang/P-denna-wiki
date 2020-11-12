@@ -143,6 +143,17 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 ### Kommande
 
+**Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN**
+
+Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
+
+OBS! De som vill delta i arbetsmötet bör ha förberett sig genom att ha läst igenom och bidragit med eventuella kommentarer och förslag i det gemensamma Google-dokument för remissvar som går att nå via http://bit.ly/sou202055. Instruktioner för hur man kan bidra finns i dokumentet. Det finns både möjlighet att vara med och skriva ett helt gemensamt remissvar, och att plocka delar av det som skrivs och skicka in på egen hand! **Skriv gärna in dina eventuella synpunkter i dokumentet senast tisdag 24/11**, så att övriga deltagare har chans att läsa igenom dem innan mötet den 27:e.
+
+_Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige_
+
+[För agenda och bokning](https://civictech.se/workshop-kring-remissvar-till-oppna-data-utredningen/?fbclid=IwAR3t-j0f3w87RziPSxot_be984OFDUIpwk8EY-oUxyas7reAHxZCa1IATr8)
+
+
 
 **Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data**
 
@@ -173,15 +184,36 @@ Diskussionsfrågor:
 [Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
 
-**Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN**
 
-Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
+**Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?** 
 
-OBS! De som vill delta i arbetsmötet bör ha förberett sig genom att ha läst igenom och bidragit med eventuella kommentarer och förslag i det gemensamma Google-dokument för remissvar som går att nå via http://bit.ly/sou202055. Instruktioner för hur man kan bidra finns i dokumentet. Det finns både möjlighet att vara med och skriva ett helt gemensamt remissvar, och att plocka delar av det som skrivs och skicka in på egen hand! **Skriv gärna in dina eventuella synpunkter i dokumentet senast tisdag 24/11**, så att övriga deltagare har chans att läsa igenom dem innan mötet den 27:e.
+Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas med att strategiskt engagera sig i öppen programvara (open source).  På denna workshop presenteras olika policies för öppen källkod. Diskutera med oss kring vad som behöver sättas på pränt för att lyckas med ett öppnare arbetssätt. Ta också del av SCB:s erfarenheter och dela mer er av era egna erfarenheter.
 
-_Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige_
+Agenda: 
+1.	Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -  Maria Dalhage, Arbetsförmedlingen (10 min)
 
-[För agenda och bokning](https://civictech.se/workshop-kring-remissvar-till-oppna-data-utredningen/?fbclid=IwAR3t-j0f3w87RziPSxot_be984OFDUIpwk8EY-oUxyas7reAHxZCa1IATr8)
+2.	Försäkringskassan presenterar sin open source-policy:  Hur den utvecklats, tagits emot och efterlevs samt kopplingar till Kompetenscentrum Öppen källkod - Tomas Lagren, Linda Jakobsson, försäkringskassan (20 min)
+
+3.	Analys DIGGs policy - Björn Lundell, Högskolan i Skövde 20min
+
+4.	Standard for public code - Jan Ainali - Foundation for Public Code (10 min)
+
+5.	SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB (15 min) 
+
+6.	Diskussion (30 min)
+
+7.	Sammanfattning (20 min).
+ 
+ 
+ 
+Diskussionsfrågor:
+1.	Vilka tankar har ni kring ert strategiska engagemang mot öppenhet (använda eller dela med er?) Och varför?
+2.	Vilka delar behövs i en policy för att uppnå era behov? Incitament och möjligheter? 
+3.	Hur kan man skapa efterlevnad?
+
+[Boka plats](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
+
+
 
 
 
