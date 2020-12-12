@@ -141,6 +141,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Foundation of Public Code]
 
+* [Swiss Practical guidelines for open source in the federal government (Tyska)](https://www.isb.admin.ch/dam/isb/de/dokumente/ikt-vorgaben/strategien/oss/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf.download.pdf/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf)  
+[Extern resurs | Swiss Federal Government, Schweiz]
+
 #### Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a> - [till toppen](#topp)
 
 * [Code.gov - Sharing America's Code](https://developers.italia.it/en/software)  
