@@ -15,7 +15,9 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
    * [Publicering och förvaltning av öppna data](#opendata-publicering)
    * [Samverkan kring öppna data](#opendata-sameverkan)
 * Öppen programvara
-   * [Allmänna resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
+   * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
+   * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
+   * [Kataloger över öppen programvara inom offentlig sektor](#opensource-catalogs)
    * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
 
 ### Öppna data
@@ -92,7 +94,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [TODO group's open source guides](https://www.linuxfoundation.org/resources/open-source-guides/)  
 [Extern resurs | TODO-group, Linux Foundation]
 
-#### Policys och vägledningar kring öppen programvara inom offentlig sektor
+#### Policys och vägledningar kring öppen programvara inom offentlig sektor<a name="opensource-policys"></a> - [till toppen](#topp)
 
 * [Australia DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
 [Extern resurs | Digital Transformation Agency, Australia]
@@ -100,8 +102,20 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
 [Extern resurs | Province of British Columbia, Kanada]
 
+* [Canada Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)  
+[Extern resurs | Government of Canada]
+
+* [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
+[Extern resurs | DIGG, Sverige]
+
+* [Developers Italia Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)  
+[Extern resurs | Developers Italia, Digital Transformation Agency, Italien]
+
 * [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
 [Extern resurs | Etalab, Frankrike]
+
+* [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
+[Extern resurs | Försäkringskassan, Sverige]
 
 * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
 [Extern resurs | EU Open Source Observatory]
@@ -118,8 +132,27 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [UK GDS Operations Open Source Guidelines](https://gds-operations.github.io/guidelines/)  
 [Extern resurs | Government Digital Services, UK]
 
+* [UK GDS All About Open Source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/78961/All_About_Open_Source_v2_0.doc)  
+
+* [UK GDS Guidance - Be Open and Use Open Source](https://www.gov.uk/guidance/be-open-and-use-open-source)  
+[Extern resurs | Government Digital Services, UK]
+
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Foundation of Public Code]
+
+#### Kataloger över öppen programvara inom offentlig sektor]<a name="opensource-catalogs"></a> - [till toppen](#topp)
+
+* [Code.gov - Sharing America's Code](https://developers.italia.it/en/software)  
+[Extern resurs | Code.gov, USA]
+
+* [Developers Italia open source catalogue at the Public Administrations disposal](https://developers.italia.it/en/software)  
+[Extern resurs | Developers Italia, Digital Transformation Agency, Italien]
+
+* [France's Open Source Catalog](https://code.etalab.gouv.fr/~/groups)  
+[Extern resurs | Etalab, Frankrike]
+
+* [Government of Canada Open Resource Exchange](https://code.open.canada.ca/en/index.html)  
+[Extern resurs | Government of Canada]
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
