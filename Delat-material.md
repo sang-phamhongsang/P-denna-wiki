@@ -111,6 +111,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Developers Italia Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)  
 [Extern resurs | Developers Italia, Digital Transformation Agency, Italien]
 
+* [European Commission's Open Source Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)  
+[Extern resurs | European Commission]
+
 * [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
 [Extern resurs | Etalab, Frankrike]
 
