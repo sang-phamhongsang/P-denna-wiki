@@ -133,6 +133,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Government Digital Services, UK]
 
 * [UK GDS All About Open Source](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/78961/All_About_Open_Source_v2_0.doc)  
+[Extern resurs | Government Digital Services, UK]
 
 * [UK GDS Guidance - Be Open and Use Open Source](https://www.gov.uk/guidance/be-open-and-use-open-source)  
 [Extern resurs | Government Digital Services, UK]
@@ -140,7 +141,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Foundation of Public Code]
 
-#### Kataloger över öppen programvara inom offentlig sektor]<a name="opensource-catalogs"></a> - [till toppen](#topp)
+#### Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a> - [till toppen](#topp)
 
 * [Code.gov - Sharing America's Code](https://developers.italia.it/en/software)  
 [Extern resurs | Code.gov, USA]
