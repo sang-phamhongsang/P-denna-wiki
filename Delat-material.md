@@ -70,27 +70,56 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 
 ---
 
-#### Allmänna resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a> - [till toppen](#topp)
+#### Generella resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a> - [till toppen](#topp)
 * [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
 [Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]  
 
 * [FAQ om upphandling och användning av öppen programvara](/FAQ-om-upphandling-och-användning-av-öppen-programvara)  
 [Community-resurs | Baserat på workshop 6/10 och presentation från Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
 
-* [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
-[Extern resurs | EU Open Source Observatory]
+* [Core Infrastructure Initiative's Best Practices](https://bestpractices.coreinfrastructure.org/en)  
+[Extern resurs | Core Infrastructure Initiative, Linux Foundation]
 
-* [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
-[Extern resurs | Foundation of Public Code]
+* [GitHub's open source guides](https://opensource.guide/)  
+[Extern resurs | GitHub]
+
+* [Google's Open Source Documentation](https://opensource.google/docs/)  
+[Extern resurs | Google]
+
+* [REUSE Software initiative](https://reuse.software/)  
+[Extern resurs | Free Software Foundation Europe]
+
+* [TODO group's open source guides](https://www.linuxfoundation.org/resources/open-source-guides/)  
+[Extern resurs | TODO-group, Linux Foundation]
+
+#### Policys och vägledningar kring öppen programvara inom offentlig sektor
+
+* [Australia DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
+[Extern resurs | Digital Transformation Agency, Australia]
+
+* [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
+[Extern resurs | Province of British Columbia, Kanada]
 
 * [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
 [Extern resurs | Etalab, Frankrike]
 
-* [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
-[Extern resurs | Province of British Columbia, Canada]
+* [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
+[Extern resurs | EU Open Source Observatory]
+
+* [Open Government Partnership Contribution Policy Template](https://github.com/DISIC/foss-contrib-policy-template)  
+[Extern resurs | Open Government Partnership]
+
+* [USA 18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/CONTRIBUTING.md)  
+[Extern resurs | 18F, USA]
+
+* [USA Federal Source Code Policy](https://www.cio.gov/2016/08/11/peoples-code.html)  
+[Extern resurs | Whitehouse, USA]
 
 * [UK GDS Operations Open Source Guidelines](https://gds-operations.github.io/guidelines/)  
 [Extern resurs | Government Digital Services, UK]
+
+* [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
+[Extern resurs | Foundation of Public Code]
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
