@@ -81,7 +81,16 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | EU Open Source Observatory]
 
 * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
-[Extern resurs | Författare/avsändare: Foundation of Public Code]
+[Extern resurs | Foundation of Public Code]
+
+* [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
+[Extern resurs | Etalab, Frankrike]
+
+* [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
+[Extern resurs | Province of British Columbia, Canada]
+
+* [UK GDS Operations Open Source Guidelines](https://gds-operations.github.io/guidelines/)  
+[Extern resurs | Government Digital Services, UK]
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
