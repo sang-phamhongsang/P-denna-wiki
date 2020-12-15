@@ -141,7 +141,6 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 [Boka](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
 
 
-### Kommande
 
 **Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN**
 
@@ -183,6 +182,7 @@ Diskussionsfrågor:
 
 [Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
+### Kommande
 
 
 **Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?** 
