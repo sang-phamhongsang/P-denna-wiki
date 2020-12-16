@@ -99,7 +99,6 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * Australien
     * [DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
 [Extern resurs | Digital Transformation Agency, Australia]  
-
 * England
     * [UK GDS Operations Open Source Guidelines](https://gds-operations.github.io/guidelines/)  
 [Extern resurs | Government Digital Services, UK]
@@ -107,47 +106,38 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Government Digital Services, UK]
     * [UK GDS Guidance - Be Open and Use Open Source](https://www.gov.uk/guidance/be-open-and-use-open-source)  
 [Extern resurs | Government Digital Services, UK]
-
 * EU
     * [European Commission's Open Source Strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en)  
 [Extern resurs | European Commission]
     * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
 [Extern resurs | EU Open Source Observatory]
-
 * Frankrike
     * [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
 [Extern resurs | Etalab, Frankrike]
-
 * Italien
     * [Developers Italia Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)  
 [Extern resurs | Developers Italia, Digital Transformation Agency, Italien]
-
 * Kanada
     * [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
 [Extern resurs | Province of British Columbia, Kanada]
     * [Canada Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)  
 [Extern resurs | Government of Canada]  
-
 * Schweiz
     * [Swiss Practical guidelines for open source in the federal government (Tyska)](https://www.isb.admin.ch/dam/isb/de/dokumente/ikt-vorgaben/strategien/oss/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf.download.pdf/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf)  
 [Extern resurs | Swiss Federal Government, Schweiz]
-
 * Spanien
     * [Free Software Management Guidelines](https://www.barcelona.cat/digitalstandards/en/free-soft/0.2/introduction)  
 [Extern resurs | City of Barcelona, Spanien]
-
 * Sverige  
     * [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
 [Extern resurs | DIGG, Sverige]
     * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
 [Extern resurs | Försäkringskassan, Sverige]
-
 * USA
     * [USA 18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/CONTRIBUTING.md)  
 [Extern resurs | 18F, USA]
     * [USA Federal Source Code Policy](https://www.cio.gov/2016/08/11/peoples-code.html)  
 [Extern resurs | Whitehouse, USA]
-
 * Övrigt
     * [Open Government Partnership Contribution Policy Template](https://github.com/DISIC/foss-contrib-policy-template)  
 [Extern resurs | Open Government Partnership]
