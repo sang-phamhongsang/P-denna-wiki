@@ -98,17 +98,19 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 
 * Australia
     * [DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
-[Extern resurs | Digital Transformation Agency, Australia]
+[Extern resurs | Digital Transformation Agency, Australia]  
 
 * Canada
     * [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
-[Extern resurs | Province of British Columbia, Kanada]
-
-* [Canada Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)  
+[Extern resurs | Province of British Columbia, Kanada]  
+    * [Canada Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)  
 [Extern resurs | Government of Canada]
 
-* [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
+* Sweden  
+    * [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
 [Extern resurs | DIGG, Sverige]
+    * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
+[Extern resurs | Försäkringskassan, Sverige]
 
 * [Developers Italia Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html)  
 [Extern resurs | Developers Italia, Digital Transformation Agency, Italien]
@@ -119,8 +121,6 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
 [Extern resurs | Etalab, Frankrike]
 
-* [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
-[Extern resurs | Försäkringskassan, Sverige]
 
 * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
 [Extern resurs | EU Open Source Observatory]
