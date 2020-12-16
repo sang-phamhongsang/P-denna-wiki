@@ -96,10 +96,12 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 
 #### Policys och vägledningar kring öppen programvara inom offentlig sektor<a name="opensource-policys"></a> - [till toppen](#topp)
 
-* [Australia DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
+* Australia
+    * [DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
 [Extern resurs | Digital Transformation Agency, Australia]
 
-* [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
+* Canada
+    * [British Columbia Policy Framework for GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)  
 [Extern resurs | Province of British Columbia, Kanada]
 
 * [Canada Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)  
