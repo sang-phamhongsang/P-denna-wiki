@@ -2,7 +2,11 @@ Med denna sida vill vi lista öppna programvaruprojekt som används inom offentl
 
 En utvärdering av motsvarande öppna programvaruprojekt kan även ses som ett sätt utveckla den egna kravhanteringen och som en del i informationsinsamlingsarbetet. Detta kan sedan ligga till grund för uppföljande [RFI:er](https://www.upphandlingsmyndigheten.se/inkopsprocessen/forbered-upphandling/tidig-dialog/request-for-information-rfi-och-extern-remiss?_t_hit.id=Boilerplate_Episerver_Features_EpiserverFind_Models_EpiserverFindDocument/695_sv&_t_q=request%20for%20information) och upphandlingen i sig.
 
-* Biliotekssystem
+### Saknas ett projekt?
+
+Editera direkt, skapa en issue eller maila johan.linaker [a] cs.lth.se. Ange kategori, öppet programvaruprojekt med länk, samt vilken myndighet som använder projektet.
+
+* Bibliotekssystem
     * [Koha](https://koha-community.org/)
         * Används av: [Extern lista](https://koha.se/en/medlemmar/)
         * Se även: [Svenska Koha-nätverket](https://koha.se/en/)
