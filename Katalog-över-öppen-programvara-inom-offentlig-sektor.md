@@ -4,8 +4,8 @@ En utvärdering av motsvarande öppna programvaruprojekt kan även ses som ett s
 
 * Biliotekssystem
     * [Koha](https://koha-community.org/)
-    * Används av: [Extern lista](https://koha.se/en/medlemmar/)
-    * Se även: [Svenska Koha-nätverket](https://koha.se/en/)
+        * Används av: [Extern lista](https://koha.se/en/medlemmar/)
+        * Se även: [Svenska Koha-nätverket](https://koha.se/en/)
 * Customer Relationship Management system
     * [Odoo](https://www.odoo.com/)  
         * Används av: Arbetsförmedlingen
@@ -16,7 +16,7 @@ En utvärdering av motsvarande öppna programvaruprojekt kan även ses som ett s
     * [Access to Memory (AtoM)](https://www.accesstomemory.org/en/)
         * Används av: SGU, Kungliga biblioteket 
     * [Archivematica](https://www.archivematica.org/en/)
-        * Används av: [SGU](https://www.sgu.se/)
+        * Används av: SGU
         * Se även: [AOAIS - Ett nätverk för Archivematica och AtoM i Sverige](https://www.archivematica.org/en/)]
     * [ESSArch](https://www.essarch.org/)
         * Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan
