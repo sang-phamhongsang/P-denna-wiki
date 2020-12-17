@@ -86,6 +86,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * Australien
     * [DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
 [Extern resurs | Digital Transformation Agency, Australia]  
+* Danmark
+    * Handlingsplan for Open Source i Aarhus Kommune (http://gambit.aakb.dk/opensource/Handlingsplan_for_OpenSource_i_Aarhus_Kommune.pdf)
+[Extern resurs | Aarhus Kommune, Danmark]
 * England
     * [UK GDS Operations Open Source Guidelines](https://gds-operations.github.io/guidelines/)  
 [Extern resurs | Government Digital Services, UK]
@@ -98,6 +101,8 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | European Commission]
     * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities)  
 [Extern resurs | EU Open Source Observatory]
+    * [Status of Open Source Software Policies in Europe 2020](https://joinup.ec.europa.eu/sites/default/files/inline-files/OSOR_Status%20of%20OSS%20Policies%20in%20Europe_2020_0.pdf)  
+[Extern resurs | DG DIGIT, European Commission]
 * Frankrike
     * [France Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/introduction.en)  
 [Extern resurs | Etalab, Frankrike]
@@ -109,6 +114,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Province of British Columbia, Kanada]
     * [Canada Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)  
 [Extern resurs | Government of Canada]  
+* Malta
+    * [Open Source Software Policy](https://mita.gov.mt/wp-content/uploads/2020/07/GMICT_P_0097_Open_Source_Software.pdf)  
+[Extern resurs | Malta Information Technology Agency]
 * Schweiz
     * [Swiss Practical guidelines for open source in the federal government (Tyska)](https://www.isb.admin.ch/dam/isb/de/dokumente/ikt-vorgaben/strategien/oss/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf.download.pdf/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf)  
 [Extern resurs | Swiss Federal Government, Schweiz]
@@ -162,6 +170,11 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * Övrigt
     * [Awesome Free Software](https://afs.one/aa45803b67/#/?page=afs_directory&editable=true)  
 [Extern resurs | Fonds de Dotation du Libre]
+
+#### Nationella intresseorganisationer kring Öppen Programvara
+
+* Grekland
+    * [Open Technologies Alliance (GFOSS)](https://gfoss.eu/)
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
