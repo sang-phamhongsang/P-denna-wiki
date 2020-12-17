@@ -120,6 +120,10 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | DIGG, Sverige]
     * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
 [Extern resurs | Försäkringskassan, Sverige]
+    * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)
+[Extern resurs | Kungliga Biblioteket, Sverige]
+    * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)
+[Extern resurs | SKR, Sverige]
 * USA
     * [USA 18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/CONTRIBUTING.md)  
 [Extern resurs | 18F, USA]
@@ -132,10 +136,17 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Foundation of Public Code]
 
 #### Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a> - [till toppen](#topp)
-
+* Belgien
+    * [Software ReUse](https://www.ict-reuse.be/language-selection (Franska/Nederländska))  
+[Extern Resurs | Belgian Public Institutions of Social Security och Smals, Belgien]
+* Danmark
+    * [OS2 Produkter](https://os2.eu/produkter)  
+[Extern resurs | OS2, Danmark]
 * Frankrike
     * [Open Source Catalog](https://code.etalab.gouv.fr/~/groups)  
 [Extern resurs | Etalab, Frankrike]
+    * [Comptoir du Libre](https://comptoir-du-libre.org/en/)  
+[Extern resurs | Adullact, Frankrike]
 * Italien
     * [Developers Italia open source catalog at the Public Administrations disposal](https://developers.italia.it/en/software)  
 [Extern resurs | Developers Italia, Digital Transformation Agency, Italien]
@@ -148,6 +159,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * USA
     * [Code.gov - Sharing America's Code](https://developers.italia.it/en/software)  
 [Extern resurs | Code.gov, USA]
+* Övrigt
+    * [Awesome Free Software](https://afs.one/aa45803b67/#/?page=afs_directory&editable=true)  
+[Extern resurs | Fonds de Dotation du Libre]
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
