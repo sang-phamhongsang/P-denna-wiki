@@ -57,8 +57,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen
     * [RocketChat](https://rocket.chat/)
         * Används av: Kungliga Biblioteket
-* Kontorsverktyg (Skriv, kalkyl och presentationsverktyg)
+* Kontorsverktyg
     * [LibreOffice](https://www.libreoffice.org/)
+        * Beskrivning: Verktygssvit med skriv-, kalkyl- och presentationsfunktionalitet.
 * Sökverktyg
     * [ElasticSearch](https://github.com/elastic/elasticsearch)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
