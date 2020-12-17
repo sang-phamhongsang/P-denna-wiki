@@ -26,11 +26,11 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Koha](https://koha-community.org/)
         * Används av: [Extern lista](https://koha.se/en/medlemmar/)
         * Se även: [Svenska Koha-nätverket](https://koha.se/en/)
-* Innehåll och informationshanteringssystem
-    * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
-        * Används av: Västra Götalandsregionen
+* Content Management Systems (CMS) och Webbramverk
+    * [Django](https://www.djangoproject.com/)
+        * Används av: Kungliga Biblioteket
     * [Drupal](https://www.drupal.org/)
-        * Används av: Alingsås kommun, Vermsamt.se mfl.
+        * Används av: Alingsås kommun, Verksamt.se mfl.
     * [WordPress](https://wordpress.org/)
         * Används av: Helsingborg Stad, Eslöv kommun mfl.
         * Tillgängliga implementationer:
@@ -45,6 +45,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Open ePlatform](http://www.oeplatform.org/)
         * Beskrivning: Plattform som möjliggör för organisationer att konstruera och publicera e-tjänster till sina besökare, samt låta besökarna följa ärenden mot verksamheten via Mina sidor. Bygger i sin tur på [OpenHierarchy](http://openhierarchy.org/).
         * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
+* Information Management Systems
+    * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
+        * Används av: Västra Götalandsregionen
 * Kommunikationsverktyg
     * [Jitsi](https://jitsi.org/)
         * Används av: Arbetsförmedlingen
@@ -52,6 +55,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen
     * [RocketChat](https://rocket.chat/)
         * Används av: Kungliga Biblioteket
+* Sökverktyg
+    * [ElasticSearch](https://github.com/elastic/elasticsearch)
+        * Används av: Arbetsförmedlingen, Kungliga Biblioteket
 * Website analytics
     * [Matomo](https://matomo.org/)
-        * Används av: Arbetsförmedlingen, Kungliga biblioteket
+        * Används av: Arbetsförmedlingen, Kungliga Biblioteket
