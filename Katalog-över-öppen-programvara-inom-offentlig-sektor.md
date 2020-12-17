@@ -62,6 +62,15 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Kontorsverktyg
     * [LibreOffice](https://www.libreoffice.org/)
         * Beskrivning: Verktygssvit med skriv-, kalkyl- och presentationsfunktionalitet.
+* Medborgartjänster
+    * [Decidim](https://decidim.org/)
+        * Beskrivning: Decidim är en medborgarplattform som organisationer kan använda för att stödja alla sina dialogprocesser. Medborgarförslag, folkomröstningar, medborgarbudgetar, planeringsprocesser mm.
+        * Används av: Barcelona, Helsingfors mfl.
+        * Se även: [Demokratiska Städer | Digidem Lab](http://demokratiskastader.se/decidim/)
+    * [FixMyStreet](https://github.com/mysociety/fixmystreet)
+        * Beskrivning: System för att rapportera, visa, eller diskutera lokala problem.
+        * [Svensk variant](https://fixamingata.se/)
+        * [Norsk variant](https://www.fiksgatami.no/)
 * Sökverktyg
     * [ElasticSearch](https://github.com/elastic/elasticsearch)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
