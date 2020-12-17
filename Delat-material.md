@@ -79,6 +79,8 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Google]
 * [REUSE Software initiative](https://reuse.software/)  
 [Extern resurs | Free Software Foundation Europe]
+* [Producing Open Source Software](https://producingoss.com/)  
+[Extern resurs | Gratis E-bok om öppen programvaruutveckling]
 * [TODO group's open source guides](https://www.linuxfoundation.org/resources/open-source-guides/)  
 [Extern resurs | TODO-group, Linux Foundation]
 
@@ -174,12 +176,21 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 
 #### Intresseorganisationer kring Öppen Programvara<a name="opensource-groups"></a> - [till toppen](#topp)
 
+* Europa
+    * [APELL - The European Open Source Software Business Association](https://www.apell.info/)
+    * [Free Software Foundation Europe](https://fsfe.org/)
+    * [Open Forum Europe](https://www.openforumeurope.org/)
 * Finland
-    * [COSS - the Finnish Centre for Open Systems and Solutions ](https://coss.fi/en/)
+    * [COSS - the Finnish Centre for Open Systems and Solutions](https://coss.fi/en/)
+* Frankrike
+    * [CNLL - France’s Free Software and Open Digital Enterprise Union](https://www.cnil.fr/en/home)
 * Grekland
     * [Open Technologies Alliance (GFOSS)](https://gfoss.eu/)
 * Sverige
     * [OpenSourceSweden (OSS)](https://opensourcesweden.org/)
+    * [Foss-north](https://foss-north.se/)
+* Tyskland
+    * [Open Source Business Alliance e.V](https://osb-alliance.de/)
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
