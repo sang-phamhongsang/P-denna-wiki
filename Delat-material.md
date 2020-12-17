@@ -142,6 +142,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * Kanada
     * [Government of Canada Open Resource Exchange](https://code.open.canada.ca/en/index.html)  
 [Extern resurs | Government of Canada]
+* Sverige
+    * [Katalog över öppen programvara inom offentlig sektor](Katalog-över-öppen-programvara-inom-offentlig-sektor)
+[Community resurs]
 * USA
     * [Code.gov - Sharing America's Code](https://developers.italia.it/en/software)  
 [Extern resurs | Code.gov, USA]
