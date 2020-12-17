@@ -39,6 +39,9 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 * [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
 [Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]  
 
+* [Rekommendation om öppna licenser och immaterialrätt](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora/oppna-licenser-och-immaterialratt)  
+[Extern resurs | DIGG]  
+
 #### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a> - [till toppen](#topp)
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
 [Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]  
