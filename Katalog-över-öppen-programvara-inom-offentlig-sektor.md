@@ -19,6 +19,10 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Diskussionsforum
     * [Discourse](https://www.discourse.org/)  
         * Används av: Arbetsförmedlingen
+* E-tjänster
+    * [Open ePlatform](http://www.oeplatform.org/)
+        * Beskrivning: Plattform som möjliggör för organisationer att konstruera och publicera e-tjänster till sina besökare, samt låta besökarna följa ärenden mot verksamheten via Mina sidor. Bygger i sin tur på [OpenHierarchy](http://openhierarchy.org/).
+        * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
 * E-arkiv och katalogverktyg
     * [Access to Memory (AtoM)](https://www.accesstomemory.org/en/)
         * Används av: SGU, Kungliga biblioteket 
