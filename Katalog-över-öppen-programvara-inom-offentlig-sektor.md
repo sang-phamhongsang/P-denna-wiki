@@ -30,7 +30,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Django](https://www.djangoproject.com/)
         * Används av: Kungliga Biblioteket
     * [Drupal](https://www.drupal.org/)
-        * Används av: Alingsås kommun, Verksamt.se mfl.
+        * Används av: Alingsås kommun, Verksamt.se, Göteborgs Universitet mfl.
     * [WordPress](https://wordpress.org/)
         * Används av: Helsingborg Stad, Eslöv kommun mfl.
         * Tillgängliga implementationer:
@@ -38,6 +38,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Customer Relationship Management (CRM) system
     * [Odoo](https://www.odoo.com/)  
         * Används av: Arbetsförmedlingen
+* Data Analytics and Exploration
+    * [MetaBase](https://www.metabase.com/)
 * Diskussionsforum
     * [Discourse](https://www.discourse.org/)  
         * Används av: Arbetsförmedlingen
@@ -66,3 +68,6 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Website analytics
     * [Matomo](https://matomo.org/)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
+* Öppna Data plattformar och portaler
+    * [CKAN](https://ckan.org/)
+    * [DKAN](https://getdkan.org/)
