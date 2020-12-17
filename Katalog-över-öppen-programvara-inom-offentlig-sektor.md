@@ -4,7 +4,7 @@ En utvärdering av motsvarande öppna programvaruprojekt kan även ses som ett s
 
 ### Saknas ett projekt?
 
-Editera direkt, skapa en issue eller maila johan.linaker [a] cs.lth.se. Ange kategori, öppet programvaruprojekt med länk, samt vilken myndighet som använder projektet.
+Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av? Lägg till! Redigera denna sida direkt, skapa en issue eller maila johan.linaker [a] cs.lth.se. Ange kategori, öppet programvaruprojekt med länk, samt vilken myndighet som använder projektet.
 
 * Bibliotekssystem
     * [Koha](https://koha-community.org/)
