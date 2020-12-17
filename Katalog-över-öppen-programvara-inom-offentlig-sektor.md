@@ -6,6 +6,9 @@ En utvärdering av motsvarande öppna programvaruprojekt kan även ses som ett s
     * [Koha](https://koha-community.org/)
         * Används av: [Extern lista](https://koha.se/en/medlemmar/)
         * Se även: [Svenska Koha-nätverket](https://koha.se/en/)
+* Chatverktyg
+    * [Mattermost](https://mattermost.com/community/#tilesSection)
+        * Används av: Arbetsförmedlingen
 * Customer Relationship Management system
     * [Odoo](https://www.odoo.com/)  
         * Används av: Arbetsförmedlingen
@@ -22,3 +25,9 @@ En utvärdering av motsvarande öppna programvaruprojekt kan även ses som ett s
         * Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan
     * [Roda](https://www.roda-community.org/#welcome)
         * Används av: Tullverket
+* Videokonferensverktyg
+    * [Jitsi](https://jitsi.org/)
+        * Används av: Arbetsförmedlingen
+* Website analytics
+    * [Matomo](https://matomo.org/)
+        * Används av: Arbetsförmedlingen
