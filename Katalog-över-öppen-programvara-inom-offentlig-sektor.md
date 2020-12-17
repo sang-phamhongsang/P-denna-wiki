@@ -19,12 +19,16 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Diskussionsforum
     * [Discourse](https://www.discourse.org/)  
         * Används av: Arbetsförmedlingen
-* E-arkiv
+* E-arkiv och katalogverktyg
     * [Access to Memory (AtoM)](https://www.accesstomemory.org/en/)
         * Används av: SGU, Kungliga biblioteket 
     * [Archivematica](https://www.archivematica.org/en/)
         * Används av: SGU
         * Se även: [AOAIS - Ett nätverk för Archivematica och AtoM i Sverige](https://www.archivematica.org/en/)]
+    * [CollectiveAccess](https://collectiveaccess.org/)
+        * Beskrivning: En webbaserad databas och ett katalogiseringverktyg för museer, arkiv och digitala samlingar.
+        * Används av: [Extern lista](https://casverige.wordpress.com/vi-anvander-ca/)
+        * Se även: [Collective Access Sverige](https://casverige.wordpress.com/)
     * [ESSArch](https://www.essarch.org/)
         * Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan
     * [Roda](https://www.roda-community.org/#welcome)
