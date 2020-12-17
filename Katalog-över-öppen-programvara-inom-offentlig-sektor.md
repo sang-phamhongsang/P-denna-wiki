@@ -13,7 +13,11 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Chatverktyg
     * [Mattermost](https://mattermost.com/community/#tilesSection)
         * Används av: Arbetsförmedlingen
-* Customer Relationship Management system
+* Content Management Systems (CMS)
+    * Drupal
+    * WordPress
+        * [Helsingborg Stads Wordpressinstans](https://github.com/helsingborg-stad/Municipio-boilerplate)
+* Customer Relationship Management (CRM) system
     * [Odoo](https://www.odoo.com/)  
         * Används av: Arbetsförmedlingen
 * Diskussionsforum
