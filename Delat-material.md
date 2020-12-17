@@ -27,18 +27,15 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 #### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a> - [till toppen](#topp)
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
 En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.  
-[Extern resurs | Författare/avsändare: Arbetsförmedlingen]  
-
+[Extern resurs | Författare/avsändare: Arbetsförmedlingen]
 * [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-kring-utredningen-bakom-nya-Öppna-Data-lagen)  
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 
 #### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
-[Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]  
-
+[Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]
 * [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
-[Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]  
-
+[Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]
 * [Rekommendation om öppna licenser och immaterialrätt](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora/oppna-licenser-och-immaterialratt)  
 [Extern resurs | DIGG]  
 
