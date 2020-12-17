@@ -18,6 +18,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
    * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
    * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
    * [Kataloger över öppen programvara inom offentlig sektor](#opensource-catalogs)
+   * [Intresseorganisationer kring Öppen Programvara](#opensource-groups)
    * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
 
 ### Öppna data
@@ -171,10 +172,14 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
     * [Awesome Free Software](https://afs.one/aa45803b67/#/?page=afs_directory&editable=true)  
 [Extern resurs | Fonds de Dotation du Libre]
 
-#### Nationella intresseorganisationer kring Öppen Programvara
+#### Intresseorganisationer kring Öppen Programvara<a name="opensource-groups"></a> - [till toppen](#topp)
 
+* Finland
+    * [COSS - the Finnish Centre for Open Systems and Solutions ](https://coss.fi/en/)
 * Grekland
     * [Open Technologies Alliance (GFOSS)](https://gfoss.eu/)
+* Sverige
+    * [OpenSourceSweden (OSS)](https://opensourcesweden.org/)
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
