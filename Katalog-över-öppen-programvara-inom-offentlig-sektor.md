@@ -45,6 +45,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Open ePlatform](http://www.oeplatform.org/)
         * Beskrivning: Plattform som möjliggör för organisationer att konstruera och publicera e-tjänster till sina besökare, samt låta besökarna följa ärenden mot verksamheten via Mina sidor. Bygger i sin tur på [OpenHierarchy](http://openhierarchy.org/).
         * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
+* Filhantering och lagring
+    * [NextCloud](https://github.com/nextcloud)
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
         * Används av: Västra Götalandsregionen
@@ -55,6 +57,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen
     * [RocketChat](https://rocket.chat/)
         * Används av: Kungliga Biblioteket
+* Kontorsverktyg (Skriv, kalkyl och presentationsverktyg)
+    * [LibreOffice](https://www.libreoffice.org/)
 * Sökverktyg
     * [ElasticSearch](https://github.com/elastic/elasticsearch)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
