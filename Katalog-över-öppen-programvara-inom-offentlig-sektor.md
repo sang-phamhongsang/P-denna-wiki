@@ -52,6 +52,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
         * Används av: Västra Götalandsregionen
+* Integrationsplattformar
+    * [MuleSoft](https://www.mulesoft.com/)
+        * Används av: Arbetsförmedlingen
 * Kommunikationsverktyg
     * [Jitsi](https://jitsi.org/)
         * Används av: Arbetsförmedlingen
@@ -65,7 +68,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Medborgartjänster
     * [Decidim](https://decidim.org/)
         * Beskrivning: Decidim är en medborgarplattform som organisationer kan använda för att stödja alla sina dialogprocesser. Medborgarförslag, folkomröstningar, medborgarbudgetar, planeringsprocesser mm.
-        * Används av: Barcelona, Helsingfors mfl.
+        * Används av: Stockholm Stad, Göteborg Stad, Botkyrka kommun, Helsingborg Stad mfl.
         * Se även: [Demokratiska Städer | Digidem Lab](http://demokratiskastader.se/decidim/)
     * [FixMyStreet](https://github.com/mysociety/fixmystreet)
         * Beskrivning: System för att rapportera, visa, eller diskutera lokala problem.
@@ -74,9 +77,15 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Sökverktyg
     * [ElasticSearch](https://github.com/elastic/elasticsearch)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
+* Videohantering
+    * [Open Broadcaster Software (OBS) Studio](https://obsproject.com/)
+        * Beskrivning: Verktyg för streaming och inspelning av video.
+    * [KDEnlive](https://kdenlive.org/en/)
+        * Beskrivning: Vertkyg för redigering av video.
 * Website analytics
     * [Matomo](https://matomo.org/)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
 * Öppna Data plattformar och portaler
     * [CKAN](https://ckan.org/)
+        * Används av: DIGG
     * [DKAN](https://getdkan.org/)
