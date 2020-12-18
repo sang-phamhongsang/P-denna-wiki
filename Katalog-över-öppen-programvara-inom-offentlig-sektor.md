@@ -65,6 +65,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Kontorsverktyg
     * [LibreOffice](https://www.libreoffice.org/)
         * Beskrivning: Verktygssvit med skriv-, kalkyl- och presentationsfunktionalitet.
+* Lösenordshantering
+    * [KeePassXC](https://keepassxc.org/)
+        * Används av: SKR Kommentus
 * Medborgartjänster
     * [Decidim](https://decidim.org/)
         * Beskrivning: Decidim är en medborgarplattform som organisationer kan använda för att stödja alla sina dialogprocesser. Medborgarförslag, folkomröstningar, medborgarbudgetar, planeringsprocesser mm.
