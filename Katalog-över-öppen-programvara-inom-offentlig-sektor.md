@@ -78,7 +78,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * [Svensk variant](https://fixamingata.se/)
         * [Norsk variant](https://www.fiksgatami.no/)
 * Operativsystem
-    * Linux (https://www.kernel.org/, https://www.centos.org/, https://ubuntu.com/, https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+    * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
         * Används av: Arbetsförmedlingen
 * Sökverktyg
     * [ElasticSearch](https://github.com/elastic/elasticsearch)
