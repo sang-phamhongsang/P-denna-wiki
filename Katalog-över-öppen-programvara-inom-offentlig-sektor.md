@@ -77,6 +77,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Beskrivning: System för att rapportera, visa, eller diskutera lokala problem.
         * [Svensk variant](https://fixamingata.se/)
         * [Norsk variant](https://www.fiksgatami.no/)
+* Operativsystem
+    * Linux (https://www.kernel.org/, https://www.centos.org/, https://ubuntu.com/, https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+        * Används av: Arbetsförmedlingen
 * Sökverktyg
     * [ElasticSearch](https://github.com/elastic/elasticsearch)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket
