@@ -128,9 +128,13 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | City of Barcelona, Spanien]
 * Sverige  
     * [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
-[Extern resurs | DIGG, Sverige]
+[Extern resurs | Björn Lundell (Skövde Högskola) | DIGG, Sverige]
+    * [Analys av DIGGs policy för öppen programvara]()
+[Workshop-presentation 12/1 2021 | [Presentation]()]
     * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
 [Extern resurs | Försäkringskassan, Sverige]
+    * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod]()
+[Workshop-presentation 12/1 2011 | Tomas Lagren (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
     * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)
 [Extern resurs | Kungliga Biblioteket, Sverige]
     * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)
@@ -145,6 +149,8 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Open Government Partnership]
     * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Foundation of Public Code]
+    * [Presentation av Standard for Public Code]()
+[Workshop-presentation 12/1 2021 | Jan Aniali (Foundation for Public Code) | [Presentation](https://hackmd.io/@Ainali/ryFCCIgCw#/)]
 
 #### Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a> - [till toppen](#topp)
 * Belgien
