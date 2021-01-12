@@ -190,17 +190,18 @@ Diskussionsfrågor:
 Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas med att strategiskt engagera sig i öppen programvara (open source).  På denna workshop presenteras olika policies för öppen källkod. Diskutera med oss kring vad som behöver sättas på pränt för att lyckas med ett öppnare arbetssätt. Ta också del av SCB:s erfarenheter och dela mer er av era egna erfarenheter.
 
 Agenda: 
-1.	Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -  Maria Dalhage, Arbetsförmedlingen (10 min)
+1.	Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -  Maria Dalhage, Arbetsförmedlingen (10 min) [intro_till_policy_öppen_programvara_12_jan.pdf](uploads/f3bf5dfdecd76e668150129f703a196e/intro_till_policy_öppen_programvara_12_jan.pdf)
 
-2.	Försäkringskassan presenterar sin open source-policy:  Hur den utvecklats, tagits emot och efterlevs samt kopplingar till Kompetenscentrum Öppen källkod - Tomas Lagren, Linda Jakobsson, försäkringskassan (20 min)
+2.	Försäkringskassan presenterar sin open source-policy:  Hur den utvecklats, tagits emot och efterlevs samt kopplingar till Kompetenscentrum Öppen källkod - Tomas Lagren, Linda Jakobsson, försäkringskassan (30 min)  [FK-Riktlinje-Oppen-kallkod.pdf](uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)
 
-3.	Analys DIGGs policy - Björn Lundell, Högskolan i Skövde 20min
+3.	Analys DIGGs policy - Björn Lundell, Högskolan i Skövde (20min)
+[2021-01-12_Lundell_OSS_FINAL.pdf](uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf)
 
-4.	Standard for public code - Jan Ainali - Foundation for Public Code (10 min)
+4.	Standard for public code - Jan Ainali - Foundation for Public Code (10 min) [Presentation](https://hackmd.io/@Ainali/ryFCCIgCw#/)
 
-5.	SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB (15 min) 
+5.	SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB (15 min) [scbs_oss_projekt.pdf](uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf)
 
-6.	Diskussion (30 min)
+6.	Diskussion (30 min) [Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
 
 7.	Sammanfattning (20 min).
  
