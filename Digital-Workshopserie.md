@@ -193,9 +193,16 @@ Agenda:
 1.	Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -  Maria Dalhage, Arbetsförmedlingen (10 min) [intro_till_policy_öppen_programvara_12_jan.pdf](uploads/f3bf5dfdecd76e668150129f703a196e/intro_till_policy_öppen_programvara_12_jan.pdf)
 
 2.	Försäkringskassan presenterar sin open source-policy:  Hur den utvecklats, tagits emot och efterlevs samt kopplingar till Kompetenscentrum Öppen källkod - Tomas Lagren, Linda Jakobsson, försäkringskassan (30 min)  [FK-Riktlinje-Oppen-kallkod.pdf](uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)
+[OSCC-presentationsmaterial_-myndighetsdragning.pptx](uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
 
 3.	Analys DIGGs policy - Björn Lundell, Högskolan i Skövde (20min)
-[2021-01-12_Lundell_OSS_FINAL.pdf](uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf)
+[2021-01-12_Lundell_OSS_FINAL.pdf](uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf). 
+
+Hänvisning till fler källor som relaterar analysen av DIGG:s policy:
+[Hållbar digitalisering 2020](https://www.ssrg.info/hd2020/)
+
+[Den 17 augusti 2021 genomförs konferensen Hållbar digitalisering 2021 ](https://www.ssrg.info/hd2021/)
+
 
 4.	Standard for public code - Jan Ainali - Foundation for Public Code (10 min) [Presentation](https://hackmd.io/@Ainali/ryFCCIgCw#/)
 
