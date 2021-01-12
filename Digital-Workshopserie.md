@@ -12,7 +12,7 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 [Kontakta oss för bidrag.](mailto:maria.dalhage@arbetsformedlingen.se) 
 
-## Höstens Digitala Workshops 
+## Digitala Workshops 
 
 För de workshops som är genomförda kommer presentationerna läggas upp här och eventuell inspelning av workshopen länkas till här.
 
