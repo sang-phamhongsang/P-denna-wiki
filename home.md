@@ -14,7 +14,7 @@ Därför vill vi med detta nätverk bjuda in till kunskapsdelning och samverkan 
 
 **Delta i våra virtuella workshops**
 
-Nätverket träffas regelbundet via virtuella workshops med start 1/9 och 15/9 i höst. Därefter kommer träffarna att hållas första tisdagen i varje månad.
+Nätverket träffas regelbundet via virtuella workshops, första tisdagen varje månad. Första tillfället ägde rum 1/9 2020. 
  
 Workshopserien handlar om hur myndigheter öppet kan samskapa och kunskapsdela kring sina öppna data tillsammans med både offentliga och privata aktörer. Vi pratar även om hur utveckling av relaterad öppen källkod och standarder kan skapa synergieffekter och driva på innovationen baserat på data.
 
