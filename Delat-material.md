@@ -31,6 +31,8 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Extern resurs | Författare/avsändare: Arbetsförmedlingen]
 * [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-kring-utredningen-bakom-nya-Öppna-Data-lagen)  
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
+* [Öppna data - en guide för beslutsfattare](https://internetstiftelsen.se/kunskap/rapporter-och-guider/oppna-data-guide-for-beslutsfattare/)  
+En kort guide med konkreta tips och förslag samt exempel från verkligheten för att ge inspiration som kan omsättas i praktisk handling.
 
 #### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
