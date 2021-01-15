@@ -90,7 +90,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Beskrivning: Vertkyg för redigering av video.
 * Website analytics
     * [Matomo](https://matomo.org/)
-        * Används av: Arbetsförmedlingen, Kungliga Biblioteket
+        * Används av: Arbetsförmedlingen, Kungliga Biblioteket, Skatteverket, TRR, Lärarförbundet, FK
 * Öppna Data plattformar och portaler
     * [CKAN](https://ckan.org/)
         * Används av: DIGG
