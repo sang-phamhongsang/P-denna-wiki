@@ -1,7 +1,7 @@
 Detta är en sammanställning för det material som har delats eller producerats inom nätverket. Syftet med delningen ska vara att förenkla för det offentliga i arbetet med öppna data och öppen programvara. Tanken är att det ska vara enkelt att dela, antingen delas länkar direkt till existerande material på webben eller så laddas material upp på denna wiki.
 
 Generellt delar vi in materialet i tre kategorier
-* **Sammanfattningar från workshops-presentationer** vi håller inom nätverket
+* **Workshops-presentationer** vi håller inom nätverket
 * **Community-resurser** som vi utveckar gemensamt och delar kunskap inom
 * **Externa resurser**, dvs. material som författas och underhålls utanför nätverkets regi
 
@@ -132,10 +132,10 @@ En kort guide med konkreta tips och förslag samt exempel från verkligheten fö
     * [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
 [Extern resurs | Björn Lundell (Skövde Högskola) | DIGG, Sverige]
     * [Analys av DIGGs policy för öppen programvara]()  
-[Workshop-presentation 12/1 2021 | [Presentation]()]
+[Workshop-presentation 12/1 2021 | [Presentation](https://youtu.be/oxCtmQrKAls?t=2150)]
     * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
 [Extern resurs | Försäkringskassan, Sverige]
-    * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod]()  
+    * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=456)  
 [Workshop-presentation 12/1 2011 | Tomas Lagren (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
     * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)
 [Extern resurs | Kungliga Biblioteket, Sverige]
@@ -151,7 +151,7 @@ En kort guide med konkreta tips och förslag samt exempel från verkligheten fö
 [Extern resurs | Open Government Partnership]
     * [Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
 [Extern resurs | Foundation of Public Code]
-    * [Presentation av Standard for Public Code]()  
+    * [Presentation av Standard for Public Code](https://youtu.be/oxCtmQrKAls?t=3266)  
 [Workshop-presentation 12/1 2021 | Jan Aniali (Foundation for Public Code) | [Presentation](https://hackmd.io/@Ainali/ryFCCIgCw#/)]
 
 #### Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a> - [till toppen](#topp)
@@ -201,6 +201,8 @@ En kort guide med konkreta tips och förslag samt exempel från verkligheten fö
     * [Open Source Business Alliance e.V](https://osb-alliance.de/)
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
+* [SCB:s egna applikationer som Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=3866)  
+[Workshop-presentation 12/1 2021 | Petros Likidis (SCB) | [Presentation]()]
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
 [Sammanfattning från workshop 6/10 | Göran Westerlund (Alinsås kommun) | Se även: [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU)]
 * [Utveckling och samarbete kring öppen programvara i Helsingborg Stad](/Utveckling-och-samarbete-kring-öppen-programvara-i-Helsingborg-Stad)  
