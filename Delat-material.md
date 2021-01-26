@@ -135,8 +135,8 @@ En kort guide med konkreta tips och förslag samt exempel från verkligheten fö
 [Workshop-presentation 12/1 2021 | [Presentation](https://youtu.be/oxCtmQrKAls?t=2150)]
     * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
 [Extern resurs | Försäkringskassan, Sverige]
-    * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=456)  
-[Workshop-presentation 12/1 2011 | Tomas Lagren (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
+    * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod och Open Source Competence Center](https://youtu.be/oxCtmQrKAls?t=456)  
+[Workshop-presentation 12/1 2011 | Tomas Lagren och Linda Jacobsson (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
     * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)
 [Extern resurs | Kungliga Biblioteket, Sverige]
     * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)
