@@ -202,7 +202,7 @@ En kort guide med konkreta tips och förslag samt exempel från verkligheten fö
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
 * [SCB:s egna applikationer som Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=3866)  
-[Workshop-presentation 12/1 2021 | Petros Likidis (SCB) | [Presentation]()]
+[Workshop-presentation 12/1 2021 | Petros Likidis (SCB) | [Presentation](uploads/f0fb86bc31bded03beaf7747b9360622/scbs_oss_projekt.pdf)]
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
 [Sammanfattning från workshop 6/10 | Göran Westerlund (Alinsås kommun) | Se även: [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU)]
 * [Utveckling och samarbete kring öppen programvara i Helsingborg Stad](/Utveckling-och-samarbete-kring-öppen-programvara-i-Helsingborg-Stad)  
