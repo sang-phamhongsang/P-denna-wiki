@@ -236,7 +236,7 @@ Vidare diskuterar vi och exemplifierar hur man kan presentera sina data med hjä
  
 10:00- 10:10 Introduktion till dagens workshop och nätverket NOSAD  - Maria Dalhage (NOSAD/Jobtech Development/AF)
  
-10:10-10:30 Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/ byggblock API-Hantering - Fredrik Nylander (DIGG)
+10:10-10:30 Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/ byggblock API-Hantering - Fredrik Nordlander (DIGG)
  
 10:30-10:50 Hur kan man presentera sina API:er med m.h.a. Swagger 
 Ulrika Domellöf Mattsson och Piotr Borowiec  (Naturvårdsverket) 
