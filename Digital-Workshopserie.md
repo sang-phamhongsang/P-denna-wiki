@@ -182,7 +182,7 @@ Diskussionsfrågor:
 
 [Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
-### Kommande
+
 
 
 **Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?** 
@@ -221,6 +221,44 @@ Diskussionsfrågor:
 
 [Boka plats](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
 
+### Kommande
+
+**Tisdag 2 februari kl 10:00-12:00 API-nycklar, Swagger och Notebooks - hur maximerar vi tillgänglighetgörandet av öppna data?**
+
+Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar. Vi kommer att diskutera hur vi tänker kring
+
+- Rätten av att fråga om någons identitet
+- Behovet att veta vilka som är våra användare
+- Villkor och licenser
+Vidare diskuterar vi och exemplifierar hur man kan presentera sina data med hjälp av Swagger och Notebooks.
+
+**Agenda** 
+ 
+10:00- 10:10 Introduktion till dagens workshop och nätverket NOSAD  - Maria Dalhage (NOSAD/Jobtech Development/AF)
+ 
+10:10-10:30 Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/ byggblock API-Hantering - Fredrik Nylander (DIGG)
+ 
+10:30-10:50 Hur kan man presentera sina API:er med m.h.a. Swagger 
+Ulrika Domellöf Mattsson och Piotr Borowiec  (Naturvårdsverket) 
+ 
+10:50-11:10  Hur kan man presentera sina data med hjälp av Jupyter Notebooks? Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet)
+ 
+11:10 -11:40 Diskussion i grupper:  
+Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. Intro Jonas Södergren (NOSAD/Jobtech Development/AF)
+
+Fråga 1: 
+Hur ska man tänka kring nyckelhantering vid öppna API:er utifrån: 
+- Rätten av att fråga om någons identitet
+- 	Behovet att veta vilka som är våra användare
+- 	Villkor och licenser
+	
+Fråga 2: Utifrån olika målgrupper; hur bör öppna data presenteras för att nå en så bra användning som möjligt?
+ 
+11:40- 11:50 Återsamling och redovisning från grupperna 
+ 
+11:50-12:00 Sammanfattning av dagen.
+
+[Boka plats](https://www.goto10.se/event/api-nycklar-och-notebooks-hur-maximerar-vi-tillganglighetgorandet-av-oppna-data/)
 
 
 
