@@ -14,6 +14,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
    * [Licenser och immaterialrätt](#opendata-licenser)
    * [Publicering och förvaltning av öppna data](#opendata-publicering)
    * [Samverkan kring öppna data](#opendata-sameverkan)
+
 * Öppen programvara
    * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
    * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
@@ -33,6 +34,8 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 * [Öppna data - en guide för beslutsfattare](https://internetstiftelsen.se/kunskap/rapporter-och-guider/oppna-data-guide-for-beslutsfattare/)  
 En kort guide med konkreta tips och förslag samt exempel från verkligheten för att ge inspiration som kan omsättas i praktisk handling.
+* [DX inom ramen för Egendata](https://drive.google.com/file/d/1DtoodWKsoQJTtKaJilA1wGfr_Wk01p1v/view)
+Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av Iteam för Egendata och Jobtech Development.
 
 #### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
