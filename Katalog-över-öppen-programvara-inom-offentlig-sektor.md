@@ -40,6 +40,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen
 * Data Analytics and Exploration
     * [MetaBase](https://www.metabase.com/)
+* Databaser
+    * [PostgreSQL relationsdatabas](http://postgresql.org)
+        * Används av: SMHI, Västra götalandsregionen (VGR), Migrationsverket, Jordbruksverket, Domstolsverket, Karolinska Institutet, Riksantikvarieämbetet, Sundsvalls kommun
 * Diskussionsforum
     * [Discourse](https://www.discourse.org/)  
         * Används av: Arbetsförmedlingen
@@ -51,10 +54,14 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [NextCloud](https://github.com/nextcloud)
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
-        * Används av: Västra Götalandsregionen
-* Integrationsplattformar
-    * [MuleSoft](https://www.mulesoft.com/)
-        * Används av: Arbetsförmedlingen
+        * Används av: Västra Götalandsregionen, Havs- och Vattenmyndigheten, Svenska Kraftnät, Alingsås kommun, Maxlab/Lunds Universitet, Jönköpings kommun
+* Integrationsplattformar för API:er
+    * [MuleSoft Anypoint Platform](https://www.mulesoft.com/)
+        * Används av: Västra götalandsregionen (VGR), Region Jönköping, Region Uppsala, Region Stockholm, Karlstads Universitet, Skatteverket, Arbetsförmedlingen
+    * [Red Hat Fuse](https://www.redhat.com/en/products/integration)
+        * Används av: Pensionsmyndigheten, Försäkringskassan, Luftfartsverket, Tullverket
+    * [WSO2 API Manager](https://wso2.com/api-management/)
+        * Används av: Västtrafik, Lantmäteriet, Havs- och Vattenmyndigheten, CSN, Bolagsverket, Försäkringskassan, Sundsvalls kommun
 * Kommunikationsverktyg
     * [Jitsi](https://jitsi.org/)
         * Används av: Arbetsförmedlingen
@@ -91,6 +98,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Website analytics
     * [Matomo](https://matomo.org/)
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket, Skatteverket, TRR, Lärarförbundet, FK
+* Webbcashe
+    * [Varnish Cache](https://github.com/varnishcache/varnish-cache)
+        * Används av: Arbetsförmedlingen
 * Öppna Data plattformar och portaler
     * [CKAN](https://ckan.org/)
         * Används av: DIGG
