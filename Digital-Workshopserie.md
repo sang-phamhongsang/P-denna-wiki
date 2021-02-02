@@ -254,7 +254,7 @@ Hur ska man tänka kring nyckelhantering vid öppna API:er utifrån:
 	
 Fråga 2: Utifrån olika målgrupper; hur bör öppna data presenteras för att nå en så bra användning som möjligt?
  
-11:40- 11:50 Återsamling och redovisning från grupperna 
+11:40- 11:50 Återsamling och redovisning från grupperna. [Länk till sammanfattning](https://docs.google.com/document/d/1K9-QRRlT_cMYsE0dFc_ZrEv3drURupI3vH6fb3ckjoY/edit?ts=6017df32#heading=h.4d8paovmypfy) 
  
 11:50-12:00 Sammanfattning av dagen.
 
