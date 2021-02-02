@@ -35,6 +35,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Helsingborg Stad, Eslöv kommun mfl.
         * Tillgängliga implementationer:
             * [Helsingborg Stads Wordpressinstans](https://github.com/helsingborg-stad/Municipio-boilerplate)
+* Continuous Integration/Delivery | Byggverktyg
+    * [Puppet](https://puppetlabs.com)
+        * Används av: Skolverket, Skatteverket, Arbetsförmedlingen, Pensionsmyndigheten
 * Customer Relationship Management (CRM) system
     * [Odoo](https://www.odoo.com/)  
         * Används av: Arbetsförmedlingen
