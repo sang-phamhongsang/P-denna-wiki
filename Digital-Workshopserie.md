@@ -241,7 +241,8 @@ Vidare diskuterar vi och exemplifierar hur man kan presentera sina data med hjä
 10:30-10:50 Hur kan man presentera sina API:er med m.h.a. Swagger 
 Ulrika Domellöf Mattsson [presentation](uploads/3e85d58bf2ea7d4751c74162544d6ffb/NOSAD_Naturvårdsverket.pptx) och Piotr Borowiec  (Naturvårdsverket) [Presentation](uploads/8d89b853417b7accf2cd52370924f7fb/GreenTechDev_NOSAD_BACKUP.pptx)
  
-10:50-11:10  Hur kan man presentera sina data med hjälp av Jupyter Notebooks? Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet)
+10:50-11:10  Hur kan man presentera sina data med hjälp av Jupyter Notebooks? Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet) [Länk till projektet som visades upp](https://github.com/kevindeeboman/masters_project/blob/main/masters_project.ipynb
+)
  
 11:10 -11:40 Diskussion i grupper:  
 Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. Intro Jonas Södergren (NOSAD/Jobtech Development/AF)
