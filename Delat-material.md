@@ -27,6 +27,8 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 ---
 
 #### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a> - [till toppen](#topp)
+* [Öppna data och data som delas]
+DIGGs stöd kring tillgängliggörandet av information i form av öppna data och data som delas, t.ex. nationella principer och vägledningar. (https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data)
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
 En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.  
 [Extern resurs | Författare/avsändare: Arbetsförmedlingen]
@@ -42,10 +44,14 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]
 * [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
 [Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]
-* [Rekommendation om öppna licenser och immaterialrätt](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora/oppna-licenser-och-immaterialratt)  
+* [Nationell rekommendation om öppna licenser och immaterialrätt](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)  
 [Extern resurs | DIGG]  
 
 #### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a> - [till toppen](#topp)
+* Nationell vägledning för att tillgängliggöra information som öppna data och data som delas
+[DIGG] (https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)
+* Vägledning för strategiska beslut och åtgärder kring öppna data
+[DIGG] (https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
 [Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]
 * Framtidens informationshantering  
