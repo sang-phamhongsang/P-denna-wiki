@@ -223,7 +223,7 @@ Diskussionsfrågor:
 
 ### Kommande
 
-**Tisdag 2 februari kl 10:00-12:00 API-nycklar, Swagger och Notebooks - hur maximerar vi tillgänglighetgörandet av öppna data?**
+**Tisdag 2 februari kl 10:00-12:00 API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?**
 
 Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar. Vi kommer att diskutera hur vi tänker kring
 
