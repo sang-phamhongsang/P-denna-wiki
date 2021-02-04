@@ -49,6 +49,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Diskussionsforum
     * [Discourse](https://www.discourse.org/)  
         * Används av: Arbetsförmedlingen
+    * [NodeBB](https://nodebb.org/)
+        * Används av: DIGG
+
 * E-tjänster
     * [Open ePlatform](http://www.oeplatform.org/)
         * Beskrivning: Plattform som möjliggör för organisationer att konstruera och publicera e-tjänster till sina besökare, samt låta besökarna följa ärenden mot verksamheten via Mina sidor. Bygger i sin tur på [OpenHierarchy](http://openhierarchy.org/).
@@ -90,9 +93,6 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Operativsystem
     * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
         * Används av: Arbetsförmedlingen
-* Sökverktyg
-    * [ElasticSearch](https://github.com/elastic/elasticsearch)
-        * Används av: Arbetsförmedlingen, Kungliga Biblioteket
 * Videohantering
     * [Open Broadcaster Software (OBS) Studio](https://obsproject.com/)
         * Beskrivning: Verktyg för streaming och inspelning av video.
@@ -100,11 +100,12 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Beskrivning: Vertkyg för redigering av video.
 * Website analytics
     * [Matomo](https://matomo.org/)
-        * Används av: Arbetsförmedlingen, Kungliga Biblioteket, Skatteverket, TRR, Lärarförbundet, FK
+        * Används av: Arbetsförmedlingen, Kungliga Biblioteket, Skatteverket, TRR, Lärarförbundet, FK, DIGG
 * Webbcashe
     * [Varnish Cache](https://github.com/varnishcache/varnish-cache)
         * Används av: Arbetsförmedlingen
 * Öppna Data plattformar och portaler
     * [CKAN](https://ckan.org/)
-        * Används av: DIGG
     * [DKAN](https://getdkan.org/)
+    * [Entryscape](https://entryscape.com/en/)
+        * Används av: DIGG
