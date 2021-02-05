@@ -104,8 +104,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Webbcashe
     * [Varnish Cache](https://github.com/varnishcache/varnish-cache)
         * Används av: Arbetsförmedlingen
-* Öppna Data plattformar och portaler
+* Öppna Data plattformar och portaler  
     * [CKAN](https://ckan.org/)
     * [DKAN](https://getdkan.org/)
     * [Entryscape](https://entryscape.com/sv/)
-        * Används av: DIGG, SCB, Skatteverket, Västra Götalandsregionen, Naturvårdsverket, Uppsala, Region Blekinge
+        * Används av: DIGG
