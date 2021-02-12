@@ -43,6 +43,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen
 * Data Analytics and Exploration
     * [MetaBase](https://www.metabase.com/)
+    * [Grafana](https://github.com/grafana/grafana)
+        * Används av: SMHI
 * Databaser
     * [PostgreSQL relationsdatabas](http://postgresql.org)
         * Används av: SMHI, Västra götalandsregionen (VGR), Migrationsverket, Jordbruksverket, Domstolsverket, Karolinska Institutet, Riksantikvarieämbetet, Sundsvalls kommun
@@ -63,6 +65,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
         * Används av: Västra Götalandsregionen, Havs- och Vattenmyndigheten, Svenska Kraftnät, Alingsås kommun, Maxlab/Lunds Universitet, Jönköpings kommun, SMHI
+    * [wikimedia](https://www.mediawiki.org/wiki/MediaWiki)
+        * Används av: SMHI
 * Integrationsplattformar för API:er
     * [MuleSoft Anypoint Platform](https://www.mulesoft.com/)
         * Används av: Västra götalandsregionen (VGR), Region Jönköping, Region Uppsala, Region Stockholm, Karlstads Universitet, Skatteverket, Arbetsförmedlingen
@@ -112,3 +116,11 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [DKAN](https://getdkan.org/)
     * [Entryscape](https://entryscape.com/sv/)
         * Används av: DIGG, SCB, Skatteverket, Västra Götalandsregionen, Naturvårdsverket, Uppsala, Region Blekinge
+* Versionshantering av kod och/eller ärendehantering
+    * [Gitlab](https://gitlab.com/gitlab-org/gitlab)
+        * Används av: SMHI
+* GIS relaterade system
+    * [QGIS](https://www.qgis.org/en/site/)
+        * Används av: SMHI
+    * [Open Street maps](https://wiki.openstreetmap.org/wiki/API)
+        * Används av: SMHI
