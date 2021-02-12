@@ -37,7 +37,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
             * [Helsingborg Stads Wordpressinstans](https://github.com/helsingborg-stad/Municipio-boilerplate)
 * Continuous Integration/Delivery | Byggverktyg
     * [Puppet](https://puppetlabs.com)
-        * Används av: Skolverket, Skatteverket, Arbetsförmedlingen, Pensionsmyndigheten
+        * Används av: Skolverket, Skatteverket, Arbetsförmedlingen, Pensionsmyndigheten, SMHI
 * Customer Relationship Management (CRM) system
     * [Odoo](https://www.odoo.com/)  
         * Används av: Arbetsförmedlingen
@@ -58,9 +58,11 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
 * Filhantering och lagring
     * [NextCloud](https://github.com/nextcloud)
+        * Används av : SMHI
+
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
-        * Används av: Västra Götalandsregionen, Havs- och Vattenmyndigheten, Svenska Kraftnät, Alingsås kommun, Maxlab/Lunds Universitet, Jönköpings kommun
+        * Används av: Västra Götalandsregionen, Havs- och Vattenmyndigheten, Svenska Kraftnät, Alingsås kommun, Maxlab/Lunds Universitet, Jönköpings kommun, SMHI
 * Integrationsplattformar för API:er
     * [MuleSoft Anypoint Platform](https://www.mulesoft.com/)
         * Används av: Västra götalandsregionen (VGR), Region Jönköping, Region Uppsala, Region Stockholm, Karlstads Universitet, Skatteverket, Arbetsförmedlingen
@@ -72,12 +74,13 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Jitsi](https://jitsi.org/)
         * Används av: Arbetsförmedlingen
     * [Mattermost](https://mattermost.com/community/#tilesSection)
-        * Används av: Arbetsförmedlingen
+        * Används av: Arbetsförmedlingen, SMHI
     * [RocketChat](https://rocket.chat/)
         * Används av: Kungliga Biblioteket
 * Kontorsverktyg
     * [LibreOffice](https://www.libreoffice.org/)
         * Beskrivning: Verktygssvit med skriv-, kalkyl- och presentationsfunktionalitet.
+            * Används av : SMHI
 * Lösenordshantering
     * [KeePassXC](https://keepassxc.org/)
         * Används av: SKR Kommentus
@@ -92,7 +95,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * [Norsk variant](https://www.fiksgatami.no/)
 * Operativsystem
     * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-        * Används av: Arbetsförmedlingen
+        * Används av: Arbetsförmedlingen, SMHI
 * Videohantering
     * [Open Broadcaster Software (OBS) Studio](https://obsproject.com/)
         * Beskrivning: Verktyg för streaming och inspelning av video.
@@ -103,7 +106,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen, Kungliga Biblioteket, Skatteverket, TRR, Lärarförbundet, FK, DIGG
 * Webbcashe
     * [Varnish Cache](https://github.com/varnishcache/varnish-cache)
-        * Används av: Arbetsförmedlingen
+        * Används av: Arbetsförmedlingen, SMHI
 * Öppna Data plattformar och portaler
     * [CKAN](https://ckan.org/)
     * [DKAN](https://getdkan.org/)
