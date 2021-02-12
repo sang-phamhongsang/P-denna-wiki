@@ -108,4 +108,4 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [CKAN](https://ckan.org/)
     * [DKAN](https://getdkan.org/)
     * [Entryscape](https://entryscape.com/sv/)
-        * Används av: DIGG
+        * Används av: DIGG, SCB, Skatteverket, Västra Götalandsregionen, Naturvårdsverket, Uppsala, Region Blekinge
