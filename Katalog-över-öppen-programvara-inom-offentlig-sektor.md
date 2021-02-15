@@ -53,15 +53,22 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Arbetsförmedlingen
     * [NodeBB](https://nodebb.org/)
         * Används av: DIGG
-
 * E-tjänster
     * [Open ePlatform](http://www.oeplatform.org/)
         * Beskrivning: Plattform som möjliggör för organisationer att konstruera och publicera e-tjänster till sina besökare, samt låta besökarna följa ärenden mot verksamheten via Mina sidor. Bygger i sin tur på [OpenHierarchy](http://openhierarchy.org/).
         * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
 * Filhantering och lagring
     * [NextCloud](https://github.com/nextcloud)
-        * Används av : SMHI
-
+        * Används av: SMHI
+* GIS relaterade system
+    * [QGIS](https://www.qgis.org/en/site/)
+        * Används av: SMHI
+    * [Open Street maps](https://wiki.openstreetmap.org/wiki/API)
+        * Används av: SMHI
+* Identity and Access Management (IAM)
+    * [EJBCA](https://www.ejbca.org/)
+        * Beskrivning: Programvara för utgivning och hantering av digitala certifikat
+        * Används av: RPS, Arbetsförmedlingen
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
         * Används av: Västra Götalandsregionen, Havs- och Vattenmyndigheten, Svenska Kraftnät, Alingsås kommun, Maxlab/Lunds Universitet, Jönköpings kommun, SMHI
@@ -100,6 +107,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Operativsystem
     * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
         * Används av: Arbetsförmedlingen, SMHI
+* Versionshantering av kod och/eller ärendehantering
+    * [Gitlab](https://gitlab.com/gitlab-org/gitlab)
+        * Används av: SMHI
 * Videohantering
     * [Open Broadcaster Software (OBS) Studio](https://obsproject.com/)
         * Beskrivning: Verktyg för streaming och inspelning av video.
@@ -116,11 +126,3 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [DKAN](https://getdkan.org/)
     * [Entryscape](https://entryscape.com/sv/)
         * Används av: DIGG, SCB, Skatteverket, Västra Götalandsregionen, Naturvårdsverket, Uppsala, Region Blekinge
-* Versionshantering av kod och/eller ärendehantering
-    * [Gitlab](https://gitlab.com/gitlab-org/gitlab)
-        * Används av: SMHI
-* GIS relaterade system
-    * [QGIS](https://www.qgis.org/en/site/)
-        * Används av: SMHI
-    * [Open Street maps](https://wiki.openstreetmap.org/wiki/API)
-        * Används av: SMHI
