@@ -96,6 +96,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [KeePassXC](https://keepassxc.org/)
         * Används av: SKR Kommentus
 * Medborgartjänster
+    * [Anmäl hinder](https://github.com/GoteborgsStad/anmalhinder-android)
+        * Beskrivning: Applikation för att rapportera tillgänglighetshinder.
+        * Används av: Göteborgs Stad
     * [Decidim](https://decidim.org/)
         * Beskrivning: Decidim är en medborgarplattform som organisationer kan använda för att stödja alla sina dialogprocesser. Medborgarförslag, folkomröstningar, medborgarbudgetar, planeringsprocesser mm.
         * Används av: Stockholm Stad, Göteborg Stad, Botkyrka kommun, Helsingborg Stad mfl.
@@ -107,6 +110,10 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Operativsystem
     * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
         * Används av: Arbetsförmedlingen, SMHI
+* Socialtjänst
+    * [Sambuh](https://github.com/GoteborgsStad/boendeprocessAPP)
+        * Beskrivning: App för hantering av individuella behandlingsplaner för unga vuxna inom HVB-verksamhet.
+        * Används av: [Göteborgs Stad](https://vartgoteborg.se/ovrigt/ny-app-hjalper-unga-pa-stodboende/) 
 * Versionshantering av kod och/eller ärendehantering
     * [Gitlab](https://gitlab.com/gitlab-org/gitlab)
         * Används av: SMHI
