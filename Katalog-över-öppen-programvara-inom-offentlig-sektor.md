@@ -65,7 +65,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
     * [Open Street maps](https://wiki.openstreetmap.org/wiki/API)
         * Används av: SMHI
-    * [PostgreSQL - PostGIS] (https://postgis.net/)
+    * [PostgreSQL - PostGIS](https://postgis.net/)
         * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
 * Identity and Access Management (IAM)
     * [EJBCA](https://www.ejbca.org/)
