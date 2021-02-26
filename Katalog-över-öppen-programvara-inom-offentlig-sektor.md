@@ -60,11 +60,13 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Filhantering och lagring
     * [NextCloud](https://github.com/nextcloud)
         * Används av: SMHI
-* GIS relaterade system
+* Geodata. System för lagring, hantering och analys
     * [QGIS](https://www.qgis.org/en/site/)
-        * Används av: SMHI
+        * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
     * [Open Street maps](https://wiki.openstreetmap.org/wiki/API)
         * Används av: SMHI
+    * [PostgreSQL/PostGIS] (https://postgis.net/)
+        * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
 * Identity and Access Management (IAM)
     * [EJBCA](https://www.ejbca.org/)
         * Beskrivning: Programvara för utgivning och hantering av digitala certifikat
