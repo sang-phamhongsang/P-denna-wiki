@@ -60,19 +60,28 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Filhantering och lagring
     * [NextCloud](https://github.com/nextcloud)
         * Används av: SMHI
-* Geodata. System för lagring, hantering och analys
+* Geodata. System för lagring, hantering, analys och visualisering
     * [QGIS](https://www.qgis.org/en/site/)
-        * Generellt geodata(GIS)-verktyg som kan analysera, bearbeta och visualisera geodata från alla förekommande källor-
-        * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
+        * Generellt geodata(GIS)-verktyg som kan analysera, bearbeta och visualisera geodata från alla förekommande källor.
+        * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk.
     * [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API)
         * Beskrivning: OpenStreetMap (OSM) är ett öppet samarbetsprojekt för att skapa en fritt redigerbar världskarta. 
         * Används av: SMHI och många många fler.
     * [PostgreSQL - PostGIS](https://postgis.net/)
         * Beskrivning: PostGIS är ett databastillägg för att lagra och arbeta med geodata i PostgreSQL.
-        * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
+        * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk.
+    * [Geoserver](http://geoserver.org/)
+        * Beskrivning: En server med öppen källkod för att dela ut geodata, både som kartbilder och vektordata.
+        * Används av: Ett flertal kommuner som hanterar geodata i öppna system som t ex QGIS.
     * [Geonetwork](https://geonetwork-opensource.org/)
-        * Beskrivning: Geonetwork är en öppen katalogapplikation för att katalogisera metadata för geodata.
-        * Används av: Geonetwork är plattfrom för Länstyrelsernas geodatakaloger. 
+        * Beskrivning: En öppen katalogapplikation för att katalogisera geodata.
+        * Används av: Plattform för Länsstyrelsernas geodatakaloger och Geodataportalen.
+    * [HAJK](https://github.com/hajkmap/Hajk)
+        * Beskrivning: En öppen webbgis-lösning, byggd på OpenLayers.
+        * Används av: Ett antal kommuner i Västsverige, t ex [Halmstad](https://karta.halmstad.se/)
+    * [ORIGO](https://github.com/origo-map/origo)
+        * Beskrivning: En öppen webbgis-lösning, byggd på OpenLayers.
+        * Används av: Ett antal kommuner i Mälardalen, t ex [Enköping](https://karta.enkoping.se/)
 * Identity and Access Management (IAM)
     * [EJBCA](https://www.ejbca.org/)
         * Beskrivning: Programvara för utgivning och hantering av digitala certifikat
