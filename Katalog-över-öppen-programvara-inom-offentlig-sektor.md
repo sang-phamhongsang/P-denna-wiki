@@ -62,11 +62,17 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: SMHI
 * Geodata. System för lagring, hantering och analys
     * [QGIS](https://www.qgis.org/en/site/)
+        * Generellt geodata(GIS)-verktyg som kan analysera, bearbeta och visualisera geodata från alla förekommande källor-
         * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
-    * [Open Street maps](https://wiki.openstreetmap.org/wiki/API)
-        * Används av: SMHI
+    * [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API)
+        * Beskrivning: OpenStreetMap (OSM) är ett öppet samarbetsprojekt för att skapa en fritt redigerbar världskarta. 
+        * Används av: SMHI och många många fler.
     * [PostgreSQL - PostGIS](https://postgis.net/)
+        * Beskrivning: PostGIS är ett databastillägg för att lagra och arbeta med geodata i PostgreSQL.
         * Används av: SMHI, länsstyrelser, regioner, kommuner och statliga verk
+    * [Geonetwork](https://geonetwork-opensource.org/)
+        * Beskrivning: Geonetwork är en öppen katalogapplikation för att katalogisera metadata för geodata.
+        * Används av: Geonetwork är plattfrom för Länstyrelsernas geodatakaloger. 
 * Identity and Access Management (IAM)
     * [EJBCA](https://www.ejbca.org/)
         * Beskrivning: Programvara för utgivning och hantering av digitala certifikat
