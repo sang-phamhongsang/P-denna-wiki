@@ -27,7 +27,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 ---
 
 #### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a> - [till toppen](#topp)
-* [Att tillgängliggöra information i form av öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data)
+* [Att tillgängliggöra information i form av öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data)  
 DIGGs stöd kring öppna data, t.ex. nationella principer och vägledningar.
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
 En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.  
@@ -36,7 +36,7 @@ En jämförelse mellan myndigheters arbete kring öppna data och öppen programv
 [Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 * [Öppna data - en guide för beslutsfattare](https://internetstiftelsen.se/kunskap/rapporter-och-guider/oppna-data-guide-for-beslutsfattare/)  
 En kort guide med konkreta tips och förslag samt exempel från verkligheten för att ge inspiration som kan omsättas i praktisk handling.
-* [DX inom ramen för Egendata](https://drive.google.com/file/d/1DtoodWKsoQJTtKaJilA1wGfr_Wk01p1v/view)
+* [DX inom ramen för Egendata](https://drive.google.com/file/d/1DtoodWKsoQJTtKaJilA1wGfr_Wk01p1v/view)  
 Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av Iteam för Egendata och Jobtech Development.
 
 #### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
