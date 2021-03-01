@@ -48,10 +48,10 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern resurs | DIGG]  
 
 #### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a> - [till toppen](#topp)
-* Nationell vägledning för att tillgängliggöra information som öppna data och data som delas
-[DIGG] (https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)
-* Vägledning för strategiska beslut och åtgärder kring öppna data
-[DIGG] (https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)
+* [Nationell vägledning för att tillgängliggöra information som öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)  
+[Extern resurs | Författare: DIGG]
+* [Vägledning för strategiska beslut och åtgärder kring öppna data](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)  
+[Extern resurs | Författare: DIGG]
 * Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
 [Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]
 * Framtidens informationshantering  
