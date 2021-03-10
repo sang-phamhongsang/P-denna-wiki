@@ -59,18 +59,26 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern resurs | DIGG]  
 
 #### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a> - [till toppen](#topp)
-* [Nationell vägledning för att tillgängliggöra information som öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)  
-[Extern resurs | Författare: DIGG]
-* [Vägledning för strategiska beslut och åtgärder kring öppna data](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)  
-[Extern resurs | Författare: DIGG]
-* [Central tillgång men lokal förvaltning: Sveriges dataportal och metadata](https://youtu.be/3_i9MOVFpEc?t=303)  
-[Workshop-presentation 3/11 2020 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)]
-* [Framtidens informationshantering](https://youtu.be/3_i9MOVFpEc?t=1787)  
+* API-hantering
+    * [Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/byggblock API-hantering]()  
+[Workshop-presentation 2/2 2021 | Fredrik Nordlander (DIGG)]
+    * [Hur kan man presentera sina API:er med hjälp av OpenAPI/Swagger]()
+[Workshop-presentation 2/2 2021 | Ulrika Domellöf Matsson och Piotr Borowiec (Naturvårdsverket)]
+* Förvaltning
+    * [Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data?](https://youtu.be/3_i9MOVFpEc?t=3873)  
+[Workshop-presentation 3/11 2020 | Eric Hjelmestam och Peter Mankenskiöld (Nationell Skalning Öppna Data (NSÖD)]]
+* Inspiration
+    * [Framtidens informationshantering](https://youtu.be/3_i9MOVFpEc?t=1787)  
 [Workshop-presentation 3/11 2020 | Caspar Almalander (SKR) | Se även: [Presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip)]
-* [Web 3.0 - När Internet når sin fulla potential](https://youtu.be/3_i9MOVFpEc?t=3163)  
-[Workshop-presentation 3/11 2020 | Daniel Dersén (Internetstiftelsen)]
-* Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data?  
-[Sammanfattning från workshop 3/11 | Eric Hjelmestam och Peter Mankenskiöld (Nationell Skalning Öppna Data (NSÖD) | Se även: Presentation | Inspelning]  
+    * [Web 3.0 - När Internet når sin fulla potential](https://youtu.be/3_i9MOVFpEc?t=3163)  
+[Workshop-presentation 3/11 2020 | Daniel Dersén (Internetstiftelsen)]  
+* Publicering
+    * [Nationell vägledning för att tillgängliggöra information som öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)  
+[Extern resurs | Författare: DIGG]
+    * [Vägledning för strategiska beslut och åtgärder kring öppna data](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)  
+[Extern resurs | Författare: DIGG]
+    * [Central tillgång men lokal förvaltning: Sveriges dataportal och metadata](https://youtu.be/3_i9MOVFpEc?t=303)  
+[Workshop-presentation 3/11 2020 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)]
 
 #### Samverkan kring öppna data<a name="opendata-samverkan"></a> - [till toppen](#topp)
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
