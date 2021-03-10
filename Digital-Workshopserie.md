@@ -221,7 +221,6 @@ Diskussionsfrågor:
 
 [Boka plats](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
 
-### Kommande
 
 **Tisdag 2 februari kl 10:00-12:00 API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?**
 
@@ -262,5 +261,21 @@ Fråga 2: Utifrån olika målgrupper; hur bör öppna data presenteras för att 
 [Boka plats](https://www.goto10.se/event/api-nycklar-och-notebooks-hur-maximerar-vi-tillganglighetgorandet-av-oppna-data/)
 
 
+
+**Tisdag 2 mars kl 10:00-12:00Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?**
+
+I denna workshop gör vi en utblick i omvärlden och får höra lärdomar och tips från andra länder i hur de har hanterat motsvarande frågor. Bl.a. hur Italien och Frankrike arbetar centraliserat på myndighetsnivå med att hjälpa, utbilda och guida myndigheter kring frågor som upphandling, kultur och utveckling av öppen programvara. Vi får även höra från den danska kommunföreningen OS2 och hur de samverkar sinsemellan och med leverantörer kring utveckling av öppen programvara.
+
+
+Presentatörer:
+Leonardo Favario, Open Source Project Leader, Department for Digital Transformation (motsv. DIGG) i Italien
+
+Bastien Guerry, Free Software Officer, Etalab (motsv. DIGG) i Frankrike
+
+Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
+
+[Videoinspelning](https://youtu.be/UvtX4e_qRWY )
+
+### Kommande
 
 
