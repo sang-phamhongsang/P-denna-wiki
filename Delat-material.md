@@ -60,9 +60,9 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Publicering och förvaltning av öppna data<a name="opendata-publicering"></a> - [till toppen](#topp)
 * API-hantering
-    * [Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/byggblock API-hantering]()  
+    * [Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/byggblock API-hantering](https://youtu.be/sfWWPpTysjk?t=361)  
 [Workshop-presentation 2/2 2021 | Fredrik Nordlander (DIGG)]
-    * [Hur kan man presentera sina API:er med hjälp av OpenAPI/Swagger]()
+    * [Hur kan man presentera sina API:er med hjälp av OpenAPI/Swagger](https://youtu.be/sfWWPpTysjk?t=1686)  
 [Workshop-presentation 2/2 2021 | Ulrika Domellöf Matsson och Piotr Borowiec (Naturvårdsverket)]
 * Förvaltning
     * [Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data?](https://youtu.be/3_i9MOVFpEc?t=3873)  
@@ -79,6 +79,8 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern resurs | Författare: DIGG]
     * [Central tillgång men lokal förvaltning: Sveriges dataportal och metadata](https://youtu.be/3_i9MOVFpEc?t=303)  
 [Workshop-presentation 3/11 2020 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)]
+    * [Hur kan man presentera sin data med hjälp av Jupyter Notebooks?](https://youtu.be/sfWWPpTysjk?t=3056)  
+[Workshop-presentation 2/2 2020 | Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet)]
 
 #### Samverkan kring öppna data<a name="opendata-samverkan"></a> - [till toppen](#topp)
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
