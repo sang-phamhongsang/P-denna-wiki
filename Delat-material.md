@@ -210,6 +210,12 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
     * [Open Source Business Alliance e.V](https://osb-alliance.de/)
 
 #### Inspiration och exempel kring användning och utveckling av öppen programvara<a name="opensource-inspiration"></a> - [till toppen](#topp)
+* [Främjande av öppen programvara nationellt i Frankrike](https://youtu.be/UvtX4e_qRWY?t=311)  
+[Workshop-presentation 2/3 2021 | Bastien Guerry (Etalab, Frankrike)]
+* [Främjande av öppen programvara nationellt i Italien](https://youtu.be/UvtX4e_qRWY?t=2006)  
+[Workshop-presentation 2/3 2021 | Leonardo Favario (Department of Digital Transformation, Italien) | [Presentation](uploads/6790d22d5c2927cd4ce3583e8872c98a/FOSS_Workshop_Developers_Italia_marzo_2021_1__1_.pdf)]
+* [Kommunal samverkan kring öppen programvara i Danmark](https://youtu.be/UvtX4e_qRWY?t=4027)  
+[Workshop-presentation 2/3 2021 | Rasmus Frey (OS2, Danmark) | [Presentation](uploads/aa6ec8a34d5e10478f56a35c0345c29c/02-03-2021_-_OS2_presentation_NORAS_-_PDF_1_-compressed.pdf)]
 * [SCB:s egna applikationer som Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=3866)  
 [Workshop-presentation 12/1 2021 | Petros Likidis (SCB) | [Presentation](uploads/f0fb86bc31bded03beaf7747b9360622/scbs_oss_projekt.pdf)]
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
