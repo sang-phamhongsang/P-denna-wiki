@@ -10,18 +10,17 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 ## Innehåll och översikt<a name="topp"></a>
 
 * Öppna data
-   * [Allmänna resurser och kunskap kring öppna data](#opendata-allmannaresurser)
-   * [Hackathons och innovationstävlingar](#opendata-hackathons)
-   * [Licenser och immaterialrätt](#opendata-licenser)
-   * [Publicering och förvaltning av öppna data](#opendata-publicering)
-   * [Samverkan kring öppna data](#opendata-sameverkan)
-
+    * [Allmänna resurser och kunskap kring öppna data](#opendata-allmannaresurser)
+    * [Hackathons och innovationstävlingar](#opendata-hackathons)
+    * [Licenser och immaterialrätt](#opendata-licenser)
+    * [Publicering och förvaltning av öppna data](#opendata-publicering)
+    * [Samverkan kring öppna data](#opendata-sameverkan)
 * Öppen programvara
-   * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
-   * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
-   * [Kataloger över öppen programvara inom offentlig sektor](#opensource-catalogs)
-   * [Intresseorganisationer kring Öppen Programvara](#opensource-groups)
-   * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
+    * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
+    * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
+    * [Kataloger över öppen programvara inom offentlig sektor](#opensource-catalogs)
+    * [Intresseorganisationer kring Öppen Programvara](#opensource-groups)
+    * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
 
 ### Öppna data
 
