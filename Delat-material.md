@@ -33,7 +33,7 @@ DIGGs stöd kring öppna data, t.ex. nationella principer och vägledningar.
 En jämförelse mellan myndigheters arbete kring öppna data och öppen programvara.  
 [Extern resurs | Författare/avsändare: Arbetsförmedlingen]
 * [Utfrågning krig utredningen bakom nya Öppna Data-lagen](/Utfrågning-kring-utredningen-bakom-nya-Öppna-Data-lagen)  
-[Sammanfattning från workshop 13/10 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
+[Sammanfattning från workshop 13/10 2020 | Se även [Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc)]
 * [Öppna data - en guide för beslutsfattare](https://internetstiftelsen.se/kunskap/rapporter-och-guider/oppna-data-guide-for-beslutsfattare/)  
 En kort guide med konkreta tips och förslag samt exempel från verkligheten för att ge inspiration som kan omsättas i praktisk handling.
 * [DX inom ramen för Egendata](https://drive.google.com/file/d/1DtoodWKsoQJTtKaJilA1wGfr_Wk01p1v/view)  
@@ -51,9 +51,9 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
-[Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]
+[Sammanfattning från workshop 1/9 2020 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]
 * [Utfrågning och genomgång av Rekommendationer för öppna licenser]()  
-[Sammanfattning från workshop 1/9 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]
+[Sammanfattning från workshop 1/9 2020 | Catharina Ekdahl (PRV) | Se även: [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx) | [Inspelning]()]
 * [Nationell rekommendation om öppna licenser och immaterialrätt](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)  
 [Extern resurs | DIGG]  
 
@@ -83,13 +83,13 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Samverkan kring öppna data<a name="opendata-samverkan"></a> - [till toppen](#topp)
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
-[Sammanfattning från workshop 15/9 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=613)]
+[Sammanfattning från workshop 15/9 2020 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=613)]
 * [Forskningsperspektiv på samverkan kring myndighetsdriva ekosystem för öppna data](https://youtu.be/-agLPUX5i9Q?t=1544)  
 [Workshop-presentation 15/9 2020 | Johan Linåker (Lunds universitet) | Se även: [Presentation](uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf)]
 * [JobTech Dev - Arbetsförmedlingens ekosystem för öppna data kopplat till svenska arbetsmarknaden](/JobTech-Dev-Arbetsförmedlingens-ekosystem-för-öppna-data-kopplat-till-svenska-arbetsmarknaden)  
-[Sammanfattning från workshop 15/9 | Jonas Södergren (Arbetsförmedlingen) | Se även: [Presentation](uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=2684)]
+[Sammanfattning från workshop 15/9 2020 | Jonas Södergren (Arbetsförmedlingen) | Se även: [Presentation](uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=2684)]
 * [Trafiklab - Samtrafikens ekosystem för öppna data kopplat till svenska kollektivtrafiken](/Trafiklab---Samtrafikens-ekosystem-för-öppna-data-kopplat-till-svenska-kollektivtrafiken)  
-[Sammanfattning från workshop 15/9 | Jerry Löfvenhaft (Samtrafiken) | Se även: [Presentation](uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsnätverk_Trafiklab_1.0.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=3655)]
+[Sammanfattning från workshop 15/9 2020 | Jerry Löfvenhaft (Samtrafiken) | Se även: [Presentation](uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsnätverk_Trafiklab_1.0.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=3655)]
 * [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)  
 [Extern resurs | Författare/avsändare: Johan Linåker och Per Runeson, Lunds Universitet]
 
@@ -99,9 +99,9 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Generella resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a> - [till toppen](#topp)
 * [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
-[Sammanfattning från workshop 6/10 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]
+[Sammanfattning från workshop 6/10 2020 | Per Runeson (Lunds universitet) | Se även: [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=669)]
 * [FAQ om upphandling och användning av öppen programvara](/FAQ-om-upphandling-och-användning-av-öppen-programvara)  
-[Community-resurs | Baserat på workshop 6/10 och presentation från Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
+[Community-resurs | Baserat på workshop 6/10 2020 och presentation från Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
 * [Core Infrastructure Initiative's Best Practices](https://bestpractices.coreinfrastructure.org/en)  
 [Extern resurs | Core Infrastructure Initiative, Linux Foundation]
 * [GitHub's open source guides](https://opensource.guide/)  
@@ -165,7 +165,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
     * [Försäkringskassans Riktlinjer för Öppen Källkod](https://github.com/Forsakringskassan/riktlinje-oppenkallkod)  
 [Extern resurs | Försäkringskassan, Sverige]
     * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod och Open Source Competence Center](https://youtu.be/oxCtmQrKAls?t=456)  
-[Workshop-presentation 12/1 2011 | Tomas Lagren och Linda Jacobsson (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
+[Workshop-presentation 12/1 2021 | Tomas Lagren och Linda Jacobsson (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
     * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)
 [Extern resurs | Kungliga Biblioteket, Sverige]
     * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)
@@ -243,6 +243,6 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
     * [SCB:s egna applikationer som Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=3866)  
 [Workshop-presentation 12/1 2021 | Petros Likidis (SCB) | [Presentation](uploads/f0fb86bc31bded03beaf7747b9360622/scbs_oss_projekt.pdf)]
     * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
-[Sammanfattning från workshop 6/10 | Göran Westerlund (Alinsås kommun) | Se även: [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU)]
+[Sammanfattning från workshop 6/10 2020 | Göran Westerlund (Alinsås kommun) | Se även: [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU)]
     * [Utveckling och samarbete kring öppen programvara i Helsingborg Stad](/Utveckling-och-samarbete-kring-öppen-programvara-i-Helsingborg-Stad)  
-[Sammanfattning från workshop 6/10 | Dimitrij Aleshkov (Helsingborgs Stad) | Se även: [Presentation](uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_öppen_programvara.pptx.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=4131)]
+[Sammanfattning från workshop 6/10 2020 | Dimitrij Aleshkov (Helsingborgs Stad) | Se även: [Presentation](uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_öppen_programvara.pptx.pdf) | [Inspelning](https://youtu.be/jxxiqFyZhDU?t=4131)]
