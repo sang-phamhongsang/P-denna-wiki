@@ -84,8 +84,8 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 #### Samverkan kring öppna data<a name="opendata-samverkan"></a> - [till toppen](#topp)
 * [DIGGs syn på Digitala ekosystem](/DIGGs-syn-på-Digitala-ekosystem)  
 [Sammanfattning från workshop 15/9 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=613)]
-* Forskningsperspektiv på samverkan kring myndighetsdriva ekosystem för öppna data  
-[Sammanfattning från workshop 15/9 | Johan Linåker (Lunds universitet) | Se även: [Presentation](uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=1544)]
+* [Forskningsperspektiv på samverkan kring myndighetsdriva ekosystem för öppna data](https://youtu.be/-agLPUX5i9Q?t=1544)  
+[Workshop-presentation 15/9 2020 | Johan Linåker (Lunds universitet) | Se även: [Presentation](uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf)]
 * [JobTech Dev - Arbetsförmedlingens ekosystem för öppna data kopplat till svenska arbetsmarknaden](/JobTech-Dev-Arbetsförmedlingens-ekosystem-för-öppna-data-kopplat-till-svenska-arbetsmarknaden)  
 [Sammanfattning från workshop 15/9 | Jonas Södergren (Arbetsförmedlingen) | Se även: [Presentation](uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=2684)]
 * [Trafiklab - Samtrafikens ekosystem för öppna data kopplat till svenska kollektivtrafiken](/Trafiklab---Samtrafikens-ekosystem-för-öppna-data-kopplat-till-svenska-kollektivtrafiken)  
