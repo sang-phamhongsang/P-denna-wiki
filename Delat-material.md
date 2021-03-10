@@ -11,6 +11,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 
 * Öppna data
    * [Allmänna resurser och kunskap kring öppna data](#opendata-allmannaresurser)
+   * [Hackathons och innovationstävlingar](#opendata-hackathons)
    * [Licenser och immaterialrätt](#opendata-licenser)
    * [Publicering och förvaltning av öppna data](#opendata-publicering)
    * [Samverkan kring öppna data](#opendata-sameverkan)
@@ -39,6 +40,16 @@ En kort guide med konkreta tips och förslag samt exempel från verkligheten fö
 * [DX inom ramen för Egendata](https://drive.google.com/file/d/1DtoodWKsoQJTtKaJilA1wGfr_Wk01p1v/view)  
 Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av Iteam för Egendata och Jobtech Development.
 
+#### Hackathons och Innovationstävlingar<a name="opendata-hackathons"></a> - [till toppen](#topp)
+* [Erfarenheter av att anordna digitala hackaton för offentlig förvaltning](https://youtu.be/J1r2mts2vQs?t=377)  
+[Workshop-presentation 1/12 2020 | Therese Bolja (DIGG)]
+* [ChallengesGov.se - Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation](https://youtu.be/J1r2mts2vQs?t=947)  
+[Workshop-presentation 1/12 2020 | Angela Young (SMHI/Tillväxverket)]
+* [Hackathons för att addressera humanitära och sociala utmaningar](https://youtu.be/J1r2mts2vQs?t=1908)  
+[Workshop-presentation 1/12 2020 | Lukas Leander (openhack - Coding for Humanity)]
+* [Paneldebatt: Reflektioner från olika Hackathons](https://youtu.be/J1r2mts2vQs?t=295)  
+[Workshop-panel 1/12 2020 | Therese Bolja (DIGG), Angela Young (SMHI/Tillväxverket), Lukas Leander (openhack - Coding for Humanity), Susanne Fuglesang (Innovation Pioneers)]
+
 #### Licenser och immaterialrätt<a name="opendata-licenser"></a> - [till toppen](#topp)
 * [Allmänt om immaterialrätt samt PRVs myndighetssamverkan]()  
 [Sammanfattning från workshop 1/9 | Charlott Galant (PRV) | Se även: [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) | [Inspelning]()]
@@ -52,12 +63,12 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern resurs | Författare: DIGG]
 * [Vägledning för strategiska beslut och åtgärder kring öppna data](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)  
 [Extern resurs | Författare: DIGG]
-* Central tillgång men lokal förvaltning: Sveriges dataportal och metadata  
-[Sammanfattning från workshop 3/11 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf) | Inspelning]
-* Framtidens informationshantering  
-[Sammanfattning från workshop 3/11 | Caspar Almalander (SKR) | Se även: [Presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip) | Inspelning]
-* Web 3.0 - När Internet når sin fulla potential  
-[Sammanfattning från workshop 3/11 | Daniel Dersén (Internetstiftelsen) | Se även: Presentation | Inspelning]
+* [Central tillgång men lokal förvaltning: Sveriges dataportal och metadata](https://youtu.be/3_i9MOVFpEc?t=303)  
+[Workshop-presentation 3/11 2020 | Kristine Ulander (DIGG) | Se även: [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)]
+* [Framtidens informationshantering](https://youtu.be/3_i9MOVFpEc?t=1787)  
+[Workshop-presentation 3/11 2020 | Caspar Almalander (SKR) | Se även: [Presentation](uploads/d878899c49118a96d1b2e74270fbbdfb/151346.zip)]
+* [Web 3.0 - När Internet når sin fulla potential](https://youtu.be/3_i9MOVFpEc?t=3163)  
+[Workshop-presentation 3/11 2020 | Daniel Dersén (Internetstiftelsen)]
 * Hur ökar man tillgängligheten och automatiserar leveransen av sin öppna data?  
 [Sammanfattning från workshop 3/11 | Eric Hjelmestam och Peter Mankenskiöld (Nationell Skalning Öppna Data (NSÖD) | Se även: Presentation | Inspelning]  
 
@@ -216,6 +227,8 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Workshop-presentation 2/3 2021 | Leonardo Favario (Department of Digital Transformation, Italien) | [Presentation](uploads/6790d22d5c2927cd4ce3583e8872c98a/FOSS_Workshop_Developers_Italia_marzo_2021_1__1_.pdf)]
 * [Kommunal samverkan kring öppen programvara i Danmark](https://youtu.be/UvtX4e_qRWY?t=4027)  
 [Workshop-presentation 2/3 2021 | Rasmus Frey (OS2, Danmark) | [Presentation](uploads/aa6ec8a34d5e10478f56a35c0345c29c/02-03-2021_-_OS2_presentation_NORAS_-_PDF_1_-compressed.pdf)]
+* [Panel: Hur kan vi främja öppen programvara i offenlig sektor?]()  
+[Workshop-panel 2/3 2021 | Bastien Guerry (Etalab, Frankrike), Leonardo Favario (Department of Digital Transformation, Italien), Rasmus Frey (OS2, Danmark)]
 * [SCB:s egna applikationer som Öppen Källkod](https://youtu.be/oxCtmQrKAls?t=3866)  
 [Workshop-presentation 12/1 2021 | Petros Likidis (SCB) | [Presentation](uploads/f0fb86bc31bded03beaf7747b9360622/scbs_oss_projekt.pdf)]
 * [Varför Alingsås kommun valde att bygga en egen Skolportal](/Varför-Alingsås-kommun-valde-att-bygga-en-egen-Skolportal)  
