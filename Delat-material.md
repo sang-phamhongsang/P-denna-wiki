@@ -121,7 +121,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
     * [DTA Digital Service Criteria for making software open](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria/8-make-source-code-open)  
 [Extern resurs | Digital Transformation Agency, Australia]  
 * Danmark
-    * Handlingsplan for Open Source i Aarhus Kommune (http://gambit.aakb.dk/opensource/Handlingsplan_for_OpenSource_i_Aarhus_Kommune.pdf)
+    * [Handlingsplan for Open Source i Aarhus Kommune](http://gambit.aakb.dk/opensource/Handlingsplan_for_OpenSource_i_Aarhus_Kommune.pdf)  
 [Extern resurs | Aarhus Kommune, Danmark]
 * England
     * [UK GDS Operations Open Source Guidelines](https://gds-operations.github.io/guidelines/)  
