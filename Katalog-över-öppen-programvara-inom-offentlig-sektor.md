@@ -124,6 +124,10 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Beskrivning: System för att rapportera, visa, eller diskutera lokala problem.
         * [Svensk variant](https://fixamingata.se/)
         * [Norsk variant](https://www.fiksgatami.no/)
+
+   * [Smartakartan](https://github.com/GoteborgsStad/smartakartan3.0)
+        * Beskrivning: Upptäck initiativ som gör det lätt att hyra, dela, byta, låna, ge och få!
+        * Används av: Göteborgsstad
 * Operativsystem
     * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
         * Används av: Arbetsförmedlingen, SMHI
