@@ -89,7 +89,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Information Management Systems
     * [Alfresco](https://www.alfresco.com/ecm-software/alfresco-community-editions)
         * Används av: Västra Götalandsregionen, Havs- och Vattenmyndigheten, Svenska Kraftnät, Alingsås kommun, Maxlab/Lunds Universitet, Jönköpings kommun, SMHI
-    * [wikimedia](https://www.mediawiki.org/wiki/MediaWiki)
+    * [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
         * Används av: SMHI
 * Integrationsplattformar för API:er
     * [MuleSoft Anypoint Platform](https://www.mulesoft.com/)
