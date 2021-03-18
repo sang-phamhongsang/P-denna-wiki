@@ -16,7 +16,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: [Extern lista](https://casverige.wordpress.com/vi-anvander-ca/)
         * Se även: [Collective Access Sverige](https://casverige.wordpress.com/)
     * [ESSArch](https://www.essarch.org/)
-        * Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan
+        * Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan, Luftfartsverket, Sjöfartsverket
     * [NetarchiveSuite](https://sbforge.org/display/NAS/NetarchiveSuite)
         * Beskrivning: Verktyg för insamling och arkivering av hemsidor.
         * Används av: Kungliga Biblioteket
