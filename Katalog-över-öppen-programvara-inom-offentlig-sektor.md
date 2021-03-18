@@ -59,7 +59,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
 * Filhantering och lagring
     * [NextCloud](https://github.com/nextcloud)
-        * Används av: SMHI
+        * Används av: SMHI, Sjöfartsverket och Försäkringskassan 
 * Geodata. System för lagring, hantering, analys och visualisering
     * [QGIS](https://www.qgis.org/en/site/)
         * Generellt geodata(GIS)-verktyg som kan analysera, bearbeta och visualisera geodata från alla förekommande källor.
