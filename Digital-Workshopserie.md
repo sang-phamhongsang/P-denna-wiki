@@ -279,4 +279,21 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 ### Kommande
 **Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata** 
 
-[Länkad_data_nämns_som_den_högsta_nivån_av_mognad_i_5-Star_Open_Data-modellen_av_Tim_Berners_Lee.](uploads/d4d33cd03480f8292850e6a28c6030cc/Länkad_data_nämns_som_den_högsta_nivån_av_mognad_i_5-Star_Open_Data-modellen_av_Tim_Berners_Lee.)
+Länkad data nämns som den högsta nivån av mognad i 5-Star Open Data-modellen av Tim Berners Lee.
+Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en myndighet gå till väga? I denna workshop får vi en översikt kombinerat med praktiska exempel hur myndigheter jobbat med Wikidata.
+ 
+**Agenda**
+10:00-10:10 Introduktion Till NOSAD och dagens workshop -  Maria Dalhage (Jobtech Development)
+
+10:10- 10:40 Introduktion till länkad data samt hur man kan jobba med wikidata  - Axel Pettersson (Wikimedia)
+
+10:40-10:55  "Kustvattenförekomster på Wikidata - inte så torrt som det låter"  - Josefina Algotsson (SMHI)
+
+10:55-11:10 ´"Vilse i Litteraturkartan - Wikidata hjälper dig att hitta rätt"  Johan Roxendal (Litteraturbanken/Göteborgs universitet)  
+
+11:15- 11:45 Diskussion i grupper: Vilken potential ser ni i er verksamhet idag kopplad till länkad data? Vilka är utmaningarna?
+
+11:45- 11:55 Återsamling och gruppredovisning
+
+11:55 -12:00 Sammanfattning av dagen
+
