@@ -283,6 +283,7 @@ Länkad data nämns som den högsta nivån av mognad i 5-Star Open Data-modellen
 Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en myndighet gå till väga? I denna workshop får vi en översikt kombinerat med praktiska exempel hur myndigheter jobbat med Wikidata.
  
 **Agenda**
+
 10:00-10:10 Introduktion Till NOSAD och dagens workshop -  Maria Dalhage (Jobtech Development)
 
 10:10- 10:40 Introduktion till länkad data samt hur man kan jobba med wikidata  - Axel Pettersson (Wikimedia)
@@ -297,3 +298,5 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 
 11:55 -12:00 Sammanfattning av dagen
 
+
+[Boka plats](https://www.goto10.se/event/lankad-data-vad-innebar-det-rent-praktiskt/)
