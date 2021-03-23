@@ -277,5 +277,6 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 [Videoinspelning](https://youtu.be/UvtX4e_qRWY )
 
 ### Kommande
+**Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata** 
 
-
+[Länkad_data_nämns_som_den_högsta_nivån_av_mognad_i_5-Star_Open_Data-modellen_av_Tim_Berners_Lee.](uploads/d4d33cd03480f8292850e6a28c6030cc/Länkad_data_nämns_som_den_högsta_nivån_av_mognad_i_5-Star_Open_Data-modellen_av_Tim_Berners_Lee.)
