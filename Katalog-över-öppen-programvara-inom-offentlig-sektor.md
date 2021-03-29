@@ -99,6 +99,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [WSO2 API Manager](https://wso2.com/api-management/)
         * Används av: Västtrafik, Lantmäteriet, Havs- och Vattenmyndigheten, CSN, Bolagsverket, Försäkringskassan, Sundsvalls kommun
 * Kommunikationsverktyg
+    * [BigBlueButton](https://bigbluebutton.org/)
+        * Används av: Software Systems Research Group, Högskolan i Skövde
     * [Jitsi](https://jitsi.org/)
         * Används av: Arbetsförmedlingen
     * [Mattermost](https://mattermost.com/community/#tilesSection)
