@@ -1,4 +1,3 @@
-
 **Om formatet**
 
 Varje digital workshop är på två timmar. Och kommer att hållas som ett interaktivt webinarie. Hur många workshops det blir beror på intresse och hur många som vill bidra.
@@ -284,11 +283,11 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
  
 **Agenda**
 
-10:00-10:10 Introduktion Till NOSAD och dagens workshop -  Maria Dalhage (Jobtech Development)
+10:00-10:10 Introduktion Till NOSAD och dagens workshop -  Maria Dalhage (Jobtech Development)[Intro NOSAD_6_mars.pdf](uploads/a323079ec024f2af6f1560e3bf5da751/NOSAD_6_mars.pdf)
 
-10:10- 10:40 Introduktion till länkad data samt hur man kan jobba med wikidata  - Axel Pettersson (Wikimedia)
+10:10- 10:40 Introduktion till länkad data samt hur man kan jobba med wikidata  - Axel Pettersson (Wikimedia) [Presentation](https://commons.wikimedia.org/wiki/File:2021-04-06_NOSAD_Wikidata.pdf.)
 
-10:40-10:55  "Kustvattenförekomster på Wikidata - inte så torrt som det låter"  - Josefina Algotsson (SMHI)
+10:40-10:55  "Kustvattenförekomster på Wikidata - inte så torrt som det låter"  - Josefina Algotsson (SMHI) [Presentation](https://commons.wikimedia.org/w/index.php?title=File%3AKustvattenf%C3%B6rekomster_p%C3%A5_Wikidata_-_Inte_s%C3%A5_torrt_som_det_l%C3%A5ter_NOSAD_2021-04-06.pdf&page=1 )
 
 10:55-11:10 ´"Vilse i Litteraturkartan - Wikidata hjälper dig att hitta rätt"  Johan Roxendal (Litteraturbanken/Göteborgs universitet)  
 
