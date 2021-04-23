@@ -318,3 +318,5 @@ Professor Björn Lundell, Högskolan i Skövde presenterar resultatet från sin 
 Björn Hagström går igenom de krav på öppenhet som tagits fram av bl.a. 
 ÖDIS (Ökad användning av öppna data i Stockholmsregionen) och NSÖD 
 (Nationell Skalning Öppna Data).
+
+[Boka plats](https://www.goto10.se/event/oppna-standarder/)
