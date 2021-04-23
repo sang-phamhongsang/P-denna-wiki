@@ -275,7 +275,7 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 
 [Videoinspelning](https://youtu.be/UvtX4e_qRWY )
 
-### Kommande
+
 **Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata** 
 
 Länkad data nämns som den högsta nivån av mognad i 5-Star Open Data-modellen av Tim Berners Lee.
@@ -299,3 +299,22 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 
 
 [Boka plats](https://www.goto10.se/event/lankad-data-vad-innebar-det-rent-praktiskt/)
+
+### Kommande
+**Tisdag 4 maj kl 10:00-12:00 Öppna standarder** 
+
+*Enligt Kammarkollegiets ramavtal får myndigheter enbart ställa obligatoriska krav på en viss standard om den uppfyller definieras av öppen standard enligt SOU 2009:86 och EIF 1.0.
+
+ 
+Men vad räknas som en öppen standard och hur bra är myndigheter på denna typ av kravställning. Kan öppna standarder vara huvudnyckeln för att undvika långvariga inlåsningseffekter?*
+ 
+Presentatörer
+ 
+Arman Borghem som berättar om Kammarkollegiets vägledning för Öppna 
+standarder
+ 
+Professor Björn Lundell, Högskolan i Skövde presenterar resultatet från sin forskning som visar hur dagens IT-upphandlingar leder till begränsad konkurrens men också till inlåsningar. Björn kommer också att presentera 5 rekommendationer till myndigheter för hur man kan undvika dessa inlåsningseffekter.
+ 
+Björn Hagström går igenom de krav på öppenhet som tagits fram av bl.a. 
+ÖDIS (Ökad användning av öppna data i Stockholmsregionen) och NSÖD 
+(Nationell Skalning Öppna Data)
