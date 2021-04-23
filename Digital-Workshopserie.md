@@ -303,7 +303,7 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 ### Kommande
 **Tisdag 4 maj kl 10:00-12:00 Öppna standarder** 
 
-_Enligt Kammarkollegiets ramavtal får myndigheter enbart ställa obligatoriska krav på en viss standard om den uppfyller definieras av öppen standard enligt SOU 2009:86 och EIF 1.0._
+_Vid avrop från Kammarkollegiets ramavtal för programvaror och tjänster är det endast tillåtet att ställa obligatoriska krav på en viss standard om den uppfyller definitionen av öppen standard enligt SOU 2009:86 och EIF 1.0._
 
  
 _Men vad räknas som en öppen standard och hur bra är myndigheter på denna typ av kravställning. Kan öppna standarder vara huvudnyckeln för att undvika långvariga inlåsningseffekter?_
