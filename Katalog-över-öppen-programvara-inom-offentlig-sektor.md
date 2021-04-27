@@ -57,6 +57,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Open ePlatform](http://www.oeplatform.org/)
         * Beskrivning: Plattform som möjliggör för organisationer att konstruera och publicera e-tjänster till sina besökare, samt låta besökarna följa ärenden mot verksamheten via Mina sidor. Bygger i sin tur på [OpenHierarchy](http://openhierarchy.org/).
         * Används av: [Extern lista](http://www.oeplatform.org/omplattformen)
+    * [BasicUse](https://github.com/umea-kommun/BasicUse)
+        * Beskrivning: E-tjänsteplattform utvecklad av Umeå kommun som bl.a. används av medborgare för att från sin telefon eller dator initiera ärenden hos Umeå kommun.
+        * Används av: Umeå kommun
 * Filhantering och lagring
     * [NextCloud](https://github.com/nextcloud)
         * Används av: SMHI, Sjöfartsverket och Försäkringskassan 
@@ -110,7 +113,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Kontorsverktyg
     * [LibreOffice](https://www.libreoffice.org/)
         * Beskrivning: Verktygssvit med skriv-, kalkyl- och presentationsfunktionalitet.
-            * Används av : SMHI
+            * Används av: SMHI
 * Lösenordshantering
     * [KeePassXC](https://keepassxc.org/)
         * Används av: SKR Kommentus
