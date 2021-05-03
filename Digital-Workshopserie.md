@@ -17,7 +17,7 @@ För de workshops som är genomförda kommer presentationerna läggas upp här o
 
 ### Genomförda
   
-**Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?** 
+# Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?
 
  [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
 
@@ -44,7 +44,7 @@ Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.co
 
 
 
-**Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar** 
+ # Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar
 
 [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-2-Samverkan-kring-offentlig-sektors-%C3%B6ppna-data-satsningar) | [Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
@@ -86,7 +86,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 
 
-**Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar**
+# Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
 
 [Se i efterhand](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
@@ -119,7 +119,7 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 [Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
 
 
-**Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data**
+# Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data
 
 En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan. Hur säkerställer vi att alla dataset kan nås via ett samma ställe med liknande upplevelser trots att det finns många producenter av öppna data.
 
@@ -141,7 +141,7 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 
 
-**Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN**
+ # Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
 
 Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
 
@@ -153,7 +153,7 @@ _Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Know
 
 
 
-**Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data**
+# Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data
 
 Offentlig sektor satsar på nationella innovationstävlingar och hackathons med syfte att få öppna data i användning; som en del av myndigheternas verksamhetsutveckling och/eller som en katalysator för innovation. Räcker denna ansats eller krävs det något mer för att uppnå det vi vill? 
 
@@ -184,7 +184,7 @@ Diskussionsfrågor:
 
 
 
-**Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?** 
+# Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?
 
 Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas med att strategiskt engagera sig i öppen programvara (open source).  På denna workshop presenteras olika policies för öppen källkod. Diskutera med oss kring vad som behöver sättas på pränt för att lyckas med ett öppnare arbetssätt. Ta också del av SCB:s erfarenheter och dela mer er av era egna erfarenheter.
 
@@ -221,7 +221,7 @@ Diskussionsfrågor:
 [Boka plats](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
 
 
-**Tisdag 2 februari kl 10:00-12:00 API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?**
+# Tisdag 2 februari kl 10:00-12:00 API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?
 
 Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar. Vi kommer att diskutera hur vi tänker kring
 
@@ -261,7 +261,7 @@ Fråga 2: Utifrån olika målgrupper; hur bör öppna data presenteras för att 
 
 
 
-**Tisdag 2 mars kl 10:00-12:00Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?**
+# Tisdag 2 mars kl 10:00-12:00Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?
 
 I denna workshop gör vi en utblick i omvärlden och får höra lärdomar och tips från andra länder i hur de har hanterat motsvarande frågor. Bl.a. hur Italien och Frankrike arbetar centraliserat på myndighetsnivå med att hjälpa, utbilda och guida myndigheter kring frågor som upphandling, kultur och utveckling av öppen programvara. Vi får även höra från den danska kommunföreningen OS2 och hur de samverkar sinsemellan och med leverantörer kring utveckling av öppen programvara.
 
@@ -276,7 +276,7 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 [Videoinspelning](https://youtu.be/UvtX4e_qRWY )
 
 
-**Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata** 
+# Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata
 
 Länkad data nämns som den högsta nivån av mognad i 5-Star Open Data-modellen av Tim Berners Lee.
 Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en myndighet gå till väga? I denna workshop får vi en översikt kombinerat med praktiska exempel hur myndigheter jobbat med Wikidata.
@@ -301,7 +301,7 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 [Boka plats](https://www.goto10.se/event/lankad-data-vad-innebar-det-rent-praktiskt/)
 
 ### Kommande
-**Tisdag 4 maj kl 10:00-12:00 Öppna standarder** 
+# Tisdag 4 maj kl 10:00-12:00 Öppna standarder
 
 _Vid avrop från Kammarkollegiets ramavtal för programvaror och tjänster är det endast tillåtet att ställa obligatoriska krav på en viss standard om den uppfyller definitionen av öppen standard enligt SOU 2009:86 och EIF 1.0._
 
@@ -321,7 +321,7 @@ Björn Hagström går igenom de krav på öppenhet som tagits fram av bl.a.
 
 [Boka plats](https://www.goto10.se/event/oppna-standarder/)
 
-**Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten**
+# Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
 
 *Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.*
 
@@ -352,10 +352,44 @@ Schema:
   - Johan Linåker, Forskare, Lunds universitet
 * 13.30 - Hälsa och säkerhet hos öppna källkodsprojekt
   - Brian Proffitt, Manager, Community Insights, Red Hat's Open Source Program Office
-* 14.00 - Inlåsning och öppan standarder
+* 14.00 - Inlåsning och öppna standarder
   - Björn Lundell, Professor, Högskolan i Skövde
 * 14.30 - Panel - Hur möjliggör vi anskaffning och utveckling av öppen källkod inom offentlig sektor?
   - Johan Thelin, Foss-north
   - Carl-Erik Mols, Strateg kring öppen källkod (konsult), Sveriges Allmännytta
   - Adrian Solitander, Programledare för CivicTech, Vinnova
   - Göran Westerlund, CDO Alingsås kommun, samt styrelseledamot i Sambruk
+
+
+
+# Tisdag 15 juni, kl 10-12: Offentlighetsprincipen - från bråkstake till bästa kompis
+
+*Öppna data och allmänna handlingar är skilda områden men det finns 
+behov av att involvera och skapa bryggor och länka dessa separata 
+verkligheter och områden - inte minst utifrån det förslag som nu 
+ligger ute för remiss att ta avgifter på elektronisk information. 
+Fokus är att lyfta utmaningar kopplat till projekt och initiativ som 
+gör livet bättre och lättare för både myndigheter och medborgare.*
+
+Preliminärt innehåll
+
+**Regeringens diarium** - Robin Linderborg (DataStory)
+
+Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
+
+**OpenUp-plattformen** - Open Knowledege Sweden och DIGG
+
+Leverantörsreskontra - från allmän handling till öppna data och specifikation via NSÖD.  https://www.dataportal.se/sv/specifications/leverantorsreskontra/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile
+
+**Handlingar.se** – Mattias Axell
+
+Presentation, demo och (frivilligt) testa på att 
+begära ut allmän handling offentligt t.ex. leverantörsreskontra. 
+ 
+**Nationell Metadataprofil Offentliga Handlingar** - Mattias Axell 
+
+En specifikation på Dataportal.se för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. MetaSolutions med Naturvårdsverket 
+https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=
+2&t=20&f=&rt=spec_standard%24spec_profile
+
+Bokningslänk kommer
