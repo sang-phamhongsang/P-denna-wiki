@@ -373,9 +373,9 @@ gör livet bättre och lättare för både myndigheter och medborgare.*
 
 Preliminärt innehåll
 
-**Regeringens diarium** - Robin Linderborg (DataStory)
+**Regeringens diarium** - Robin Linderborg (DataStory), Per Hagström (Allmänhandling)
 
-Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
+Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
 
 **OpenUp-plattformen** - Open Knowledege Sweden och DIGG
 
