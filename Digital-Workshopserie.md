@@ -320,3 +320,42 @@ Björn Hagström går igenom de krav på öppenhet som tagits fram av bl.a.
 (Nationell Skalning Öppna Data).
 
 [Boka plats](https://www.goto10.se/event/oppna-standarder/)
+
+**Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten**
+
+*Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.*
+
+Schema:
+
+**Pass 1 - Öppen källkod som bas i den digitala allemansrätten**
+
+* 10.00 - Introduktion
+  - Översikt av schema, beskrivning av NOSAD och inramning baserat på debattartikel
+  - Maria Dalhage, Projektledare, JobTech Dev, Arbetsförmedlingen
+* 10.10 - Public Money, Public Code
+  - Mirko Boehm, Open Source Ambassador, MBition/Daimler
+* 10.35 - Källkod och data som digitala allmänningar
+  - Per Runeson, Professor, Lunds universitet
+* 11.00 - Skapa nytta till dina egna medborgare
+  - SCORE replikeringsmodell och Smarta kartan
+  - Kim Lantto, Utvecklingsledare, Digitala service, Göteborgs Stad
+* 11.30 - Panel - ”Den nya digitala allemansrätten”
+    - Jonas Södergren, Tekniskt ansvarig, JobTech Dev, Arbetsförmedlingen
+    - Carl Gleisner, Biträdande jurist, Wesslau Söderqvist Advokater
+    - Niels Paarup-Petersen, Riksdagsledamot, Centerpartiet
+    - Kim Lantto, Utvecklingsledare, Digitala service, Göteborgs Stad
+
+**Pass 2 - Hur möjliggör vi anskaffning och utveckling av öppen källkod inom offentlig sektor?**
+
+* 13.00 - Introduktion
+  - Hur myndigheter kan beakta öppen källkod vid utveckling och anskaffning av programvara
+  - Johan Linåker, Forskare, Lunds universitet
+* 13.30 - Hälsa och säkerhet hos öppna källkodsprojekt
+  - Brian Proffitt, Manager, Community Insights, Red Hat's Open Source Program Office
+* 14.00 - Inlåsning och öppan standarder
+  - Björn Lundell, Professor, Högskolan i Skövde
+* 14.30 - Panel - Hur möjliggör vi anskaffning och utveckling av öppen källkod inom offentlig sektor?
+  - Johan Thelin, Foss-north
+  - Carl-Erik Mols, Strateg kring öppen källkod (konsult), Sveriges Allmännytta
+  - Adrian Solitander, Programledare för CivicTech, Vinnova
+  - Göran Westerlund, CDO Alingsås kommun, samt styrelseledamot i Sambruk
