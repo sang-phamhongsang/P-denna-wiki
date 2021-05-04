@@ -377,9 +377,9 @@ Preliminärt innehåll
 
 Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
 
-**OpenUp-plattformen** - Open Knowledege Sweden och DIGG
-
-Leverantörsreskontra - från allmän handling till öppna data och specifikation via NSÖD.  https://www.dataportal.se/sv/specifications/leverantorsreskontra/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile
+**OpenUp!** - Open Knowledge Sweden och DIGG
+- Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. 
+https://www.dataportal.se/sv/specifications/leverantorsreskontra/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile
 
 **Handlingar.se** – Mattias Axell
 
