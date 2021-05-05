@@ -312,7 +312,7 @@ Agenda
 
 10:00-10:10 Intro: Maria Dalhage 
 
-10:10-10:30 En god förvaltning förutsätter öppna IT-standarder som är implementerade i öppen programvara, samt 5 rekommendationer för att undvika inlåsningseffekter – Prof. Björn Lundell och Jonas Gamalielsson 
+10:10-10:30 En god förvaltning förutsätter öppna IT-standarder som är implementerade i öppen programvara, samt 5 rekommendationer för att undvika inlåsningseffekter – Prof. Björn Lundell och Jonas Gamalielsson [Presentation](https://drive.google.com/file/d/1uil5WIZH8wYEz--EGtMLOv_efJbsCM_8/view?usp=sharing)
 
 10:30-10:50 Öppna standarder ur ett fågelperspektiv - Arman Borghem [Öppna_standarder_ur_ett_fågelperspektiv.pdf](uploads/ca53c4c20a80dec01ef1e56f9e81904c/Öppna_standarder_ur_ett_fågelperspektiv.pdf)
 
