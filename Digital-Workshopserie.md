@@ -316,7 +316,7 @@ Agenda
 
 10:30-10:50 Öppna standarder ur ett fågelperspektiv - Arman Borghem [Öppna_standarder_ur_ett_fågelperspektiv.pdf](uploads/ca53c4c20a80dec01ef1e56f9e81904c/Öppna_standarder_ur_ett_fågelperspektiv.pdf)
 
-10:50-11:10 Krav på öppenhet vid upphandling - Björn Hagström 
+10:50-11:10 Krav på öppenhet vid upphandling - Björn Hagström [Krav_på_öppenhet_vid_upphandling_2021-05-04.pptx](uploads/335abf87f2510bb4bc5537d83d9796f8/Krav_på_öppenhet_vid_upphandling_2021-05-04.pptx)
 
 11:15-11:45 Gruppdiskussion
 
