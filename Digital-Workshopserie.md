@@ -308,16 +308,22 @@ _Vid avrop från Kammarkollegiets ramavtal för programvaror och tjänster är d
  
 _Men vad räknas som en öppen standard och hur bra är myndigheter på denna typ av kravställning. Kan öppna standarder vara huvudnyckeln för att undvika långvariga inlåsningseffekter?_
  
-Presentatörer
- 
-Arman Borghem som berättar om Kammarkollegiets vägledning för Öppna 
-standarder.
- 
-Professor Björn Lundell, Högskolan i Skövde presenterar resultatet från sin forskning som visar hur dagens IT-upphandlingar leder till begränsad konkurrens men också till inlåsningar. Björn kommer också att presentera 5 rekommendationer till myndigheter för hur man kan undvika dessa inlåsningseffekter.
- 
-Björn Hagström går igenom de krav på öppenhet som tagits fram av bl.a. 
-ÖDIS (Ökad användning av öppna data i Stockholmsregionen) och NSÖD 
-(Nationell Skalning Öppna Data).
+Agenda
+
+10:00-10:10 Intro: Maria Dalhage 
+
+10:10-10:30 En god förvaltning förutsätter öppna IT-standarder som är implementerade i öppen programvara, samt 5 rekommendationer för att undvika inlåsningseffekter – Prof. Björn Lundell och Jonas Gamalielsson 
+
+10:30-10:50 Öppna standarder ur ett fågelperspektiv - Arman Borghem [Öppna_standarder_ur_ett_fågelperspektiv.pdf](uploads/ca53c4c20a80dec01ef1e56f9e81904c/Öppna_standarder_ur_ett_fågelperspektiv.pdf)
+
+10:50-11:10 Krav på öppenhet vid upphandling - Björn Hagström 
+
+11:15-11:45 Gruppdiskussion
+
+11:45-11:55 Redovisning av gruppdiskussion 
+
+11:55-12:00 Outro
+
 
 [Boka plats](https://www.goto10.se/event/oppna-standarder/)
 
