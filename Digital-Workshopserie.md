@@ -300,7 +300,6 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 
 [Boka plats](https://www.goto10.se/event/lankad-data-vad-innebar-det-rent-praktiskt/)
 
-### Kommande
 # Tisdag 4 maj kl 10:00-12:00 Öppna standarder
 
 _Vid avrop från Kammarkollegiets ramavtal för programvaror och tjänster är det endast tillåtet att ställa obligatoriska krav på en viss standard om den uppfyller definitionen av öppen standard enligt SOU 2009:86 och EIF 1.0._
@@ -326,6 +325,8 @@ Agenda
 
 
 [Boka plats](https://www.goto10.se/event/oppna-standarder/)
+
+### Kommande
 
 # Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
 
