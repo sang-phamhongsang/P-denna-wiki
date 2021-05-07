@@ -328,6 +328,12 @@ Agenda
 
 ### Kommande
 
+# Söndag 30 maj kl 9:30-12:00 Foss-north communitydays Jobtech Links
+
+Foss-north tillsammans med Arbetsförmedlingens projekt Ekosystem för annonser välkomnar till en communitydag. Dagen är en möjlighet att samskapa och bidra till teknikutvecklingen tillsammans med myndigheten. Projektets källkod är öppen. 
+
+![image](uploads/35243adfa09b8f9c80f01ada95ebec6b/image.png)  [till anmälan](https://gitlab.com/arbetsformedlingen/joblinks/wiki/-/wikis/home) 
+
 # Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
 
 *Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.*
