@@ -115,8 +115,11 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Beskrivning: Verktygssvit med skriv-, kalkyl- och presentationsfunktionalitet.
             * Används av: SMHI
 * Lösenordshantering
-    * [KeePassXC](https://keepassxc.org/)
-        * Används av: SKR Kommentus
+    * [KeePassXC](https://moodle.org/)
+        * Används av: Adda
+* Lärplattformar
+    * [Moodle](https://keepassxc.org/)
+        * Används av: Simrishamn kommun, Komvux Södertälje kommun och flera universitet
 * Medborgartjänster
     * [Anmäl hinder](https://github.com/GoteborgsStad/anmalhinder-android)
         * Beskrivning: Applikation för att rapportera tillgänglighetshinder.
@@ -135,6 +138,9 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Operativsystem
     * Linux [Linux](https://www.kernel.org/), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/), [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
         * Används av: Arbetsförmedlingen, SMHI
+* Projektledning/hantering
+    * [Redmine](https://www.kernel.org/)
+        * Används av: Utbildningsförvaltningen, Stockholms Stad
 * Socialtjänst
     * [Sambuh](https://github.com/GoteborgsStad/boendeprocessAPP)
         * Beskrivning: App för hantering av individuella behandlingsplaner för unga vuxna inom HVB-verksamhet.
