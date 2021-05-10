@@ -349,8 +349,7 @@ Schema:
   - Mirko Boehm, Open Source Ambassador, MBition/Daimler
 * 10.35 - Källkod och data som digitala allmänningar
   - Per Runeson, Professor, Lunds universitet
-* 11.00 - Skapa nytta till dina egna medborgare
-  - SCORE replikeringsmodell och Smarta kartan
+* 11.00 - Skapa nytta med dina medborgare; SCORE replikeringsmodell och Smarta kartan
   - Kim Lantto, Utvecklingsledare, Digitala service, Göteborgs Stad
 * 11.30 - Panel - ”Den nya digitala allemansrätten”
     - Jonas Södergren, Tekniskt ansvarig, JobTech Dev, Arbetsförmedlingen
