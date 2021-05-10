@@ -343,7 +343,7 @@ Schema:
 **Pass 1 - Öppen källkod som bas i den digitala allemansrätten**
 
 * 10.00 - Introduktion
-  - Översikt av schema, beskrivning av NOSAD och inramning baserat på debattartikel
+  - Översikt av dagen, beskrivning av NOSAD och Open Source-katalogen. 
   - Maria Dalhage, Projektledare, JobTech Dev, Arbetsförmedlingen
 * 10.10 - Public Money, Public Code
   - Mirko Boehm, Open Source Ambassador, MBition/Daimler
