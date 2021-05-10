@@ -100,7 +100,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Red Hat Fuse](https://www.redhat.com/en/products/integration)
         * Används av: Pensionsmyndigheten, Försäkringskassan, Luftfartsverket, Tullverket
     * [WSO2 API Manager](https://wso2.com/api-management/)
-        * Används av: Västtrafik, Lantmäteriet, Havs- och Vattenmyndigheten, CSN, Bolagsverket, Försäkringskassan, Sundsvalls kommun
+        * Används av: Västtrafik, Lantmäteriet, Havs- och Vattenmyndigheten, CSN, Bolagsverket, Försäkringskassan, Sundsvalls kommun, Naturvårdsverket
 * Kommunikationsverktyg
     * [BigBlueButton](https://bigbluebutton.org/)
         * Används av: Software Systems Research Group, Högskolan i Skövde
