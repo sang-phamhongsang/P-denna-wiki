@@ -393,12 +393,12 @@ Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhan
 Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. 
 https://www.dataportal.se/sv/specifications/leverantorsreskontra/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile
 
-**Handlingar.se** – Mattias Axell
+**Handlingar.se** – Elenor Weijmar 
 
 Presentation, demo och (frivilligt) testa på att 
 begära ut allmän handling offentligt t.ex. leverantörsreskontra. 
  
-**Nationell Metadataprofil Offentliga Handlingar** - Elenor Weijmar 
+**Nationell Metadataprofil Offentliga Handlingar** - Mattias Axell
 
 En specifikation på Dataportal.se för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. MetaSolutions med Naturvårdsverket 
 https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=
