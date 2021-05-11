@@ -398,7 +398,7 @@ https://www.dataportal.se/sv/specifications/leverantorsreskontra/latest#ref=?p=1
 Presentation, demo och (frivilligt) testa på att 
 begära ut allmän handling offentligt t.ex. leverantörsreskontra. 
  
-**Nationell Metadataprofil Offentliga Handlingar** - Mattias Axell 
+**Nationell Metadataprofil Offentliga Handlingar** - Elenor Weijmar 
 
 En specifikation på Dataportal.se för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. MetaSolutions med Naturvårdsverket 
 https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=
