@@ -404,4 +404,4 @@ En specifikation på Dataportal.se för att standardisera säker och lagenlig ha
 https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=
 2&t=20&f=&rt=spec_standard%24spec_profile
 
-Bokningslänk kommer
+[Boka plats](https://www.goto10.se/event/offentlighetsprincipen-fran-brakstake-till-basta-kompis/)
