@@ -368,8 +368,9 @@ Schema:
   - Björn Lundell, Professor, Högskolan i Skövde
 * 14.30 - Panel - Hur möjliggör vi anskaffning och utveckling av öppen källkod inom offentlig sektor?
   - Johan Thelin, Foss-north
+  - Henrik Sandklef, Foss-north
   - Carl-Eric Mols, Strateg kring öppen källkod, Addalot
-  - Adrian Solitander, Programledare för CivicTech, Vinnova
+  - Jonas Feist, co-founder of Redbridge
   - Göran Westerlund, CDO Alingsås kommun, samt styrelseledamot i Sambruk
 
 
