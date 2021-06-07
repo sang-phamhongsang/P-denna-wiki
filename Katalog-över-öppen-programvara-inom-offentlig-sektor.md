@@ -44,7 +44,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
 * Data Analytics and Exploration
     * [MetaBase](https://www.metabase.com/)
     * [Grafana](https://github.com/grafana/grafana)
-        * Används av: SMHI
+        * Används av: SMHI, [Wikidata](https://grafana.wikimedia.org/dashboard/db/wikidata-query-service?orgId=1)        
 * Databaser
     * [PostgreSQL relationsdatabas](http://postgresql.org)
         * Används av: SMHI, Västra götalandsregionen (VGR), Migrationsverket, Jordbruksverket, Domstolsverket, Karolinska Institutet, Riksantikvarieämbetet, Sundsvalls kommun
