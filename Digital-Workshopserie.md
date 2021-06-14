@@ -395,8 +395,7 @@ Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som
 
 **Handlingar.se** – Elenor Weijmar 
 
-Presentation, demo och (frivilligt) testa på att 
-begära ut allmän handling offentligt t.ex. leverantörsreskontra. 
+Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. 
  
 **Nationell Metadataprofil Offentliga Handlingar** - Mattias Axell
 
