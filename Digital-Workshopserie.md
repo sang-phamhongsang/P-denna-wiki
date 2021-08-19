@@ -1,6 +1,6 @@
 **Om formatet**
 
-Varje digital workshop är på två timmar. Och kommer att hållas som ett interaktivt webinarie. Hur många workshops det blir beror på intresse och hur många som vill bidra.
+Varje digital workshop är på två timmar. Och kommer att hållas som ett interaktivt workshop. Hur många workshops det blir beror på intresse och hur många som vill bidra.
 Du som är intresserad av meetup-serien kan bidra på två sätt:
 
 1. Som deltagare - Bidra genom att vara med i diskussion
@@ -24,6 +24,13 @@ Höstens teman
 
 
 # Kommande Digitala workshops
+
+**7 december kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+
+**2 november kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+
+**5 oktober kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+
 
 **7 september kl 10-12:** Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik
 Låt er inspireras av och diskutera de möjligheter ut utmaningar som finns inom Sektorn för kollektivtrafik när det gäller öppna data, öppna standarder och öppen källkod. Vad är generiskt och vad kan ni ta med er till er domän?
