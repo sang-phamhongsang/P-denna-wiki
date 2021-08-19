@@ -32,7 +32,7 @@ Höstens teman
 **5 oktober kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
 
 
-**7 september kl 10-12:** Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik
+# 7 september kl 10-12:** Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik
 Låt er inspireras av och diskutera de möjligheter ut utmaningar som finns inom Sektorn för kollektivtrafik när det gäller öppna data, öppna standarder och öppen källkod. Vad är generiskt och vad kan ni ta med er till er domän?
 
 I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordics där de nordiska aktörerna inom kollektivtrafiken gått samman i en satsning för att ta ett helhetsgrepp kring öppna data, öppen källkod och öppna standarder för att få fram nya mobilitetstjänster och leverera på myndighetsuppdrag men också att bygga en agil organisation som skapar flexibilitet och kan möta nya krav och behov.  Det norska statligt ägda Entur hanterar all kollektivtrafikdata i Norge. De har byggt upp sin infrastruktur baserat på just öppna data, öppen källkod och öppna standarder och kommer att presentera principer, arbetssätt och erfarenheter för att få till en öppen infrastruktur.
