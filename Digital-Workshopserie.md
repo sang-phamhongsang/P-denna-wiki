@@ -11,12 +11,19 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 [Kontakta oss för bidrag.](mailto:maria.dalhage@arbetsformedlingen.se) 
 
-## Digitala Workshops 
+## Hösten 2021 Digitala Workshops 
 
-För de workshops som är genomförda kommer presentationerna läggas upp här och eventuell inspelning av workshopen länkas till här.
+Agendan är i skrivandets stund endast satt för september vilket innebär att det finns en stor möjlighet att påverka innehållet för övriga tillfällen. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@arbetsformedlingen.se. 
+
+Höstens teman
+
+- Feedbackworkshop på DIGG:s API-byggblock/ Playbook
+- eArkiv Open Source
+- IT-säkerhet och open source 
+- AI och öppna algoritmer.
 
 
-# Kommande
+# Kommande Digitala workshops
 
 **7 september kl 10-12:** Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik
 Låt er inspireras av och diskutera de möjligheter ut utmaningar som finns inom Sektorn för kollektivtrafik när det gäller öppna data, öppna standarder och öppen källkod. Vad är generiskt och vad kan ni ta med er till er domän?
@@ -38,6 +45,7 @@ Agenda
 11.40: Gemensam reflektion av dagens presentationer
 
 11:55:12:00 outro
+
 
 
 
