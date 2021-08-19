@@ -54,7 +54,8 @@ Agenda
 
 11:55:12:00 outro
 
-Bokningslänk kommer snart
+[Boka](https://www.goto10.se/event/samarbete-kring-oppen-kallkod-och-data-inom-kollektivtrafiksektorn/)
+
 
 
 # Genomförda
