@@ -22,6 +22,8 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
         * Används av: Kungliga Biblioteket
     * [Roda](https://www.roda-community.org/#welcome)
         * Används av: Tullverket
+    * [Nuexo](https://www.nuxeo.com) (en plattform där man kan bygga upp ett e-arkiv.)
+        * Används av: SCB 
 * Bibliotekssystem
     * [Koha](https://koha-community.org/)
         * Används av: [Extern lista](https://koha.se/en/medlemmar/)
