@@ -9,7 +9,7 @@ Saknas ett öppet programvaruprojekt som du tror annan myndighet kan ha nytta av
     * [Access to Memory (AtoM)](https://www.accesstomemory.org/en/)
         * Används av: SGU, Kungliga biblioteket 
     * [Archivematica](https://www.archivematica.org/en/)
-        * Används av: SGU
+        * Används av: SGU, Sveriges lantbruksuniversitet (SLU) 
         * Se även: [AOAIS - Ett nätverk för Archivematica och AtoM i Sverige](https://www.archivematica.org/en/)]
     * [CollectiveAccess](https://collectiveaccess.org/)
         * Beskrivning: En webbaserad databas och ett katalogiseringverktyg för museer, arkiv och digitala samlingar.
