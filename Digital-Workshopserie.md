@@ -42,11 +42,11 @@ Agenda
 
 10.00 - 10.10 Inledning - Maria Dalhage (Arbetsförmedlingen) [Presentation](uploads/8695be112d4a8f326328e6bc71ae4021/Nosad_7_sept.pptx)
 
-10.10 - 10.40 ODIN - öppna data -> öppna standarder -> öppen källkod - Daniel Rudmark (RISE)
+10.10 - 10.40 ODIN - öppna data -> öppna standarder -> öppen källkod - Daniel Rudmark (RISE) [2021_09_07_NOSAD.pdf](uploads/083005e8f4f5af783ef9df3b1c97b60b/2021_09_07_NOSAD.pdf)
 
 10.40-10.50 Frågestund
 
-10.50 - 11.30 Principer för att få till en öppen infrastruktur, bakgrund och incitament för att arbeta öppet. Andreas Tryti (Entur) 
+10.50 - 11.30 Principer för att få till en öppen infrastruktur, bakgrund och incitament för att arbeta öppet. Andreas Tryti (Entur) [Entur_-_NOSAD.pdf](uploads/48802504ae690e87b08910814ea3f226/Entur_-_NOSAD.pdf)
 
 11:30-11:40 Frågestund
 
