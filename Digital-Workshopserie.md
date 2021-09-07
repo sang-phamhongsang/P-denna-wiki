@@ -40,7 +40,7 @@ I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordic
 
 Agenda
 
-10.00 - 10.10 Inledning - Maria Dalhage (Arbetsförmedlingen)
+10.00 - 10.10 Inledning - Maria Dalhage (Arbetsförmedlingen) [Presentation](uploads/8695be112d4a8f326328e6bc71ae4021/Nosad_7_sept.pptx)
 
 10.10 - 10.40 ODIN - öppna data -> öppna standarder -> öppen källkod - Daniel Rudmark (RISE)
 
