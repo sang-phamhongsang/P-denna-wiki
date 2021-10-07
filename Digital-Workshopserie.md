@@ -27,9 +27,25 @@ Höstens teman
 
 **7 december kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
 
-**2 november kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+**9 november kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
 
-**5 oktober kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)¨
+# 12 oktober kl 10-12 API-Playbook
+
+Nu blir det enklare för er som tillhandahåller öppna data och API:er!
+  
+På agendan finns bl.a. en genomgång av API-playbook innehållande en svensk profil för API:er samt en demo av ett automatiserat sätt för registrering av metadata för datamängder och API:er på Sveriges dataportal
+
+Diskutera med oss i grupper och reflektera över innehållet i den svenska API-profilen samt övriga delar i API-Playbook.
+ 
+ 
+Presentatörer: 
+Fredrik Nordlander (DIGG), Fredrik Vesström (Bolagsverket), Johan Stang (Lantmäteriet) Manne Andersson (eHälsomyndigheten), Ulrika Häggqvist (Arbetsförmedlingen), Jessica Prytz (Arbetsförmedlingen) Jonas Södergren (Arbetsförmedlingen).
+
+Moderatorer: Maria Dalhage (Arbetsförmedlingen), Johan Linåker (Lunds universitet)
+
+
+
+# Genomförda
 
 
 # 4 oktober kl 14:00-15:30 Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
@@ -75,7 +91,6 @@ Agenda
 
 
 
-# Genomförda
 
 # Tisdag 15 juni, kl 10-12: Offentlighetsprincipen - från bråkstake till bästa kompis
 
