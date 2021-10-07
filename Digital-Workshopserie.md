@@ -29,8 +29,25 @@ Höstens teman
 
 **2 november kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
 
-**5 oktober kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+**5 oktober kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)¨
 
+
+# 4 oktober kl 14:00-15:30 Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
+
+Seminariet utgår från och ger exempel på det standardarbete som den nordamerikanska stiftelsen Open Mobility Foundation lett. Där har ett flertal städer i öppet samarbete med privata aktörer skapat kärnan för en digital infrastruktur, vilken idag används i bl.a. Los Angeles, Chicago och Stockholm.
+
+Digitaliseringen av samhället ställer nya krav på hur kommuners interaktion och service med invånaren kommer se ut framåt. Ända sedan kommunernas tillkomst har en central uppgift varit att bistå medborgare och företag med fysisk infrastruktur som vägar, vatten och avlopp. Nu finns behovet att hitta de digitala vägarna som kan användas i kommunerna. Utbyte av data med privata aktörer, datadriven verksamhetsutveckling och digital regelgivning är frågor som redan nu är konstaterade behov.
+
+Utgångspunkt för seminariet är det arbete som den nordamerikanska stiftelsen Open Mobility Foundation utfört. Genom ett tätt samarbete mellan offentliga och privata aktörer har man hittat sätt att ex. skapa en digital infrastruktur för elsparkcyklar, t.ex. hur dessa får framföras, hur effektiv datadelning mellan leverantörer och städer kan göras, samt hur medborgare kan hitta tillgängliga elsparkcyklar. På seminariet ges praktiska erfarenheter från att implementera en sådan digital infrastruktur (från Sverige och internationellt), en inblick i de behov som svenska kommuner har samt hur arbete med privat sektor i enlighet med öppen källkodsprinciper kan ge snabba resultat.
+
+Deltagare:
+
+Jascha Franklin-Hodge, Executive Director, Open Mobility Foundation
+Alex Pazuchanics, Head of Policy and Partnerships, Vianova Stockholms stad (TBC)
+Sandra Viktor, Miljösamordnare, Linköpings kommun
+Johan Linåker, RISE och Lunds Universitet
+Christian Landgren, Iteam
+Seminariet kommer hållas på engelska.
 
 # 7 september kl 10-12: Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik.
 
