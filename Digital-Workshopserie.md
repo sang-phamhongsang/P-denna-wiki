@@ -353,25 +353,6 @@ _Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Know
 
 
 
-# 13 oktober 2020 kl 10-12 Utfrågning Öppna datautredningen
-Inspelning https://www.youtube.com/watch?v=63l3-_WC7jc
-
-Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
-
-Den nya lagen som föreslås träda i kraft den 17 juli 2021 är tänkt att ersätta den gamla PSI-lagen. Den är betydligt mer omfattande och specifik kring hur användning och tillgången till öppna data från offentlig verksamhet i Sverige ska tillgängliggöras. Lyssna på utredningssekreterare Alexander Warnolfs presentation av det som utredningen föreslår och ställ sedan dina frågor om hur utredningen resonerat och vilka övervägande som har gjorts.
-
-Vi kommer även få höra uppdragsledare Anna Svedlund på Lantmäteriet kort presentera det regeringsuppdrag de haft att analysera konsekvenserna av att tillgängliggöra särskilt värdefulla datamängder. Därefter kommer Sumbat Sarkis från Enheten för Digital förvaltning på Infrastrukturdepartementet kort kommentera hur öppna data-utredningen kommer att tas vidare framöver innan vi öppnar upp för samtal och frågor till alla medverkande.
-
-Öppna data-utredningens huvudbetänkande Innovation genom information, SOU 2020:55, har skickats ut på remiss med sista svarsdag den 17 december 2020. Den går att ladda ner i sin helhet från Regeringens webbplats. Vill eller hinner man inte läsa alla 488 sidor innan utfrågningen rekommenderas att läsa sammanfattningen (s. 21-32) och de avslutande författningskommentarerna och lagförslaget (s. 389-430). Björn Hagströms sammanfattning är också ett lästips.
-
-Passa även på att ställa dina frågor och diskutera i forumet för Nätverket för Kunskapsdelning kring Öppna Data inför utfrågningen!
-
-[BOKA](https://www.goto10.se/event/utfragning-kring-oppna-data-utredningen/)
-
-
-
-
-
 
 # Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data
 
@@ -393,6 +374,22 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 [Boka](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
 
+
+
+# 13 oktober 2020 kl 10-12 Utfrågning Öppna datautredningen
+Inspelning https://www.youtube.com/watch?v=63l3-_WC7jc
+
+Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
+
+Den nya lagen som föreslås träda i kraft den 17 juli 2021 är tänkt att ersätta den gamla PSI-lagen. Den är betydligt mer omfattande och specifik kring hur användning och tillgången till öppna data från offentlig verksamhet i Sverige ska tillgängliggöras. Lyssna på utredningssekreterare Alexander Warnolfs presentation av det som utredningen föreslår och ställ sedan dina frågor om hur utredningen resonerat och vilka övervägande som har gjorts.
+
+Vi kommer även få höra uppdragsledare Anna Svedlund på Lantmäteriet kort presentera det regeringsuppdrag de haft att analysera konsekvenserna av att tillgängliggöra särskilt värdefulla datamängder. Därefter kommer Sumbat Sarkis från Enheten för Digital förvaltning på Infrastrukturdepartementet kort kommentera hur öppna data-utredningen kommer att tas vidare framöver innan vi öppnar upp för samtal och frågor till alla medverkande.
+
+Öppna data-utredningens huvudbetänkande Innovation genom information, SOU 2020:55, har skickats ut på remiss med sista svarsdag den 17 december 2020. Den går att ladda ner i sin helhet från Regeringens webbplats. Vill eller hinner man inte läsa alla 488 sidor innan utfrågningen rekommenderas att läsa sammanfattningen (s. 21-32) och de avslutande författningskommentarerna och lagförslaget (s. 389-430). Björn Hagströms sammanfattning är också ett lästips.
+
+Passa även på att ställa dina frågor och diskutera i forumet för Nätverket för Kunskapsdelning kring Öppna Data inför utfrågningen!
+
+[BOKA](https://www.goto10.se/event/utfragning-kring-oppna-data-utredningen/)
 
 
 # Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
