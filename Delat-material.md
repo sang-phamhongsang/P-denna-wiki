@@ -158,6 +158,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
     * [Free Software Management Guidelines](https://www.barcelona.cat/digitalstandards/en/free-soft/0.2/introduction)  
 [Extern resurs | City of Barcelona, Spanien]
 * Sverige  
+    * [Sundsvalls kommun](https://github.com/Sundsvallskommun/riktlinjer-oppenkallkod/blob/main/riktlinje/README.md)
     * [DIGGs Policy för utveckling av programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)  
 [Extern resurs | Björn Lundell (Skövde Högskola) | DIGG, Sverige]
     * [Analys av DIGGs policy för öppen programvara]()  
