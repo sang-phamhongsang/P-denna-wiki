@@ -171,7 +171,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
     * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
 [Extern resurs | Kungliga Biblioteket, Sverige]
     * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
-    * [Svenska Allmännyttans utvecklingsmanifest](https://utveckling.allmannyttan.se/manifest)
+    * [Svenska Allmännyttans utvecklingsmanifest](https://utveckling.allmannyttan.se/manifest)  
 [Extern resurs | Svenska Allmännyttan, Sverige]  
 * Sydafrika
     * [APC free/libre and open source software policy (APC FLOSS Policy)](https://www.apc.org/en/apc-freelibre-and-open-source-software-policy-apc-floss-policy)  
