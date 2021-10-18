@@ -168,10 +168,14 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern resurs | Försäkringskassan, Sverige]
     * [Presentation of Försäkringskassans Riktlinjer för Öppen Källkod och Open Source Competence Center](https://youtu.be/oxCtmQrKAls?t=456)  
 [Workshop-presentation 12/1 2021 | Tomas Lagren och Linda Jacobsson (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
-    * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
+    * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
 [Extern resurs | Kungliga Biblioteket, Sverige]
     * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
-[Extern resurs | SKR, Sverige]
+    * [Svenska Allmännyttans utvecklingsmanifest](https://utveckling.allmannyttan.se/manifest)
+[Extern resurs | Svenska Allmännyttan, Sverige]  
+* Sydafrika
+    * [APC free/libre and open source software policy (APC FLOSS Policy)](https://www.apc.org/en/apc-freelibre-and-open-source-software-policy-apc-floss-policy)  
+[Extern resurs | Association for Progressive Communications (APC), Sydafrika]  
 * USA
     * [USA 18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/CONTRIBUTING.md)  
 [Extern resurs | 18F, USA]
