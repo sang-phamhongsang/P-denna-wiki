@@ -49,6 +49,8 @@ Delat material:
 [DCAT-AP_-Processor_NOSAD.pptx](uploads/da22403a785070c0f57f65b582347406/DCAT-AP_-Processor_NOSAD.pptx)
 [APIHantering_NOSAD_2021_10_12_DIGG.pdf](uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
 
+[Resultat från Gruppdiskussionerna](https://docs.google.com/document/d/1aS-KaYqZqx9A_yjczfZzdUM4mI4nBRxk7jNatG5vSTQ/edit#heading=h.v596r2nrh93u)
+
 
 
 # 4 oktober kl 14:00-15:30 Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
