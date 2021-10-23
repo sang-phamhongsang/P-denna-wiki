@@ -25,9 +25,10 @@ Höstens teman
 
 # Kommande Digitala workshops
 
-**7 december kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+**7 december kl 10-12** (eArkiv Open Source)
 
-**9 november kl 10-12** (Innehåll spikas löpande. Se höstens teman ovan)
+
+# Genomförda
 
 # 12 oktober kl 10-12 API-Playbook
 
@@ -43,9 +44,11 @@ Fredrik Nordlander (DIGG), Fredrik Vesström (Bolagsverket), Johan Stang (Lantm�
 
 Moderatorer: Maria Dalhage (Arbetsförmedlingen), Johan Linåker (Lunds universitet)
 
+Delat material: 
+[Intro](uploads/180512f1a0c6891a250378fe5019aec5/Nosad_12_oktober.pptx)
+[DCAT-AP_-Processor_NOSAD.pptx](uploads/da22403a785070c0f57f65b582347406/DCAT-AP_-Processor_NOSAD.pptx)
+[APIHantering_NOSAD_2021_10_12_DIGG.pdf](uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
 
-
-# Genomförda
 
 
 # 4 oktober kl 14:00-15:30 Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
