@@ -11,21 +11,21 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 [Kontakta oss för bidrag.](mailto:maria.dalhage@arbetsformedlingen.se) 
 
-## Hösten 2021 Digitala Workshops 
+## Våren 2022 Digitala Workshops 
 
-Agendan är i skrivandets stund endast satt för september vilket innebär att det finns en stor möjlighet att påverka innehållet för övriga tillfällen. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@arbetsformedlingen.se. 
+Vi börjar planera vårens digitala workshops. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@arbetsformedlingen.se. 
 
-Höstens teman
+Några förslag på teman:
 
-- Feedbackworkshop på DIGG:s API-byggblock/ Playbook
-- eArkiv Open Source
+- NOSAD retrospective. Hur kan vi förbättra nätverket?
 - IT-säkerhet och open source 
 - AI och öppna algoritmer.
 
 
 # Kommande Digitala workshops
 
-**7 december kl 10-12** (eArkiv Open Source)
+# 7 december kl 10-12** (eArkiv Open Source) 
+Mer information kommer snart.
 
 
 # Genomförda
