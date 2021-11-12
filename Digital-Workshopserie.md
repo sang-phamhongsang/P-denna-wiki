@@ -24,7 +24,7 @@ Några förslag på teman:
 
 # Kommande Digitala workshops
 
-# 7 december kl 10-12** eArkiv Open Source 
+# 7 december kl 10-12 eArkiv Open Source 
 
 Den 7 december är temat e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
 Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp ett community dels utifrån e-arkiv generellt men även e-arkiv baserat på öppen källkod specifikt.  Gå gärna in på dataportalens forum för community och bekanta er, ni hittar det här: https://community.dataportal.se/
