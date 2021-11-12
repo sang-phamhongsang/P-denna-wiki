@@ -24,8 +24,34 @@ Några förslag på teman:
 
 # Kommande Digitala workshops
 
-# 7 december kl 10-12** (eArkiv Open Source) 
-Mer information kommer snart.
+# 7 december kl 10-12** eArkiv Open Source 
+
+Den 7 december är temat e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
+Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp ett community dels utifrån e-arkiv generellt men även e-arkiv baserat på öppen källkod specifikt.  Gå gärna in på dataportalens forum för community och bekanta er, ni hittar det här: https://community.dataportal.se/
+
+Agenda
+
+10:00-10:05 Introduktion
+
+10:05-10:20  Fågelperspektivet (EU-perspektivet)
+För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.
+
+10:20-10:40 Strategiska vägval för e-arkiv och digital informationshantering
+Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten. Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
+
+10:40-11:00 Arbetet bakom kulisserna
+Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera
+
+11:00-11:20 Öppen källkod och Communitys för Digitalt bevarande 
+Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? 
+Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket.
+
+11:30-12:00 Gruppdiskussioner 
+
+
+12:00 	Outro 
+
+ Moderator: Maria Dalhage Arbetsförmedlingen
 
 
 # Genomförda
