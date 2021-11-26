@@ -170,7 +170,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Workshop-presentation 12/1 2021 | Tomas Lagren och Linda Jacobsson (Försäkringskassan) | [Presentation](uploads/c4d3ae981a82cd6e28748e3e5e926db6/FK-Riktlinje-Oppen-kallkod.pdf)]
     * [KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
 [Extern resurs | Kungliga Biblioteket, Sverige]
-    * [SKRs Strategi för utveckling i en digital tid (se sid 22-23)](https://skr.se/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
+    * [SKRs Strategi för digital utveckling (se sid 22-23)](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
     * [Svenska Allmännyttans utvecklingsmanifest](https://utveckling.allmannyttan.se/manifest)  
 [Extern resurs | Svenska Allmännyttan, Sverige]  
 * Sydafrika
@@ -195,7 +195,9 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern Resurs | Belgian Public Institutions of Social Security och Smals, Belgien]
 * Danmark
     * [OS2 Produkter](https://os2.eu/produkter)  
-[Extern resurs | OS2, Danmark]
+* Finland
+    * [OpenCode](https://opencode.fi)
+[Extern resurs | Solita, Finland]  
 * Frankrike
     * [Open Source Catalog](https://code.etalab.gouv.fr/~/groups)  
 [Extern resurs | Etalab, Frankrike]
