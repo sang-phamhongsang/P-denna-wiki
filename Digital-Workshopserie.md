@@ -55,7 +55,7 @@ Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt 
 Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? 
 Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket.[NOSAD_Tullen_dec_1.0_1b.pdf](uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf)
 
-11:30-12:00 Gruppdiskussioner 
+11:30-12:00 Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
 
 
 12:00 	Outro 
