@@ -17,12 +17,17 @@ Vi börjar planera vårens digitala workshops. För er som vill påverka agendan
 
 Några förslag på teman:
 
-- NOSAD retrospective. Hur kan vi förbättra nätverket?
+- Logistikdata
 - IT-säkerhet och open source 
 - AI och öppna algoritmer.
 
 
 # Kommande Digitala workshops
+
+# 11 jan kl 10-12 NOSAD retrospective. Hur kan vi förbättra nätverket?
+Bokningslänk kommer inom kort!
+
+# Genomförda workshops
 
 # 7 december kl 10-12 eArkiv Open Source 
 
@@ -35,12 +40,16 @@ Agenda
 
 10:05-10:20  Fågelperspektivet (EU-perspektivet)
 För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.
+[Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf](uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
 
 10:20-10:40 Strategiska vägval för e-arkiv och digital informationshantering
 Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten. Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
+[nosad_press_arbetsformedlingen.pdf](uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf)
+[Rapport_långsiktig_informationshantering_E-arkiv.pdf](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
 
 10:40-11:00 Arbetet bakom kulisserna
-Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera
+Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera 
+[sydarkivera_elin_nosad_20211207.pdf](uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf)
 
 11:00-11:20 Öppen källkod och Communitys för Digitalt bevarande 
 Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? 
@@ -54,7 +63,7 @@ Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i co
  Moderator: Maria Dalhage Arbetsförmedlingen
 
 
-# Genomförda
+
 
 # 12 oktober kl 10-12 API-Playbook
 
