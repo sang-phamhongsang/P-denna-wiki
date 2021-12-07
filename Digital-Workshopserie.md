@@ -53,7 +53,7 @@ Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt 
 
 11:00-11:20 Öppen källkod och Communitys för Digitalt bevarande 
 Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? 
-Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket.
+Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket.[NOSAD_Tullen_dec_1.0_1b.pdf](uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf)
 
 11:30-12:00 Gruppdiskussioner 
 
