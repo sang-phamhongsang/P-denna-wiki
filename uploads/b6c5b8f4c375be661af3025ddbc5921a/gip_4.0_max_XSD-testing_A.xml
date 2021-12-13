@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Denna fil används för att testa XSD. OBS! Används inte för skarp ingest pga av sökvägen för schemaLocation. -->
+<gip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tullverket.se/schemas/gip gip_4.0.xsd"
+	xmlns="http://www.tullverket.se/schemas/gip"
+    version="4.0">
+	
+    <submissionAgreementID>T1234</submissionAgreementID>
+    <creator>TVAD</creator>
+    <originalID>TV12-2000-12345</originalID>
+    <originalName>Avräkningsnota aktiv förädling W123456789</originalName>
+    <packageType>ÄRENDEAKT</packageType>
+    <packageVersion>1</packageVersion>
+    <informationOwner>Kontrollavdelningen</informationOwner>
+    <securityClassification>HÖGT SKYDDSVÄRDE</securityClassification>
+    <legal>OSL 4 kap.</legal>
+    <retentionStartDate>2000-02-03</retentionStartDate>
+    <retentionStartDateType>Avslutandedatum</retentionStartDateType>
+    <administrativeNotes>Testdata.</administrativeNotes>
+
+    <contentDescription>Avräkningsnota för aktiv förädling</contentDescription>
+    <contentType>Ärendeakt</contentType>
+    <contentPersons>Kontaktperson: Nils Nilsson 121212-1212 , Firmatecknare: Lisa Nilsson 141414-1414</contentPersons>
+    <contentOrganisations>Import AB 555555-5555</contentOrganisations>
+    <contentProducts>masonit, pvc-skivor</contentProducts>
+    <contentLocations>Malmö, Storgatan 12</contentLocations>
+    <contentAdministrativeOfficials>Handläggare: Birgit Birgersson BB1, Chef: Fredrik Fredriksson FF4</contentAdministrativeOfficials> 
+    <contentAdministrativeUnits>Kontor: Lillvägen 12, Storträsk</contentAdministrativeUnits>
+    <contentArrivedDate>2000-01-29</contentArrivedDate>
+    <contentCreatedDate>2000-01-31</contentCreatedDate> 
+    <contentClosedDate>2000-02-03</contentClosedDate>
+	<contentExtraDate>2000-02-04</contentExtraDate>
+	<contentExtraDateType>Granskningsdatum</contentExtraDateType>
+    <contentOtherTimes>Ursprungsår: 1999, Redovisningsdatum: 2001-01-01 </contentOtherTimes>
+    <contentKeywords>W123456789, PVC</contentKeywords>
+    <contentNotes>Ärendet är särsorterat.</contentNotes>
+
+    <relations>ARA-2001-45, ARA-2001-56</relations>
+	
+</gip>
