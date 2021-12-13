@@ -103,13 +103,15 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="openmeta-allmannaresurser"></a> - [till toppen](#topp)
 
-* [Europeiska standarden DILCIS E-ARK Common Specification for Information Packages (CSIP)](https://dilcis.eu/specifications)  
-Det generella europeiska formatet för att lagra (arkiv)paket.
+* [Europeiska informationsstrukturen DILCIS E-ARK Common Specification for Information Packages (CSIP)](https://dilcis.eu/specifications)  
+Det generella europeiska informationsstrukturen för att lagra (arkiv)paket.
 
 #### Generella metadatastrukturer<a name="openmeta-gen-metadata"></a> - [till toppen](#topp)
 
 * [Europeiska standarden DILCIS E-ARK Submission Information Package (SIP)](https://dilcis.eu/specifications/sip)  
 Det generella europeiska formatet för att leverera arkivpaket till ett eArkiv.
+* [Europeiska standarden DILCIS SIARD (Software Independent Archiving of Relational Databases)](https://dilcis.eu/specifications/sip)  
+Det generella europeiska formatet för att lagra relationsdatabaser oberoende av ursprunglig databasmotor.
 
 #### Områdesspecifika metadatastrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
 
