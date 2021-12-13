@@ -15,6 +15,9 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
     * [Licenser och immaterialrätt](#opendata-licenser)
     * [Publicering och förvaltning av öppna data](#opendata-publicering)
     * [Samverkan kring öppna data](#opendata-sameverkan)
+* Öppna informationsstrukturer
+    * [Generella metadatastrukturer](#openmeta-gen-metadata)
+    * [Områdesspecifika metadatastrukturer](#openmeta-spec-metadata)
 * Öppen programvara
     * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
     * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
@@ -92,6 +95,13 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Sammanfattning från workshop 15/9 2020 | Jerry Löfvenhaft (Samtrafiken) | Se även: [Presentation](uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsnätverk_Trafiklab_1.0.pdf) | [Inspelning](https://youtu.be/-agLPUX5i9Q?t=3655)]
 * [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)  
 [Extern resurs | Författare/avsändare: Johan Linåker och Per Runeson, Lunds Universitet]
+
+### Öppna informationsstrukturer
+
+---
+
+#### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="#openmeta-gen-metadata"></a> - [till toppen](#topp)
+
 
 ### Öppen programvara
 
