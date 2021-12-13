@@ -109,7 +109,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 #### Generella informationsstrukturer<a name="openmeta-gen-metadata"></a> - [till toppen](#topp)
 * [Europeiska standarden DILCIS E-ARK Submission Information Package (SIP)](https://dilcis.eu/specifications/sip)  
 [Det generella europeiska formatet för att leverera arkivpaket till ett eArkiv.]
-* [Europeiska standarden DILCIS Software Independent Archiving of Relational Databases (SIARD)](https://dilcis.eu/specifications/sip)  
+* [Europeiska standarden DILCIS Software Independent Archiving of Relational Databases (SIARD)](https://dilcis.eu/content-types/cs-siard)  
 [Det generella europeiska formatet för att lagra relationsdatabaser oberoende av ursprunglig databasmotor.]
 * [General Information about Package (GIP)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/General-Information-about-Package)  
 [Ett generellt metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare.]
