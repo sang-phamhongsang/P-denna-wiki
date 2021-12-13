@@ -17,8 +17,8 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
     * [Samverkan kring öppna data](#opendata-sameverkan)
 * Öppna informationsstrukturer
     * [Allmänna resurser och kunskap kring öppna informationsstrukturer](#openmeta-allmannaresurser)
-    * [Generella metadatastrukturer](#openmeta-gen-metadata)
-    * [Områdesspecifika metadatastrukturer](#openmeta-spec-metadata)
+    * [Generella informationsstrukturer](#openmeta-gen-metadata)
+    * [Områdesspecifika informationsstrukturer](#openmeta-spec-metadata)
 * Öppen programvara
     * [Generella resurser och kunskap kring öppen programvara](#opensource-allmannaresurser)
     * [Policys och vägledningar kring öppen programvara inom offentlig sektor](#opensource-policys)
@@ -103,10 +103,11 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="openmeta-allmannaresurser"></a> - [till toppen](#topp)
 
+* [Öppen informationsarkitektur]
 * [Europeiska informationsstrukturen DILCIS E-ARK Common Specification for Information Packages (CSIP)](https://dilcis.eu/specifications)  
 Det generella europeiska informationsstrukturen för att lagra (arkiv)paket.
 
-#### Generella metadatastrukturer<a name="openmeta-gen-metadata"></a> - [till toppen](#topp)
+#### Generella informationsstrukturer<a name="openmeta-gen-metadata"></a> - [till toppen](#topp)
 
 * [Europeiska standarden DILCIS E-ARK Submission Information Package (SIP)](https://dilcis.eu/specifications/sip)  
 Det generella europeiska formatet för att leverera arkivpaket till ett eArkiv.
@@ -115,7 +116,7 @@ Det generella europeiska formatet för att lagra relationsdatabaser oberoende av
 * [General Information about Package (GIP)]
 Ett generellt metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare.
 
-#### Områdesspecifika metadatastrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
+#### Områdesspecifika informationsstrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
 * [UBL]
 * [CITS eHealth1 Patient Medical Records]
 * [CITS Geospatial]
