@@ -115,9 +115,14 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Ett generellt metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare.]
 
 #### Områdesspecifika informationsstrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
-* [UBL]
-* [CITS eHealth1 Patient Medical Records]
-* [CITS Geospatial]
+* [Unified Business Language](http://ubl.xml.org/)  
+[Struktur för att utbyta affärsinformation, såsom fakturor och köporder. Se även Peppol.]
+* [Svensk profil av Peppol för att utbyta affärsinformation](https://peppol.eu/what-is-peppol/peppol-country-profiles/sweden-country-profile/) 
+[Svensk profil för att utbyta affärsinformation där DIGG är så kallad Peppol Authority.]
+* [CITS eHealth1 Patient Medical Records](https://dilcis.eu/content-types/cits-ehealth1-patient-medical-records)  
+[Förslag på struktur för att lagra vårdinformation.]
+* [CITS Geospatial](https://dilcis.eu/content-types/cs-geospatial-data)  
+[Europeisk struktur för att lagra GIS-data.]
 
 ---
 
