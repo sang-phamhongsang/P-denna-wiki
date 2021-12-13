@@ -117,7 +117,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 #### Områdesspecifika informationsstrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
 * [Unified Business Language](http://ubl.xml.org/)  
 [Struktur för att utbyta affärsinformation, såsom fakturor och köporder. Se även Peppol.]
-* [Svensk profil av Peppol för att utbyta affärsinformation](https://peppol.eu/what-is-peppol/peppol-country-profiles/sweden-country-profile/) 
+* [Svensk profil av Peppol för att utbyta affärsinformation](https://peppol.eu/what-is-peppol/peppol-country-profiles/sweden-country-profile/)  
 [Svensk profil för att utbyta affärsinformation där DIGG är så kallad Peppol Authority.]
 * [CITS eHealth1 Patient Medical Records](https://dilcis.eu/content-types/cits-ehealth1-patient-medical-records)  
 [Förslag på struktur för att lagra vårdinformation.]
