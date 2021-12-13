@@ -16,6 +16,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
     * [Publicering och förvaltning av öppna data](#opendata-publicering)
     * [Samverkan kring öppna data](#opendata-sameverkan)
 * Öppna informationsstrukturer
+    * [Allmänna resurser och kunskap kring öppna informationsstrukturer](#openmeta-allmannaresurser)
     * [Generella metadatastrukturer](#openmeta-gen-metadata)
     * [Områdesspecifika metadatastrukturer](#openmeta-spec-metadata)
 * Öppen programvara
@@ -100,7 +101,7 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 ### Öppna informationsstrukturer
 
-#### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="#openmeta-gen-metadata"></a> - [till toppen](#topp)
+#### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="openmeta-allmannaresurser"></a> - [till toppen](#topp)
 
 ---
 
