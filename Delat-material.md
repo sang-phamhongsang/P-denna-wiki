@@ -2,7 +2,7 @@ Detta är en sammanställning för det material som har delats eller producerats
 
 Generellt delar vi in materialet i tre kategorier
 * **Workshops-presentationer** vi håller inom nätverket
-* **Community-resurser** som vi utveckar gemensamt och delar kunskap inom
+* **Community-resurser** som vi utvecklar gemensamt och delar kunskap inom
 * **Externa resurser**, dvs. material som författas och underhålls utanför nätverkets regi
 
 Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. Inkludera gärna titel, avsändare/författare, beskrivning, licens för materialet och länk till det.
