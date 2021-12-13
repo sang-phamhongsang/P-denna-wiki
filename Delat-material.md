@@ -112,8 +112,13 @@ Det generella europeiska informationsstrukturen för att lagra (arkiv)paket.
 Det generella europeiska formatet för att leverera arkivpaket till ett eArkiv.
 * [Europeiska standarden DILCIS Software Independent Archiving of Relational Databases (SIARD)](https://dilcis.eu/specifications/sip)  
 Det generella europeiska formatet för att lagra relationsdatabaser oberoende av ursprunglig databasmotor.
+* [General Information about Package (GIP)]
+Ett generellt metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare.
 
 #### Områdesspecifika metadatastrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
+* [UBL]
+* [CITS eHealth1 Patient Medical Records]
+* [CITS Geospatial]
 
 ---
 
