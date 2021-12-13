@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Denna fil används för att testa XSD. OBS! Används inte för skarp ingest pga av sökvägen för schemaLocation. -->
+<giprep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tullverket.se/schemas/giprep giprep_4.0.xsd"
+	xmlns="http://www.tullverket.se/schemas/giprep"
+    version="4.0">
+	
+    <originalID>21</originalID>
+    <originalName>Aktiv Förädling 1234 W123456789</originalName>
+    <usageType>OKÄNT</usageType>
+    <language>sv</language>
+    <administrativeNotes>Testdata.</administrativeNotes>
+
+    <contentDescription>Aktiv Förädling 1234</contentDescription>
+    <contentType>Inkommet email</contentType>
+    <contentPersons>Karl Karlsson 121212-1212 kontaktperson, Stina Olofsson övrig</contentPersons>
+    <contentOrganisations>Import AB 555555-5555, Export AB 565656-5656</contentOrganisations>
+    <contentProducts>plastskivor, pvc12345</contentProducts>
+    <contentLocations>Helsingör</contentLocations>
+	<contentAdministrativeOfficials>Birgit Birgersson BB1, Fredrik Fredriksson FF4</contentAdministrativeOfficials> 
+	<contentAdministrativeUnits>Kontor: Lillvägen 12, Fårhagen </contentAdministrativeUnits>
+    <contentArrivedDate>2000-01-29</contentArrivedDate>
+    <contentEstablishedDate>2000-01-20</contentEstablishedDate>
+    <contentSentDate>2000-02-03</contentSentDate>
+	<contentDecisionDate>2000-02-03</contentDecisionDate>
+	<contentExtraDate>2000-01-29</contentExtraDate>
+	<contentExtraDateType>Brottsdatum</contentExtraDateType>
+    <contentOtherTimes>Ursprungsår: 1999, IN: 2001-01-01</contentOtherTimes>
+    <contentKeywords>12345, dimension 34x34</contentKeywords>
+    <contentNotes>Rutin 1234</contentNotes>
+	
+</giprep>
