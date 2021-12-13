@@ -104,16 +104,16 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 #### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="openmeta-allmannaresurser"></a> - [till toppen](#topp)
 * [Öppen informationsarkitektur]
 * [Europeiska informationsstrukturen DILCIS E-ARK Common Specification for Information Packages (CSIP)](https://dilcis.eu/specifications)  
-Det generella europeiska informationsstrukturen för att lagra (arkiv)paket.
+[Det generella europeiska informationsstrukturen för att lagra (arkiv)paket.]
 
 #### Generella informationsstrukturer<a name="openmeta-gen-metadata"></a> - [till toppen](#topp)
 * [General Information about Package, GIP]
 (https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/General-Information-about-Package)  
-Ett generellt metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare.
-* [Europeiska standarden DILCIS E-ARK Submission Information Package, SIP](https://dilcis.eu/specifications/sip)  
-Det generella europeiska formatet för att leverera arkivpaket till ett eArkiv.
+[Ett generellt metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare.]
+* [Europeiska standarden DILCIS E-ARK Submission Information Package, SIP](https://dilcis.eu/specifications/sip)
+[Det generella europeiska formatet för att leverera arkivpaket till ett eArkiv.]
 * [Europeiska standarden DILCIS Software Independent Archiving of Relational Databases, SIARD](https://dilcis.eu/specifications/sip)  
-Det generella europeiska formatet för att lagra relationsdatabaser oberoende av ursprunglig databasmotor.
+[Det generella europeiska formatet för att lagra relationsdatabaser oberoende av ursprunglig databasmotor.]
 
 #### Områdesspecifika informationsstrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
 * [UBL]
