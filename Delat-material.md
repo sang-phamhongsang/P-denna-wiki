@@ -29,7 +29,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
 
 ---
 
-#### Allmänna resurser och kunskap kring öppna data<a name="opendata-almannaresurser"></a> - [till toppen](#topp)
+#### Allmänna resurser och kunskap kring öppna data<a name="opendata-allmannaresurser"></a> - [till toppen](#topp)
 * [Att tillgängliggöra information i form av öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data)  
 DIGGs stöd kring öppna data, t.ex. nationella principer och vägledningar.
 * [Benchmarking - från data till samhällsnytta](Benchmarking 2019)  
