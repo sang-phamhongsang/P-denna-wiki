@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Swedish Customs, General Information about Package (GIP) Metadata Schema
+    Version: 4.0
+    Date: 2021-09-16
+    Publisher: Swedish Customs
+    Editors: Magnus Wåhlberg (Swedish Customs)
+    Revision history:
+    2018-12-17 Version 2.0, Magnus Wåhlberg (Swedish Customs), Göran Lindqvist (Sogeti)
+    2020-05-08 Version 3.0, Magnus Wåhlberg (Swedish Customs)
+    2021-09-16 Version 4.0, Magnus Wåhlberg (Swedish Customs)
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    targetNamespace="http://www.tullverket.se/schemas/gip" 
+    xmlns="http://www.tullverket.se/schemas/gip" 
+    elementFormDefault="qualified"
+    version="4.0">
+
+    <!-- I. Defintions of elements. -->
+    <!-- Ia. Definition of simple elements for management. -->
+    <xs:element name="submissionAgreementID" type="string-check_1_255"/>
+    <xs:element name="creator" type="string-check_1_255"/>
+    <xs:element name="originalID" type="string-check_1_255"/>
+    <xs:element name="originalName" type="string-check_1_255"/>
+    <xs:element name="packageType" type="packageType-restriction"/>
+    <xs:element name="packageVersion" type="string-check_1_255"/>
+    <xs:element name="informationOwner" type="string-check_0_255"/>
+    <xs:element name="securityClassification" type="securityClassification-restriction"/>
+    <xs:element name="legal" type="string-check_0_4000"/>
+    <xs:element name="retentionStartDate" type="retentionStartDate-check"/>
+    <xs:element name="retentionStartDateType" type="string-check_0_255"/>
+    <xs:element name="administrativeNotes" type="string-check_0_4000"/>
+
+    <!-- Ib. Definition of simple elements for content description. -->
+    <xs:element name="contentDescription" type="string-check_0_4000"/>
+    <xs:element name="contentType" type="string-check_0_255"/>
+    <xs:element name="contentPersons" type="string-check_0_4000"/>
+    <xs:element name="contentOrganisations" type="string-check_0_4000"/>
+    <xs:element name="contentProducts" type="string-check_0_4000"/>
+    <xs:element name="contentLocations" type="string-check_0_4000"/>
+    <xs:element name="contentAdministrativeOfficials" type="string-check_0_4000"/>
+    <xs:element name="contentAdministrativeUnits" type="string-check_0_4000"/>
+    <xs:element name="contentArrivedDate" type="date-check"/>
+    <xs:element name="contentCreatedDate" type="date-check"/>
+    <xs:element name="contentClosedDate" type="date-check"/>
+	<xs:element name="contentExtraDate" type="date-check"/>
+    <xs:element name="contentExtraDateType" type="string-check_0_255"/>
+    <xs:element name="contentOtherTimes" type="string-check_0_4000"/>
+    <xs:element name="contentKeywords" type="string-check_0_4000"/>
+    <xs:element name="contentNotes" type="string-check_0_4000"/>
+	
+    <!-- Ic. Definition of simple elements for relationships. -->
+    <xs:element name="relations" type="string-check_0_4000"/>
+
+
+    <!-- II. Restrictions for elements. -->
+    <!-- Length restriction for strings, min 0 and max 255 characters. -->
+    <xs:simpleType name="string-check_0_255">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="255"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Length restriction for strings, min 1 and max 255 characters. -->
+    <xs:simpleType name="string-check_1_255">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="255"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Length restriction for strings, min 0 and max 4000 unicode characters. -->
+	<!-- Limit based on performance of data types in many databases. -->
+    <xs:simpleType name="string-check_0_4000">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="4000"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!--  Allowed values for package type. -->
+    <xs:simpleType name="packageType-restriction">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ARCHIVE"/>
+            <xs:enumeration value="COLLECTION"/>
+            <xs:enumeration value="DATABASE"/>
+            <xs:enumeration value="DATA SET"/>
+			<xs:enumeration value="CASE"/>
+            <xs:enumeration value="RECORD"/>
+            <xs:enumeration value="DOCUMENT"/>
+            <xs:enumeration value="OBJECT"/>
+            <xs:enumeration value="AVMEDIA"/>
+            <xs:enumeration value="GIS"/>
+            <xs:enumeration value="CAD"/>
+            <xs:enumeration value="PRODUCT"/>
+            <xs:enumeration value="SOURCE CODE"/>
+            <xs:enumeration value="CONTEXT"/>
+            <xs:enumeration value="OTHER"/>
+            <xs:enumeration value="UNKNOWN"/>
+            <xs:enumeration value="ARKIV"/>
+            <xs:enumeration value="SAMLING"/>
+            <xs:enumeration value="DATABAS"/>
+            <xs:enumeration value="DATASET"/>
+            <xs:enumeration value="ÄRENDEAKT"/>
+			<xs:enumeration value="HANDLING"/>
+            <xs:enumeration value="DOKUMENT"/>
+            <xs:enumeration value="OBJEKT"/>
+            <xs:enumeration value="AUDIOVIDEO"/>
+            <xs:enumeration value="PRODUKT"/>
+            <xs:enumeration value="KÄLLKOD"/>
+            <xs:enumeration value="KONTEXT"/>
+            <xs:enumeration value="ANNAT"/>
+            <xs:enumeration value="OKÄNT"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Allowed values for Security Classification Schemas. -->
+    <xs:simpleType name="securityClassification-restriction">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="PUBLIK"/>
+            <xs:enumeration value="ÖPPEN"/>
+            <xs:enumeration value="BEGRÄNSAT SKYDDSVÄRDE"/>
+            <xs:enumeration value="HÖGT SKYDDSVÄRDE"/>
+            <xs:enumeration value="MYCKET HÖGT SKYDDSVÄRDE"/>
+            <xs:enumeration value="INGEN"/>
+            <xs:enumeration value="MÅTTLIG"/>
+            <xs:enumeration value="BETYDANDE"/>
+            <xs:enumeration value="ALLVARLIG"/>
+            <xs:enumeration value="SYNNERLIG ALLVARLIG"/>
+            <xs:enumeration value="BEGRÄNSAT HEMLIG"/>
+            <xs:enumeration value="KONFIDENTIELL"/>
+            <xs:enumeration value="HEMLIG"/>
+            <xs:enumeration value="KVALIFICERAT HEMLIG"/>
+            <xs:enumeration value="EU PUBLIC"/>
+            <xs:enumeration value="EU RESTRICTED"/>
+            <xs:enumeration value="EU CONFIDENTIAL"/>
+            <xs:enumeration value="EU SECRET"/>
+            <xs:enumeration value="EU TOP SECRET"/>
+            <xs:enumeration value="NATO PUBLIC"/>
+            <xs:enumeration value="NATO RESTRICTED (NR)"/>
+            <xs:enumeration value="NATO CONFIDENTIAL (NC)"/>
+            <xs:enumeration value="NATO SECRET (NS)"/>
+            <xs:enumeration value="COSMIC TOP SECRET (CTS)"/>
+        </xs:restriction>
+    </xs:simpleType>
+	
+    <!-- Restriction for Retention Start Date, YYYY-MM-DD -->
+    <xs:simpleType name="retentionStartDate-check">
+        <xs:restriction base="xs:date">
+        </xs:restriction>
+    </xs:simpleType>
+	
+	<!-- Restriction for Date, YYYY-MM-DD -->
+    <xs:simpleType name="date-check">
+        <xs:restriction base="xs:date">
+        </xs:restriction>
+    </xs:simpleType>
+	
+    <!-- Restriction for Date and Time, YYYY-MM-DDThh:mm:ss+ZZ:ZZ -->
+    <xs:simpleType name="datetime-check">
+	<xs:restriction base="xs:dateTime">
+        </xs:restriction>
+    </xs:simpleType>
+
+
+    <!-- III. Root element and data structure. -->
+    <xs:element name="gip">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Simple elements for management. -->
+                <xs:element ref="submissionAgreementID"/>
+                <xs:element ref="creator"/>
+                <xs:element ref="originalID"/>
+                <xs:element ref="originalName"/>
+                <xs:element ref="packageType"/>
+                <xs:element ref="packageVersion"/>
+                <xs:element ref="informationOwner" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="securityClassification"/>
+                <xs:element ref="legal" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="retentionStartDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="retentionStartDateType" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="administrativeNotes" minOccurs="0" maxOccurs="1"/>
+				
+                <!-- Simple elements for content description. -->
+                <xs:element ref="contentDescription" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentType" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentPersons" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentOrganisations" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentProducts" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentLocations" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentAdministrativeOfficials" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentAdministrativeUnits" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentArrivedDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentCreatedDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentClosedDate" minOccurs="0" maxOccurs="1"/>
+				<xs:element ref="contentExtraDate" minOccurs="0" maxOccurs="1"/>
+				<xs:element ref="contentExtraDateType" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentOtherTimes" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentKeywords" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentNotes" minOccurs="0" maxOccurs="1"/>
+				
+                <!-- Simple element for relationships. -->
+                <xs:element ref="relations" minOccurs="0" maxOccurs="1"/>
+				
+            </xs:sequence>
+            <!-- Version of GIP Schema. -->
+            <xs:attribute name="version" type="xs:string" fixed="4.0"/>
+        </xs:complexType>
+    </xs:element>
+	
+</xs:schema>
