@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Swedish Customs, General Information about Package REPresentration (GIPREP) Metadata Schema
+    Version: 4.0
+    Date: 2021-09-16
+    Publisher: Swedish Customs
+    Editors: Magnus Wåhlberg (Swedish Customs)
+    Revision history:
+    2018-12-17 Version 2.0: A subset of the Dublin Core Metadata Set, called "GREP" created by Göran Lindqvist (Sogeti)
+    2020-05-08 Version 3.0: The full Dublin Core Metadata Set according to the Dublin Core Metadata Initiative
+    2021-09-16 Version 4.0: Totally new structure (GIPREP) for the representation level created by Magnus Wåhlberg (Swedish Customs)
+-->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    targetNamespace="http://www.tullverket.se/schemas/giprep"
+    xmlns="http://www.tullverket.se/schemas/giprep"
+    elementFormDefault="qualified"
+    version="4.0">
+
+    <!-- I. Defintions of elements. -->
+    <!-- Ia. Definition of simple elements for management. -->
+    <xs:element name="originalID" type="string-check_1_255"/>
+    <xs:element name="originalName" type="string-check_1_255"/>
+    <xs:element name="usageType" type="usageType-restriction"/>
+    <xs:element name="language" type="language-restriction"/>
+    <!-- Retention elements. For possible future use. -->
+    <xs:element name="retentionStartDate" type="retentionStartDate-check"/>
+    <xs:element name="retentionStartDateType" type="string-check_0_255"/>
+    <xs:element name="administrativeNotes" type="string-check_0_4000"/>
+
+    <!-- Ib. Definition of simple elements for content description. -->
+    <xs:element name="contentDescription" type="string-check_0_4000"/>
+    <xs:element name="contentType" type="string-check_0_255"/>
+    <xs:element name="contentPersons" type="string-check_0_4000"/>
+    <xs:element name="contentOrganisations" type="string-check_0_4000"/>
+    <xs:element name="contentProducts" type="string-check_0_4000"/>
+    <xs:element name="contentLocations" type="string-check_0_4000"/>
+    <xs:element name="contentAdministrativeOfficials" type="string-check_0_4000"/>
+    <xs:element name="contentAdministrativeUnits" type="string-check_0_4000"/>
+    <xs:element name="contentArrivedDate" type="date-check"/>
+    <xs:element name="contentEstablishedDate" type="date-check"/>
+    <xs:element name="contentSentDate" type="date-check"/>
+    <xs:element name="contentDecisionDate" type="date-check"/>
+    <xs:element name="contentExtraDate" type="date-check"/>
+    <xs:element name="contentExtraDateType" type="string-check_0_255"/>
+    <xs:element name="contentOtherTimes" type="string-check_0_4000"/>
+    <xs:element name="contentKeywords" type="string-check_0_4000"/>
+    <xs:element name="contentNotes" type="string-check_0_4000"/>
+	
+
+    <!-- II. Restrictions for elements. -->
+    <!-- Length restriction for strings, min 0 and max 255 characters. -->
+    <xs:simpleType name="string-check_0_255">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="255"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Length restriction for strings, min 1 and max 255 characters. -->
+    <xs:simpleType name="string-check_1_255">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:maxLength value="255"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Length restriction for strings, min 0 and max 4000 unicode characters. -->
+	<!-- Limit based on performance of data types in many databases. -->
+    <xs:simpleType name="string-check_0_4000">
+        <xs:restriction base="xs:string">
+            <xs:maxLength value="4000"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!--  Allowed values for usage type. -->
+    <xs:simpleType name="usageType-restriction">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ORIGINAL"/>
+            <xs:enumeration value="PRESERVATION"/>
+            <xs:enumeration value="ACCESS"/>
+            <xs:enumeration value="DOCUMENTATION"/>
+            <xs:enumeration value="MIXED"/>
+            <xs:enumeration value="OTHER"/>
+            <xs:enumeration value="UNKNOWN"/>
+            <xs:enumeration value="BEVARANDE"/>
+            <xs:enumeration value="SPRIDNING"/>
+            <xs:enumeration value="DOKUMENTATION"/>
+            <xs:enumeration value="BLANDAT"/>
+            <xs:enumeration value="ANNAT"/>
+            <xs:enumeration value="OKÄNT"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Length restriction language, min 2 and max 5 characters. -->
+    <xs:simpleType name="language-restriction">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="2"/>
+            <xs:maxLength value="5"/>
+        </xs:restriction>
+    </xs:simpleType>
+	
+    <!-- Restriction for Retention Start Date, YYYY-MM-DD -->
+	<xs:simpleType name="retentionStartDate-check">
+        <xs:restriction base="xs:date">
+        </xs:restriction>
+    </xs:simpleType>
+	
+    <!-- Restriction for Date, YYYY-MM-DD -->
+    <xs:simpleType name="date-check">
+	    <xs:restriction base="xs:date">
+        </xs:restriction>
+    </xs:simpleType>
+
+
+    <!-- III. Root element and data structure. -->
+    <xs:element name="giprep">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Simple elements for management. -->
+                <xs:element ref="originalID"/>
+                <xs:element ref="originalName" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="usageType"/>
+                <xs:element ref="language" minOccurs="0" maxOccurs="1"/>
+				
+                <!-- Retention elements. For possible future use. -->
+                <xs:element ref="retentionStartDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="retentionStartDateType" minOccurs="0" maxOccurs="1"/>
+				
+                <xs:element ref="administrativeNotes" minOccurs="0" maxOccurs="1"/>
+				
+                <!-- Simple elements for content description -->
+                <xs:element ref="contentDescription" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentType" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentPersons" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentOrganisations" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentProducts" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentLocations" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentAdministrativeOfficials" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentAdministrativeUnits" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentArrivedDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentEstablishedDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentSentDate" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentDecisionDate" minOccurs="0" maxOccurs="1"/>
+				<xs:element ref="contentExtraDate" minOccurs="0" maxOccurs="1"/>
+				<xs:element ref="contentExtraDateType" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentOtherTimes" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentKeywords" minOccurs="0" maxOccurs="1"/>
+                <xs:element ref="contentNotes" minOccurs="0" maxOccurs="1"/>
+				
+            </xs:sequence>
+	        <!-- Version of GIPREP Schema -->
+            <xs:attribute name="version" type="xs:string" fixed="4.0"/>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
