@@ -103,6 +103,10 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 
 #### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="openmeta-allmannaresurser"></a> - [till toppen](#topp)
 
+#### Generella metadatastrukturer<a name="openmeta-gen-metadata"></a> - [till toppen](#topp)
+
+#### Områdesspecifika metadatastrukturer<a name="openmeta-spec-metadata"></a> - [till toppen](#topp)
+
 ---
 
 ### Öppen programvara
