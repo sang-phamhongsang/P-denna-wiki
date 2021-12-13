@@ -25,9 +25,9 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
     * [Intresseorganisationer kring Öppen Programvara](#opensource-groups)
     * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
 
-### Öppna data
-
 ---
+
+### Öppna data
 
 #### Allmänna resurser och kunskap kring öppna data<a name="opendata-allmannaresurser"></a> - [till toppen](#topp)
 * [Att tillgängliggöra information i form av öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data)  
@@ -96,16 +96,15 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 * [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)  
 [Extern resurs | Författare/avsändare: Johan Linåker och Per Runeson, Lunds Universitet]
 
-### Öppna informationsstrukturer
-
 ---
+
+### Öppna informationsstrukturer
 
 #### Allmänna resurser och kunskap kring öppna informationsstrukturer<a name="#openmeta-gen-metadata"></a> - [till toppen](#topp)
 
+---
 
 ### Öppen programvara
-
----
 
 #### Generella resurser och kunskap kring öppen programvara<a name="opensource-allmannaresurser"></a> - [till toppen](#topp)
 * [Introduktion till öppen programvara och samspelet med öppna data](/Introduktion-till-öppen-programvara-och-samspelet-med-öppna-data)  
