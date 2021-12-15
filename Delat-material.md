@@ -7,6 +7,9 @@ Generellt delar vi in materialet i tre kategorier
 
 Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. Inkludera gärna titel, avsändare/författare, beskrivning, licens för materialet och länk till det.
 
+## Hitta tidigare presentationer
+ [Till föregående workshops](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie)
+
 ## Innehåll och översikt<a name="topp"></a>
 
 * Öppna data
