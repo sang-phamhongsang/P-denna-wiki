@@ -9,7 +9,7 @@ Du som är intresserad av meetup-serien kan bidra på två sätt:
 
 Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
 
-[Kontakta oss för bidrag.](mailto:maria.dalhage@arbetsformedlingen.se) 
+[Kontakta oss för bidrag.](mailto:maria.dalhage@digg.se) 
 
 ## Våren 2022 Digitala Workshops 
 
@@ -23,7 +23,8 @@ Några förslag på teman:
 
 
 # Kommande Digitala workshops
-#1 feb kl 10-11 ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” samt vikten av intern styrning och stöd kring öppen källkod" Jari Koponen från Sundsvalls kommun delar erfarenheter.
+# 1 feb kl 10-11 "Open by default"
+ ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
  
