@@ -13,7 +13,7 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 ## Våren 2022 Digitala Workshops 
 
-Vi börjar planera vårens digitala workshops. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@arbetsformedlingen.se. 
+Vi börjar planera vårens digitala workshops. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@digg.se. 
 
 Några förslag på teman:
 
