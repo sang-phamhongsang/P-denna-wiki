@@ -23,6 +23,27 @@ Några förslag på teman:
 
 
 # Kommande Digitala workshops
+#1 feb kl 10-11 ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” samt vikten av intern styrning och stöd kring öppen källkod" Jari Koponen från Sundsvalls kommun delar erfarenheter.
+ 
+Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
+ 
+Moderator: Maria Dalhage, DIGG
+ 
+
+Agenda
+ 
+10:00-10:05 Intro 
+ 
+10:05-10:20 ”Open by default – Varför öppenhet är avgörande för kommunernas framtid”.  Jari Koponen från Sundsvalls kommun delar erfarenheter.
+ 
+10:20-10:30 Diskussion med Menti "Hur går vi från snack till verkstad och börja dela lösningar?"
+ 
+10:30-10:45 "Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod"
+ 
+10:45-10:55 Diskussion med Menti ”När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?”
+ 
+10:55-11:00 Outro
+
 
 # 11 jan kl 10-12 NOSAD retrospective. Hur kan vi förbättra nätverket?
 Bokningslänk kommer inom kort!
