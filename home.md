@@ -37,11 +37,6 @@ För att kunna fortsätta diskussionen även utanför våra träffar, gör ett i
 [Till diskussionsforumet](https://forum.jobtechdev.se/c/natverket-oppna-data-oppen-kallkod/)
 
 
-**Anslagstavlan**
-
-Ni som vill synas i detta forum med ett event, skicka ämne, datum och länk så annonserar vi ut detta vid våra mötestillfällen och på Gitlab.
-
-[Till Anslagstavlan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Anslagstavlan)
 
 **Vem är avsändare**  
 
