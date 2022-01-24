@@ -49,4 +49,4 @@ Ni som vill synas i detta forum med ett event, skicka ämne, datum och länk så
 
 JobTech Dev är [Arbetsförmedlingens](https://arbetsformedlingen.se/) öppna data-plattform som syftar till åstadkomma detta genom bildande av ett ekosystem med intressenter kopplat till den svenska arbetsmarknaden med målet att förbättra den digitala jobb-matchningen. Trafiklab är [Samtrafikens](https://samtrafiken.se/) motsvarande exempel på öppna data-plattform som syftar till att främja tekniska innovation kopplat till kollektivtrafiken i Sverige.
 
-[Kontakta oss.](mailto:maria.dalhage@arbetsformedlingen.se) 
+[Kontakta oss.](mailto:maria.dalhage@digg.se) 
