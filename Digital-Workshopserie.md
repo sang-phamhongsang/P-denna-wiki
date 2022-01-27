@@ -178,9 +178,8 @@ Presentation samt kort demonstration hur myndigheter offentliggör allmänna han
  
 **Nationell Metadataprofil Offentliga Handlingar** - Mattias Axell
 
-En specifikation på Dataportal.se för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. MetaSolutions 
-https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=
-2&t=20&f=&rt=spec_standard%24spec_profile
+En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. Presenterad av MetaSolutions AB. Länk till specifikation: 
+https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile
 
 [Boka plats](https://www.goto10.se/event/offentlighetsprincipen-fran-brakstake-till-basta-kompis/)
 
