@@ -23,6 +23,12 @@ Några förslag på teman:
 
 
 # Kommande Digitala workshops
+# 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
+ Mer information kommer.
+ 
+
+
+# Genomförda workshops
 # 1 feb kl 10-11 "Open by default"
  ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
@@ -39,7 +45,7 @@ Agenda
  
 10:20-10:30 Diskussion med Menti "Hur går vi från snack till verkstad och börja dela lösningar?"
  
-10:30-10:45 "Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod"
+10:30-10:45 "Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod" [2022-02-01_Open_by_default__Nosad.pptx](uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)
  
 10:45-10:55 Diskussion med Menti ”När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?”
  
@@ -49,7 +55,7 @@ Agenda
 # 11 jan kl 10-12 NOSAD retrospective. Hur kan vi förbättra nätverket?
 Bokningslänk kommer inom kort!
 
-# Genomförda workshops
+
 
 # 7 december kl 10-12 eArkiv Open Source 
 
