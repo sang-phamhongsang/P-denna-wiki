@@ -31,7 +31,7 @@ mer info kommer.
 
 # Genomförda workshops
 # 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
- ekniker och processer för att undvika supply chain-attacker – Martin Hell (Lunds universitet/Debricked)
+ **Tekniker och processer för att undvika supply chain-attacker** – Martin Hell (Lunds universitet/Debricked) [SupplyChain_NOSAD.pdf](uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
 
