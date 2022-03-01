@@ -1,10 +1,14 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
+![nosad](uploads/0b0ac90968eb39c59a4c0d9b4c321d2a/nosad.png)
+
+1. [Delta](#delta-i-våra-virtuella-workshops)
+
 # Nätverket för Kunskapsdelning kring Öppna Data
 
 > Upphovsmännen tror på att gå ifrån tankesättet att en organisation ska göra allting själva till att samarbeta i ekosystem. "Från Ego till Eko"
 
-**Varför detta nätverk?** 
+## Varför detta nätverk?
  
 Vinsterna är många; öppen innovation; kostnadseffektiv digitalisering; kompetensdelning; samverkan som ökar chansen till interoperabilitet mellan system och verksamheter.
 
@@ -12,7 +16,7 @@ Vi tror på att gå från Ego till Eko. Att öppet samarbeta kring vår informat
 
 Därför vill vi med detta nätverk bjuda in till kunskapsdelning och samverkan kring hur användande och samutveckling av öppna data och tillika öppen källkod och öppna standarder kan bidra till dessa vinster. Vårt mål är att hålla en praktisk tyngdpunkt och hjälpa och inspirera myndigheter i hur de kan ta nästa steg för att öka påverkan och driva på nyttiggörandet av deras öppna data.
 
-**Delta i våra virtuella workshops**
+## Delta i våra virtuella workshops
 
 Nätverket träffas regelbundet via virtuella workshops, första tisdagen varje månad. Första tillfället ägde rum 1/9 2020. 
  
