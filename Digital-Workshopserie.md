@@ -16,11 +16,14 @@ Vi börjar planera vårens digitala workshops. För er som vill påverka agendan
 
 
 # Kommande Digitala workshops 
-mer info kommer om nedan event.
+mer info kommer löpande.
 
 31 mars: Livslångt lärande. Ge input till pågående regeringsuppdrag.
+
 5 april: Logistikdaatalab inspirerar med privat/offentlig datadelning, digitala tvillingar och datadriven innovation. 
+
 3 maj: den digitala arenan?
+
 7 juni: metadata?
 
 
