@@ -2,7 +2,9 @@
 
 ![nosad](uploads/0b0ac90968eb39c59a4c0d9b4c321d2a/nosad.png)
 
-1. [Delta](#delta-i-våra-virtuella-workshops)
+1. [Delta på workshop](#delta-i-våra-virtuella-workshops)
+2. [Dela material](#dela-med-er-av-er-kunskap)
+2. [Diskutera i forumet](#delta-i-vårt-diskussionsforum)
 
 # Nätverket för Kunskapsdelning kring Öppna Data
 
@@ -24,7 +26,7 @@ Workshopserien handlar om hur myndigheter öppet kan samskapa och kunskapsdela k
 
 [Till workshopanmälan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie). (Här finner ni också tidigare presentationer.)
   
-**Dela med er av er kunskap**
+## Dela med er av er kunskap
 
 I samband med träffarna tar vi del av presentationer och diskuterar aktuella ämnen kopplat till öppen digitalisering. Inför, mellan och efter dessa workshops kommer vi samla på oss och sammanställa all form av kunskap och öppet dela på via nätverkets webbplats.
 
@@ -34,7 +36,7 @@ Läs vår [policy för att dela material.](https://gitlab.com/open-data-knowledg
 
 Till [delat material](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Delat-material)
 
-**Delta i vårt diskussionsforum**
+## Delta i vårt diskussionsforum
 
 För att kunna fortsätta diskussionen även utanför våra träffar, gör ett inlägg på vårt fråge- och diskussionsforum.
 
