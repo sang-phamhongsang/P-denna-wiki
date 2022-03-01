@@ -1,7 +1,6 @@
 **Om formatet**
 
-Varje digital workshop är på två timmar. Och kommer att hållas som ett interaktivt workshop. Hur många workshops det blir beror på intresse och hur många som vill bidra.
-Du som är intresserad av meetup-serien kan bidra på två sätt:
+Varje digital workshop är på en till två timmar. Och kommer att hållas som ett interaktivt workshop. Du som är intresserad av meetup-serien kan bidra på två sätt:
 
 1. Som deltagare - Bidra genom att vara med i diskussion
 2. Som anordnare - Bidra med en föreläsning på 10, 20, eller 30 min.
@@ -15,18 +14,15 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 Vi börjar planera vårens digitala workshops. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@digg.se. 
 
-Några förslag på teman:
-
-- Logistikdata
-- IT-säkerhet och open source 
-- AI och öppna algoritmer.
-
 
 # Kommande Digitala workshops 
-mer info kommer.
+mer info kommer om nedan event.
 
-31 mars Livslångt lärande.
-5 april
+31 mars: Livslångt lärande. Ge input till pågående regeringsuppdrag.
+5 april: Logistikdaatalab inspirerar med privat/offentlig datadelning, digitala tvillingar och datadriven innovation. 
+3 maj: den digitala arenan?
+7 juni: metadata?
+
 
 
 # Genomförda workshops
