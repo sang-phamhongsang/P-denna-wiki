@@ -22,13 +22,26 @@ Några förslag på teman:
 - AI och öppna algoritmer.
 
 
-# Kommande Digitala workshops
-# 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
- Mer information kommer.
- 
+# Kommande Digitala workshops 
+mer info kommer.
+
+31 mars Livslångt lärande.
+5 april
 
 
 # Genomförda workshops
+# 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
+ ekniker och processer för att undvika supply chain-attacker – Martin Hell (Lunds universitet/Debricked)
+
+Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
+
+**Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt** – Johan Linåker (Rise) [OSS-health-NOSAD.pdf](uploads/8f2b4b446d9dc2b1a253ffd54bf3875d/OSS-health-NOSAD.pdf)
+
+Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror till stor del på projektets förmåga att underhålla programvaran över en lång tid till en hög kvalitet, även kallat projektets hälsa. Hälsan går både att analysera och förbättra proaktivt vilket kan underlätta riskbedömning vid anskaffning av öppna programvarukomponenter, men även för att hantera risker för sårbarheter i projekt som är kritiska för ens verksamhet. Vi får här en introduktion både till hälsobegreppet i stort, samt hur analys och förebyggande åtgärder kan utföras.
+ 
+
+
+
 # 1 feb kl 10-11 "Open by default"
  ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
