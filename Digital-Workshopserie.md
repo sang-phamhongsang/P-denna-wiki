@@ -16,16 +16,26 @@ Vi börjar planera vårens digitala workshops. För er som vill påverka agendan
 
 
 # Kommande Digitala workshops 
-mer info kommer löpande.
 
-31 mars: Livslångt lärande. Ge input till pågående regeringsuppdrag.
+# 5 april kl 10-11 "Öppna data för ett hållbart godstransportsystem"
+ 
+På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och incitament att dela data för ett hållbart godstransportsystem. Bland annat kommer följande frågor att besvaras; På vilket sätt skiljer sig privata aktörer från offentlig sektor när det kommer till att dela öppen data?; Vilka incitament har privat sektor att dela data öppet?; Hur kan privat och offentlig sektor samarbeta för att möjliggöra för datadelning?  
 
-5 april: Logistikdaatalab inspirerar med privat/offentlig datadelning, digitala tvillingar och datadriven innovation. 
+På agendan
 
-3 maj: den digitala arenan?
+1. Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
+1. Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
+1. Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
+ 
+# 29 mars kl 10-12 Livslångt lärande - Ge input till pågående regeringsuppdrag.
 
-7 juni: metadata?
+Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
 
+**mer info kommer löpande.**
+
+**3 maj: den digitala arenan?**
+
+**7 juni: metadata?**
 
 
 # Genomförda workshops
