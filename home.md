@@ -1,7 +1,5 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
-![nosad](uploads/0b0ac90968eb39c59a4c0d9b4c321d2a/nosad.png)
-
 1. [Delta på workshop](#delta-i-våra-virtuella-workshops)
 2. [Dela material](#dela-med-er-av-er-kunskap)
 2. [Diskutera i forumet](#delta-i-vårt-diskussionsforum)
