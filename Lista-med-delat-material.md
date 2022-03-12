@@ -1,17 +1,26 @@
 [Att tillgängliggöra information i form av öppna data och data som delas](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data)
+
 _DIGGs stöd kring öppna data, t.ex. nationella principer och vägledningar_
+
 Digg
+
 Öppna data tillgängliggöra öppna data
 
 
 [Öppna data - en guide för beslutsfattare](https://internetstiftelsen.se/kunskap/rapporter-och-guider/oppna-data-guide-for-beslutsfattare/)
+
 _En kort guide med konkreta tips och förslag samt exempel från verkligheten för att ge inspiration som kan omsättas i praktisk handling. _
+
 Internetstiftelsen
+
 Öppna data beslutsfattare
 
 [DX inom ramen för Egendata](https://drive.google.com/file/d/1DtoodWKsoQJTtKaJilA1wGfr_Wk01p1v/view)
+
 _Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er._ Iteam för Egendata och Jobtech Development.
+
 Iteam, Arbetsförmedlingen, Jobtech
+
 Egendata, individdata
 
 
