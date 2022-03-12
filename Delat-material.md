@@ -5,7 +5,7 @@ Generellt delar vi in materialet i tre kategorier
 * **Community-resurser** som vi utvecklar gemensamt och delar kunskap inom
 * **Externa resurser**, dvs. material som författas och underhålls utanför nätverkets regi
 
-Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. Inkludera gärna titel, avsändare/författare, beskrivning, licens för materialet och länk till det.
+Vill du dela något? [Kontakta oss](mailto:maria.dalhage@digg.se) med en kort beskrivning av det som ska delas, så lägger vi upp ert bidrag. Inkludera gärna titel, avsändare/författare, beskrivning, licens för materialet och länk till det.
 
 ## Hitta tidigare presentationer
  [Till föregående workshops](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie)
@@ -28,6 +28,7 @@ Vill du dela något? [Kontakta oss](mailto:maria.dalhage@arbetsformedlingen.se) 
     * [Kataloger över öppen programvara inom offentlig sektor](#opensource-catalogs)
     * [Intresseorganisationer kring Öppen Programvara](#opensource-groups)
     * [Inspiration och exempel kring användning och utveckling av öppen programvara](#opensource-inspiration)
+* Öppna standarder
 
 ---
 
@@ -148,6 +149,10 @@ Ett tiotal utvecklare på Kodapor intervjuas om deras önskemål för API:er. Av
 [Extern resurs | Gratis E-bok om öppen programvaruutveckling]
 * [TODO group's open source guides](https://www.linuxfoundation.org/resources/open-source-guides/)  
 [Extern resurs | TODO-group, Linux Foundation]
+
+
+### Öppna standarder
+- [Kammarkollegiets lista Öppna standarder](https://www.avropa.se/globalassets/dokument/oppna-standarder---programvaror-och-tjanster.pdf)
 
 #### Policys och vägledningar kring öppen programvara inom offentlig sektor<a name="opensource-policys"></a> - [till toppen](#topp)
 
