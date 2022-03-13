@@ -1,8 +1,9 @@
+## NOSAD tipsar
 Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att maila NOSAD.
 
 **Innehållsförteckning**
 
-[TOC]
+[Stöd för att tillhandahålla öppna data](stöd-för-att-tillhandahålla-öppna-data)
 
 [Presentationer från tidigare NOSAD-event](url)
 
@@ -53,7 +54,7 @@ Beskrivning: Offentliga Sverige använder fler och fler open source-lösningar. 
  
 
 
-# Öppet arbetssätt
+## Öppet arbetssätt
 Beskrivning: I samband med datadelning blir det tydligt hur vi alla utgör delar av olika ekosystem. Digg har tagit fram sju principer som bl.a. trycker på vikten av öppet som standard. Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
 
 [Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
