@@ -1,11 +1,11 @@
 ## NOSAD tipsar
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. - [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
 
 **Innehållsförteckning**
 
 - [Stöd för att tillhandahålla öppna data](#stöd-för-att-tillhandahålla-öppna-data)
 - [Krav vid anskaffning av IT-system](#krav-vid-anskaffning-av-IT-system)
-- [Öppen källkod](#öppen-källkod)
+- [Öppen källkod som strategi](#öppen-källkod-som-strategi)
 - [Öppet arbetssätt](#öppet-arbetssätt)
 
 
@@ -34,7 +34,7 @@ De fem rekommendationerna från Högskolan i Skövde innehåller bland annat kra
 
  
 ## Öppen källkod som strategi 
-Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. Ta del av och använd i er resa mot en mer hållbar digitalisering.
+Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. 
 
 [eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
 
@@ -65,6 +65,6 @@ Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns? Hur 
 
 [Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
 
-## Bidra till listan
-Deltagarna i NOSAD bidrar till listan genom att [Kontakta NOSAD.](mailto:maria.dalhage@digg.se).
+### Bidra till listan
+Deltagarna i NOSAD bidrar till listan genom att [Kontakta NOSAD](mailto:maria.dalhage@digg.se).
 
