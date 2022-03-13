@@ -220,9 +220,10 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 
 
 ### 2 mars 2021: Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?
+[Videoinspelning](https://youtu.be/UvtX4e_qRWY)
 
 I denna workshop gör vi en utblick i omvärlden och får höra lärdomar och tips från andra länder i hur de har hanterat motsvarande frågor. Bl.a. hur Italien och Frankrike arbetar centraliserat på myndighetsnivå med att hjälpa, utbilda och guida myndigheter kring frågor som upphandling, kultur och utveckling av öppen programvara. Vi får även höra från den danska kommunföreningen OS2 och hur de samverkar sinsemellan och med leverantörer kring utveckling av öppen programvara.
-
+    
 Presentatörer:
 Leonardo Favario, Open Source Project Leader, Department for Digital Transformation (motsv. DIGG) i Italien
 
@@ -230,7 +231,6 @@ Bastien Guerry, Free Software Officer, Etalab (motsv. DIGG) i Frankrike
 
 Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 
-[Videoinspelning](https://youtu.be/UvtX4e_qRWY )
 
 ### 2 februari 2021: API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?
 
@@ -353,7 +353,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 - [JobTechDev - Jonas Södergren](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) (Arbetsförmedlingen) 
 
 - [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  
-- Diskussion i grupper: Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?
+- [Sammanställning av gruppdiskussioner på Jobtechs forum: Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?](https://forum.jobtechdev.se/t/workshop-2-samverkan-kring-offentlig-sektors-oppna-data-satsningar/147)
 
 
 
