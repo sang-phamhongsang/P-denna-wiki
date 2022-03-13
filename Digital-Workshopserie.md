@@ -72,7 +72,7 @@ Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp e
 Arbetsförmedlingen berättar om varför rapporten strategiska vägval gjordes för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. [Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
 - [Arbetet bakom kulisserna: Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
 - [Öppen källkod och Communitys för Digitalt bevarande.Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
-- Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
+- [Gruppdiskussioner](https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit)
 
 
 ### 12 oktober 2021: API-Playbook
@@ -276,7 +276,7 @@ Offentlig sektor satsar på nationella innovationstävlingar och hackathons med 
 - ChallengesGov.se – Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation - Angela Yong 
 - Hackathons för att adressera humanitära och sociala utmaningar - Lukas Leander OpenHack
 - Paneldebatt: Reflektioner från olika Hackathons 
-- Dialog/diskussion 
+-[Resultat från gruppdiskussioner](https://docs.google.com/document/d/1klOIjKj4tOT9KRaDjvE79_QzDl1H1WAROjsKUmjV3pM/edit)
 
 ### 27 november 2020: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
 
@@ -297,12 +297,13 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 - [Framtidens informationshantering - Caspar Almalander (SKR)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f7ba885d9d893344d97d91fd9054ea99/20201103_Meetup_-_Caspar_Almalander_SKR__1_.pdf) 
 - [Web 3.0 - När Internet når sin fulla potential - Daniel Dersén - Internetstiftelsen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4b61243df74686a1fa1abe71d8e9b7a7/web_3.0.pptx) 
 - [Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:er - Eric Hjelmestam (Nationell Skalning Öppna Data (NSÖD))/ Metasolutions och Peter Mankenskiöld  (NSÖD/Tieto/Evry)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)  
--  Diskussion i grupper: Hinder och vägar framåt
+-  [Diskussion i grupper: Hinder och vägar framåt](https://docs.google.com/document/d/1HxXL2f_EPVUyt8zNX3Upsb-7vYzz430NIqVchdGjaCQ/edit)
 
 
 
 ### 13 oktober 2020: Utfrågning Öppna datautredningen
 Inspelning https://www.youtube.com/watch?v=63l3-_WC7jc
+[Anteckningar och frågor från utfrågningen -Johan Linåker sammanfattar](https://docs.google.com/document/d/1uCEE1ErGnVhjvYtP4mqnfdk4Q7rcbfGE6jnWYtVfAT8/edit#heading=h.tbzprc33wdn)
 
 Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
 
