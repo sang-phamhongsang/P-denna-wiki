@@ -1,6 +1,6 @@
 Om denna sida: Syftet är att ge tillgång till bra stöd i form av länkar och- dokument som hjälper er vid ert arbete med datadelning och dataanvändning, val av open source och öppna standarder. Deltagarna i NOSAD bidrar till listan genom att lägga nya länkar innehåll sist i Bruttolistan nedan alt komma med ett förslag på rubriknivå. Kurering av sådana här listor är svårt.  Genom trial end error kommer vi fram till en hållbar version.
 
-[Presentationer från tidigare NOSAD-event](url))
+[Presentationer från tidigare NOSAD-event](url)
 
 # Stöd för att tillhandahålla öppna data
 Beskrivning: Diggs vägledning för att tillgängligöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du stödet [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
