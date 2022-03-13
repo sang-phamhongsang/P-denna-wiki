@@ -45,12 +45,11 @@ Moderator: Maria Dalhage, DIGG
 
 **Agenda**
  
-- Intro 
+- Inledning
 - [Open by default – Varför öppenhet är avgörande för kommunernas framtid.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)  Jari Koponen från Sundsvalls kommun delar erfarenheter.
 - Diskussion med Menti: Hur går vi från snack till verkstad och börja dela lösningar?
 - Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod
 - Diskussion med Menti: När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?
-- Outro
 
 
 ### 11 jan 2022: NOSAD retrospective. Hur kan vi förbättra nätverket?
@@ -62,7 +61,7 @@ Moderator: Maria Dalhage, DIGG
 
 ### 7 december 2021: eArkiv Open Source 
 
-Den 7 december är temat e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
+Temat är e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
 Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp ett community dels utifrån e-arkiv generellt men även e-arkiv baserat på öppen källkod specifikt.  Gå gärna in på dataportalens forum för community och bekanta er, ni hittar det här: https://community.dataportal.se/
 
 **Agenda**
@@ -74,8 +73,6 @@ Arbetsförmedlingen berättar om varför rapporten strategiska vägval gjordes f
 - [Arbetet bakom kulisserna: Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
 - [Öppen källkod och Communitys för Digitalt bevarande.Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
 - Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
-
-
 
 
 ### 12 oktober 2021: API-Playbook
