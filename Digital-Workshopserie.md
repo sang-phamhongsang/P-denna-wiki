@@ -374,6 +374,7 @@ Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att t
 - [Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
 - Frågor och öppen diskussion om rekommendationen 
 - Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
+[Sammanfattning och fortsatta diskussioner i Jobtechsforum.](https://forum.jobtechdev.se/t/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/120)
 
 
 
