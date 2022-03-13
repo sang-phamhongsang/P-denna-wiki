@@ -1,11 +1,12 @@
 # Stöd för dig som ska tillhandahålla öppna data
-Beskrivning: På Sveriges dataportal finns stöd, tjänster, för att tillgängliggöra datamängder via Sveriges dataportal. Rekommendation om öppna licenser beskriver hur du ska licensiera dina öppna data. 
+Beskrivning: Diggs vägledning för att tillgängligöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
-- Rekommendation om öppna licenser och immaterialrätt | DIGG
-- Vägledning för att tillgängliggöra information | DIGG
-- Vägledning för strategiska beslut och åtgärder | DIGG
-- Metadataspecifikation DCAT AP processorn
-- Dokumentation kring specifikationer och standarder
+[Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
+
+[Vägledning för att tillgängliggöra information | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)
+
+[Vägledning för strategiska beslut och åtgärder | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)
+
 
 
 # Att alltid tänka på vid kravställning av IT-system för att undvika inlåsningseffekter
