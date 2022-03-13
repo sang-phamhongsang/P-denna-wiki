@@ -435,18 +435,21 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 **Agenda**
 
-- Inledning till dagens workshop: Maria Dalhage [presentation](https://nosad.se)
-- Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander - DIGG (20 min [Presentation](uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)
-- Framtidens informationshantering - Caspar Almalander-SKR (20 min) [presentation](uploads/f7ba885d9d893344d97d91fd9054ea99/20201103_Meetup_-_Caspar_Almalander_SKR__1_.pdf)
-- Web 3.0 - När Internet når sin fulla potential: Daniel Dersén - Internetstiftelsen (10 min) [persentation](uploads/4b61243df74686a1fa1abe71d8e9b7a7/web_3.0.pptx)
-- Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:r -: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions och Peter Mankenskiöld - NSÖD/Tieto/Evry  (30 min) [presentation](uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)
+Inledning till dagens workshop: Maria Dalhage 
 
-- Diskussion i grupper: (30 min) - Hinder och vägar framåt
-- Gemensam reflektion (10 min)
+[Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)
+
+[Framtidens informationshantering - Caspar Almalander (SKR)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f7ba885d9d893344d97d91fd9054ea99/20201103_Meetup_-_Caspar_Almalander_SKR__1_.pdf) 
+[Web 3.0 - När Internet når sin fulla potential: Daniel Dersén - Internetstiftelsen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4b61243df74686a1fa1abe71d8e9b7a7/web_3.0.pptx) 
+
+[Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:r -: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions och Peter Mankenskiöld - NSÖD/Tieto/Evry](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)  
+
+Diskussion i grupper: Hinder och vägar framåt
+
 
 *Digg, Internetstiftelsen, SKR*
 
-[Boka](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
+[https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
 
 
 
@@ -474,6 +477,7 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 
 
 **Agenda**
+
 [Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_N%C3%A4tverket_Kunskapsdelning_%C3%96ppna_data_%C3%96ppen_k%C3%A4llkod.pdf)
 
 [Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/30cf0877919c5494d4532a288b1accac/Bortom_o%CC%88ppen_ka%CC%88llkod_2020.pdf) 
@@ -502,7 +506,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 **Agenda**
 
-- [Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) 
+Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) 
 - [Introduktion - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) 
 
 - [Vad säger forskningen? - Johan Linåker (Lunds universitet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) 
@@ -512,7 +516,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 - [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  
 - Diskussion i grupper **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
 
-[Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
+[https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
 
 
   
