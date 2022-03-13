@@ -1,5 +1,5 @@
 ## NOSAD tipsar
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. [Presentationer från tidigare NOSAD-event.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) och [Internationell omvärldsbevakning.](url)
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Se också [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) och [Internationell omvärldsbevakning.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Internationell-omv%C3%A4rldsbevakning)
 
 **Innehållsförteckning**
 
