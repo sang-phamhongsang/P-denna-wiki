@@ -7,8 +7,7 @@ Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hj
 - [Krav vid anskaffning av IT-system](#krav-vid-anskaffning-av-IT-system)
 - [Öppen källkod](#öppen-källkod)
 - [Öppet arbetssätt](#öppet-arbetssätt)
-
-[Presentationer från tidigare NOSAD-event](url)
+- [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie)
 
 ## Stöd för att tillhandahålla öppna data
 Beskrivning: Diggs vägledning för att tillgängliggöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du stödet [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
