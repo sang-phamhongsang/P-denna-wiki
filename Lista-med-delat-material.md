@@ -1,5 +1,5 @@
-# Stöd för dig som ska tillhandahålla öppna data
-Beskrivning: Diggs vägledning för att tillgängligöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
+# Stöd för att tillhandahålla öppna data
+Beskrivning: Diggs vägledning för att tillgängligöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du stödet [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
 [Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
 
@@ -9,17 +9,17 @@ Beskrivning: Diggs vägledning för att tillgängligöra information beskriver h
 
 
 
-# Att alltid tänka på vid kravställning av IT-system för att undvika inlåsningseffekter
-Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver kravställning av IT-system finns bra stöd. De fem rekommendationerna från Högskolan i Skövde innehåller krav på öppna standarder, en lista som hålls av Kammarkollegiet i ramvatalet XXX. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner.
+# Att alltid tänka på vid kravställning av IT-system för att undvika inlåsningseffekter av data samt leverantörsberoenden
+Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver kravställning av IT-system finns bra stöd. De fem rekommendationerna från Högskolan i Skövde innehåller krav på öppna standarder, en lista som hålls av Kammarkollegiet i ramvavtalet XXX. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner.
 
 [Fem rekommendationer för lyckad upphandling av öppen programvara | Högskolan i Skövde (mynewsdesk.com)](https://www.mynewsdesk.com/se/his/pressreleases/fem-rekommendationer-foer-lyckad-upphandling-av-oeppen-programvara-3108346)
 
-[Kammarkollegiets lista Öppna standarder](https://www.avropa.se/globalassets/dokument/oppna-standarder---programvaror-och-tjanster.pdf)
+[Lista öppna standarder | Kammarkollegiet](https://www.avropa.se/globalassets/dokument/oppna-standarder---programvaror-och-tjanster.pdf)
 
-[Icke funktionella krav- exempelkrav — OpenDataUmea ](https://opendata.umea.se/explore/dataset/icke-funktionella-exempelkrav0/table/?disjunctive.huvudkategori&disjunctive.underkategori&sort=krav_id)
+[Icke funktionella krav- exempelkrav | OpenDataUmea ](https://opendata.umea.se/explore/dataset/icke-funktionella-exempelkrav0/table/?disjunctive.huvudkategori&disjunctive.underkategori&sort=krav_id)
 
  
-# För anskaffning, användning och delning av open Source/öppen källkod
+# Inför anskaffning, användning och delning av open Source/öppen källkod
 Beskrivning: Länge har vi pratat open source och offentliga Sverige använder fler och fler open sourcelösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
 
 [eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
@@ -28,11 +28,11 @@ Beskrivning: Länge har vi pratat open source och offentliga Sverige använder f
 
 [Diggs policy för öppen programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)
 
-- [Analys av Diggs policy](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1457306&dswid=-3570)
+[Analys av Diggs policy | Björn Lundell, Högskolan i Skövde](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1457306&dswid=-3570)
 
-- [Sundsvalls Kommuns riktlinjer](https://github.com/Sundsvallskommun/riktlinjer-oppenkallkod/blob/main/riktlinje/README.md)
+[Sundsvalls Kommuns riktlinjer](https://github.com/Sundsvallskommun/riktlinjer-oppenkallkod/blob/main/riktlinje/README.md)
 
-- [Försäkringskassan riktlinjer](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
+[Försäkringskassan riktlinjer](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
 
 
 
