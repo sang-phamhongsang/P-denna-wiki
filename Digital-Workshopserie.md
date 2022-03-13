@@ -137,11 +137,10 @@ gör livet bättre och lättare för både myndigheter och medborgare.
 
 - Regeringens diarium - Robin Linderborg (DataStory), Per Hagström (Allmänhandling)
 - Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
-- OpenUp! - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG)
-- Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. 
+- OpenUp! Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG) 
 - Handlingar.se. Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. – Elenor Weijmar
-- [**Nationell Metadataprofil Offentliga Handlingar** - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) 
-- En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. Presenterad av MetaSolutions AB. 
+- [Nationell Metadataprofil Offentliga Handlingar. En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) 
+ 
 
 
 ### Onsdag 2 juni 2021 NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
@@ -286,7 +285,7 @@ Vad finns det för saker som behöver ses över i förslaget till lag om öppna 
 Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige
 
 
-### Tisdag 3 november 2020: Förvaltning och ansvar kring öppna data
+### 3 november 2020: Förvaltning och ansvar kring öppna data
 
 En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan. Hur säkerställer vi att alla dataset kan nås via ett samma ställe med liknande upplevelser trots att det finns många producenter av öppna data.
 
@@ -374,6 +373,7 @@ Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att t
 - [Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
 - Frågor och öppen diskussion om rekommendationen 
 - Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
+
 [Sammanfattning och fortsatta diskussioner i Jobtechsforum.](https://forum.jobtechdev.se/t/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/120)
 
 
