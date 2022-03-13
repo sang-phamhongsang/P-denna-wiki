@@ -8,7 +8,7 @@ Nätverkets (NOSAD) mål är att praktisk hjälpa och inspirera offentlig verksa
 
 1. Workshop
     * [Kalendarium](#kalendarium)
-    * [Ta del av inspelning och presentationer](#ta-del-av-mötens-utkomst-i-efterhand)
+    * [Ta del av inspelningar och presentationer](#ta-del-av-mötens-utkomst-i-efterhand)
     * [Nyhetsbrev](#nyhetsbrev)
 4. [Diskussionsforum](#diskussionsforum)
 5. [Omvärldsanalys och delat material](#omvärldsanalys-och-delat-material)
