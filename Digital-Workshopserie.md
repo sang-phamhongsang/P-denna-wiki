@@ -69,9 +69,8 @@ Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp e
 
 - Introduktion
 - [Fågelperspektivet (EU-perspektivet). För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
-- [Strategiska vägval för e-arkiv och digital informationshantering. Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.- Malin Åkerlund och Rickard Lundstedt](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf) Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
-- [nosad_press_arbetsformedlingen.pdf]
-- [Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
+- Strategiska vägval för e-arkiv och digital informationshantering. [Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.- Malin Åkerlund och Rickard Lundstedt](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf) 
+Arbetsförmedlingen berättar om varför rapporten strategiska vägval gjordes för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. [Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
 - [Arbetet bakom kulisserna: Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
 - [Öppen källkod och Communitys för Digitalt bevarande.Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
 - Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
@@ -185,7 +184,7 @@ Hur myndigheter kan beakta öppen källkod vid utveckling och anskaffning av pro
 Hälsa och säkerhet hos öppna källkodsprojekt
   - Brian Proffitt, Manager, Community Insights, Red Hat's Open Source Program Office
 
-1Inlåsning och öppna standarder   - Björn Lundell, Professor, Högskolan i Skövde 
+Inlåsning och öppna standarder - Björn Lundell, Professor, Högskolan i Skövde 
 
 Paneldiskussion "Hur möjliggör vi anskaffning och utveckling av öppen källkod inom offentlig sektor?"
   - Johan Thelin, Foss-north
@@ -255,8 +254,7 @@ Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla 
 - [Hur kan man presentera sina API:er med m.h.a. Swagger OpenAPI -Ulrika Domellöf Mattson](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3e85d58bf2ea7d4751c74162544d6ffb/NOSAD_Naturv%C3%A5rdsverket.pptx)
 - [Piotr Borowiec  (Naturvårdsverket) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8d89b853417b7accf2cd52370924f7fb/GreenTechDev_NOSAD_BACKUP.pptx)
 - [Hur kan man presentera sina data med hjälp av Jupyter Notebooks? Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet)](https://github.com/kevindeeboman/masters_project/blob/main/masters_project.ipynb) 
-- Diskussion i grupper:  
-- Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. Intro Jonas Södergren (NOSAD/Jobtech Development/AF)
+- Diskussion i grupper: Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. 
 - [Återsamling och redovisning från grupperna.](https://docs.google.com/document/d/1K9-QRRlT_cMYsE0dFc_ZrEv3drURupI3vH6fb3ckjoY/edit?ts=6017df32#heading=h.4d8paovmypfy) 
 
 
