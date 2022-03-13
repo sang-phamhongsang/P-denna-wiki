@@ -1,4 +1,4 @@
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att lägga nya länkar innehåll sist i Bruttolistan. Kurering sker löpande.
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att maila NOSAD.
 
 [Presentationer från tidigare NOSAD-event](url)
 
@@ -59,5 +59,3 @@ Beskrivning: I samband med datadelning blir det tydligt hur vi alla utgör delar
 Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder [Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf](uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
 
 
-
-## Bidra med Tips
