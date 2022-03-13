@@ -1,5 +1,5 @@
 ## NOSAD tipsar
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. [Presentationer från tidigare NOSAD-event.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
 
 **Innehållsförteckning**
 
