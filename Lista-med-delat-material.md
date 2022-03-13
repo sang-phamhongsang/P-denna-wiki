@@ -1,4 +1,4 @@
-Om denna sida: Syftet är att ge tillgång till bra stöd i form av länkar och- dokument som hjälper er vid ert arbete med datadelning och dataanvändning, val av open source och öppna standarder. Deltagarna i NOSAD bidrar till listan genom att lägga nya länkar innehåll sist i Bruttolistan nedan alt komma med ett förslag på rubriknivå. Kurering av sådana här listor är svårt.  Genom trial end error kommer vi fram till en hållbar version.
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att lägga nya länkar innehåll sist i Bruttolistan. Kurering sker löpande.
 
 [Presentationer från tidigare NOSAD-event](url)
 
@@ -40,7 +40,7 @@ Beskrivning: Länge har vi pratat open source och offentliga Sverige använder f
 
 
 
-# För dig som vill läsa mer
+# Bruttolista
 Här kommer en Bruttolista av delat material.  
 
 EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV (EU) 2019/ 1024 - av den 20 juni 2019 - om öppna data och vidareutnyttjande av information från den offentliga sektorn
