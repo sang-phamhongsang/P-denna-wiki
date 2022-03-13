@@ -10,11 +10,9 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 
 **Agenda**
 
-Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
-
-Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
-
-Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
+- Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
+- Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
+- Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
  
 ### 29 mars kl 10-12 Livslångt lärande - Ge input till pågående regeringsuppdrag.
 
@@ -47,17 +45,12 @@ Moderator: Maria Dalhage, DIGG
 
 **Agenda**
  
-Intro 
- 
-[Open by default – Varför öppenhet är avgörande för kommunernas framtid.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)  Jari Koponen från Sundsvalls kommun delar erfarenheter.
- 
-Diskussion med Menti: Hur går vi från snack till verkstad och börja dela lösningar?
- 
-Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod
- 
-Diskussion med Menti: När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?
- 
-Outro
+- Intro 
+- [Open by default – Varför öppenhet är avgörande för kommunernas framtid.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)  Jari Koponen från Sundsvalls kommun delar erfarenheter.
+- Diskussion med Menti: Hur går vi från snack till verkstad och börja dela lösningar?
+- Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod
+- Diskussion med Menti: När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?
+- Outro
 
 
 ### 11 jan 2022: NOSAD retrospective. Hur kan vi förbättra nätverket?
