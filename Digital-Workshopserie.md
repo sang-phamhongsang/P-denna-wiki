@@ -1,9 +1,8 @@
+ 
+## Kommande Digitala workshops 
 Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
 
-[Kontakta oss för bidrag.](mailto:maria.dalhage@digg.se) 
-
-
-## Kommande Digitala workshops 
+[Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
 
 ### 5 april kl 10-11: Öppna data för ett hållbart godstransportsystem
  
