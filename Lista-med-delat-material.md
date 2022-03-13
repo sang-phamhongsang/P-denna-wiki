@@ -3,12 +3,15 @@ Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hj
 
 **Innehållsförteckning**
 
-[Stöd för att tillhandahålla öppna data](Stöd-för-att-tillhandahålla-öppna-data)
+- [Stöd för att tillhandahålla öppna data](#stöd-för-att-tillhandahålla-öppna-data)
+- [Krav vid anskaffning av IT-system](#krav-vid-anskaffning-av-IT-system)
+- [Öppen källkod](#öppen-källkod)
+- [Öppet arbetssätt](#öppet-arbetssätt)
 
 [Presentationer från tidigare NOSAD-event](url)
 
 ## Stöd för att tillhandahålla öppna data
-Beskrivning: Diggs vägledning för att tillgängligöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du stödet [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
+Beskrivning: Diggs vägledning för att tillgängliggöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du stödet [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
 [Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
 
@@ -18,7 +21,7 @@ Beskrivning: Diggs vägledning för att tillgängligöra information beskriver h
 
 
 
-## Krav vid anskaffning av IT-system för att undvika inlåsningseffekter av data samt leverantörsberoenden
+## Krav vid anskaffning av IT-system
 Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver kravställning av IT-system finns bra stöd. De fem rekommendationerna från Högskolan i Skövde innehåller krav på öppna standarder, en lista som hålls av Kammarkollegiet i ramvavtalet XXX. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner.
 
 [Fem rekommendationer för lyckad upphandling av öppen programvara | Högskolan i Skövde (mynewsdesk.com)](https://www.mynewsdesk.com/se/his/pressreleases/fem-rekommendationer-foer-lyckad-upphandling-av-oeppen-programvara-3108346)
@@ -31,8 +34,8 @@ Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande
 
 
  
-## Anskaffning, användning och delning av öppen källkod
-Beskrivning: Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
+## Öppen källkod 
+Beskrivning: Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. Ta del av och använd i er resa mot en mer hållbar digitalisering.
 
 [eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
 
