@@ -28,11 +28,11 @@ Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompe
 
 ## Genomförda workshops
 ### 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
- **Tekniker och processer för att undvika supply chain-attacker** – Martin Hell (Lunds universitet/Debricked) [SupplyChain_NOSAD.pdf](uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)
+ **[Tekniker och processer för att undvika supply chain-attacker](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)** – Martin Hell (Lunds universitet/Debricked) 
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
 
-**Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt** – Johan Linåker (Rise) [OSS-health-NOSAD.pdf](uploads/8f2b4b446d9dc2b1a253ffd54bf3875d/OSS-health-NOSAD.pdf)
+**[Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8f2b4b446d9dc2b1a253ffd54bf3875d/OSS-health-NOSAD.pdf)** – Johan Linåker (Rise) [OSS-health-NOSAD.pdf]
 
 Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror till stor del på projektets förmåga att underhålla programvaran över en lång tid till en hög kvalitet, även kallat projektets hälsa. Hälsan går både att analysera och förbättra proaktivt vilket kan underlätta riskbedömning vid anskaffning av öppna programvarukomponenter, men även för att hantera risker för sårbarheter i projekt som är kritiska för ens verksamhet. Vi får här en introduktion både till hälsobegreppet i stort, samt hur analys och förebyggande åtgärder kan utföras.
  
@@ -48,11 +48,11 @@ Agenda
  
 10:00-10:05 Intro 
  
-10:05-10:20 ”Open by default – Varför öppenhet är avgörande för kommunernas framtid”.  Jari Koponen från Sundsvalls kommun delar erfarenheter.
+10:05-10:20 [”Open by default – Varför öppenhet är avgörande för kommunernas framtid”.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)  Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 10:20-10:30 Diskussion med Menti "Hur går vi från snack till verkstad och börja dela lösningar?"
  
-10:30-10:45 "Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod" [2022-02-01_Open_by_default__Nosad.pptx](uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)
+10:30-10:45 "Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod" 
  
 10:45-10:55 Diskussion med Menti ”När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?”
  
