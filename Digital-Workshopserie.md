@@ -9,25 +9,27 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
  
 På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och incitament att dela data för ett hållbart godstransportsystem. Bland annat kommer följande frågor att besvaras; På vilket sätt skiljer sig privata aktörer från offentlig sektor när det kommer till att dela öppen data?; Vilka incitament har privat sektor att dela data öppet?; Hur kan privat och offentlig sektor samarbeta för att möjliggöra för datadelning?  
 
-På agendan
+**Agenda**
 
-1. Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
-1. Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
-1. Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
+Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
+
+Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
+
+Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
  
 ### 29 mars kl 10-12 Livslångt lärande - Ge input till pågående regeringsuppdrag.
 
 Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
 
-**mer info kommer löpande.**
+**mer info kommer löpande **
 
-**3 maj: den digitala arenan?**
+**3 maj: under planering **
 
 **7 juni: metadata?**
 
 
 ## Genomförda workshops
-### 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
+### 1 mars 2022: Communityhälsa och säkerhet vid var av Open Source
  **[Tekniker och processer för att undvika supply chain-attacker](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)** – Martin Hell (Lunds universitet/Debricked) 
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
@@ -36,7 +38,7 @@ Supply chain-attacker har fått stort genomslag de senaste åren, mycket på gru
 
 Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror till stor del på projektets förmåga att underhålla programvaran över en lång tid till en hög kvalitet, även kallat projektets hälsa. Hälsan går både att analysera och förbättra proaktivt vilket kan underlätta riskbedömning vid anskaffning av öppna programvarukomponenter, men även för att hantera risker för sårbarheter i projekt som är kritiska för ens verksamhet. Vi får här en introduktion både till hälsobegreppet i stort, samt hur analys och förebyggande åtgärder kan utföras.
  
-### 1 feb kl 10-11 "Open by default"
+### 1 feb 2022: Open by default
  ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
@@ -44,22 +46,25 @@ Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, s
 Moderator: Maria Dalhage, DIGG
  
 
-Agenda
+**Agenda**
  
-10:00-10:05 Intro 
+Intro 
  
-10:05-10:20 [”Open by default – Varför öppenhet är avgörande för kommunernas framtid”.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)  Jari Koponen från Sundsvalls kommun delar erfarenheter.
+[Open by default – Varför öppenhet är avgörande för kommunernas framtid.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/03f9c8cb30ca7ebbbe93f285c196ff00/2022-02-01_Open_by_default__Nosad.pptx)  Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
-10:20-10:30 Diskussion med Menti "Hur går vi från snack till verkstad och börja dela lösningar?"
+Diskussion med Menti: Hur går vi från snack till verkstad och börja dela lösningar?
  
-10:30-10:45 "Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod" 
+Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod
  
-10:45-10:55 Diskussion med Menti ”När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?”
+Diskussion med Menti: När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?
  
-10:55-11:00 Outro
+Outro
 
 
-### 11 jan 2022:[NOSAD retrospective. Hur kan vi förbättra nätverket?]([NOSAD_retro.pptx](uploads/fa15d6322145495b51af4f6ec7f3f543/NOSAD_retro.pptx))
+### 11 jan 2022: NOSAD retrospective. Hur kan vi förbättra nätverket?
+
+[Workshopunderlag - Maria Dalhage](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/%5BNOSAD_retro.pptx%5D(uploads/fa15d6322145495b51af4f6ec7f3f543/NOSAD_retro.pptx))
+
 [Sammanfattning i community.dataportal.se](https://community.dataportal.se/topic/282/hj%C3%A4lp-nosad-och-dataportalens-communityforum-att-bli-b%C3%A4ttre)
 
 
