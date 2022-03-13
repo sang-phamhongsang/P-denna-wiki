@@ -41,11 +41,11 @@ Beskrivning: Länge har vi pratat open source och offentliga Sverige använder f
 
 [Försäkringskassan riktlinjer](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
 
-[KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
-[Extern resurs | Kungliga Biblioteket, Sverige]
+[KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)| Kungliga Biblioteket](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
+
 [SKRs Strategi för digital utveckling (se sid 22-23)](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
-[Svenska Allmännyttans utvecklingsmanifest](https://utveckling.allmannyttan.se/manifest)  
-[Extern resurs | Svenska Allmännyttan, Sverige]  
+[Svenska Allmännyttans utvecklingsmanifest | Svenska Allmännyttan](https://utveckling.allmannyttan.se/manifest)  
+ 
 
 
 Open source organisationer i Sverige
