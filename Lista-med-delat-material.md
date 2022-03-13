@@ -19,6 +19,7 @@ Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på d
 
 [Vägledning för strategiska beslut och åtgärder | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)
 
+[Metadatastandard för öppen källkod för offentlig sektor publiccode.yml: a metadata description standard for public software and policy repositories | Foundation for Public code](https://github.com/publiccodenet/publiccode.yml)
 
 
 ## Krav vid anskaffning av IT-system
