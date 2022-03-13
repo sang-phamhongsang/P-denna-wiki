@@ -5,7 +5,7 @@ Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, 
 
 ## Kommande Digitala workshops 
 
-### 5 april kl 10-11 "Öppna data för ett hållbart godstransportsystem"
+### 5 april kl 10-11: Öppna data för ett hållbart godstransportsystem
  
 På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och incitament att dela data för ett hållbart godstransportsystem. Bland annat kommer följande frågor att besvaras; På vilket sätt skiljer sig privata aktörer från offentlig sektor när det kommer till att dela öppen data?; Vilka incitament har privat sektor att dela data öppet?; Hur kan privat och offentlig sektor samarbeta för att möjliggöra för datadelning?  
 
