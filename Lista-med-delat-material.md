@@ -22,6 +22,9 @@ Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande
 
 [Icke funktionella krav- exempelkrav | OpenDataUmea ](https://opendata.umea.se/explore/dataset/icke-funktionella-exempelkrav0/table/?disjunctive.huvudkategori&disjunctive.underkategori&sort=krav_id)
 
+[FAQ för upphandling | Daniel Melin som ett NOSAD-bidrag](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
+
+
  
 # Inför anskaffning, användning och delning av open Source/öppen källkod
 Beskrivning: Länge har vi pratat open source och offentliga Sverige använder fler och fler open sourcelösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
