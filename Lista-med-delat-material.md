@@ -1,5 +1,5 @@
 ## NOSAD tipsar
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att [Kontakta NOSAD.](mailto:maria.dalhage@digg.se). 
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. - [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
 
 **Innehållsförteckning**
 
@@ -7,10 +7,10 @@ Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hj
 - [Krav vid anskaffning av IT-system](#krav-vid-anskaffning-av-IT-system)
 - [Öppen källkod](#öppen-källkod)
 - [Öppet arbetssätt](#öppet-arbetssätt)
-- [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie)
+
 
 ## Stöd för att tillhandahålla öppna data
-Digg har tagit fram vägledning för att tillgängliggöra information för att stötta dig i arbetet med att tillgängliggöra dina datamängder på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du  vidare [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
+Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. På dataportal.se hittar du  vidare [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
 [Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
 
@@ -65,4 +65,6 @@ Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns? Hur 
 
 [Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
 
+## Bidra till listan
+Deltagarna i NOSAD bidrar till listan genom att [Kontakta NOSAD.](mailto:maria.dalhage@digg.se).
 
