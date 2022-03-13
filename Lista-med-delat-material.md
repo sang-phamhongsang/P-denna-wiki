@@ -20,18 +20,24 @@ Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande
 
  
 # För anskaffning, användning och delning av open Source/öppen källkod
-Länge har vi pratat open source och offentliga Sverige använder fler och fler open sourcelösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
+Beskrivning: Länge har vi pratat open source och offentliga Sverige använder fler och fler open sourcelösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
 
-- eSAM Råd för delning och användning av öppen källkod 220311.pdf
--   [Arbetsförmedlingen Riskanalys öppen källkod](uploads/942966052106a1ab88a2fb72b656719f/Riskanalys_Öppen_källkod_1.0_-_20211025_1_.pdf)
-- Diggs policy för öppen programvara
+[eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
+
+[Arbetsförmedlingen Riskanalys öppen källkod](uploads/942966052106a1ab88a2fb72b656719f/Riskanalys_Öppen_källkod_1.0_-_20211025_1_.pdf)
+
+[Diggs policy för öppen programvara](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)
+
 - [Analys av Diggs policy](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1457306&dswid=-3570)
-- Sundsvalls Kommuns riktlinjer
-- Försäkringskassan riktlinjer
+
+- [Sundsvalls Kommuns riktlinjer](https://github.com/Sundsvallskommun/riktlinjer-oppenkallkod/blob/main/riktlinje/README.md)
+
+- [Försäkringskassan riktlinjer](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
 
 
 
 # För dig som vill läsa mer
+Här kommer en Bruttolista av delat material.  
 
 EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV (EU) 2019/ 1024 - av den 20 juni 2019 - om öppna data och vidareutnyttjande av information från den offentliga sektorn
 
