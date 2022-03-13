@@ -1,23 +1,11 @@
-**Om formatet**
-
-Varje digital workshop är på en till två timmar. Och kommer att hållas som ett interaktivt workshop. Du som är intresserad av meetup-serien kan bidra på två sätt:
-
-1. Som deltagare - Bidra genom att vara med i diskussion
-2. Som anordnare - Bidra med en föreläsning på 10, 20, eller 30 min.
-
-
 Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
 
 [Kontakta oss för bidrag.](mailto:maria.dalhage@digg.se) 
 
-## Våren 2022 Digitala Workshops 
 
-Vi börjar planera vårens digitala workshops. För er som vill påverka agendan och dela med er av era erfarenheter kring öppna data och öppen källkod kontakta maria.dalhage@digg.se. 
+## Kommande Digitala workshops 
 
-
-# Kommande Digitala workshops 
-
-# 5 april kl 10-11 "Öppna data för ett hållbart godstransportsystem"
+### 5 april kl 10-11 "Öppna data för ett hållbart godstransportsystem"
  
 På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och incitament att dela data för ett hållbart godstransportsystem. Bland annat kommer följande frågor att besvaras; På vilket sätt skiljer sig privata aktörer från offentlig sektor när det kommer till att dela öppen data?; Vilka incitament har privat sektor att dela data öppet?; Hur kan privat och offentlig sektor samarbeta för att möjliggöra för datadelning?  
 
@@ -27,7 +15,7 @@ På agendan
 1. Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
 1. Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
  
-# 29 mars kl 10-12 Livslångt lärande - Ge input till pågående regeringsuppdrag.
+### 29 mars kl 10-12 Livslångt lärande - Ge input till pågående regeringsuppdrag.
 
 Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
 
@@ -38,8 +26,8 @@ Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompe
 **7 juni: metadata?**
 
 
-# Genomförda workshops
-# 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
+## Genomförda workshops
+### 1 mars kl 10-11 "Hälsa och säkerhet vid var av Open Source"
  **Tekniker och processer för att undvika supply chain-attacker** – Martin Hell (Lunds universitet/Debricked) [SupplyChain_NOSAD.pdf](uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
@@ -48,10 +36,7 @@ Supply chain-attacker har fått stort genomslag de senaste åren, mycket på gru
 
 Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror till stor del på projektets förmåga att underhålla programvaran över en lång tid till en hög kvalitet, även kallat projektets hälsa. Hälsan går både att analysera och förbättra proaktivt vilket kan underlätta riskbedömning vid anskaffning av öppna programvarukomponenter, men även för att hantera risker för sårbarheter i projekt som är kritiska för ens verksamhet. Vi får här en introduktion både till hälsobegreppet i stort, samt hur analys och förebyggande åtgärder kan utföras.
  
-
-
-
-# 1 feb kl 10-11 "Open by default"
+### 1 feb kl 10-11 "Open by default"
  ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
@@ -74,12 +59,12 @@ Agenda
 10:55-11:00 Outro
 
 
-# 11 jan kl 10-12 NOSAD retrospective. Hur kan vi förbättra nätverket?
+### 11 jan kl 10-12 NOSAD retrospective. Hur kan vi förbättra nätverket?
 Bokningslänk kommer inom kort!
 
 
 
-# 7 december kl 10-12 eArkiv Open Source 
+### 7 december kl 10-12 eArkiv Open Source 
 
 Den 7 december är temat e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
 Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp ett community dels utifrån e-arkiv generellt men även e-arkiv baserat på öppen källkod specifikt.  Gå gärna in på dataportalens forum för community och bekanta er, ni hittar det här: https://community.dataportal.se/
@@ -115,7 +100,7 @@ Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i co
 
 
 
-# 12 oktober kl 10-12 API-Playbook
+### 12 oktober kl 10-12 API-Playbook
 
 Nu blir det enklare för er som tillhandahåller öppna data och API:er!
   
@@ -138,7 +123,7 @@ Delat material:
 
 
 
-# 4 oktober kl 14:00-15:30 Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
+### 4 oktober kl 14:00-15:30 Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
 
 Seminariet utgår från och ger exempel på det standardarbete som den nordamerikanska stiftelsen Open Mobility Foundation lett. Där har ett flertal städer i öppet samarbete med privata aktörer skapat kärnan för en digital infrastruktur, vilken idag används i bl.a. Los Angeles, Chicago och Stockholm.
 
@@ -155,7 +140,7 @@ Johan Linåker, RISE och Lunds Universitet
 Christian Landgren, Iteam
 Seminariet kommer hållas på engelska.
 
-# 7 september kl 10-12: Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik.
+### 7 september kl 10-12: Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik.
 
 Låt er inspireras av och diskutera de möjligheter ut utmaningar som finns inom Sektorn för kollektivtrafik när det gäller öppna data, öppna standarder och öppen källkod. Vad är generiskt och vad kan ni ta med er till er domän?
 
@@ -182,7 +167,7 @@ Agenda
 
 
 
-# Tisdag 15 juni, kl 10-12: Offentlighetsprincipen - från bråkstake till bästa kompis
+### Tisdag 15 juni, kl 10-12: Offentlighetsprincipen - från bråkstake till bästa kompis
 
 *Öppna data och allmänna handlingar är skilda områden men det finns 
 behov av att involvera och skapa bryggor och länka dessa separata 
@@ -212,7 +197,7 @@ https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&
 [Boka plats](https://www.goto10.se/event/offentlighetsprincipen-fran-brakstake-till-basta-kompis/)
 
 
-# Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
+### Onsdag 2 juni kl 10-15: NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
 
 *Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.*
 
@@ -253,13 +238,13 @@ Schema:
 
 
 
-# Söndag 30 maj kl 9:30-12:00 Foss-north communitydays Jobtech Links
+### Söndag 30 maj kl 9:30-12:00 Foss-north communitydays Jobtech Links
 
 Foss-north tillsammans med Arbetsförmedlingens projekt Ekosystem för annonser välkomnar till en communitydag. Dagen är en möjlighet att samskapa och bidra till teknikutvecklingen tillsammans med myndigheten. Projektets källkod är öppen. 
 
 ![image](uploads/35243adfa09b8f9c80f01ada95ebec6b/image.png)  [till anmälan](https://gitlab.com/arbetsformedlingen/joblinks/wiki/-/wikis/home) 
 
-# Tisdag 4 maj kl 10:00-12:00 Öppna standarder
+### Tisdag 4 maj kl 10:00-12:00 Öppna standarder
 
 _Vid avrop från Kammarkollegiets ramavtal för programvaror och tjänster är det endast tillåtet att ställa obligatoriska krav på en viss standard om den uppfyller definitionen av öppen standard enligt SOU 2009:86 och EIF 1.0._
 
@@ -286,7 +271,7 @@ Agenda
 [Boka plats](https://www.goto10.se/event/oppna-standarder/)
 
 
-# Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata
+### Tisdag 6 april kl 10:00-12:00 Länkad data och wikidata
 
 Länkad data nämns som den högsta nivån av mognad i 5-Star Open Data-modellen av Tim Berners Lee.
 Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en myndighet gå till väga? I denna workshop får vi en översikt kombinerat med praktiska exempel hur myndigheter jobbat med Wikidata.
@@ -311,7 +296,7 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 [Boka plats](https://www.goto10.se/event/lankad-data-vad-innebar-det-rent-praktiskt/)
 
 
-# Tisdag 2 mars kl 10:00-12:00Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?
+### Tisdag 2 mars kl 10:00-12:00Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?
 
 I denna workshop gör vi en utblick i omvärlden och får höra lärdomar och tips från andra länder i hur de har hanterat motsvarande frågor. Bl.a. hur Italien och Frankrike arbetar centraliserat på myndighetsnivå med att hjälpa, utbilda och guida myndigheter kring frågor som upphandling, kultur och utveckling av öppen programvara. Vi får även höra från den danska kommunföreningen OS2 och hur de samverkar sinsemellan och med leverantörer kring utveckling av öppen programvara.
 
@@ -325,7 +310,7 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 
 [Videoinspelning](https://youtu.be/UvtX4e_qRWY )
 
-# Tisdag 2 februari kl 10:00-12:00 API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?
+### Tisdag 2 februari kl 10:00-12:00 API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?
 
 Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar. Vi kommer att diskutera hur vi tänker kring
 
@@ -364,7 +349,7 @@ Fråga 2: Utifrån olika målgrupper; hur bör öppna data presenteras för att 
 [Boka plats](https://www.goto10.se/event/api-nycklar-och-notebooks-hur-maximerar-vi-tillganglighetgorandet-av-oppna-data/)
 
 
-# Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?
+### Tisdag 12 januari 2021 kl 10:00-12:00: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?
 
 Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas med att strategiskt engagera sig i öppen programvara (open source).  På denna workshop presenteras olika policies för öppen källkod. Diskutera med oss kring vad som behöver sättas på pränt för att lyckas med ett öppnare arbetssätt. Ta också del av SCB:s erfarenheter och dela mer er av era egna erfarenheter.
 
@@ -400,7 +385,7 @@ Diskussionsfrågor:
 
 [Boka plats](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
 
-# Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data
+### Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data
 
 Offentlig sektor satsar på nationella innovationstävlingar och hackathons med syfte att få öppna data i användning; som en del av myndigheternas verksamhetsutveckling och/eller som en katalysator för innovation. Räcker denna ansats eller krävs det något mer för att uppnå det vi vill? 
 
@@ -430,7 +415,7 @@ Diskussionsfrågor:
 
 
 
- # Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
+ ### Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
 
 Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
 
@@ -443,7 +428,7 @@ _Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Know
 
 
 
-# Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data
+### Tisdag 3 november, kl 10:00-12:00: Förvaltning och ansvar kring öppna data
 
 En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan. Hur säkerställer vi att alla dataset kan nås via ett samma ställe med liknande upplevelser trots att det finns många producenter av öppna data.
 
@@ -465,7 +450,7 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 
 
-# 13 oktober 2020 kl 10-12 Utfrågning Öppna datautredningen
+### 13 oktober 2020 kl 10-12 Utfrågning Öppna datautredningen
 Inspelning https://www.youtube.com/watch?v=63l3-_WC7jc
 
 Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
@@ -481,7 +466,7 @@ Passa även på att ställa dina frågor och diskutera i forumet för Nätverket
 [BOKA](https://www.goto10.se/event/utfragning-kring-oppna-data-utredningen/)
 
 
-# Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
+### Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
 
 [Se i efterhand](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
@@ -514,7 +499,7 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 [Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
 
 
- # Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar
+### Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar
 
 [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-2-Samverkan-kring-offentlig-sektors-%C3%B6ppna-data-satsningar) | [Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
@@ -556,7 +541,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 
   
-# Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?
+### Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?
 
  [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
 
