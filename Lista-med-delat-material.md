@@ -54,8 +54,6 @@ Här kommer en Bruttolista av delat material.
 
 EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV (EU) 2019/ 1024 - av den 20 juni 2019 - om öppna data och vidareutnyttjande av information från den offentliga sektorn
 
-Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder [Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf](uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
-
 
 
 
