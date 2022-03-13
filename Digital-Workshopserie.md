@@ -74,27 +74,15 @@ Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp e
 
 **Agenda**
 
-Introduktion
+- Introduktion
+- [Fågelperspektivet (EU-perspektivet). För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
+- [Strategiska vägval för e-arkiv och digital informationshantering. Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.- Malin Åkerlund och Rickard Lundstedt](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf) Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
+- [nosad_press_arbetsformedlingen.pdf]
+- [Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
+- [Arbetet bakom kulisserna: Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
+- [Öppen källkod och Communitys för Digitalt bevarande.Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
+- Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
 
-[Fågelperspektivet (EU-perspektivet)
-För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
-
-[Strategiska vägval för e-arkiv och digital informationshantering
-Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf - Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen.) Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
-[nosad_press_arbetsformedlingen.pdf]
-
-[Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
-
-[Arbetet bakom kulisserna
-Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
-
-
-[Öppen källkod och Communitys för Digitalt bevarande 
-Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
-
-11:30-12:00 Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
-
-12:00 	Outro 
 
 
 
@@ -114,11 +102,8 @@ Moderatorer: Maria Dalhage (Arbetsförmedlingen), Johan Linåker (Lunds universi
 
 Delat material: 
 [Intro](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/180512f1a0c6891a250378fe5019aec5/Nosad_12_oktober.pptx)
-
 [DCAT-AP_-Processor_NOSAD.pptx](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/da22403a785070c0f57f65b582347406/DCAT-AP_-Processor_NOSAD.pptx)
-
 [APIHantering_NOSAD_2021_10_12_DIGG.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
-
 [Resultat från Gruppdiskussionerna](https://docs.google.com/document/d/1aS-KaYqZqx9A_yjczfZzdUM4mI4nBRxk7jNatG5vSTQ/edit#heading=h.v596r2nrh93u)
 
 
@@ -148,48 +133,38 @@ I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordic
 
 **Agenda**
 
-[Inledning - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8695be112d4a8f326328e6bc71ae4021/Nosad_7_sept.pptx)
-
-[ODIN - öppna data -> öppna standarder -> öppen källkod - Daniel Rudmark (RISE)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/083005e8f4f5af783ef9df3b1c97b60b/2021_09_07_NOSAD.pdf) 
-
-[Principer för att få till en öppen infrastruktur, bakgrund och incitament för att arbeta öppet. Andreas Tryti (Entur)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/48802504ae690e87b08910814ea3f226/Entur_-_NOSAD.pdf) 
-
-Gemensam reflektion av dagens presentationer
-
-outro
+- [Inledning - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8695be112d4a8f326328e6bc71ae4021/Nosad_7_sept.pptx)
+- [ODIN - öppna data -> öppna standarder -> öppen källkod - Daniel Rudmark (RISE)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/083005e8f4f5af783ef9df3b1c97b60b/2021_09_07_NOSAD.pdf) 
+- [Principer för att få till en öppen infrastruktur, bakgrund och incitament för att arbeta öppet. Andreas Tryti (Entur)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/48802504ae690e87b08910814ea3f226/Entur_-_NOSAD.pdf) 
+- Gemensam reflektion av dagens presentationer
+- outro
 
 
 
 ### Tisdag 15 juni 2021: Offentlighetsprincipen - från bråkstake till bästa kompis
 
-*Öppna data och allmänna handlingar är skilda områden men det finns 
+Öppna data och allmänna handlingar är skilda områden men det finns 
 behov av att involvera och skapa bryggor och länka dessa separata 
 verkligheter och områden - inte minst utifrån det förslag som nu 
 ligger ute för remiss att ta avgifter på elektronisk information. 
 Fokus är att lyfta utmaningar kopplat till projekt och initiativ som 
-gör livet bättre och lättare för både myndigheter och medborgare.*
+gör livet bättre och lättare för både myndigheter och medborgare.
 
 **Agenda**
 
-Regeringens diarium - Robin Linderborg (DataStory), Per Hagström (Allmänhandling)
-
-Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
-
-OpenUp! - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG)
-Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. 
-
-**Handlingar.se** – Elenor Weijmar 
-
-Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. 
- 
-[**Nationell Metadataprofil Offentliga Handlingar** - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) 
-
-En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. Presenterad av MetaSolutions AB. 
+- Regeringens diarium - Robin Linderborg (DataStory), Per Hagström (Allmänhandling)
+- Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
+- OpenUp! - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG)
+- Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. 
+- **Handlingar.se** – Elenor Weijmar 
+- Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. 
+- [**Nationell Metadataprofil Offentliga Handlingar** - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) 
+- En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. Presenterad av MetaSolutions AB. 
 
 
 ### Onsdag 2 juni 2021 NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
 
-*Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.*
+Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.
 
 Schema:
 
@@ -241,18 +216,11 @@ Men vad räknas som en öppen standard och hur bra är myndigheter på denna typ
  
 **Agenda**
 
-Intro: Maria Dalhage 
-
-[En god förvaltning förutsätter öppna IT-standarder som är implementerade i öppen programvara, samt 5 rekommendationer för att undvika inlåsningseffekter – Prof. Björn Lundell och Jonas Gamalielsson ](https://drive.google.com/file/d/1uil5WIZH8wYEz--EGtMLOv_efJbsCM_8/view?usp=sharing)
-
-[Öppna standarder ur ett fågelperspektiv - Arman Borghem ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/ca53c4c20a80dec01ef1e56f9e81904c/%C3%96ppna_standarder_ur_ett_f%C3%A5gelperspektiv.pdf)
-
-[Krav på öppenhet vid upphandling - Björn Hagström ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/335abf87f2510bb4bc5537d83d9796f8/Krav_pa%CC%8A_o%CC%88ppenhet_vid_upphandling_2021-05-04.pptx)
-
-Gruppdiskussion
-
-Outro
-
+- Intro: Maria Dalhage 
+- [En god förvaltning förutsätter öppna IT-standarder som är implementerade i öppen programvara, samt 5 rekommendationer för att undvika inlåsningseffekter – Prof. Björn Lundell och Jonas Gamalielsson ](https://drive.google.com/file/d/1uil5WIZH8wYEz--EGtMLOv_efJbsCM_8/view?usp=sharing)
+- [Öppna standarder ur ett fågelperspektiv - Arman Borghem ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/ca53c4c20a80dec01ef1e56f9e81904c/%C3%96ppna_standarder_ur_ett_f%C3%A5gelperspektiv.pdf)
+- [Krav på öppenhet vid upphandling - Björn Hagström ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/335abf87f2510bb4bc5537d83d9796f8/Krav_pa%CC%8A_o%CC%88ppenhet_vid_upphandling_2021-05-04.pptx)
+- Gruppdiskussion
 
 ### Tisdag 6 april 2021: Länkade data och wikidata
 
@@ -261,19 +229,12 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
  
 **Agenda**
 
-[Introduktion Till NOSAD och dagens workshop - Maria Dalhage (Jobtech Development)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/a323079ec024f2af6f1560e3bf5da751/NOSAD_6_mars.pdf)
-
-[Introduktion till länkad data samt hur man kan jobba med wikidata  - Axel Pettersson (Wikimedia)](https://commons.wikimedia.org/wiki/File:2021-04-06_NOSAD_Wikidata.pdf.) 
-
-[Kustvattenförekomster på Wikidata - inte så torrt som det låter - Josefina Algotsson (SMHI)](https://commons.wikimedia.org/w/index.php?title=File%3AKustvattenf%C3%B6rekomster_p%C3%A5_Wikidata_-_Inte_s%C3%A5_torrt_som_det_l%C3%A5ter_NOSAD_2021-04-06.pdf&page=1)
-
-Vilse i Litteraturkartan - Wikidata hjälper dig att hitta rätt  Johan Roxendal (Litteraturbanken/Göteborgs universitet)  
-
-Diskussion i grupper: Vilken potential ser ni i er verksamhet idag kopplad till länkad data? Vilka är utmaningarna?
-
-Återsamling och gruppredovisning
-
-Sammanfattning av dagen
+- [Introduktion Till NOSAD och dagens workshop - Maria Dalhage (Jobtech Development)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/a323079ec024f2af6f1560e3bf5da751/NOSAD_6_mars.pdf)
+- [Introduktion till länkad data samt hur man kan jobba med wikidata  - Axel Pettersson (Wikimedia)](https://commons.wikimedia.org/wiki/File:2021-04-06_NOSAD_Wikidata.pdf.) 
+- [Kustvattenförekomster på Wikidata - inte så torrt som det låter - Josefina Algotsson (SMHI)](https://commons.wikimedia.org/w/index.php?title=File%3AKustvattenf%C3%B6rekomster_p%C3%A5_Wikidata_-_Inte_s%C3%A5_torrt_som_det_l%C3%A5ter_NOSAD_2021-04-06.pdf&page=1)
+- Vilse i Litteraturkartan - Wikidata hjälper dig att hitta rätt  Johan Roxendal (Litteraturbanken/Göteborgs universitet)  
+- Diskussion i grupper: Vilken potential ser ni i er verksamhet idag kopplad till länkad data? Vilka är utmaningarna?
+- Återsamling och gruppredovisning
 
 
 ### 2 mars 2021: Samverkan kring öppen programvara inom offentlig sektor. Hur gör man i andra länder?
@@ -296,22 +257,15 @@ Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla 
 
 **Agenda** 
  
-[Introduktion till dagens workshop och nätverket NOSAD  - Maria Dalhage](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4420eb4146f61c9565c9de5d51e90301/2_feb.pdf)
+- [Introduktion till dagens workshop och nätverket NOSAD  - Maria Dalhage](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4420eb4146f61c9565c9de5d51e90301/2_feb.pdf)
+- [Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/ byggblock API-Hantering - Fredrik Nordlander (DIGG](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/47918a4dd694a24d001fbc03ddf85b72/nosad_2021_02_02.pdf)) 
+- [Hur kan man presentera sina API:er med m.h.a. Swagger OpenAPI -Ulrika Domellöf Mattson](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3e85d58bf2ea7d4751c74162544d6ffb/NOSAD_Naturv%C3%A5rdsverket.pptx)
+- [Piotr Borowiec  (Naturvårdsverket) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8d89b853417b7accf2cd52370924f7fb/GreenTechDev_NOSAD_BACKUP.pptx)
+- [Hur kan man presentera sina data med hjälp av Jupyter Notebooks? Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet)](https://github.com/kevindeeboman/masters_project/blob/main/masters_project.ipynb) 
+- Diskussion i grupper:  
+- Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. Intro Jonas Södergren (NOSAD/Jobtech Development/AF)
+- [Återsamling och redovisning från grupperna.](https://docs.google.com/document/d/1K9-QRRlT_cMYsE0dFc_ZrEv3drURupI3vH6fb3ckjoY/edit?ts=6017df32#heading=h.4d8paovmypfy) 
 
-[Information från RU-uppdraget Etablering av förvaltningsgemensam digital infrastruktur/ byggblock API-Hantering - Fredrik Nordlander (DIGG](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/47918a4dd694a24d001fbc03ddf85b72/nosad_2021_02_02.pdf)) 
- 
-[Hur kan man presentera sina API:er med m.h.a. Swagger OpenAPI -Ulrika Domellöf Mattson](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3e85d58bf2ea7d4751c74162544d6ffb/NOSAD_Naturv%C3%A5rdsverket.pptx)
-
-[Piotr Borowiec  (Naturvårdsverket) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8d89b853417b7accf2cd52370924f7fb/GreenTechDev_NOSAD_BACKUP.pptx)
-
-[Hur kan man presentera sina data med hjälp av Jupyter Notebooks? Wilhelm Åkesson och Kevin Dee Boman (Göteborgs universitet)](https://github.com/kevindeeboman/masters_project/blob/main/masters_project.ipynb) 
- 
-Diskussion i grupper:  
-Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. Intro Jonas Södergren (NOSAD/Jobtech Development/AF)
- 
-[Återsamling och redovisning från grupperna.](https://docs.google.com/document/d/1K9-QRRlT_cMYsE0dFc_ZrEv3drURupI3vH6fb3ckjoY/edit?ts=6017df32#heading=h.4d8paovmypfy) 
- 
-Sammanfattning av dagen.
 
 
 ### 12 januari 2021: Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?
@@ -320,21 +274,14 @@ Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas
 
 **Agenda**
 
-[[Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -Maria Dalhage ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f3bf5dfdecd76e668150129f703a196e/intro_till_policy_%C3%B6ppen_programvara_12_jan.pdf)
-  
-
-[Försäkringskassan presenterar sin open source-policy: Hur den utvecklats, tagits emot och efterlevs samt kopplingar - Tomas Lagren (Fk)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)
-[Kompetenscentrum Öppen källkod - Linda Jakobsson Fk](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
-
-[Analys DIGGs policy - Björn Lundell, Högskolan i Skövde](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf) 
-
-[Standard for public code - Jan Ainali - Foundation for Public Code](https://hackmd.io/@Ainali/ryFCCIgCw#/) 
-
-[SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf) 
-
-[Diskussion: Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
-
-Avslut
+- [Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -Maria Dalhage ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f3bf5dfdecd76e668150129f703a196e/intro_till_policy_%C3%B6ppen_programvara_12_jan.pdf)
+- [Försäkringskassan presenterar sin open source-policy: Hur den utvecklats, tagits emot och efterlevs samt kopplingar - Tomas Lagren (Fk)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)
+- [Kompetenscentrum Öppen källkod - Linda Jakobsson Fk](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
+- [Analys DIGGs policy - Björn Lundell, Högskolan i Skövde](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf) 
+- [Standard for public code - Jan Ainali - Foundation for Public Code](https://hackmd.io/@Ainali/ryFCCIgCw#/) 
+- [SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf) 
+- [Diskussion: Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
+- Avslut
  
 ### 8 december 2020: Hackathons och innovationstävlingar för att innovera på Öppna Data
 
@@ -345,18 +292,16 @@ Offentlig sektor satsar på nationella innovationstävlingar och hackathons med 
 
 **Agenda**
 
-Inledning - Maria Dalhage
-Erfarenheter av att anordna digitala hackaton för offentlig förvaltning -Therese Bojia DIGG 
-ChallengesGov.se – Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation - Angela Yong 
-Hackathons för att adressera humanitära och sociala utmaningar - Lukas Leander OpenHack
-Paneldebatt: Reflektioner från olika Hackathons 
-Dialog/diskussion 
+- Inledning - Maria Dalhage
+- Erfarenheter av att anordna digitala hackaton för offentlig förvaltning -Therese Bojia DIGG 
+- ChallengesGov.se – Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation - Angela Yong 
+- Hackathons för att adressera humanitära och sociala utmaningar - Lukas Leander OpenHack
+- Paneldebatt: Reflektioner från olika Hackathons 
+- Dialog/diskussion 
 
 ### 27 november 2020: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
 
 Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
-
-OBS! De som vill delta i arbetsmötet bör ha förberett sig genom att ha läst igenom och bidragit med eventuella kommentarer och förslag i det gemensamma Google-dokument för remissvar som går att nå via http://bit.ly/sou202055. Instruktioner för hur man kan bidra finns i dokumentet. Det finns både möjlighet att vara med och skriva ett helt gemensamt remissvar, och att plocka delar av det som skrivs och skicka in på egen hand! **Skriv gärna in dina eventuella synpunkter i dokumentet senast tisdag 24/11**, så att övriga deltagare har chans att läsa igenom dem innan mötet den 27:e.
 
 Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige
 
@@ -368,16 +313,12 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 **Agenda**
 
-Inledning till dagens workshop: Maria Dalhage 
-
-[Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)
-
-[Framtidens informationshantering - Caspar Almalander (SKR)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f7ba885d9d893344d97d91fd9054ea99/20201103_Meetup_-_Caspar_Almalander_SKR__1_.pdf) 
-[Web 3.0 - När Internet når sin fulla potential: Daniel Dersén - Internetstiftelsen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4b61243df74686a1fa1abe71d8e9b7a7/web_3.0.pptx) 
-
-[Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:r -: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions och Peter Mankenskiöld - NSÖD/Tieto/Evry](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)  
-
-Diskussion i grupper: Hinder och vägar framåt
+- Inledning till dagens workshop: Maria Dalhage 
+-  [Central tillgång men lokal förvaltning: Sveriges dataportal och metadata - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/e76df0f7e12a6599e48b0a275093851a/NOSAD_3_nov_DIGG.pdf)
+- [Framtidens informationshantering - Caspar Almalander (SKR)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f7ba885d9d893344d97d91fd9054ea99/20201103_Meetup_-_Caspar_Almalander_SKR__1_.pdf) 
+- [Web 3.0 - När Internet når sin fulla potential: Daniel Dersén - Internetstiftelsen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4b61243df74686a1fa1abe71d8e9b7a7/web_3.0.pptx) 
+- [Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:r -: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions och Peter Mankenskiöld - NSÖD/Tieto/Evry](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)  
+-  Diskussion i grupper: Hinder och vägar framåt
 
 
 
@@ -403,17 +344,12 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 
 **Agenda**
 
-[Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_N%C3%A4tverket_Kunskapsdelning_%C3%96ppna_data_%C3%96ppen_k%C3%A4llkod.pdf)
-
-[Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/30cf0877919c5494d4532a288b1accac/Bortom_o%CC%88ppen_ka%CC%88llkod_2020.pdf) 
-
-Myter och missförstånd kring öppen källkod  - Daniel Melin 
-
-[Skolportaler - Göran Westerlund (Alingsås kommun)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) 
-
-[Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_%C3%B6ppen_programvara.pptx.pdf)
-
-Diskussion i grupper: [Gruppernas sammanställningar samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
+- [Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_N%C3%A4tverket_Kunskapsdelning_%C3%96ppna_data_%C3%96ppen_k%C3%A4llkod.pdf)
+- [Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/30cf0877919c5494d4532a288b1accac/Bortom_o%CC%88ppen_ka%CC%88llkod_2020.pdf) 
+- [Myter och missförstånd kring öppen källkod - Daniel Melin ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
+- [Skolportaler - Göran Westerlund (Alingsås kommun)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) 
+- [Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_%C3%B6ppen_programvara.pptx.pdf)
+- Diskussion i grupper: [Gruppernas sammanställningar samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
 
 
 ### Tisdag 15 september 2020: Samverkan kring offentlig sektors öppna data-satsningar
@@ -429,7 +365,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 **Agenda**
 
-Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) 
+- [Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) 
 - [Introduktion - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) 
 
 - [Vad säger forskningen? - Johan Linåker (Lunds universitet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) 
@@ -437,32 +373,27 @@ Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowle
 - [JobTechDev - Jonas Södergren](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) (Arbetsförmedlingen) 
 
 - [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  
-- Diskussion i grupper **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
+- Diskussion i grupper: Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?
 
-[https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
+
 
 
   
 ### 1 september 2020: Öppna licenser och immaterialrätt – hur hänger det ihop?
 
-[Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
+[Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand.](https://www.youtube.com/watch?v=by_h0dWljqY)
 
 Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den online-workshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
 
 
 **Agenda**
 
-Inledning – Adam Panzer (DIGG)
-
-[PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) 
-
-[Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
-
-[Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
-
-Frågor och öppen diskussion om rekommendationen 
-
-Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
+- Inledning – Adam Panzer (DIGG)
+- [PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) 
+- [Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
+- [Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
+- Frågor och öppen diskussion om rekommendationen 
+- Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
 
 
 
