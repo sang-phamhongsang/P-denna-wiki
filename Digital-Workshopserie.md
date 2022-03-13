@@ -59,48 +59,42 @@ Agenda
 10:55-11:00 Outro
 
 
-### 11 jan kl 10-12 NOSAD retrospective. Hur kan vi förbättra nätverket?
-Bokningslänk kommer inom kort!
+### 11 jan 2022:[NOSAD retrospective. Hur kan vi förbättra nätverket?]([NOSAD_retro.pptx](uploads/fa15d6322145495b51af4f6ec7f3f543/NOSAD_retro.pptx))
+[Sammanfattning i community.dataportal.se](https://community.dataportal.se/topic/282/hj%C3%A4lp-nosad-och-dataportalens-communityforum-att-bli-b%C3%A4ttre)
 
 
-
-### 7 december kl 10-12 eArkiv Open Source 
+### 7 december 2021: eArkiv Open Source 
 
 Den 7 december är temat e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
 Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp ett community dels utifrån e-arkiv generellt men även e-arkiv baserat på öppen källkod specifikt.  Gå gärna in på dataportalens forum för community och bekanta er, ni hittar det här: https://community.dataportal.se/
 
-Agenda
+**Agenda**
 
-10:00-10:05 Introduktion
+Introduktion
 
-10:05-10:20  Fågelperspektivet (EU-perspektivet)
-För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.
-[Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf](uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
+[Fågelperspektivet (EU-perspektivet)
+För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
 
-10:20-10:40 Strategiska vägval för e-arkiv och digital informationshantering
-Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten. Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
-[nosad_press_arbetsformedlingen.pdf](uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf)
-[Rapport_långsiktig_informationshantering_E-arkiv.pdf](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
+[Strategiska vägval för e-arkiv och digital informationshantering
+Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf - Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen.) Vi kommer att prata om varför vi gjorde rapporten strategiska vägval för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. 
+[nosad_press_arbetsformedlingen.pdf]
 
-10:40-11:00 Arbetet bakom kulisserna
-Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera 
-[sydarkivera_elin_nosad_20211207.pdf](uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf)
+[Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
 
-11:00-11:20 Öppen källkod och Communitys för Digitalt bevarande 
-Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? 
-Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket.[NOSAD_Tullen_dec_1.0_1b.pdf](uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf)
+[Arbetet bakom kulisserna
+Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
+
+
+[Öppen källkod och Communitys för Digitalt bevarande 
+Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
 
 11:30-12:00 Gruppdiskussioner https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit
 
-
 12:00 	Outro 
 
- Moderator: Maria Dalhage Arbetsförmedlingen
 
 
-
-
-### 12 oktober kl 10-12 API-Playbook
+### 12 oktober 2021: API-Playbook
 
 Nu blir det enklare för er som tillhandahåller öppna data och API:er!
   
@@ -115,9 +109,11 @@ Fredrik Nordlander (DIGG), Fredrik Vesström (Bolagsverket), Johan Stang (Lantm�
 Moderatorer: Maria Dalhage (Arbetsförmedlingen), Johan Linåker (Lunds universitet)
 
 Delat material: 
-[Intro](uploads/180512f1a0c6891a250378fe5019aec5/Nosad_12_oktober.pptx)
-[DCAT-AP_-Processor_NOSAD.pptx](uploads/da22403a785070c0f57f65b582347406/DCAT-AP_-Processor_NOSAD.pptx)
-[APIHantering_NOSAD_2021_10_12_DIGG.pdf](uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
+[Intro](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/180512f1a0c6891a250378fe5019aec5/Nosad_12_oktober.pptx)
+
+[DCAT-AP_-Processor_NOSAD.pptx](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/da22403a785070c0f57f65b582347406/DCAT-AP_-Processor_NOSAD.pptx)
+
+[APIHantering_NOSAD_2021_10_12_DIGG.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
 
 [Resultat från Gruppdiskussionerna](https://docs.google.com/document/d/1aS-KaYqZqx9A_yjczfZzdUM4mI4nBRxk7jNatG5vSTQ/edit#heading=h.v596r2nrh93u)
 
@@ -151,8 +147,6 @@ I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordic
 [Inledning - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8695be112d4a8f326328e6bc71ae4021/Nosad_7_sept.pptx)
 
 [ODIN - öppna data -> öppna standarder -> öppen källkod - Daniel Rudmark (RISE)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/083005e8f4f5af783ef9df3b1c97b60b/2021_09_07_NOSAD.pdf) 
-
- 
 
 [Principer för att få till en öppen infrastruktur, bakgrund och incitament för att arbeta öppet. Andreas Tryti (Entur)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/48802504ae690e87b08910814ea3f226/Entur_-_NOSAD.pdf) 
 
@@ -253,8 +247,6 @@ Intro: Maria Dalhage
 
 Gruppdiskussion
 
-Redovisning av gruppdiskussion 
-
 Outro
 
 
@@ -296,12 +288,7 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 
 ### 2 februari 2021: API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?
 
-Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar. Vi kommer att diskutera hur vi tänker kring
-
-- Rätten av att fråga om någons identitet
-- Behovet att veta vilka som är våra användare
-- Villkor och licenser
-Vidare diskuterar vi och exemplifierar hur man kan presentera sina data med hjälp av Swagger och Notebooks.
+Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar.
 
 **Agenda** 
  
@@ -333,13 +320,13 @@ Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas
   
 
 [Försäkringskassan presenterar sin open source-policy: Hur den utvecklats, tagits emot och efterlevs samt kopplingar - Tomas Lagren (Fk)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)
-[Kompetenscentrum Öppen källkod - Linda Jakobsson Fk  ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
+[Kompetenscentrum Öppen källkod - Linda Jakobsson Fk](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
 
-[Analys DIGGs policy - Björn Lundell, Högskolan i Skövde ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf) 
+[Analys DIGGs policy - Björn Lundell, Högskolan i Skövde](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf) 
 
 [Standard for public code - Jan Ainali - Foundation for Public Code](https://hackmd.io/@Ainali/ryFCCIgCw#/) 
 
-SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf) 
+[SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf) 
 
 [Diskussion: Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
 
@@ -461,16 +448,17 @@ Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att t
 
 **Agenda**
 
-- Inledning – Adam Panzer (DIGG)
+Inledning – Adam Panzer (DIGG)
 
-- [PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) 
+[PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) 
 
-- [Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
+[Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
+
 [Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
 
-- Frågor och öppen diskussion om rekommendationen 
+Frågor och öppen diskussion om rekommendationen 
 
-- Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
+Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
 
 
 
