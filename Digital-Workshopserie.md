@@ -509,62 +509,47 @@ För att kunna fortsätta diskussionen även utanför våra träffar, [gör ett 
 
 I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckla kring sin öppna data. DIGG kommer att ge en introduktion till området och hur de ser på behovet av samarbetsplattformar. Johan Linåker från Lunds universitet kommer ge en överblick av den aktuella forskningen. Vidare kommer vi få höra presentationer från öppna data-plattformarna JobTech Dev (Arbetsförmedlingen) och Trafiklab (Samtrafiken) om hur de byggt upp och aktivt samverkar med sina respektive ekosystem med offentliga och privata aktörer. Mötet syftar till att inspirera och dela lärdomar och tips för hur myndigheter kan komma igång med liknande samverkansinitiativ kring sin öppna data. Deltagarna på träffen bidrar med erfarenheter och utmaningar från sina egna organisationer.
 
-*Johan Linåker (Lunds universitet) Jonas Södergren (Arbetsförmedlingen) Jerry Löfvenhaft (Samtrafiken) samt DIGG.*
 
 **Agenda**
 
-- Välkomna till Nätverket - Maria Dalhage (Arbetsförmedlingen) - 10 min - [Presentation](uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_öppna_data_öppen_källkod_20200915.pdf)
-- Introduktion - (DIGG) - 15 min - [Presentation](uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf)
+- [Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) - 10 min 
+- [Introduktion - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) - 15 min 
 
-- Vad säger forskningen? - Johan Linåker (Lunds universitet) - 20 min - [Presentation](uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf)
+- [Vad säger forskningen? - Johan Linåker (Lunds universitet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) - 20 min 
 
-- JobTechDev - Jonas Södergren (Arbetsförmedlingen) - 15 min - [Presentation](uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf)
+- [JobTechDev - Jonas Södergren](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) (Arbetsförmedlingen) - 15 min 
 
-- Trafiklab - Jerry Löfvenhaft (Samtrafiken) - 15 min - [Presentation](uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsnätverk_Trafiklab_1.0.pdf)
-
-- Diskussion i grupper (30 min). 
-
-1.  **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
- 
-    Alternativt, eller för deltagare som inte tillhör en organisation som delar öppet data; 
-
-2.  **Vilka steg och åtgärder önskar ni att organisationer och myndigheter tar för att deras data ska användas?**
-
-    Resultatet av diskussionerna, blir en lista med åtgärder som kan fungera som startpunkt för 
-    en kollega som ska lägga upp en strategi för öppna data, eller vill få stöd i vilka åtgärder 
-    som finns.
+- [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  - 15 min  
+- Diskussion i grupper (30 min) **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
 
 - Gemensam reflektion (10 min)
-
 
 [Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
 
 
   
-### Tisdag 1 september kl.10-12: Öppna licenser och immaterialrätt – hur hänger det ihop?
+### 1 september 2020: Öppna licenser och immaterialrätt – hur hänger det ihop?
 
- [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
+[Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den onlineworkshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
 
-På höstens första workshop vill vi presentera en första version av policyn och samtidigt bjuda in nätverket att kommentera resultatet. 
-Fram till dess kan ni följa och [bidra i projektet här](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
 
-*Catharina Ekdahl och Charlott Galant (PRV), Björn Hagström och Adam Panzer (DIGG)*
+
 
 **Agenda**
 
 - Inledning – Adam Panzer (DIGG) - 10 min
 
-- PRV:s myndighetssamverkan – Charlott Galant (PRV) - 20 min - [Presentationen](uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf)
+- [PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) - 20 min 
 
-- Presentation av [rekommendationen om öppna licenser och immaterialrätt](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) – Catharina Ekdahl (PRV) - 30 min - [Presentationen](uploads/de7cf3e972a258a8a66d259fb1c1f279/Avstämning_projektet_Öppna_licenser_och_immaterialrätt_Meetup_200901.pptx)
+- [Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) - 30 min - [Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
 
 - Frågor och öppen diskussion om rekommendationen – 40 min
 
 - Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) – 10 min
 
-- Om höstens MeetUp-serie – Maria Dalhage (Arbetsförmedlingen) – 10 min 
+
 
 
 
