@@ -38,6 +38,15 @@ Beskrivning: Länge har vi pratat open source och offentliga Sverige använder f
 
 [Försäkringskassan riktlinjer](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
 
+# öppet arbetssätt
+Beskrivning: I samband med datadelning blir det tydligt hur vi alla utgör delar av olika ekosystem. Digg har tagit fram sju principer som bl.a. trycker på vikten av öppet som standard. Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
+
+[Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
+
+[Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
+
+Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder [Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf](uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
+
 
 
 # Bruttolista
@@ -49,8 +58,6 @@ Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på m�
 
 
 
-[Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
-_Forskningsrapport öppna data_
 
 
 
