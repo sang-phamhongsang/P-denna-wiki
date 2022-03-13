@@ -356,74 +356,57 @@ Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas
 Agenda: 
 1.	Inledning (inklusive sammanfattning av workshop i oktober Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar) -  Maria Dalhage, Arbetsförmedlingen (10 min) [intro_till_policy_öppen_programvara_12_jan.pdf](uploads/f3bf5dfdecd76e668150129f703a196e/intro_till_policy_öppen_programvara_12_jan.pdf)
 
-2.	Försäkringskassan presenterar sin open source-policy:  Hur den utvecklats, tagits emot och efterlevs samt kopplingar till Kompetenscentrum Öppen källkod - Tomas Lagren, Linda Jakobsson, försäkringskassan (30 min)  [FK-Riktlinje-Oppen-kallkod.pdf](uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)
-[OSCC-presentationsmaterial_-myndighetsdragning.pptx](uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
+[Försäkringskassan presenterar sin open source-policy: Hur den utvecklats, tagits emot och efterlevs samt kopplingar - Tomas Lagren (Fk)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d9bffa139c706f84428b08c364ae4649/FK-Riktlinje-Oppen-kallkod.pdf)[Kompetenscentrum Öppen källkod - Linda Jakobsson Fk  ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/7048088dc8cb3d88bdb000f5ae9f0f00/OSCC-presentationsmaterial_-myndighetsdragning.pptx)
 
-3.	Analys DIGGs policy - Björn Lundell, Högskolan i Skövde (20min)
-[2021-01-12_Lundell_OSS_FINAL.pdf](uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf). 
+[Analys DIGGs policy - Björn Lundell, Högskolan i Skövde ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c801c09a0556a1c7e60b914e4fbe3af9/2021-01-12_Lundell_OSS_FINAL.pdf) 
 
-Hänvisning till fler källor som relaterar analysen av DIGG:s policy:
-[Hållbar digitalisering 2020](https://www.ssrg.info/hd2020/)
+[Standard for public code - Jan Ainali - Foundation for Public Code](https://hackmd.io/@Ainali/ryFCCIgCw#/) 
 
-[Den 17 augusti 2021 genomförs konferensen Hållbar digitalisering 2021 ](https://www.ssrg.info/hd2021/)
+SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf) 
 
+Diskussion  [Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
 
-4.	Standard for public code - Jan Ainali - Foundation for Public Code (10 min) [Presentation](https://hackmd.io/@Ainali/ryFCCIgCw#/)
-
-5.	SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB (15 min) [scbs_oss_projekt.pdf](uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf)
-
-6.	Diskussion (30 min) [Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
-
-7.	Sammanfattning (20 min).
+Sammanfattning 
  
  
- 
-Diskussionsfrågor:
-1.	Vilka tankar har ni kring ert strategiska engagemang mot öppenhet (använda eller dela med er?) Och varför?
-2.	Vilka delar behövs i en policy för att uppnå era behov? Incitament och möjligheter? 
-3.	Hur kan man skapa efterlevnad?
 
-[Boka plats](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
 
-### Tisdag 8 december, kl. 10:00-12:00: Hackathons och innovationstävlingar för att innovera på Öppna Data
+[https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/)
+
+### 8 december 2020: Hackathons och innovationstävlingar för att innovera på Öppna Data
 
 Offentlig sektor satsar på nationella innovationstävlingar och hackathons med syfte att få öppna data i användning; som en del av myndigheternas verksamhetsutveckling och/eller som en katalysator för innovation. Räcker denna ansats eller krävs det något mer för att uppnå det vi vill? 
-
 
 Öppna data, kommunikation, ambition och åtagande är viktiga ingredienser fr att lyckas med en innovationstävling. Diskutera möjligheterna samt utmaningarna tillsammans med oss. 
 
 
 **Agenda**
 
-- Inledning Maria Dalhage 10 min
-- Erfarenheter av att anordna digitala hackaton för offentlig förvaltning (Therese Bojia DIGG) 10 min
-- ChallengesGov.se – Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation - Angela Yong 10 min
-- Hackathons för att adressera humanitära och sociala utmaningar - (Lukas Leander OpenHack) 10 min
-- Paneldebatt: Reflektioner från olika Hackathons 20 min
-- Dialog/diskussion  30 min
-- Sammanfattning 30 min
+Inledning - Maria Dalhage
+Erfarenheter av att anordna digitala hackaton för offentlig förvaltning -Therese Bojia DIGG 
+ChallengesGov.se – Lärdomar från att arbeta utmaningsdrivet och med innovationstävlingar för att främja öppen och datadriven innovation - Angela Yong 
+Hackathons för att adressera humanitära och sociala utmaningar - Lukas Leander OpenHack
+Paneldebatt: Reflektioner från olika Hackathons 
+Dialog/diskussion 
+Sammanfattning 
 
  
-Diskussionsfrågor: 
-
-1. Hur många hackathons har ni medverkat på i år?
-2. Varför deltar ni/varför deltar ni inte 
-3. Ska hackathons vara en naturlig del av offentlig sektors arbetsuppgifter och hur vill ni utforma detta? 
-
-
-[Boka plats](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
 
 
 
- ### Fredag 27 november 2020 kl 9:00-12:15: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
+[https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/](https://www.goto10.se/evenemang/hackatons-och-innovationstavlingar/)
+
+
+
+### 27 november 2020: ARBETSMÖTE KRING REMISSVAR TILL ÖPPNA DATA-UTREDNINGEN
 
 Vad finns det för saker som behöver ses över i förslaget till lag om öppna data och vidareutnyttjande av information från myndigheter och offentliga företag som nu är ute på remiss? Under detta arbetsmöte går vi igenom de olika synpunkter på lagförslaget som kommit in i ett gemensamt dokument för remissvar till öppna data-utredningen som ett antal organisationer gått ihop för att skriva tillsammans på initiativ av bl.a. Civic Tech Sweden.
 
 OBS! De som vill delta i arbetsmötet bör ha förberett sig genom att ha läst igenom och bidragit med eventuella kommentarer och förslag i det gemensamma Google-dokument för remissvar som går att nå via http://bit.ly/sou202055. Instruktioner för hur man kan bidra finns i dokumentet. Det finns både möjlighet att vara med och skriva ett helt gemensamt remissvar, och att plocka delar av det som skrivs och skicka in på egen hand! **Skriv gärna in dina eventuella synpunkter i dokumentet senast tisdag 24/11**, så att övriga deltagare har chans att läsa igenom dem innan mötet den 27:e.
 
-_Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige_
+Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige
 
-[För agenda och bokning](https://civictech.se/workshop-kring-remissvar-till-oppna-data-utredningen/?fbclid=IwAR3t-j0f3w87RziPSxot_be984OFDUIpwk8EY-oUxyas7reAHxZCa1IATr8)
+[https://civictech.se/workshop-kring-remissvar-till-oppna-data-utredningen/?fbclid=IwAR3t-j0f3w87RziPSxot_be984OFDUIpwk8EY-oUxyas7reAHxZCa1IATr8](https://civictech.se/workshop-kring-remissvar-till-oppna-data-utredningen/?fbclid=IwAR3t-j0f3w87RziPSxot_be984OFDUIpwk8EY-oUxyas7reAHxZCa1IATr8)
 
 
 
@@ -445,9 +428,6 @@ Inledning till dagens workshop: Maria Dalhage
 [Hur ökar man tillgängligheten på sin öppna data samt automatisering av dataleveranser, filer & API:r -: Eric Hjelmestam - Nationell Skalning Öppna Data (NSÖD)/ Metasolutions och Peter Mankenskiöld - NSÖD/Tieto/Evry](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2836fbcfa5647db54612ae149f161d3f/MetaSolutions___Tieto_till_Jobtech_event_20201103.pdf)  
 
 Diskussion i grupper: Hinder och vägar framåt
-
-
-*Digg, Internetstiftelsen, SKR*
 
 [https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/](https://www.goto10.se/event/forvaltning-och-ansvar-kring-oppna-data-online/)
 
