@@ -450,7 +450,7 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 
 
-### 13 oktober 2020 kl 10-12 Utfrågning Öppna datautredningen
+### 13 oktober 2020: Utfrågning Öppna datautredningen
 Inspelning https://www.youtube.com/watch?v=63l3-_WC7jc
 
 Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
@@ -463,43 +463,33 @@ Vi kommer även få höra uppdragsledare Anna Svedlund på Lantmäteriet kort pr
 
 Passa även på att ställa dina frågor och diskutera i forumet för Nätverket för Kunskapsdelning kring Öppna Data inför utfrågningen!
 
-[BOKA](https://www.goto10.se/event/utfragning-kring-oppna-data-utredningen/)
+[https://www.goto10.se/event/utfragning-kring-oppna-data-utredningen/](https://www.goto10.se/event/utfragning-kring-oppna-data-utredningen/)
 
 
-### Tisdag 6 oktober, kl 10:00-12:00: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
+### 6 oktober 2020: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
 
 [Se i efterhand](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
 På vilket sätt hänger satsning på öppen programvara ihop med de satsningar som görs avseende öppna data? Vad finns att tjäna på en samverkan kring utvecklingen av öppen programvara? Hur kan myndigheter och kommuner gå praktiskt till väga? Under denna workshop försöker vi besvara och diskutera dessa frågor med hjälp av inblickar från en rad intressanta talare. Per Runeson kommer ge en introduktion till öppen källkod och samspelet med öppna data.  Daniel Melin med bred erfarenhet av öppen källkod kommer att prata om myter och missförstånd kring öppen källkod. Göran Westerlund från Alingsås kommun kommer ge ett konkret exempel från utveckling och upphandling av en öppen skolplattform. Dimitrij Aleshkov från Helsingborgs Stad kommer prata kring nyutveckling och engagemang i befintliga öppna källkodsprojekt.
 
-*Per Runeson (Lunds universitet), Daniel Melin (offentlig sektor), Göran Westerlund (Alingsås kommun), Dimitrij Aleshkov (Helsingborgs Stad).*
-
 
 **Agenda**
-1.	Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) -10 min [Presentation](uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_Nätverket_Kunskapsdelning_Öppna_data_Öppen_källkod.pdf)
-2.	Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) - 15 min [Presentation](uploads/30cf0877919c5494d4532a288b1accac/Bortom_öppen_källkod_2020.pdf)
-3.	Myter och missförstånd kring öppen källkod  - Daniel Melin - 20 min
-4.	Exempel: Skolportaler - Göran Westerlund (Alingsås kommun) - 15 min [Presentation](uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf)
-5.	Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) - 20 min [Presentation](uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_öppen_programvara.pptx.pdf)
-6.	Diskussion i grupper - 20 min
-    
-    Frågeställning: Presentera en utmaning du står inför i din verksamhet när det gäller öppen 
-    källkod:
-    - Något tekniskt? 
-    - Ledning (governance)?
-    - Licenser eller annat juridiskt?
-    - Integritetsfrågor?
+[Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_N%C3%A4tverket_Kunskapsdelning_%C3%96ppna_data_%C3%96ppen_k%C3%A4llkod.pdf)
 
-      [Gruppernas sammanställningar samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
+[Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/30cf0877919c5494d4532a288b1accac/Bortom_o%CC%88ppen_ka%CC%88llkod_2020.pdf) 
+
+Myter och missförstånd kring öppen källkod  - Daniel Melin 
+
+[Skolportaler - Göran Westerlund (Alingsås kommun)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) 
+
+[Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_%C3%B6ppen_programvara.pptx.pdf)
+
+Diskussion i grupper: [Gruppernas sammanställningar samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
+
+[https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
 
 
-7.	Gemensamma reflektioner - 20 min
-
-
-[Boka plats](https://www.goto10.se/evenemang/introduktion-till-oppen-programvara-transparens-innovation-och-kostnadsbesparingar/)
-
-
-### Tisdag 15 september 2020, kl 10:00-12:00: Samverkan kring offentlig sektors öppna data-satsningar
+### Tisdag 15 september 2020: Samverkan kring offentlig sektors öppna data-satsningar
 
 [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-2-Samverkan-kring-offentlig-sektors-%C3%B6ppna-data-satsningar) | [Se i efterhand](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
@@ -512,17 +502,15 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 **Agenda**
 
-- [Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) - 10 min 
-- [Introduktion - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) - 15 min 
+- [Intro - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) 
+- [Introduktion - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) 
 
-- [Vad säger forskningen? - Johan Linåker (Lunds universitet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) - 20 min 
+- [Vad säger forskningen? - Johan Linåker (Lunds universitet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) 
 
-- [JobTechDev - Jonas Södergren](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) (Arbetsförmedlingen) - 15 min 
+- [JobTechDev - Jonas Södergren](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) (Arbetsförmedlingen) 
 
-- [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  - 15 min  
-- Diskussion i grupper (30 min) **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
-
-- Gemensam reflektion (10 min)
+- [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  
+- Diskussion i grupper **Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?**
 
 [Boka plats](https://www.goto10.se/evenemang/samverkan-kring-offentlig-sektors-oppna-data-satsningar-online/)
 
@@ -532,22 +520,23 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 [Sammanfattning](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Sammanfattning-Workshop-1-%C3%96ppna-licenser-och-immaterialr%C3%A4tt-%E2%80%93-hur-h%C3%A4nger-det-ihop%3F) | [Se i efterhand](https://www.youtube.com/watch?v=by_h0dWljqY), Sändningen är publicerad på Goto10:s YouTube-kanal
 
-Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den onlineworkshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
+Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att ta fram ett policydokument eller vägledning om öppna licenser och immaterialrätt för andra myndigheter. Det verkliga startskottet för projektet var den online-workshop som PRV arrangerade den 5 maj. På den workshopen fick vi bekräftat att en policy eller vägledning behövs. Många myndigheter och offentliga förvaltningar känner tveksamhet hur de kan använda öppna licenser för sitt material och upplever immaterialrätten som ett hinder. Tanken med policyn är att bringa klarhet och även visa hur öppna licenser och immaterialrätt kan komplettera varandra för att bidra till ökad öppenhet och tillgänglighet.
 
 
 
 
 **Agenda**
 
-- Inledning – Adam Panzer (DIGG) - 10 min
+- Inledning – Adam Panzer (DIGG)
 
-- [PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) - 20 min 
+- [PRV:s myndighetssamverkan – Charlott Galant (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/14f599ebab200bf88876c88ecd62b09a/PRV_1_september_2020_.pdf) 
 
-- [Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) - 30 min - [Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
+- [Presentation av rekommendationen om öppna licenser och immaterialrätt – Catharina Ekdahl (PRV)](https://docs.google.com/document/d/1XZUFsjKKU1TzDevqMooE5mSsg-x35FrF9c_QzyChPa8/edit) 
+[Öppna licenser och immaterialrätt – hur hänger det ihop? - Catharina Ekdahl (PRV)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/de7cf3e972a258a8a66d259fb1c1f279/Avsta%CC%88mning_projektet_O%CC%88ppna_licenser_och_immaterialra%CC%88tt_Meetup_200901.pptx)
 
-- Frågor och öppen diskussion om rekommendationen – 40 min
+- Frågor och öppen diskussion om rekommendationen 
 
-- Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) – 10 min
+- Lansering av rekommendationen i höst – Adam Panzer (DIGG) och Catharina Ekdahl (PRV) 
 
 
 
