@@ -329,7 +329,7 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 - [Myter och missförstånd kring öppen källkod - Daniel Melin ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
 - [Skolportaler - Göran Westerlund (Alingsås kommun)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) 
 - [Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_%C3%B6ppen_programvara.pptx.pdf)
-- Diskussion i grupper: [Gruppernas sammanställningar samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
+-[Sammanställningar av gruppdiskussioner samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
 
 
 ### Tisdag 15 september 2020: Samverkan kring offentlig sektors öppna data-satsningar
