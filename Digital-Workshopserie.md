@@ -313,7 +313,6 @@ Vi kommer även få höra uppdragsledare Anna Svedlund på Lantmäteriet kort pr
 
 Öppna data-utredningens huvudbetänkande Innovation genom information, SOU 2020:55, har skickats ut på remiss med sista svarsdag den 17 december 2020. Den går att ladda ner i sin helhet från Regeringens webbplats. Vill eller hinner man inte läsa alla 488 sidor innan utfrågningen rekommenderas att läsa sammanfattningen (s. 21-32) och de avslutande författningskommentarerna och lagförslaget (s. 389-430). Björn Hagströms sammanfattning är också ett lästips.
 
-Passa även på att ställa dina frågor och diskutera i forumet för Nätverket för Kunskapsdelning kring Öppna Data inför utfrågningen!
 
 ### 6 oktober 2020: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
 
