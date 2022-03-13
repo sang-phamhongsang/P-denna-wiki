@@ -60,6 +60,6 @@ Beskrivning: I samband med datadelning blir det tydligt hur vi alla utgör delar
 
 [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
 
-[Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdff)
+[Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
 
 
