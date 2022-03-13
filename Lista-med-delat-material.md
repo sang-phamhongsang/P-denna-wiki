@@ -1,5 +1,5 @@
 ## NOSAD tipsar
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att maila NOSAD.
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att [Kontakta NOSAD.](mailto:maria.dalhage@digg.se). 
 
 **Innehållsförteckning**
 
@@ -10,7 +10,7 @@ Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hj
 - [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie)
 
 ## Stöd för att tillhandahålla öppna data
-Beskrivning: Diggs vägledning för att tillgängliggöra information beskriver hur du ska gå tillväga för att dina datamängder ska synas på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du stödet [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
+Digg har tagit fram vägledning för att tillgängliggöra information för att stötta dig i arbetet med att tillgängliggöra dina datamängder på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi.  Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. På dataportal.se hittar du  vidare [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
 [Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
 
@@ -21,7 +21,7 @@ Beskrivning: Diggs vägledning för att tillgängliggöra information beskriver 
 
 
 ## Krav vid anskaffning av IT-system
-Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver kravställning av IT-system finns bra stöd. De fem rekommendationerna från Högskolan i Skövde innehåller krav på öppna standarder, en lista som hålls av Kammarkollegiet i ramvavtalet XXX. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner.
+För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver IT-system kravställas med särskilda krav på öppna standarder och implementering i öppen programvara. De fem rekommendationerna från Högskolan i Skövde innehåller land annat krav på öppna standarder, en lista som hålls av Kammarkollegiet på respektive ramavtals webbsida inom familjen Programvaror och tjänster. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner. FAQ För upphandling hanterar frågor kring vad som gäller för open source.
 
 [Fem rekommendationer för lyckad upphandling av öppen programvara | Högskolan i Skövde (mynewsdesk.com)](https://www.mynewsdesk.com/se/his/pressreleases/fem-rekommendationer-foer-lyckad-upphandling-av-oeppen-programvara-3108346)
 
@@ -33,8 +33,8 @@ Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande
 
 
  
-## Öppen källkod 
-Beskrivning: Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. Ta del av och använd i er resa mot en mer hållbar digitalisering.
+## Öppen källkod som strategi 
+Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. Ta del av och använd i er resa mot en mer hållbar digitalisering.
 
 [eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
 
@@ -57,7 +57,7 @@ Beskrivning: Offentliga Sverige använder fler och fler open source-lösningar. 
 
 
 ## Öppet arbetssätt
-Beskrivning: I samband med datadelning blir det tydligt hur vi alla utgör delar av olika ekosystem. Digg har tagit fram sju principer som bl.a. trycker på vikten av öppet som standard. Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
+Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns?Hur samverkar vi offentligt-privat och tillsammans? Digg har tagit fram sju principer som bl.a. trycker på vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
 
 [Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
 
