@@ -1,5 +1,9 @@
 Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Deltagarna i NOSAD bidrar till listan genom att maila NOSAD.
 
+**Innehållsförteckning**
+
+[TOC]
+
 [Presentationer från tidigare NOSAD-event](url)
 
 ## Stöd för att tillhandahålla öppna data
@@ -26,7 +30,7 @@ Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande
 
 
  
-## Inför anskaffning, användning och delning av öppen källkod
+## Anskaffning, användning och delning av öppen källkod
 Beskrivning: Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
 
 [eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
@@ -56,6 +60,6 @@ Beskrivning: I samband med datadelning blir det tydligt hur vi alla utgör delar
 
 [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
 
-Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder [Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf](uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
+[Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdff)
 
 
