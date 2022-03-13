@@ -21,7 +21,7 @@ Digg har tagit fram vägledning för att tillgängliggöra information för att 
 
 
 ## Krav vid anskaffning av IT-system
-För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver IT-system kravställas med särskilda krav på öppna standarder och implementering i öppen programvara. De fem rekommendationerna från Högskolan i Skövde innehåller land annat krav på öppna standarder, en lista som hålls av Kammarkollegiet på respektive ramavtals webbsida inom familjen Programvaror och tjänster. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner. FAQ För upphandling hanterar frågor kring vad som gäller för open source.
+De fem rekommendationerna från Högskolan i Skövde innehåller bland annat krav på öppna standarder, en lista som hålls av Kammarkollegiet på respektive ramavtals webbsida inom familjen Programvaror och tjänster. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner. FAQ För upphandling hanterar frågor kring vad som gäller för open source.
 
 [Fem rekommendationer för lyckad upphandling av öppen programvara | Högskolan i Skövde (mynewsdesk.com)](https://www.mynewsdesk.com/se/his/pressreleases/fem-rekommendationer-foer-lyckad-upphandling-av-oeppen-programvara-3108346)
 
@@ -57,7 +57,7 @@ Offentliga Sverige använder fler och fler open source-lösningar. Först nu bö
 
 
 ## Öppet arbetssätt
-Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns?Hur samverkar vi offentligt-privat och tillsammans? Digg har tagit fram sju principer som bl.a. trycker på vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
+Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns? Hur samverkar vi offentligt-privat och tillsammans? Digg har tagit fram sju principer som bl.a. trycker på vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
 
 [Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
 
