@@ -10,7 +10,7 @@ Beskrivning: Diggs vägledning för att tillgängligöra information beskriver h
 
 
 # Att alltid tänka på vid kravställning av IT-system för att undvika inlåsningseffekter
-Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver kravställning av IT-system finns bra stöd. De fem rekommendationerna från Högskolan i Skövde innheåller krav på öppna standerder. En lista som hålls av Kammarkollegiet i ramvatalet XXX. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner.
+Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande och för att undvika inlåsning av data behöver kravställning av IT-system finns bra stöd. De fem rekommendationerna från Högskolan i Skövde innehåller krav på öppna standarder, en lista som hålls av Kammarkollegiet i ramvatalet XXX. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner.
 
 [Fem rekommendationer för lyckad upphandling av öppen programvara | Högskolan i Skövde (mynewsdesk.com)](https://www.mynewsdesk.com/se/his/pressreleases/fem-rekommendationer-foer-lyckad-upphandling-av-oeppen-programvara-3108346)
 
@@ -20,6 +20,8 @@ Beskrivning: För att uppnå interoperabilitet, säkerställa digitalt bevarande
 
  
 # För anskaffning, användning och delning av open Source/öppen källkod
+Länge har vi pratat open source och offentliga Sverige använder fler och fler open sourcelösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter. Ta del av och använd i er resa mot en mer hållbar digitalisering.
+
 - eSAM Råd för delning och användning av öppen källkod 220311.pdf
 -   [Arbetsförmedlingen Riskanalys öppen källkod](uploads/942966052106a1ab88a2fb72b656719f/Riskanalys_Öppen_källkod_1.0_-_20211025_1_.pdf)
 - Diggs policy för öppen programvara
