@@ -1,6 +1,6 @@
  
 ## Kommande workshops 
-Var med och skapa vår gemensamma mötesserie, genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
+Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
 
 [Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
 
@@ -26,7 +26,7 @@ Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompe
 
 
 ## Genomförda workshops
-### 1 mars 2022: Communityhälsa och säkerhet vid var av Open Source
+### 1 mars 2022: Communityhälsa och säkerhet vid var av open source
  **[Tekniker och processer för att undvika supply chain-attacker](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)** – Martin Hell (Lunds universitet/Debricked) 
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
