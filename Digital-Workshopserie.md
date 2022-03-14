@@ -69,11 +69,11 @@ Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompe
 
  [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
-**[Tekniker och processer för att undvika supply chain-attacker](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)** – Martin Hell (Lunds universitet/Debricked) 
+[Tekniker och processer för att undvika supply chain-attacker -Martin Hell (Lunds universitet/Debricked)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf) 
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
 
-**[Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8f2b4b446d9dc2b1a253ffd54bf3875d/OSS-health-NOSAD.pdf)** – Johan Linåker (Rise) [OSS-health-NOSAD.pdf]
+[Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt -Johan Linåker (Rise)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8f2b4b446d9dc2b1a253ffd54bf3875d/OSS-health-NOSAD.pdf) 
 
 Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror till stor del på projektets förmåga att underhålla programvaran över en lång tid till en hög kvalitet, även kallat projektets hälsa. Hälsan går både att analysera och förbättra proaktivt vilket kan underlätta riskbedömning vid anskaffning av öppna programvarukomponenter, men även för att hantera risker för sårbarheter i projekt som är kritiska för ens verksamhet. Vi får här en introduktion både till hälsobegreppet i stort, samt hur analys och förebyggande åtgärder kan utföras.
  
@@ -216,7 +216,7 @@ gör livet bättre och lättare för både myndigheter och medborgare.
 
 Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.
 
-Schema:
+**Agenda**
 
 **Pass 1 - Öppen källkod som bas i den digitala allemansrätten**
 
