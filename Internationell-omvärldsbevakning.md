@@ -1,5 +1,5 @@
-# Internationell Omvärldsbevakning
-Se också [NOSAD tips](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) och [Presentationer från tidigare workshops.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
+# Internationell omvärldsbevakning
+Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer från tidigare workshops](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie). 
 
 
 ## Policys och vägledningar kring öppen programvara inom offentlig sektor
