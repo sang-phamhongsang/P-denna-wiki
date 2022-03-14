@@ -6,30 +6,33 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
 
 ## Snabblänkar
 
-1. Kommande
-   * 2022-04-05 - [Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem)
-   * 2022-03-29 - [Livslångt lärande](#livslångt-lärande)
-2. Arkivet
-   * 2022-03-01  - [Hälsa och säkerhet vid val av öppen programvara](#communityhälsa-och-säkerhet-vid-var-av-öppen-källkod)
-   * 2022-02-01 - [Open by default inom offentlig verksamhet](#open-by-default)
-   * 2022-01-11 - [Retrospektiv NOSAD 2021](#retrospektiv-2021)
-   * 2021-12-07 - [e-Arkiv med öppen källkod](#earkiv-med-öppen-källkod)
-   * 2021-10-12 - [API-Playbook](#api-playbook)
-   * 2021-10-04 - [Svenska städers behov av digital infrastruktur](#svenska-städers-behov-av-digital-infrastruktur)
-   * 2021-09-07 - [Samarbete kollektivtrafiksektorn](#samarbete-kollektivtrafiksektorn)
-   * 2021-06-15 - [Offentlighetsprincipen](#offentlighetsprincipen)
-   * 2021-06-02 - [Öppen källkod som bas i den digitala allemansrätten](#öppen-källkod-som-bas-i-den-digitala-allemansrätten)
-   * 2021-05-04 - [Öppna standarder](#öppna-standarder)
-   * 2021-04-06 - [Länkade data och wikidata](#länkade-data-och-wikidata)
-   * 2021-03-02 - [Öppen programvara i andra länder](#öppen-programvara-i-andra-länder)
-   * 2021-02-02 - [API i praktiken](#api-i-praktiken)
-   * 2021-01-12 - [Policy för öppen programvara](#policy-för-öppen-programvara)
-   * 2020-12-08 - [Hackathons och innovationstävlingar](#hackathons-och-innovationstävlingar)
-   * 2020-11-03 - [Förvaltning öppna data](#förvaltning-öppna-data)
-   * 2021-10-13 - [Utfrågning öppna datautredningen](#remissvar-utredning)
-   * 2021-10-06 - [Introduktion till öppen programvara](#introduktion-till-öppen-programvara) 
-   * 2021-09-15 - [Samverkan öppna data inom offentlig sektor](#samverkan-öppna-data-inom-offentlig-sektor)
-   * 2021-09-01 - [Öppna licenser och immaterialrätt](#öppna-licenser-och-immaterialrätt)
+Kommande
+
+- 2022-04-05 - [Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem)
+- 2022-03-29 - [Livslångt lärande](#livslångt-lärande)
+
+Arkivet
+
+- 2022-03-01  - [Hälsa och säkerhet vid val av öppen programvara](#communityhälsa-och-säkerhet-vid-var-av-öppen-källkod)
+- 2022-02-01 - [Open by default inom offentlig verksamhet](#open-by-default)
+- 2022-01-11 - [Retrospektiv NOSAD 2021](#retrospektiv-2021)
+- 2021-12-07 - [e-Arkiv med öppen källkod](#earkiv-med-öppen-källkod)
+- 2021-10-12 - [API-Playbook](#api-playbook)
+- 2021-10-04 - [Svenska städers behov av digital infrastruktur](#svenska-städers-behov-av-digital-infrastruktur)
+- 2021-09-07 - [Samarbete kollektivtrafiksektorn](#samarbete-kollektivtrafiksektorn)
+- 2021-06-15 - [Offentlighetsprincipen](#offentlighetsprincipen)
+- 2021-06-02 - [Öppen källkod som bas i den digitala allemansrätten](#öppen-källkod-som-bas-i-den-digitala-allemansrätten)
+- 2021-05-04 - [Öppna standarder](#öppna-standarder)
+- 2021-04-06 - [Länkade data och wikidata](#länkade-data-och-wikidata)
+- 2021-03-02 - [Öppen programvara i andra länder](#öppen-programvara-i-andra-länder)
+- 2021-02-02 - [API i praktiken](#api-i-praktiken)
+- 2021-01-12 - [Policy för öppen programvara](#policy-för-öppen-programvara)
+- 2020-12-08 - [Hackathons och innovationstävlingar](#hackathons-och-innovationstävlingar)
+- 2020-11-03 - [Förvaltning öppna data](#förvaltning-öppna-data)
+- 2021-10-13 - [Utfrågning öppna datautredningen](#remissvar-utredning)
+- 2021-10-06 - [Introduktion till öppen programvara](#introduktion-till-öppen-programvara) 
+- 2021-09-15 - [Samverkan öppna data inom offentlig sektor](#samverkan-öppna-data-inom-offentlig-sektor)
+- 2021-09-01 - [Öppna licenser och immaterialrätt](#öppna-licenser-och-immaterialrätt)
 
 ### Öppna data för ett hållbart godstransportsystem
 
