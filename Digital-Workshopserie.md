@@ -1,10 +1,19 @@
  
-## Kommande workshops 
 Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
 
 [Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
 
-### 5 april kl 10-11: Öppna data för ett hållbart godstransportsystem
+## Snabblänkar
+
+1. Kommande
+   * [5 april 2022](#öppna-data-för-ett-hållbart-godstransportsystem)
+   * [29 mars 2022](#livslångt-lärande)
+2. Tidigare
+   * [Genomförda](genomförda-workshops)
+
+### Öppna data för ett hållbart godstransportsystem
+
+<small>5 april 2022, kl 10-11</small>
  
 På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och incitament att dela data för ett hållbart godstransportsystem. Bland annat kommer följande frågor att besvaras; På vilket sätt skiljer sig privata aktörer från offentlig sektor när det kommer till att dela öppen data?; Vilka incitament har privat sektor att dela data öppet?; Hur kan privat och offentlig sektor samarbeta för att möjliggöra för datadelning?  
 
@@ -14,7 +23,9 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 - Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
 - Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
  
-### 29 mars kl 10-12 Livslångt lärande - Ge input till pågående regeringsuppdrag.
+### Livslångt lärande
+
+<small>29 mars 2022, kl 10-12 </small>
 
 Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
 
