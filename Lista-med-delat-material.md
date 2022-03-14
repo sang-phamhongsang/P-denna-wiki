@@ -1,6 +1,6 @@
 ## Nätverket rekommenderar
 
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Se också [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) och <a href="https://nosad.se/internationellt" data-navigo>Internationell omvärldsbevakning</a>.
+Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>.
 
 **Innehållsförteckning**
 
@@ -12,7 +12,9 @@ Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hj
 
 
 ## Stöd för att tillhandahålla öppna data
-Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. På dataportal.se hittar du  vidare [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
+Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
+
+[Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
 [Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
 
