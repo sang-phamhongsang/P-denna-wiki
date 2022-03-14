@@ -70,7 +70,7 @@ Moderator: Maria Dalhage, DIGG
 - Vikten av intern styrning och stöd kring öppen källkod. Erfarenheter från SVT:s  Programkontor för öppen källkod
 - Diskussion med Menti: När eldsjälarna slutar, vad händer då? Hur skapar vi kontinuitet i verksamheten?
 
-### NOSAD retrospektiv - Hur kan vi förbättra nätverket?
+### Retrospektiv 2021
 
 <small>11 januari 2022</small>
 
@@ -81,7 +81,7 @@ Moderator: Maria Dalhage, DIGG
 [Sammanfattning i community.dataportal.se](https://community.dataportal.se/topic/282/hj%C3%A4lp-nosad-och-dataportalens-communityforum-att-bli-b%C3%A4ttre)
 
 
-### e-Arkiv med öppen källkod
+### eArkiv med öppen källkod
 
 <small>7 december 2021</small>
 
@@ -101,7 +101,7 @@ Arbetsförmedlingen berättar om varför rapporten strategiska vägval gjordes f
 - [Gruppdiskussioner](https://docs.google.com/document/d/1l9ux8FeEiQSHOBlZZOaWBdmES2U-cboGCo9S40i0nE8/edit)
 
 
-### API-Playbook
+### API Playbook
 
 <small>12 oktober 2021</small>
 
@@ -147,10 +147,9 @@ Seminariet kommer hållas på engelska.
 
 <small>7 september 2021</small>
 
-
 Låt er inspireras av och diskutera de möjligheter ut utmaningar som finns inom Sektorn för kollektivtrafik när det gäller öppna data, öppna standarder och öppen källkod. Vad är generiskt och vad kan ni ta med er till er domän?
 
-I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordics där de nordiska aktörerna inom kollektivtrafiken gått samman i en satsning för att ta ett helhetsgrepp kring öppna data, öppen källkod och öppna standarder för att få fram nya mobilitetstjänster och leverera på myndighetsuppdrag men också att bygga en agil organisation som skapar flexibilitet och kan möta nya krav och behov.  Det norska statligt ägda Entur hanterar all kollektivtrafikdata i Norge. De har byggt upp sin infrastruktur baserat på just öppna data, öppen källkod och öppna standarder och kommer att presentera principer, arbetssätt och erfarenheter för att få till en öppen infrastruktur.
+I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordics där de nordiska aktörerna inom kollektivtrafiken gått samman i en satsning för att ta ett helhetsgrepp kring öppna data, öppen källkod och öppna standarder för att få fram nya mobilitetstjänster och leverera på myndighetsuppdrag men också att bygga en agil organisation som skapar flexibilitet och kan möta nya krav och behov. Det norska statligt ägda Entur hanterar all kollektivtrafikdata i Norge. De har byggt upp sin infrastruktur baserat på just öppna data, öppen källkod och öppna standarder och kommer att presentera principer, arbetssätt och erfarenheter för att få till en öppen infrastruktur.
 
 **Agenda**
 
@@ -159,7 +158,7 @@ I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordic
 - [Principer för att få till en öppen infrastruktur, bakgrund och incitament för att arbeta öppet. Andreas Tryti (Entur)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/48802504ae690e87b08910814ea3f226/Entur_-_NOSAD.pdf) 
 - Gemensam reflektion av dagens presentationer
 
-### Offentlighetsprincipen - från bråkstake till bästa kompis
+### Offentlighetsprincipen
 
 <small>15 juni 2021</small>
 
@@ -266,7 +265,7 @@ Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en mynd
 - Diskussion i grupper: Vilken potential ser ni i er verksamhet idag kopplad till länkad data? Vilka är utmaningarna?
 - Återsamling och gruppredovisning
 
-### Samverkan kring öppen programvara inom offentlig sektor - Hur gör man i andra länder?
+### Öppen programvara i andra länder
 
 <small>2 mars 2021</small>
 
@@ -281,7 +280,7 @@ Bastien Guerry, Free Software Officer, Etalab (motsv. DIGG) i Frankrike
 
 Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 
-### API-nycklar, OpenAPI, Swagger och Notebooks - hur maximerar vi användandet av öppna data?
+### API:er i praktiken
 
 <small>2 februari 2021</small>
 
@@ -299,7 +298,7 @@ Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla 
 - Diskussion i grupper: Vad behöver finnas i API-dokumentationen och på vilka andra sätt kan vi synliggöra våra öppna data. 
 - [Återsamling och redovisning från grupperna.](https://docs.google.com/document/d/1K9-QRRlT_cMYsE0dFc_ZrEv3drURupI3vH6fb3ckjoY/edit?ts=6017df32#heading=h.4d8paovmypfy) 
 
-### Policy för öppen programvara hos myndigheter - varför och hur är de formulerade?
+### Policy för öppen programvara
 
 <small>12 januari 2021</small>
 
@@ -317,7 +316,7 @@ Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas
 - [SCB presenterar sin resa med att öppna upp sin tjänst med arbetssätt, process och utmaningar - Petros Likidis, SCB](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0be7994f3020eaae9ac40d9e8aae8bb9/scbs_oss_projekt.pdf) 
 - [Diskussion: Gruppernas sammanfattning](https://docs.google.com/document/d/1k7lHzTQ6kDW4onbd3Roi0niaFWq2rGi7Xr5Y3jn3kGs/edit#heading=h.iidgodf0txxt)
 
-### Hackathons och innovationstävlingar för att innovera på Öppna Data
+### Hackathons och innovationstävlingar
 
 <small>8 december 2020</small>
 
@@ -344,8 +343,7 @@ Vad finns det för saker som behöver ses över i förslaget till lag om öppna 
 
 Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowledge Sweden, Föreningen Grävande Journalister, Hagström Consulting, Internetstiftelsen, Nationell Skalning Öppna Data, Wikimedia Sverige
 
-
-### Förvaltning och ansvar kring öppna data
+### Förvaltning öppna data
 
 <small>3 november 2020</small>
 
@@ -375,7 +373,9 @@ Vi kommer även få höra uppdragsledare Anna Svedlund på Lantmäteriet kort pr
 
 Öppna data-utredningens huvudbetänkande Innovation genom information, SOU 2020:55, har skickats ut på remiss med sista svarsdag den 17 december 2020. Den går att ladda ner i sin helhet från Regeringens webbplats. Vill eller hinner man inte läsa alla 488 sidor innan utfrågningen rekommenderas att läsa sammanfattningen (s. 21-32) och de avslutande författningskommentarerna och lagförslaget (s. 389-430). Björn Hagströms sammanfattning är också ett lästips.
 
-### 6 oktober 2020: Introduktion till Öppen Programvara - Transparens, innovation och kostnadsbesparingar
+### Introduktion till Öppen Programvara
+
+<small>6 oktober 2020</small>
 
 [Se i efterhand](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
@@ -390,7 +390,7 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 - [Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_%C3%B6ppen_programvara.pptx.pdf)
 -[Sammanställningar av gruppdiskussioner samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
 
-### Samverkan kring offentlig sektors öppna data-satsningar
+### Samverkan öppna data inom offentlig sektor
 
 <small>15 september 2020</small>
 
@@ -412,7 +412,7 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 - [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  
 - [Sammanställning av gruppdiskussioner på Jobtechs forum: Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?](https://forum.jobtechdev.se/t/workshop-2-samverkan-kring-offentlig-sektors-oppna-data-satsningar/147)
   
-### Öppna licenser och immaterialrätt – hur hänger det ihop?
+### Öppna licenser och immaterialrätt
 
 <small>1 september 2020</small>
 
