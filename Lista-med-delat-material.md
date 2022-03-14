@@ -1,4 +1,5 @@
-## NOSAD tipsar
+## Nätverket rekommenderar
+
 Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Se också [Presentationer från tidigare NOSAD-event](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) och <a href="https://nosad.se/internationellt" data-navigo>Internationell omvärldsbevakning</a>.
 
 **Innehållsförteckning**
