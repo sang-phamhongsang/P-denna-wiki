@@ -1,4 +1,4 @@
-## Internationell Omvärldsbevakning
+# Internationell Omvärldsbevakning
 Se också [NOSAD tips](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) och [Presentationer från tidigare workshops.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) 
 
 
@@ -44,7 +44,6 @@ Se också [NOSAD tips](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wik
 * Spanien
     * [Free Software Management Guidelines](https://www.barcelona.cat/digitalstandards/en/free-soft/0.2/introduction)  
 [Extern resurs | City of Barcelona, Spanien]
-
 * Sydafrika
     * [APC free/libre and open source software policy (APC FLOSS Policy)](https://www.apc.org/en/apc-freelibre-and-open-source-software-policy-apc-floss-policy)  
 [Extern resurs | Association for Progressive Communications (APC), Sydafrika]  
@@ -88,7 +87,7 @@ Se också [NOSAD tips](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wik
     * [Awesome Free Software](https://afs.one/aa45803b67/#/?page=afs_directory&editable=true)  
 [Extern resurs | Fonds de Dotation du Libre]
 
-#### Intresseorganisationer kring Öppen Programvara
+## Intresseorganisationer kring Öppen Programvara
 
 * Europa
     * [APELL - The European Open Source Software Business Association](https://www.apell.info/)
