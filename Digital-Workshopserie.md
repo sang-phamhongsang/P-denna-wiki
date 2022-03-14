@@ -203,8 +203,7 @@ gör livet bättre och lättare för både myndigheter och medborgare.
 - Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
 - OpenUp! Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG) 
 - Handlingar.se. Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. – Elenor Weijmar
-- [Nationell Metadataprofil Offentliga Handlingar. - Mattias Axel] 
- (https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. 
+- [Nationell Metadataprofil Offentliga Handlingar. - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. 
  
 
 
