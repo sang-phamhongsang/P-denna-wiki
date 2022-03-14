@@ -385,8 +385,7 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 <small>13 oktober 2020</small>
 
-[Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc) | [Anteckningar]
-(https://docs.google.com/document/d/1uCEE1ErGnVhjvYtP4mqnfdk4Q7rcbfGE6jnWYtVfAT8/edit#heading=h.tbzprc33wdn)
+[Inspelning](https://www.youtube.com/watch?v=63l3-_WC7jc) | [Anteckningar](https://docs.google.com/document/d/1uCEE1ErGnVhjvYtP4mqnfdk4Q7rcbfGE6jnWYtVfAT8/edit#heading=h.tbzprc33wdn)
 
 Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
 
