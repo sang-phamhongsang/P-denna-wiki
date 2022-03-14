@@ -6,13 +6,13 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
 
 ## Snabblänkar
 
-Kommande
+**Kommande**
 | Datum | Workshop |
 |---|---|
 | 2022-04-05 | [Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem) |
 | 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
 
-Arkivet
+**Tidigare**
 
 | Datum | Workshop |
 |---|---|
