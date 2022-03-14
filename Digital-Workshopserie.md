@@ -40,7 +40,9 @@ Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompe
 
 <small>1 mars 2022</small>
 
- **[Tekniker och processer för att undvika supply chain-attacker](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)** – Martin Hell (Lunds universitet/Debricked) 
+ [Inspelning](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
+
+**[Tekniker och processer för att undvika supply chain-attacker](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/2ba7cc0d26de9e7eec0b9ded9dd8fec1/SupplyChain_NOSAD.pdf)** – Martin Hell (Lunds universitet/Debricked) 
 
 Supply chain-attacker har fått stort genomslag de senaste åren, mycket på grund av ett antal uppmärksammade incidenter. En sårbarhet kan få skadlig kod att sprida sig till tusentals organisationer. Vi diskuterar dessa attacker, hur de ser ut i en öppen-källkodsmiljö och hur förbättrade teknologier och processer kan hjälpa organisationer att skydda sig.
 
@@ -52,7 +54,9 @@ Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror t
 
 <small>1 februari 2022</small> 
 
- ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
+[Inspelning](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
+ 
+”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
  
@@ -70,6 +74,8 @@ Moderator: Maria Dalhage, DIGG
 
 <small>11 januari 2022</small>
 
+[Inspelning](https://data.jobtechdev.se/videos/nosad-20220111-retrospektiv-1920x1030.mp4)
+
 [Workshopunderlag - Maria Dalhage](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/%5BNOSAD_retro.pptx%5D(uploads/fa15d6322145495b51af4f6ec7f3f543/NOSAD_retro.pptx))
 
 [Sammanfattning i community.dataportal.se](https://community.dataportal.se/topic/282/hj%C3%A4lp-nosad-och-dataportalens-communityforum-att-bli-b%C3%A4ttre)
@@ -78,6 +84,8 @@ Moderator: Maria Dalhage, DIGG
 ### e-Arkiv med öppen källkod
 
 <small>7 december 2021</small>
+
+[Inspelning](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/)
 
 Temat är e-arkiv och hur man kan använda sig av öppen källkod och öppna standarder/specifikationer för att möjliggöra digitalt bevarande. Fyra presentationer kommer ge en överblick på de olika stegen i processen att välja, utvärdera och använda en e-arkivslösning baserat på öppen källkod. 
 Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp ett community dels utifrån e-arkiv generellt men även e-arkiv baserat på öppen källkod specifikt.  Gå gärna in på dataportalens forum för community och bekanta er, ni hittar det här: https://community.dataportal.se/
@@ -96,6 +104,8 @@ Arbetsförmedlingen berättar om varför rapporten strategiska vägval gjordes f
 ### API-Playbook
 
 <small>12 oktober 2021</small>
+
+[Inspelning](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
 
 Nu blir det enklare för er som tillhandahåller öppna data och API:er!
   
@@ -116,6 +126,8 @@ Delat material:
 
 <small>4 oktober 2021</small>
 
+[Inspelning](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
+
 Seminariet utgår från och ger exempel på det standardarbete som den nordamerikanska stiftelsen Open Mobility Foundation lett. Där har ett flertal städer i öppet samarbete med privata aktörer skapat kärnan för en digital infrastruktur, vilken idag används i bl.a. Los Angeles, Chicago och Stockholm.
 
 Digitaliseringen av samhället ställer nya krav på hur kommuners interaktion och service med invånaren kommer se ut framåt. Ända sedan kommunernas tillkomst har en central uppgift varit att bistå medborgare och företag med fysisk infrastruktur som vägar, vatten och avlopp. Nu finns behovet att hitta de digitala vägarna som kan användas i kommunerna. Utbyte av data med privata aktörer, datadriven verksamhetsutveckling och digital regelgivning är frågor som redan nu är konstaterade behov.
@@ -135,6 +147,7 @@ Seminariet kommer hållas på engelska.
 
 <small>7 september 2021</small>
 
+
 Låt er inspireras av och diskutera de möjligheter ut utmaningar som finns inom Sektorn för kollektivtrafik när det gäller öppna data, öppna standarder och öppen källkod. Vad är generiskt och vad kan ni ta med er till er domän?
 
 I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordics där de nordiska aktörerna inom kollektivtrafiken gått samman i en satsning för att ta ett helhetsgrepp kring öppna data, öppen källkod och öppna standarder för att få fram nya mobilitetstjänster och leverera på myndighetsuppdrag men också att bygga en agil organisation som skapar flexibilitet och kan möta nya krav och behov.  Det norska statligt ägda Entur hanterar all kollektivtrafikdata i Norge. De har byggt upp sin infrastruktur baserat på just öppna data, öppen källkod och öppna standarder och kommer att presentera principer, arbetssätt och erfarenheter för att få till en öppen infrastruktur.
@@ -149,6 +162,8 @@ I denna workshop presenteras arbetet med ODIN - Open Mobility Data in the Nordic
 ### Offentlighetsprincipen - från bråkstake till bästa kompis
 
 <small>15 juni 2021</small>
+
+[Inspelning](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
 Öppna data och allmänna handlingar är skilda områden men det finns 
 behov av att involvera och skapa bryggor och länka dessa separata 
@@ -170,6 +185,8 @@ gör livet bättre och lättare för både myndigheter och medborgare.
 ### NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
 
 <small>2 juni 2021</small>
+
+Öppen källkod som bas i den digitala allemansrätten | [Inspelning](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 Bör skattefinansierad programvara bör vara öppen för alla? När kan det vara (o)lämpligt? Hur gör vi idag? Hur kan vi arbeta för att identifiera och uppnå eventuella nyttor tillika hantera eventuella risker? Dessa är öppna frågor vi ställer kritiskt och diskuterar konstruktivt tillsammans. Målet är att inspirera och kunskapsdela för att främja en öppen samverkan tillika utveckla debatten från att enbart fokusera på data till att även inkludera tekniken runt om.
 
@@ -218,6 +235,8 @@ Foss-north tillsammans med Arbetsförmedlingens projekt Ekosystem för annonser 
 
 <small>4 maj 2021</small>
 
+[Inspelning](https://www.youtube-nocookie.com/embed/W1k12G4stdA/)
+
 Vid avrop från Kammarkollegiets ramavtal för programvaror och tjänster är det endast tillåtet att ställa obligatoriska krav på en viss standard om den uppfyller definitionen av öppen standard enligt SOU 2009:86 och EIF 1.0.
 Men vad räknas som en öppen standard och hur bra är myndigheter på denna typ av kravställning. Kan öppna standarder vara huvudnyckeln för att undvika långvariga inlåsningseffekter?
  
@@ -232,6 +251,8 @@ Men vad räknas som en öppen standard och hur bra är myndigheter på denna typ
 ### Länkade data och wikidata
 
 <small>6 april 2021</small>
+
+[Inspelning](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
 
 Länkad data nämns som den högsta nivån av mognad i 5-Star Open Data-modellen av Tim Berners Lee.
 Vilka är de konkreta fördelarna, riskerna och kostnaderna? Och hur kan en myndighet gå till väga? I denna workshop får vi en översikt kombinerat med praktiska exempel hur myndigheter jobbat med Wikidata.
@@ -264,6 +285,8 @@ Rasmus Frey, Executive Director, OS2 - Public Digitalization Network i Danmark
 
 <small>2 februari 2021</small>
 
+[Inspelning](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
+
 Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla API-nycklar.
 
 **Agenda** 
@@ -280,6 +303,8 @@ Detta digitala möte handlar om att diskutera om och hur vi kan tillhandahålla 
 
 <small>12 januari 2021</small>
 
+[Inspelning](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
+
 Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas med att strategiskt engagera sig i öppen programvara (open source).  På denna workshop presenteras olika policies för öppen källkod. Diskutera med oss kring vad som behöver sättas på pränt för att lyckas med ett öppnare arbetssätt. Ta också del av SCB:s erfarenheter och dela mer er av era egna erfarenheter.
 
 **Agenda**
@@ -295,6 +320,8 @@ Det föreligger behov av styrning och inriktning hos myndigheter för att lyckas
 ### Hackathons och innovationstävlingar för att innovera på Öppna Data
 
 <small>8 december 2020</small>
+
+[Inspelning](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
 Offentlig sektor satsar på nationella innovationstävlingar och hackathons med syfte att få öppna data i användning; som en del av myndigheternas verksamhetsutveckling och/eller som en katalysator för innovation. Räcker denna ansats eller krävs det något mer för att uppnå det vi vill? 
 
@@ -322,6 +349,8 @@ Arrangörer: Civic Tech Sweden, Network Open Source and Data (NOSAD), Open Knowl
 
 <small>3 november 2020</small>
 
+[Inspelning](https://data.jobtechdev.se/videos/nosad-20201103-forvaltning-och-ansvar-3440x1440.mp4)
+
 En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan. Hur säkerställer vi att alla dataset kan nås via ett samma ställe med liknande upplevelser trots att det finns många producenter av öppna data.
 
 **Agenda**
@@ -335,7 +364,8 @@ En återkommande utmaning är förvaltning och och ansvarsfördelningen av datan
 
 ### 13 oktober 2020: Utfrågning Öppna datautredningen
 Inspelning https://www.youtube.com/watch?v=63l3-_WC7jc
-[Anteckningar och frågor från utfrågningen -Johan Linåker sammanfattar](https://docs.google.com/document/d/1uCEE1ErGnVhjvYtP4mqnfdk4Q7rcbfGE6jnWYtVfAT8/edit#heading=h.tbzprc33wdn)
+[Anteckningar och frågor från utfrågningen -Johan Linåker sammanfattar]
+(https://docs.google.com/document/d/1uCEE1ErGnVhjvYtP4mqnfdk4Q7rcbfGE6jnWYtVfAT8/edit#heading=h.tbzprc33wdn)
 
 Den 15 september presenterades den nya Öppna data-utredningen som ger förslag på hur EU:s öppna data-direktiv ska anpassas till svensk lag. Hur kommer den nya lagen påverka tillgången till öppna data i Sverige och vad finns det för saker som behöver ses över i det lagda förslaget?
 
