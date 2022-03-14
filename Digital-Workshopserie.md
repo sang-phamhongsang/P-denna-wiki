@@ -11,11 +11,11 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
    * [29 mars 2022](#livslångt-lärande)
 2. Tidigare
    * 2022-03-01 - [Hälsa och säkerhet vid val av öppen programvara](#communityhälsa-och-säkerhet-vid-var-av-öppen-källkod)
-   * 2022-02-01 - [Open by default inom offentlig verksamhet](#open-by-default) - [Inspelning](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
+   * 2022-02-01 - [Open by default inom offentlig verksamhet](#open-by-default)
    * 2022-01-11 - [Retrospektiv NOSAD 2021](#retrospektiv-2021)
    * 2021-12-07 - [e-Arkiv med öppen källkod](#earkiv-med-öppen-källkod)
    * 2021-10-12 - [API-Playbook](#api-playbook)
-   * 2021-10-04 - [Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?](#kan-vi-möta-svenska-städers-behov-av-digital-infrastruktur-via-nordamerikanska-lärdomar?)
+   * 2021-10-04 - [Svenska städers behov av digital infrastruktur](#svenska-städers-behov-av-digital-infrastruktur)
    * 2021-09-07 - [Samarbete inom kollektivtrafikssektorn]() -
    * 2021-06-15 - [Offentlighetsprincipen](#offentlighetsprincipen)
    * 2021-06-02 - [Öppen källkod som bas i den digitala allemansrätten]()
@@ -143,7 +143,7 @@ Delat material:
 [APIHantering_NOSAD_2021_10_12_DIGG.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
 [Resultat från Gruppdiskussionerna](https://docs.google.com/document/d/1aS-KaYqZqx9A_yjczfZzdUM4mI4nBRxk7jNatG5vSTQ/edit#heading=h.v596r2nrh93u)
 
-### Kan vi möta svenska städers behov av digital infrastruktur via nordamerikanska lärdomar?
+### Svenska städers behov av digital infrastruktur
 
 <small>4 oktober 2021</small>
 
