@@ -71,5 +71,5 @@ Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns? Hur 
 [Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
 
 ## Bidra till listan
-Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag.
+Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) (för er med behörighet).
 
