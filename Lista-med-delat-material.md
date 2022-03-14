@@ -66,6 +66,8 @@ Samverkan, samutveckling och ekosystem är begrepp som används i sammanhang som
 
 [Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
 
+[Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun)
+
 [Forskningsrapport - Samarbete kring öppna data plattformar inom öppna ekosystem med privata och offentliga aktörer: En fallstudie av JobTech Dev och TrafikLab](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Samarbete-kring-%C3%B6ppna-data-plattformar-inom-%C3%B6ppna-ekosystem-med-privata-och-offentliga-akt%C3%B6rer:-En-fallstudie-av-JobTech-Dev-och-TrafikLab)
 
 [Förutsättningar för datadelning genom öppna ekosystem: ett perspektiv på möjligheter och hinder](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/819add7d33683f1d27d0d0077a73a5d4/Lun22_Lundell_Analys-EUs-DataStrategi_FINAL.pdf)
