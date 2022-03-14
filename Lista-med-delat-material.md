@@ -1,6 +1,6 @@
 ## Nätverket rekommenderar
 
-Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>.
+Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>.
 
 **Innehållsförteckning**
 
@@ -12,7 +12,7 @@ Syftet är att ge tillgång till bra stöd i form av länkar och dokument som hj
 
 
 ## Stöd för att tillhandahålla öppna data
-Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
+Rekommendation om öppna licenser hjälper dig att välja rätt licens  till dina dina datamängder. Listade vägledningar från Digg är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
 
 [Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
 
@@ -26,7 +26,7 @@ Rekommendation om öppna licenser beskriver hur du ska välja rätt licens på d
 
 
 ## Krav vid anskaffning av IT-system
-De fem rekommendationerna från Högskolan i Skövde innehåller bland annat krav på öppna standarder, en lista som hålls av Kammarkollegiet på respektive ramavtals webbsida inom familjen Programvaror och tjänster. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner. FAQ För upphandling hanterar frågor kring vad som gäller för open source.
+De fem rekommendationerna från Högskolan i Skövde innehåller bland annat krav på öppna standarder, en lista som hålls av Kammarkollegiet på respektive ramavtals webbsida inom familjen Programvaror och tjänster. Umeå kommun har etablerat en lista (kravbibliotek) över icke-funktionella krav att utgå ifrån när en IT-upphandling ska genomföras inom kommuner. FAQ För upphandling hanterar frågor kring vad som gäller för open source vid anskaffning.
 
 [Fem rekommendationer för lyckad upphandling av öppen programvara | Högskolan i Skövde (mynewsdesk.com)](https://www.mynewsdesk.com/se/his/pressreleases/fem-rekommendationer-foer-lyckad-upphandling-av-oeppen-programvara-3108346)
 
@@ -39,7 +39,7 @@ De fem rekommendationerna från Högskolan i Skövde innehåller bland annat kra
 
  
 ## Öppen källkod som strategi 
-Offentliga Sverige använder fler och fler open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. 
+Offentliga Sverige använder redan idag open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. 
 
 [eSAM Råd för delning och användning av öppen källkod 220311.pdf](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
 
@@ -62,7 +62,7 @@ Offentliga Sverige använder fler och fler open source-lösningar. Först nu bö
 
 
 ## Öppet arbetssätt
-Hur förhåller sig myndigheters datadelningar i de ekosystem som omnämns? Hur samverkar vi offentligt-privat och tillsammans? Digg har tagit fram sju principer som bl.a. trycker på vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
+Samverkan, samutveckling och ekosystem är begrepp som används i sammanhang som datadelning innovation och hållbar digitalisering. Digg har tagit fram sju principer som bl.a. trycker på vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
 
 [Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
 
