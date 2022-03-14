@@ -75,7 +75,7 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 
 ## Öppet arbetssätt
-Samverkan, samutveckling och ekosystem är begrepp som används i sammanhang som datadelning innovation och hållbar digitalisering. Digg har tagit fram sju principer som bl.a. trycker på vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
+Samverkan, samutveckling och ekosystem är begrepp som används i sammanhang som datadelning innovation och hållbar digitalisering. I principer för att tillgängliggöra information belyses vikten av "öppet som standard". Forskningsrapporterna nedan ger exempel på samverkan och samarbete samt visar på möjligheter och hinder.
 
 [Principer för att tillgängliggöra information | DIGG ](https://www.digg.se/4ae7c7/globalassets/dokument/oppna-och-delade-data/principer-folder.pdf)
 
