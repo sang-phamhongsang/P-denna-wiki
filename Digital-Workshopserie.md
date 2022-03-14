@@ -22,7 +22,7 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
    * 2021-05-04 - [Öppna standarder](#öppna-standarder)
    * 2021-04-06 - [Länkade data och wikidata](#länkade-data-och-wikidata)
    * 2021-03-02 - [Öppen programvara i andra länder](#öppen-programvara-i-andra-länder)
-   * 2021-02-02 - [API:er i praktiken](a#pi:er-i-praktiken) - hur maximerar vi användandet av öppna data?
+   * 2021-02-02 - [API:er i praktiken](#api:er-i-praktiken)
    * 2021-01-12 - [Policy för öppen programvara](#policy-för-öppen-programvara)
    * 2020-12-08 - [Hackathons och innovationstävlingar](#hackathons-och-innovationstävlingar)
    * 2020-11-03 - [Förvaltning öppna data](#förvaltning-öppna-data)
