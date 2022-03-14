@@ -61,7 +61,7 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [Försäkringskassan riktlinjer | Försäkringskassan](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
 
-[KB:s Strategisk inriktning för programverk-samheterna (sid 6-7)| Kungliga Biblioteket](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
+[KB:s Strategisk inriktning för programverk-samheterna (sid 6-7) | Kungliga Biblioteket](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
 
 [SKRs Strategi för digital utveckling (sid 22-23) | SKR](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
 
