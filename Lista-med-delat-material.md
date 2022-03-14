@@ -36,6 +36,15 @@ De fem rekommendationerna från Högskolan i Skövde innehåller bland annat kra
 
 [FAQ för upphandling av öppen programvara | Baserat på workshop 6/10 2020 och presentation från Daniel Melin (Skatteverket)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
 
+Artikelserie från Inköpsrådet om upphandling och öppen programvara:
+
+[Del 1: Dela kostnader och undvik inlåsningar](https://inkopsradet.se/upphandling/dela-kostnader-och-undvik-inlasningar/) 
+
+[Del 2: Hitta öppen källkod som klarar kraven](https://inkopsradet.se/upphandling/hitta-oppen-kallkod-som-klarar-kraven/) 
+
+[Del 3: Utvecklas och förvaltas tillsammans](https://inkopsradet.se/utvecklas-och-forvaltas-tillsammans/) 
+
+ 
 
  
 ## Öppen källkod som strategi 
