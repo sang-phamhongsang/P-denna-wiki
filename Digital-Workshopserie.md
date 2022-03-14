@@ -86,8 +86,7 @@ Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror t
 ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
- 
-Moderator: Maria Dalhage, DIGG
+
  
 **Agenda**
  
@@ -121,7 +120,7 @@ Utöver presentationerna finns utrymme för att diskutera hur vi kan bygga upp e
 
 - Introduktion
 - [Fågelperspektivet (EU-perspektivet). För att kunna använda open source effektivt inom arkiven behöver vi ha gemensamma öppna specifikationer som stöd. En uppdatering om det senaste som hänt inom detta område. Snabb överblick av Karin Bredenberg, metadatastrateg, Kommunalförbundet Sydarkivera.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/3acf10c9c96721268117b8acc736eefb/Sydarkivera_NOSAD_20211207_Karin_Bredenberg.pdf)
-- Strategiska vägval för e-arkiv och digital informationshantering. [Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.- Malin Åkerlund och Rickard Lundstedt](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf) 
+- Strategiska vägval för e-arkiv och digital informationshantering. Arbetsförmedlingen berättar om hur de väckt frågan om öppen källkod för e-arkiv inom myndigheten.- Malin Åkerlund och Rickard Lundstedt. [presentation](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8602a6e15615dc6ff585ea73231b49c1/nosad_press_arbetsformedlingen.pdf) 
 Arbetsförmedlingen berättar om varför rapporten strategiska vägval gjordes för e-arkiv och digital informationshantering, vilka vi pratade med och hur man kan göra för lyfta frågan om öppen källkod från ett informationsförvaltande perspektiv.  Presentatörer är Malin Åkerlund och Rickard Lundstedt, Arbetsförmedlingen. [Rapport_långsiktig_informationshantering_E-arkiv.pdf.](uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_långsiktig_informationshantering_E-arkiv.pdf)
 - [Arbetet bakom kulisserna: Praktiska erfarenheter av att bygga upp kunskap och testa verktyg för digitalt bevarande. Hur vi har valt strategiska samarbeten kring öppen källkod och e-arkiv. I urval av Elin Jonsson, Sydarkivera](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/36db205ce4e0b48c4bd161d45b43ec59/sydarkivera_elin_nosad_20211207.pdf) 
 - [Öppen källkod och Communitys för Digitalt bevarande.Hur kan man använda europeiska och svenska communitys för att samarbete mellan myndigheter kring eArkiv? Hur kan man minska utvecklings- och förvaltningskostnader genom att arbeta i communitys? Presentatör är Magnus Wåhlberg, Tullverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0194eeae09676f3ba03100f880281080/NOSAD_Tullen_dec_1.0_1b.pdf).
@@ -204,7 +203,8 @@ gör livet bättre och lättare för både myndigheter och medborgare.
 - Datastory (https://datastory.org/) och Allmänhandling.se (https://www.allmanhandling.se/) lanserar nu ett unikt verktyg för ökad transparens och insyn. Sök i diarierna från alla 13 regeringsdepartement och begär ut de handlingar du vill granska på ett enkelt sätt. Tjänsten uppdateras automatisk varje dag och är till för alla journalister och medborgare som vill få bättre insyn i regeringens arbete.   
 - OpenUp! Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG) 
 - Handlingar.se. Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. – Elenor Weijmar
-- [Nationell Metadataprofil Offentliga Handlingar. En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) 
+- [Nationell Metadataprofil Offentliga Handlingar. - Mattias Axel] 
+ (https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. 
  
 
 
