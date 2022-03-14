@@ -16,9 +16,9 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
    * 2021-12-07 - [e-Arkiv med öppen källkod](#earkiv-med-öppen-källkod)
    * 2021-10-12 - [API-Playbook](#api-playbook)
    * 2021-10-04 - [Svenska städers behov av digital infrastruktur](#svenska-städers-behov-av-digital-infrastruktur)
-   * 2021-09-07 - [Samarbete inom kollektivtrafikssektorn]() -
+   * 2021-09-07 - [Samarbete kollektivtrafiksektorn](#samarbete-kollektivtrafiksektorn)
    * 2021-06-15 - [Offentlighetsprincipen](#offentlighetsprincipen)
-   * 2021-06-02 - [Öppen källkod som bas i den digitala allemansrätten]()
+   * 2021-06-02 - [Öppen källkod som bas i den digitala allemansrätten](#öppen-källkod-som-bas-i-den-digitala-allemansrätten)
    * 2021-05-04 - [Öppna standarder](#öppna-standarder)
    * 2021-04-06 - [Länkade data och wikidata](#länkade-data-och-wikidata)
    * 2021-03-02 - [Öppen programvara i andra länder](#öppen-programvara-i-andra-länder)
@@ -164,7 +164,7 @@ Johan Linåker, RISE och Lunds Universitet
 Christian Landgren, Iteam
 Seminariet kommer hållas på engelska.
 
-### Samarbete kring öppen källkod och data inom sektorn för kollektivtrafik
+### Samarbete kollektivtrafiksektorn
 
 <small>7 september 2021</small>
 
@@ -202,7 +202,7 @@ gör livet bättre och lättare för både myndigheter och medborgare.
  
 
 
-### NOSAD x Foss-north: Öppen källkod som bas i den digitala allemansrätten
+### Öppen källkod som bas i den digitala allemansrätten
 
 <small>2 juni 2021</small>
 
