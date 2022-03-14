@@ -66,7 +66,10 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [SKRs Strategi för digital utveckling (se sid 22-23)](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
 
-[Svenska Allmännyttans utvecklingsmanifest | Svenska Allmännyttan](https://utveckling.allmannyttan.se/manifest)  
+[Svenska Allmännyttans utvecklingsmanifest | Svenska Allmännyttan](https://utveckling.allmannyttan.se/manifest) 
+ 
+[Standard for Public Code - En standardpolicy för användning och utveckling av öppen programvara](Standard-for-Public-Code)  
+[Foundation of Public Code]
  
 
 
