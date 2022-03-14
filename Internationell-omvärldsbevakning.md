@@ -89,18 +89,17 @@ Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer 
 
 ## Intresseorganisationer kring Öppen Programvara
 
-* Europa
-    * [APELL - The European Open Source Software Business Association](https://www.apell.info/)
-    * [Free Software Foundation Europe](https://fsfe.org/)
-    * [Open Forum Europe](https://www.openforumeurope.org/)
-* Finland
-    * [COSS - the Finnish Centre for Open Systems and Solutions](https://coss.fi/en/)
-* Frankrike
-    * [CNLL - France’s Free Software and Open Digital Enterprise Union](https://www.cnil.fr/en/home)
-* Grekland
-    * [Open Technologies Alliance (GFOSS)](https://gfoss.eu/)
+ * Europa
+     * [APELL - The European Open Source Software Business Association](https://www.apell.info/)
+     * [Free Software Foundation Europe](https://fsfe.org/)
+     * [Open Forum Europe](https://www.openforumeurope.org/)* Finland
+     * [COSS - the Finnish Centre for Open Systems and Solutions](https://coss.fi/en/)
+ * Frankrike
+     * [CNLL - France’s Free Software and Open Digital Enterprise Union](https://www.cnil.fr/en/home)
+ * Grekland
+   * [Open Technologies Alliance (GFOSS)](https://gfoss.eu/)
 * Tyskland
-    * [Open Source Business Alliance e.V](https://osb-alliance.de/)
+   * [Open Source Business Alliance e.V](https://osb-alliance.de/)
 
 ## Bidra till listan
 Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Internationell-omv%C3%A4rldsbevakning) (för er med behörighet).
