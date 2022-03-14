@@ -459,7 +459,8 @@ Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att t
 
 [Sammanfattning och fortsatta diskussioner i Jobtechsforum.](https://forum.jobtechdev.se/t/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/120)
 
-
+## Bidra till listan
+Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/edit) (för er med behörighet).
 
 
 
