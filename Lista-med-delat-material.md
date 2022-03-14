@@ -12,9 +12,9 @@ Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbe
 
 
 ## Stöd för att tillhandahålla öppna data
-Rekommendation om öppna licenser hjälper dig att välja rätt licens  till dina dina datamängder. Listade vägledningar från Digg är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
+Rekommendation om öppna licenser hjälper dig att välja rätt licens  till dina dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
 
-[Dokumentation och tjänster - Sveriges dataportal.](https://docs.dataportal.se/)
+[Dokumentation och tjänster - Sveriges dataportal | DIGG](https://docs.dataportal.se/)
 
 [Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
 
@@ -33,7 +33,7 @@ De fem rekommendationerna från Högskolan i Skövde innehåller bland annat kra
 
 [Icke funktionella krav- exempelkrav | OpenDataUmea ](https://opendata.umea.se/explore/dataset/icke-funktionella-exempelkrav0/table/?disjunctive.huvudkategori&disjunctive.underkategori&sort=krav_id)
 
-[FAQ för upphandling av öppen programvara | Baserat på workshop 6/10 2020 och presentation | Daniel Melin, Skatteverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
+[FAQ för upphandling av öppen programvara | Baserat på workshop 6/10 2020 | Daniel Melin, Skatteverket](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
 
 Artikelserie från Inköpsrådet om upphandling och öppen programvara:
 
@@ -57,13 +57,13 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [Analys av Diggs policy | Björn Lundell, Högskolan i Skövde](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1457306&dswid=-3570)
 
-[Sundsvalls Kommuns riktlinjer |Sundsvalls kommun](https://github.com/Sundsvallskommun/riktlinjer-oppenkallkod/blob/main/riktlinje/README.md)
+[Sundsvalls Kommuns riktlinjer | Sundsvalls kommun](https://github.com/Sundsvallskommun/riktlinjer-oppenkallkod/blob/main/riktlinje/README.md)
 
 [Försäkringskassan riktlinjer | Försäkringskassan](https://github.com/Forsakringskassan/riktlinje-oppenkallkod/blob/master/riktlinje.md)
 
-[KB:s Strategisk inriktning för programverk-samheterna (se sid 6-7)| Kungliga Biblioteket](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
+[KB:s Strategisk inriktning för programverk-samheterna (sid 6-7)| Kungliga Biblioteket](https://web.archive.org/web/20180417070623/http://www.kb.se/Dokument/Programverksamhet/KB_Programmen_low.pdf)  
 
-[SKRs Strategi för digital utveckling (se sid 22-23) | SKR](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
+[SKRs Strategi för digital utveckling (sid 22-23) | SKR](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/strategifordigitalutveckling.6728.html)  
 
 [Svenska Allmännyttans utvecklingsmanifest | Svenska Allmännyttan](https://utveckling.allmannyttan.se/manifest) 
  
