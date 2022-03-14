@@ -1,7 +1,6 @@
- 
-Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. 
+# Workshops
 
-[Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
+Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. [Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
 
 ## Snabblänkar
 
