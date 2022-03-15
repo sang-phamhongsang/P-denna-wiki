@@ -86,7 +86,6 @@ Risken för att sårbarheter introduceras inom öppna programvaruprojekt beror t
 ”Open by default – Varför öppenhet är avgörande för kommunernas framtid” Jari Koponen från Sundsvalls kommun delar erfarenheter.
  
 Ni får också möta Josef Andersson i rollen som Open Source Lead, från SVT, som förklarar hur SVT arbetar för att förbättra och sprida ett open source-tankesätt inom organisationen.
-
  
 **Agenda**
  
@@ -205,8 +204,6 @@ gör livet bättre och lättare för både myndigheter och medborgare.
 - OpenUp! Leverantörsreskontra - från allmän handling till öppna data. Ett projekt som hjälper offentliga aktörer att publicera öppna data kring sina inköp och andra aktörer att återanvända dem. - Alina Östling (Open Knowledge Sweden) och Kristine Ulander (DIGG) 
 - Handlingar.se. Presentation samt kort demonstration hur myndigheter offentliggör allmänna handlingar på Handlingar.se via e-post eller uppladdning. – Elenor Weijmar
 - [Nationell Metadataprofil Offentliga Handlingar. - Mattias Axel](https://www.dataportal.se/sv/specifications/nmoh/latest#ref=?p=1&q=&s=2&t=20&f=&rt=spec_standard%24spec_profile) En specifikation finansierad av Naturvårdsverket på Dataportal.se och framtagen av MetaSolutions AB för att standardisera säker och lagenlig hantering av allmänna handlingar samt skapa brygga från allmänna handlingar till öppna data. 
- 
-
 
 ### Öppen källkod som bas i den digitala allemansrätten
 
@@ -433,11 +430,8 @@ I denna andra workshop tittar vi på hur myndigheter kan samverka och samutveckl
 
 - [Inledning - Maria Dalhage (Arbetsförmedlingen)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d972471999d6d9a6f573d9a72af6bef9/Kunskapsdelning_%C3%B6ppna_data_%C3%B6ppen_k%C3%A4llkod_20200915.pdf) 
 - [DIGG:s syn på samverkan - Kristine Ulander (DIGG)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c1abf574eb20217d439348173b921c89/DIGG_Kristine_Ulander.pdf) 
-
 - [Vad säger forskningen? - Johan Linåker (Lunds universitet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fc8bfac771f2794c026f5bcd0b091930/KnowledgeSharingMeetup-OpenDataCollab_compressed.pdf) 
-
 - [JobTechDev - Jonas Södergren](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4d276ac0ced4471b135703b1416f909c/presentation_jobtech_network_sharing_compressed.pdf) (Arbetsförmedlingen) 
-
 - [Trafiklab - Jerry Löfvenhaft (Samtrafiken)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/23cfc5e7aeb04e8383f3fdb4b0406834/Kunskapsna%CC%88tverk_Trafiklab_1.0.pdf)  
 - [Sammanställning av gruppdiskussioner på Jobtechs forum: Vilka steg och åtgärder har era organisationer genomfört för att öppet data ska användas i högre utsträckning?](https://forum.jobtechdev.se/t/workshop-2-samverkan-kring-offentlig-sektors-oppna-data-satsningar/147)
   
