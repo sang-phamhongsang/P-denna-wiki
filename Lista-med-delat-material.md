@@ -55,7 +55,7 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [Vägledning progranvarulicensiering | eSAM](https://www.esamverka.se/download/18.1afa2964179effea5a286f48/1625144886153/V%C3%A4gledning%20programvarulicensiering.pdf)
 
-[Riskanalys öppen källkod | Arbetsförmedlingen](uploads/f5c05112abe8904fd93d078b348f49e2/Riskanalys_Öppen_källkod_1.0_-_20211025__002_.pdf))
+[Riskanalys öppen källkod | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f5c05112abe8904fd93d078b348f49e2/Riskanalys_%C3%96ppen_k%C3%A4llkod_1.0_-_20211025__002_.pdf)
 
 
 [Diggs policy för öppen programvara | DIGG](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)
