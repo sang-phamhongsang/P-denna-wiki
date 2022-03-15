@@ -41,7 +41,9 @@ Artikelserie från Inköpsrådet om upphandling och öppen programvara:
 
 [Del 2: Hitta öppen källkod som klarar kraven | Inköpsrådet](https://inkopsradet.se/upphandling/hitta-oppen-kallkod-som-klarar-kraven/) 
 
-[Del 3: Utvecklas och förvaltas tillsammans | Inköpsrådet](https://inkopsradet.se/utvecklas-och-forvaltas-tillsammans/) 
+[Del 3: Utvecklas och förvaltas tillsammans | Inköpsrådet](https://inkopsradet.se/utvecklas-och-forvaltas-tillsammans/)  
+
+[Del 4: Undvik inlåsning vid it-upphandling | Inköpsrådet](https://inkopsradet.se/undvik-inlasning-vid-it-upphandling//) 
 
  
 
