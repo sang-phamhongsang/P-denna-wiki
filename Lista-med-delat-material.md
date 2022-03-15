@@ -51,9 +51,11 @@ Artikelserie från Inköpsrådet om upphandling och öppen programvara:
 ## Öppen källkod som strategi 
 Offentliga Sverige använder redan idag open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. 
 
-[Råd för delning och användning av öppen källkod | eSAM](file:///C:/Users/MarDal/Downloads/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
+[Råd för delning och användning av öppen källkod | eSAM](https://www.esamverka.se/download/18.6668103d17f448916a34dffb/1647011001475/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
 
-[Riskanalys öppen källkod | Arbetsförmedlingen](uploads/942966052106a1ab88a2fb72b656719f/Riskanalys_Öppen_källkod_1.0_-_20211025_1_.pdf)
+[Vägledning progranvarulicensiering | eSAM](https://www.esamverka.se/download/18.1afa2964179effea5a286f48/1625144886153/V%C3%A4gledning%20programvarulicensiering.pdf)
+
+[Riskanalys öppen källkod | Arbetsförmedlingen](https://nosad.se/uploads/942966052106a1ab88a2fb72b656719f/Riskanalys_%C3%96ppen_k%C3%A4llkod_1.0_-_20211025_1_.pdf)
 
 [Diggs policy för öppen programvara | DIGG](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)
 
