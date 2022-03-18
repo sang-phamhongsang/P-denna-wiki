@@ -55,9 +55,9 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 
 Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
 
-**mer info kommer löpande **
+**mer info kommer löpande**
 
-**3 maj: under planering **
+**3 maj: under planering**
 
 **7 juni: metadata?**
 
