@@ -10,9 +10,8 @@ Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbe
 - [Öppet arbetssätt](#öppet-arbetssätt)
 - [Bidra till listan](#bidra-till-listan)
 
-
 ## Stöd för att tillhandahålla öppna data
-Rekommendation om öppna licenser hjälper dig att välja rätt licens  till dina dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
+Rekommendation om öppna licenser hjälper dig att välja rätt licens för dina datamängder. Listade vägledningar är framtagna för att underlätta tillgängliggörandet av information på Sveriges dataportal. Vägledning för strategiska beslut innehåller principer samt resonemang kring hur upphandling är ett verktyg för er datastrategi. 
 
 [Dokumentation och tjänster - Sveriges dataportal | DIGG](https://docs.dataportal.se/)
 
