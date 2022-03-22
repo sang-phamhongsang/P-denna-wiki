@@ -4,12 +4,11 @@ Nätverkets (NOSAD) mål är att praktisk hjälpa och inspirera offentlig verksa
 
 ## Snabblänkar
 
-1. Nätverksträffar
-   * [Kalendarium - kommande evenemang](#kalendarium)
-   * [Arkivet - ta del i efterhand](https://nosad.se/workshops)
+1. [Kommande evenemang](#kalendarium)
+2. [Ta del av inspelningar och presentationer i efterhand](/workshops)
 2. Lästips
    * [Nätverket rekommenderar](/tips)
-   * [Internationell omvärldsbevakning](internationellt)
+   * [Internationell omvärldsbevakning](/internationellt)
 3. [Nyhetsbrev](#nyhetsbrev)
 4. [Katalog öppen programvara](https://offentligkod.se/)
 
