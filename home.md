@@ -16,7 +16,7 @@ Nätverkets (NOSAD) mål är att praktisk hjälpa och inspirera offentlig verksa
 
 Vinsterna är många; öppen innovation; kostnadseffektiv digitalisering; kompetensdelning; samverkan som ökar chansen till interoperabilitet mellan system och verksamheter.
 
-Vi tror på att gå från Ego till Eko. Att öppet samarbeta kring vår information för att bättre kunna fullfölja vårt uppdrag. Våra kunder delas av andra aktörer inom offentlig förvaltning. Våra kunders livshändelser involverar flertalet aktörer inom offentlig sektor, men också privat sektor. Genom att skapa förutsättningar att öppet dela information och teknik, skapas också möjligheter för innovation – inte genom att börja på ett blankt papper men genom att hämta inspiration, data och kunskap där den redan finns och förvaltas.
+Vi tror på att gå från Ego till Eko. Att offentlig verksamhet öppet samarbetar kring vår information för att bättre kunna fullfölja våra uppdrag. Våra kunders livshändelser involverar flertalet aktörer inom offentlig sektor, men också privat sektor. Genom att skapa förutsättningar att öppet dela information och teknik, skapas också möjligheter för innovation – inte genom att börja på ett blankt papper men genom att hämta inspiration, data och kunskap där den redan finns och förvaltas.
 
 Därför vill vi med detta nätverk bjuda in till kunskapsdelning och samverkan kring hur användande och samutveckling av öppna data och tillika öppen källkod och öppna standarder kan bidra till dessa vinster. Vårt mål är att hålla en praktisk tyngdpunkt och hjälpa och inspirera myndigheter i att ta nästa steg för att öka påverkan och driva på nyttiggörandet av öppna data och öppen källkod.
 
@@ -28,6 +28,7 @@ Nätverket träffas regelbundet (via videolänk), första tisdagen varje månad.
 |---|---|
 | 2022-03-29 | [Kompetensförsörjning och livslångt lärande](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
 | 2022-04-05 | [Öppna data för ett hållbart godstransportsystem](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-5/) |
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och DIGITAL](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/url)
 
 <a href="https://nosad.se/workshops" data-navigo>Arkivet - ta del av inspelningar och presentationer i efterhand</a>
 
