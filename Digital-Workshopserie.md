@@ -146,7 +146,7 @@ Fredrik Nordlander (DIGG), Fredrik Vesström (Bolagsverket), Johan Stang (Lantm�
 Delat material: 
 [Intro](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/180512f1a0c6891a250378fe5019aec5/Nosad_12_oktober.pptx)
 [DCAT-AP_-Processor_NOSAD.pptx](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/da22403a785070c0f57f65b582347406/DCAT-AP_-Processor_NOSAD.pptx)
-[APIHantering_NOSAD_2021_10_12_DIGG.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
+[APIHantering-DIGG.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4efe10e70cf91b1b8025b5bd5d0b7a79/APIHantering_NOSAD_2021_10_12_DIGG.pdf)
 [Resultat från Gruppdiskussionerna](https://docs.google.com/document/d/1aS-KaYqZqx9A_yjczfZzdUM4mI4nBRxk7jNatG5vSTQ/edit#heading=h.v596r2nrh93u)
 
 ### Svenska städers behov av digital infrastruktur
