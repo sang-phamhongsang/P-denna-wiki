@@ -28,7 +28,7 @@ Nätverket träffas regelbundet (via videolänk), första tisdagen varje månad.
 |---|---|
 | 2022-03-29 | [Kompetensförsörjning och livslångt lärande](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
 | 2022-04-05 | [Öppna data för ett hållbart godstransportsystem](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-5/) |
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och DIGITAL](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/url)
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och DIGITAL](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/)
 
 <a href="https://nosad.se/workshops" data-navigo>Arkivet - ta del av inspelningar och presentationer i efterhand</a>
 
