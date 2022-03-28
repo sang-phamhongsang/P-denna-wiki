@@ -1,6 +1,6 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
-Nätverkets (NOSAD) mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer ingår i nätverket. Alla kan **delta**, **dela** och **diskutera**.
+Nätverkets (NOSAD) mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
 
 ## Snabblänkar
 
@@ -28,7 +28,7 @@ Nätverket träffas regelbundet (via videolänk), första tisdagen varje månad.
 |---|---|
 | 2022-03-29 | [Kompetensförsörjning och livslångt lärande](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
 | 2022-04-05 | [Öppna data för ett hållbart godstransportsystem](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-5/) |
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och DIGITAL](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/)
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/)
 
 <a href="https://nosad.se/workshops" data-navigo>Arkivet - ta del av inspelningar och presentationer i efterhand</a>
 
