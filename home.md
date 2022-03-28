@@ -58,7 +58,7 @@ För att kunna fortsätta diskussionen även utanför våra träffar, gör ett i
 
 ## Cookies och privacy
 
-Målet är sajten inte ska spåra användaren på något sätt. Berätta vad vi kan förbättra.
+Målet är sajten inte ska spåra användaren på något sätt. Om du har förslag på förbättringar kan du maila enligt ovan, [skapa ett ärende](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io/-/issues/new) eller göra ett förslag på ny kod i [GitLab](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io).
 
 * Inga cookies används
 * Några utgående länkar leder till https://www.youtube-nocookie.com.
