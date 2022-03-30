@@ -60,7 +60,7 @@ Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer 
     * [Presentation av Standard for Public Code](https://youtu.be/oxCtmQrKAls?t=3266)  
 [Workshop-presentation 12/1 2021 | Jan Aniali (Foundation for Public Code) | [Presentation](https://hackmd.io/@Ainali/ryFCCIgCw#/)]
 
-## Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a> - [till toppen](#topp)
+## Kataloger över öppen programvara inom offentlig sektor<a name="opensource-catalogs"></a>
 * Belgien
     * [Software ReUse](https://www.ict-reuse.be/language-selection (Franska/Nederländska))  
 [Belgian Public Institutions of Social Security och Smals, Belgien]
