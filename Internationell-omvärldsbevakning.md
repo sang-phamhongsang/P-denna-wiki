@@ -103,7 +103,7 @@ Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer 
    * [Open Source Business Alliance](https://osb-alliance.de/)
 
 ## Bidra till listan
-Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Internationell-omv%C3%A4rldsbevakning) (för er med behörighet).
+Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Internationell-omv%C3%A4rldsbevakning) (för er med behörighet).
 
 
 
