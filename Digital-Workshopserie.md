@@ -49,24 +49,35 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 - Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
 - Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
 - Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
+
+### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
+
+<small>3 maj 2022, kl 10-12 </small>
+
+
+Nu finns tillfälle att förstå det strategiska landskapet för ökad delning och nytta av data och varför man pratar om data som en strategisk resurs. Välkommen att diskutera med EU kommissionen, infrastrukturdepartementet och projektledarna för de olika regeringsuppdrag som ingår i den nationella datastrategin.
+
  
+
+
+**mer info kommer löpande**
+
+
+
+**7 juni: under planering**
+
+
+## Genomförda workshops
+
 ### Livslångt lärande
+[Se inspelning i efterhand]()
 
 <small>29 mars 2022, kl 10-12 </small>
 
 Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
-
-**mer info kommer löpande**
-
-**3 maj: under planering**
-
-**7 juni: metadata?**
-
-
-## Genomförda workshops
 ### Communityhälsa och säkerhet vid var av öppen källkod
 
-<small>1 mars 2022</small>
+<small>1 mars 2022 </small>
 
  [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
