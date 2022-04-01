@@ -11,12 +11,16 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
 | Datum | Workshop |
 |---|---|
 | 2022-04-05 | [Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem) |
-| 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
+| 2022-06-07 | [under planering]() |
+
+_mer info samt event kommer löpande_
 
 **Tidigare**
 
 | Datum | Workshop |
 |---|---|
+| 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
 | 2022-03-01 | [Hälsa och säkerhet vid val av öppen programvara](#communityhälsa-och-säkerhet-vid-var-av-öppen-källkod) |
 | 2022-02-01 | [Open by default inom offentlig verksamhet](#open-by-default) |
 | 2022-01-11 | [Retrospektiv NOSAD 2021](#retrospektiv-2021) |
@@ -57,14 +61,8 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 
 Nu finns tillfälle att förstå det strategiska landskapet för ökad delning och nytta av data och varför man pratar om data som en strategisk resurs. Välkommen att diskutera med EU kommissionen, infrastrukturdepartementet och projektledarna för de olika regeringsuppdrag som ingår i den nationella datastrategin.
 
- 
 
 
-**mer info kommer löpande**
-
-
-
-**7 juni: under planering**
 
 
 ## Genomförda workshops
