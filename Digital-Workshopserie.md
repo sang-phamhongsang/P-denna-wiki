@@ -12,9 +12,9 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
 |---|---|
 | 2022-04-05 | [Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem) |
 | 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
-| 2022-06-07 | [under planering]() |
+| 2022-06-07 | [under planering](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
 
-_mer info samt event kommer löpande_
+_Mer info samt event kommer löpande_
 
 **Tidigare**
 
