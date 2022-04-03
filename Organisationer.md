@@ -1,4 +1,4 @@
-## NOSAD event per organisation
+## Inspelade NOSAD-event per organisation
 Nedan finns länkar till alla inspelade NOSAD-event, sorterade på organisation. För att ta del av visade PowerPoints och andra publikationer kopplade till eventen gå in på [presentationer i efterhand.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/edit)
 
 #### A
