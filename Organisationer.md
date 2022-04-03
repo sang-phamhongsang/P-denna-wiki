@@ -1,13 +1,13 @@
 ## Organisationer som presenterat på ett NOSAD event
 
 ### A
-Addalot
+Addalot [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-Alingsås kommun
+Alingsås kommun [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-Allmänhandling 
+Allmänhandling [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
-Arbetsförmedlingen 
+Arbetsförmedlingen [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 ### B
 Bolagsverket
@@ -19,9 +19,12 @@ ChallengeGov
 Civic Tech Sweden 
 
 ### D
-Datastory
+Datastory [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
+
+Debricked [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
 DIGG  (Myndigheten för Digitalisering)
+[Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 ### E
 Entur (No)
@@ -36,13 +39,13 @@ Foundation for Public Code
 
 Föreningen Grävande Journalister
 
-Försäkringskassan.
+Försäkringskassan
 
 ### G
 Göteborgs universitet
 
 ### H
-Handlingar.se
+Handlingar.se [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
 Hagström Consulting 
 
@@ -60,7 +63,7 @@ Italian Digital Transformation (It)
 Iteam 
 
 ### J
-Jobtech Development (Arbetsförmedlingen)
+Jobtech Development (Arbetsförmedlingen)[Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 ### K
 Kammarkollegiet  
@@ -74,7 +77,7 @@ Linux Foundation
 
 Litteraturbanken
 
-Lunds universitet
+Lunds universitet [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
 
 ### N 
@@ -90,7 +93,7 @@ OpenForum Europe
 
 OpenHack 
 
-Open Knowledge Sweden
+Open Knowledge Sweden [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
 OpenForum Europe
 
@@ -98,7 +101,7 @@ Open Mobility Foundation
 
 OpenUK (Uk)
 
-OpenUP
+OpenUP [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
 OS2 (Dk)
 
@@ -117,10 +120,10 @@ Redhat
 
 Riksdagens digitaliseringsnätverk
 
-Rise
+Rise  [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
 ### S 
-Sambruk
+Sambruk [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 SCB
 
@@ -128,17 +131,17 @@ SMHI
 
 Stockholms stad
 
-Sundsvalls kommun
+Sundsvalls kommun [Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
 
 Sveriges Kommuner och Regioner (SKR)
 
-SVT
+SVT [Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
 
 Sydarkivera
 
 ### T
 
-Trafiklab
+Trafiklab [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 Tullverket
 
