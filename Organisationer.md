@@ -1,10 +1,13 @@
 ## Organisationer som presenterat på ett NOSAD event
-
+Nedan finns länkar till alla inspelade NOSAD-event, sorterade på organisation. för att ta del av organisationernas PowerPoints och delad publikationer kopplade till eventen gå in på [Ta del av inspelningar och presentationer i efterhand.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/edit)
 
 #### A
 Addalot [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-Alingsås kommun [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
+Alingsås kommun 
+[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
+
+[Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 Allmänhandling [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
@@ -23,6 +26,10 @@ ChallengeGov [Hackathons och innovationstävlingar](https://data.jobtechdev.se/v
 
 
 Civic Tech Sweden 
+
+[Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
+
+[Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
 #### D
 Datastory [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
@@ -45,16 +52,17 @@ Etalab (Fr) [Öppen programvara i andra länder](https://youtu.be/UvtX4e_qRWY)
 
 #### F
 
-Foss-north
+Foss-north- [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 Foundation for Public Code [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
 
-Föreningen Grävande Journalister
+Föreningen Grävande Journalister [Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
 Försäkringskassan [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
 
 #### G
 Göteborgs universitet (Litteraturbanken) [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
+
 Göteborgs stad [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
@@ -65,7 +73,7 @@ Handlingar.se [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-2
 Hagström Consulting [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/)
 
 
-Helsingborgs Stad 
+Helsingborgs Stad [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
 Högskolan i Skövde [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/)
 
@@ -75,8 +83,7 @@ Högskolan i Skövde [Öppna standarder](https://www.youtube-nocookie.com/embed/
 #### I
 Innovation Pioneers [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
-
-Internetstiftelsen
+Internetstiftelsen  [Förvaltning öppna data](https://data.jobtechdev.se/videos/nosad-20201103-forvaltning-och-ansvar-3440x1440.mp4)
 
 Italian Digital Transformation (It) [Öppen programvara i andra länder](https://youtu.be/UvtX4e_qRWY)
 
@@ -88,17 +95,31 @@ Jobtech Development (Arbetsförmedlingen)[Samverkan öppna data inom Offentlig v
 ### K
 Kammarkollegiet  [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/)
 
+[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
+
+
 ### L
-Lantmäteriet [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
+Lantmäteriet 
+[API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
+
+[Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
 
 Linköpings kommun [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
-Linux Foundation
+Linux Foundation [Internetdagarna - inspelning kommer]
 
 Litteraturbanken (Göteborgs universitet) [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
 
-Lunds universitet [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4) [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/) 
+Lunds universitet 
+[Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
+
+[Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/) 
+
+[Internetdagarna - inspelning kommer]
+
 [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
+
+[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
 
 #### N 
@@ -108,30 +129,30 @@ Naturvårdverket [API praktiken Jypiter notebook och Open API Swagger](https://w
 
 #### O
 
-ODIN
+ODIN [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
-OpenForum Europe
+OpenForum Europe [Internetdagarna - inspelning kommer]
 
 OpenHack [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
-
 Open Knowledge Sweden [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
-OpenForum Europe
+[Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
 
 Open Mobility Foundation [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
-OpenUK (Uk)
+OpenUK (Uk) [Internetdagarna - inspelning kommer]
 
 OpenUP [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
 OS2 (Dk) [Öppen programvara i andra länder](https://youtu.be/UvtX4e_qRWY)
 
 #### P
-Pôle Emploi (Fr) 
+Pôle Emploi (Fr) [Internetdagarna - inspelning kommer]
 
 Public Money Public Code [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
-PRV 
+
+PRV [Öppna licenser och immaterialrätt](https://www.youtube.com/watch?v=by_h0dWljqY)
 
 #### R
 
@@ -139,7 +160,7 @@ Redbridge [Öppen källkod som bas i den digitala allemansrätten](https://www.y
 
 Redhat [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-Riksdagens digitaliseringsnätverk 
+Riksdagens digitaliseringsnätverk [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
 
 Rise  [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
@@ -151,13 +172,16 @@ SCB [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-202
 
 SMHI [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
 
-Stockholms stad
+Stockholms stad [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
 Sundsvalls kommun [Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
 
-Sveriges Kommuner och Regioner (SKR)
+Sveriges Kommuner och Regioner (SKR) [Förvaltning öppna data](https://data.jobtechdev.se/videos/nosad-20201103-forvaltning-och-ansvar-3440x1440.mp4)
 
-SVT [Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
+SVT 
+[Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
+
+[Internetdagarna - inspelning kommer]
 
 Sydarkivera [eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/)
 
@@ -178,7 +202,11 @@ Upphandlingsmyndigheten [Hackathons och innovationstävlingar](https://data.jobt
 #### W
 Wesslau Söderqvist Advokater [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-Wikimedia Sverige [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
+Wikimedia Sverige 
+
+[Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
+
+[Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
 
 
