@@ -174,7 +174,11 @@ Wesslau Söderqvist Advokater [Öppen källkod som bas i den digitala allemansr�
 
 Wikimedia Sverige [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/) |  [Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
+## Bidra till våra event
 
+Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. [Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
+
+[Editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) (för er med behörighet).
 [Till editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Organisationer/edit)
 
 
