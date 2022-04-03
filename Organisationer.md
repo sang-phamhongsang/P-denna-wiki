@@ -5,9 +5,7 @@ Nedan finns länkar till alla inspelade NOSAD-event, sorterade på organisation.
 Addalot [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 Alingsås kommun 
-[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
-
-[Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
+[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU) | [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 Allmänhandling [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
