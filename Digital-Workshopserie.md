@@ -1,6 +1,6 @@
 # Ta del av inspelningar och presentationer i efterhand
 
-[Sök NOSAD-event per organisation](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Organisationer)
+[Sök NOSAD-event per organisation](/organisationer)
 
 Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över till https://data.arbetsformedlingen.se/videos.
 
