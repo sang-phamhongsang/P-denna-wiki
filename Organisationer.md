@@ -30,9 +30,7 @@ Datastory [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210
 
 Debricked [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
-DIGG  (Myndigheten för Digitalisering) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
-
-[Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
+DIGG  (Myndigheten för Digitalisering) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/) | [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
 #### E
 Entur (No)
@@ -157,7 +155,7 @@ Sydarkivera [eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/
 
 #### T
 
-Trafiklab [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
+Trafiklab [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q)
 
 Tullverket [eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/)
 
