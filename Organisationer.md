@@ -11,10 +11,8 @@ Alingsås kommun
 
 Allmänhandling [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
-Arbetsförmedlingen [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q)
-
-[eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/)
-
+Arbetsförmedlingen [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | 
+[eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/) | 
 [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
 
 #### B
@@ -25,23 +23,14 @@ Bolagsverket [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/Cp
 ChallengeGov [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
 
-Civic Tech Sweden 
-
-[Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
-
-[Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
+Civic Tech Sweden [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) | [Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
 #### D
 Datastory [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
 Debricked [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
-DIGG  (Myndigheten för Digitalisering)
-[Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q)
-
-[API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
-
-[API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
+DIGG  (Myndigheten för Digitalisering) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
 
 [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
@@ -61,11 +50,10 @@ Föreningen Grävande Journalister [Remissvar öppnadatautredningen - arbetsmöt
 Försäkringskassan [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
 
 #### G
-Göteborgs universitet (Litteraturbanken) [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
+Göteborgs universitet (Litteraturbanken) [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/) | [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
 
-Göteborgs stad [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
+Göteborgs stad [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)  
 
-[API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
 
 #### H
 Handlingar.se [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
@@ -75,9 +63,7 @@ Hagström Consulting [Öppna standarder](https://www.youtube-nocookie.com/embed/
 
 Helsingborgs Stad [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
-Högskolan i Skövde [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/)
-
-[Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
+Högskolan i Skövde [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/) | [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
 
 
 #### I
@@ -93,16 +79,13 @@ Iteam [Svenska städers behov av digital infrastruktur](https://www.youtube-noco
 Jobtech Development (Arbetsförmedlingen)[Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
 
 ### K
-Kammarkollegiet  [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/)
-
+Kammarkollegiet  [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/) | 
 [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
 
 ### L
 Lantmäteriet 
-[API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
-
-[Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
+[API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
 
 Linköpings kommun [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
@@ -110,16 +93,8 @@ Linux Foundation [Internetdagarna - inspelning kommer]
 
 Litteraturbanken (Göteborgs universitet) [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
 
-Lunds universitet 
-[Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
-
-[Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/) 
-
-[Internetdagarna - inspelning kommer]
-
-[Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
-
-[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
+Lunds universitet [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4) | [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/) | 
+[Internetdagarna - inspelning kommer] | [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/) | [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
 
 #### N 
@@ -135,9 +110,7 @@ OpenForum Europe [Internetdagarna - inspelning kommer]
 
 OpenHack [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4)
 
-Open Knowledge Sweden [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
-
-[Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
+Open Knowledge Sweden [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4) | [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
 
 Open Mobility Foundation [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
@@ -162,8 +135,7 @@ Redhat [Öppen källkod som bas i den digitala allemansrätten](https://www.yout
 
 Riksdagens digitaliseringsnätverk [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
 
-Rise  [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
-[Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
+Rise  [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4) | [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
 #### S 
 Sambruk [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
@@ -179,9 +151,7 @@ Sundsvalls kommun [Open by default inom offentlig verksamhet](https://data.jobte
 Sveriges Kommuner och Regioner (SKR) [Förvaltning öppna data](https://data.jobtechdev.se/videos/nosad-20201103-forvaltning-och-ansvar-3440x1440.mp4)
 
 SVT 
-[Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4)
-
-[Internetdagarna - inspelning kommer]
+[Open by default inom offentlig verksamhet](https://data.jobtechdev.se/videos/nosad-20220201-open-by-default-3840x2160.mp4) | [Internetdagarna - inspelning kommer]
 
 Sydarkivera [eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/)
 
@@ -202,11 +172,7 @@ Upphandlingsmyndigheten [Hackathons och innovationstävlingar](https://data.jobt
 #### W
 Wesslau Söderqvist Advokater [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-Wikimedia Sverige 
-
-[Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
-
-[Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
+Wikimedia Sverige [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/) |  [Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
 
 
