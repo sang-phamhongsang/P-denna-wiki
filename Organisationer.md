@@ -171,9 +171,7 @@ Wesslau Söderqvist Advokater [Öppen källkod som bas i den digitala allemansr�
 Wikimedia Sverige [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/) |  [Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
 
-
-
-
+[Till editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Organisationer/edit)
 
 
 
