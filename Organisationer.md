@@ -1,5 +1,5 @@
 ## Organisationer som presenterat på ett NOSAD event
-Nedan finns länkar till alla inspelade NOSAD-event, sorterade på organisation. för att ta del av organisationernas PowerPoints och delad publikationer kopplade till eventen gå in på [Ta del av inspelningar och presentationer i efterhand.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/edit)
+Nedan finns länkar till alla inspelade NOSAD-event, sorterade på organisation. För att ta del av visade PowerPoints och andra publikationer kopplade till eventen gå in på [presentationer i efterhand.](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/edit)
 
 #### A
 Addalot [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
