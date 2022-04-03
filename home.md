@@ -58,9 +58,16 @@ För att kunna fortsätta diskussionen även utanför våra träffar, gör ett i
 
 ## Cookies och privacy
 
-Målet är sajten inte ska spåra användaren på något sätt. Om du har förslag på förbättringar kan du maila enligt ovan, [skapa ett ärende](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io/-/issues/new) eller göra ett förslag på ny kod i [GitLab](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io).
+Målet är sajten inte ska spåra användaren på något sätt. 
 
 * Inga cookies används
 * Några utgående länkar leder till https://www.youtube-nocookie.com.
 * Ingen loggning sker på servern.
 * Ingen användardata samlas in för webbanalys.
+
+## Förbättringsförslag denna sida
+
+Om du har förslag på förbättringar kan du maila enligt [ovan](#Kontakt) eller [skapa ett ärende](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io/-/issues/new). I förstahand bör förslaget registreras öppet som ett ärende.
+
+* Contributors/behöriga kan göra innehållsändringar på denna sida, [till editering](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Home)
+* För tekniska ändringar finns källkoden [på GitLab](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io), alla MergeRequest uppmuntras.
