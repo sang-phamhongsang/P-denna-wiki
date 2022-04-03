@@ -92,9 +92,13 @@ Litteraturbanken (Göteborgs universitet) [Länkade data](https://www.youtube-no
 Lunds universitet [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4) | [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/) | 
 [Internetdagarna - inspelning kommer] | [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/) | [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
+#### M
+Metasolutions  [Förvaltning öppna data](https://data.jobtechdev.se/videos/nosad-20201103-forvaltning-och-ansvar-3440x1440.mp4) | [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
+
+
 
 #### N 
-Nationell Skalning Öppna Data (NSÖD) [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
+Nationell Skalning Öppna Data (NSÖD) [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4) |  [Förvaltning öppna data](https://data.jobtechdev.se/videos/nosad-20201103-forvaltning-och-ansvar-3440x1440.mp4)
 
 Naturvårdverket [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/)
 
