@@ -1,12 +1,12 @@
 # Ta del av inspelningar och presentationer i efterhand
 
-Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. [Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
+[Sök NOSAD-event per organisation](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Organisationer)
 
 Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över till https://data.arbetsformedlingen.se/videos.
 
 ## Snabblänkar
 
-**Kommande**
+**Kommande event**
 
 | Datum | Workshop |
 |---|---|
@@ -16,7 +16,7 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
 
 _Mer info samt event kommer löpande_
 
-**Tidigare**
+**Tidigare event**
 
 | Datum | Workshop |
 |---|---|
@@ -465,8 +465,11 @@ Under våren drog PRV och DIGG igång ett samverkansprojekt som handlar om att t
 
 [Sammanfattning och fortsatta diskussioner i Jobtechsforum.](https://forum.jobtechdev.se/t/oppna-licenser-och-immaterialratt-hur-hanger-det-ihop/120)
 
-## Bidra till listan
-Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) (för er med behörighet).
+## Bidra till våra event
+
+Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, utmaningar och ämnen som du vill vara med och diskutera. [Kontakta oss för medverkan.](mailto:maria.dalhage@digg.se)
+
+[Editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) (för er med behörighet).
 
 
 
