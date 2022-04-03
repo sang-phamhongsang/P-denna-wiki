@@ -72,7 +72,7 @@ Italian Digital Transformation (It) [Öppen programvara i andra länder](https:/
 Iteam [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
 #### J
-Jobtech Development (Arbetsförmedlingen)[Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q), Sändningen är publicerad på Goto10:s YouTube-kanal
+Jobtech Development (Arbetsförmedlingen) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q)
 
 ### K
 Kammarkollegiet  [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/) | 
