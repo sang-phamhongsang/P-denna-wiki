@@ -74,11 +74,6 @@ Iteam [Svenska städers behov av digital infrastruktur](https://www.youtube-noco
 #### J
 Jobtech Development (Arbetsförmedlingen) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q)
 
-### K
-Kammarkollegiet  [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/) | 
-[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
-
-
 ### L
 Lantmäteriet 
 [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) 
@@ -143,6 +138,9 @@ Sambruk [Öppen källkod som bas i den digitala allemansrätten](https://www.you
 SCB [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4)
 
 SMHI [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
+
+Skatteverket [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/) | 
+[Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
 Stockholms stad [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
 
