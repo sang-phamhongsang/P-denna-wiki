@@ -68,7 +68,7 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 - Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
 
 ### Livslångt lärande
-[Se inspelning i efterhand]()
+[Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220329-livslangt-larande-2112x1188.mp4)
 
 <small>29 mars 2022, kl 10-12 </small>
 
