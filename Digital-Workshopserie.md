@@ -42,6 +42,18 @@ _Mer info samt event kommer löpande_
 | 2021-09-15 | [Samverkan öppna data inom offentlig sektor](#samverkan-öppna-data-inom-offentlig-sektor) |
 | 2021-09-01 | [Öppna licenser och immaterialrätt](#öppna-licenser-och-immaterialrätt) |
 
+## Kommande workshop
+### Så jobbar offentlig sektor med open source
+
+<small>20 april 2022, kl 10-12 </small>
+ 
+Både för delaktighet och samskapande är open source en viktig digital resurs, inte minst när det kommer till datadriven utveckling och innovation. Myndigheters bakomliggande IT-miljö utgörs idag  till största del open source-komponenter, ändå är det först nu som vi myndigheter strategiskt börjar planera och implementera open source i våra verksamheter. Under en timme kommer vi att presentera vilka strategiska satsningar som görs och vilket stöd som finns nu. Träffa DIGG, eSAM, Arbetsförmedlingen och Rise som berättar om vad de gör inom detta område. Delta också i diskussionen om hur vi kan undvika inlåsningseffekter och vilka incitament det finns hos leverantörer att jobba mer öppet.
+ 
+Introduktion till nätverket NOSAD samt varför DIGG har skapat ett Kompetensområde för öppen källkod | Maria Dalhage (DIGG) 
+ 
+eSAMs Råd för delning och användning av Öppen källkod. | Hakim Sjöström (SCB), Mikael Österlund (Pensionsmyndigheten) 
+  
+Paneldiskussion och frågor | Jonas Södergren (Arbetsförmedlingen), Johan Linåker (Rise), Hakim Sjöström (SCB)
 
 
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
