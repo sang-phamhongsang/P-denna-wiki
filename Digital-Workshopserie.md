@@ -10,8 +10,8 @@ Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över
 
 | Datum | Workshop |
 |---|---|
+| 2022-04-20 | [Så jobbar offentlig sektor med open source](https://www.goto10.se/event/hur-offentlig-sektor-jobbar-med-open-source/)
 | 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
-| 2022-06-20 | [Så jobbar offentlig sektor med open source](https://www.goto10.se/event/hur-offentlig-sektor-jobbar-med-open-source/)
 | 2022-06-07 | [under planering](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
 
 _Mer info samt event kommer löpande_
@@ -45,7 +45,7 @@ _Mer info samt event kommer löpande_
 ## Kommande workshop
 ### Så jobbar offentlig sektor med open source
 
-<small>20 april 2022, kl 10-12 </small>
+<small>20 april 2022, kl 10:30-111:30 </small>
  
 Både för delaktighet och samskapande är open source en viktig digital resurs, inte minst när det kommer till datadriven utveckling och innovation. Myndigheters bakomliggande IT-miljö utgörs idag  till största del open source-komponenter, ändå är det först nu som vi myndigheter strategiskt börjar planera och implementera open source i våra verksamheter. Under en timme kommer vi att presentera vilka strategiska satsningar som görs och vilket stöd som finns nu. Träffa DIGG, eSAM, Arbetsförmedlingen och Rise som berättar om vad de gör inom detta område. Delta också i diskussionen om hur vi kan undvika inlåsningseffekter och vilka incitament det finns hos leverantörer att jobba mer öppet.
  
