@@ -1,6 +1,6 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
-Nätverkets (NOSAD - Network Open Source and Data) mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
+**Sammanfattning** | Nätverkets (NOSAD - Network Open Source and Data) mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
 
 ## Snabblänkar
 
