@@ -1,7 +1,6 @@
-**Sammanfattning** | Ta del av inspelningar och presentationer i efterhand. Möjligt att [söka NOSAD-event utifrån organisation](/organisationer). 
-
 ## Workshops
-Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över till https://data.arbetsformedlingen.se/videos.
+
+**Sammanfattning** | Ta del av inspelningar och presentationer i efterhand. Möjligt att [söka NOSAD-event utifrån organisation](/organisationer). Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över till https://data.arbetsformedlingen.se/videos.
 
 **Kommande event**
 
