@@ -1,8 +1,7 @@
-## Nätverket rekommenderar
 
-Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>.
+**Sammanfattning** | Nätverket rekommenderar att använda och läsa nedan listade dokument. Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>.
 
-**Innehållsförteckning**
+## Innehållsförteckning
 
 - [Stöd för att tillhandahålla öppna data](#stöd-för-att-tillhandahålla-öppna-data)
 - [Krav vid anskaffning av IT-system](#krav-vid-anskaffning-av-IT-system)
