@@ -2,17 +2,19 @@
 
 **Sammanfattning** | Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
 
-## Snabblänkar
+## Innehållsförteckning
 
-1. [Kommande evenemang](#kalendarium)
-2. [Ta del av inspelningar och presentationer i efterhand](/workshops)
-2. Lästips
-   * [Nätverket rekommenderar](/tips)
-   * [Internationell omvärldsbevakning](/internationellt)
+1. [Varför ett nätverk](#varför-ett-nätverk)
+2. [Kalendarium](#kalendarium)
 3. [Nyhetsbrev](#nyhetsbrev)
-4. [Katalog öppen programvara](https://offentligkod.se/)
+4. [Nätverket rekommenderar](#nätverket-rekommenderar)
+5. [Diskussionsforum](#diskussionsforum)
+6. [Kontakt](#kontakt)
+7. [Cookies och privacy](#cookies-och-privacy)
+8. [Förbättringsförslag denna sida](#förbättringsförslag-denna-sida)
+9. [Katalog öppen programvara](https://offentligkod.se/)
 
-## Varför detta nätverk?
+## Varför ett nätverk
 
 Vinsterna är många; öppen innovation; kostnadseffektiv digitalisering; kompetensdelning; samverkan som ökar chansen till interoperabilitet mellan system och verksamheter.
 
