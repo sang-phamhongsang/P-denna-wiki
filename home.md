@@ -1,7 +1,7 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
 # Om nätverket
-
+Verkar för öppna data och öppen källkod inom det offentliga.
 
 <figure>
 
