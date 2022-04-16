@@ -1,6 +1,6 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
-# Om nätverket
+# Nätverket nosad
 
 <figure>
 
