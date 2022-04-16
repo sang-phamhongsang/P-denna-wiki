@@ -2,8 +2,6 @@
 
 # Om nätverket
 
-![Bild](https://source.unsplash.com/YUuSAJkS3U4/640x460)
-
 **Sammanfattning** | Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
 
 ## Innehållsförteckning
