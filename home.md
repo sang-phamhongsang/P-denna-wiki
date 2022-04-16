@@ -1,18 +1,17 @@
 [_metadata_:url]:- "https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/home"
 
 # Om nätverket
-Verkar för öppna data och öppen källkod inom det offentliga.
 
 <figure>
 
 ![Nätverket träffas digitalt](https://source.unsplash.com/YUuSAJkS3U4/640x460)
 
-<figcaption>Nätverket träffas digitalt en gång i månaden. Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a> </figcaption>
+<figcaption>Nätverket träffas digitalt en gång i månaden. Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>. </figcaption>
 </figure>
 <figure>
 
 
-**Sammanfattning** | Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
+**Sammanfattning** | Nätverket verkar för öppna data och öppen källkod inom det offentliga. Målet är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
 
 ## Innehållsförteckning
 
