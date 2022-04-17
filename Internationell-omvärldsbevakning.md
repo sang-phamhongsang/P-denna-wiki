@@ -4,6 +4,7 @@ Uppdaterad 2022-04-17, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 **Sammanfattning** | Sammanställning av bärande dokument från andra länder. Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer från tidigare workshops](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie). 
 
+<hr/>
 
 ## Policys och vägledningar kring öppen programvara inom offentlig sektor
 
