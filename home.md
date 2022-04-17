@@ -11,7 +11,9 @@
 <figure>
 
 
-**Sammanfattning** | _**Network Open Source and Data**_, förkortat _**NOSAD**_, verkar för öppna data och öppen källkod inom det offentliga. Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan **delta**, **dela** och **diskutera**.
+**Sammanfattning** | _**Network Open Source and Data**_, förkortat _**NOSAD**_, verkar för öppna data och öppen källkod inom det offentliga. Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan _delta, dela och diskutera_.
+
+<hr/>
 
 ## Innehållsförteckning
 
