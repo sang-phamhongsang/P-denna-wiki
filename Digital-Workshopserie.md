@@ -3,6 +3,8 @@ Uppdaterad 2022-04-11, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 **Sammanfattning** | Ta del av inspelningar och presentationer i efterhand. Möjligt att [söka NOSAD-event utifrån organisation](/organisationer). Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över till https://data.arbetsformedlingen.se/videos.
 
+<hr/>
+
 **Kommande event**
 
 | Datum | Workshop |
