@@ -20,12 +20,11 @@
 1. [Varför ett nätverk](#varför-ett-nätverk)
 2. [Kalendarium](#kalendarium)
 3. [Nyhetsbrev](#nyhetsbrev)
-4. [Nätverket rekommenderar](#nätverket-rekommenderar)
+4. [Lästips](#lästips)
 5. [Diskussionsforum](#diskussionsforum)
 6. [Kontakt](#kontakt)
 7. [Cookies och privacy](#cookies-och-privacy)
 8. [Förbättringsförslag denna sida](#förbättringsförslag-denna-sida)
-9. [Katalog öppen programvara](https://offentligkod.se/)
 
 ## Varför ett nätverk
 
@@ -53,11 +52,11 @@ _Mer info samt event kommer löpande_
 
 [Maila](mailto:maria.dalhage@digg.se) för att anmäla eller avanmäla dig till nyhetsbrevet. Skriv gärna “Prenumerera på nosads nyhetsbrev” eller “Avprenumerera på nosads nyhetsbrev” i ämnesraden.
 
-## Nätverket rekommenderar
+## Lästips
 
-Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen. Nätverket sammanställer regelbundet delat material i formen "Nätverket rekommenderar". Vi välkomnar förslag på nytt material eller kompletterings/ändringsförslag.
+Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen. Nätverket sammanställer regelbundet delat material i formen "Nätverkets lästips". Vi välkomnar förslag på nytt material eller kompletterings/ändringsförslag.
 
-<a href="/tips" data-navigo>Till nätverket rekommenderar</a>
+<a href="/tips" data-navigo>Till nätverkets lästips</a>
 
 ## Diskussionsforum
 
