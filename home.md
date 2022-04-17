@@ -6,7 +6,7 @@
 
 ![Nätverket träffas digitalt](https://source.unsplash.com/YUuSAJkS3U4/640x460)
 
-<figcaption>Nätverket träffas digitalt en gång i månaden. <smaller>Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</smaller> </figcaption>
+<figcaption>Nätverket träffas digitalt en gång i månaden. <small>Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 <figure>
 
