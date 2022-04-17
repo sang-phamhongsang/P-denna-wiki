@@ -6,7 +6,7 @@
 
 ![Nätverket träffas digitalt](https://source.unsplash.com/YUuSAJkS3U4/640x460)
 
-<figcaption>Nätverket träffas digitalt en gång i månaden. Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>. </figcaption>
+<figcaption>Nätverket träffas digitalt en gång i månaden. <smaller>Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</smaller> </figcaption>
 </figure>
 <figure>
 
@@ -57,7 +57,7 @@ För att kunna fortsätta diskussionen även utanför våra träffar, gör ett i
 
 Om nätverket och denna webbplats.
 
-### Varför ett nätverk
+**Varför ett nätverk**
 
 Vinsterna är många; öppen innovation; kostnadseffektiv digitalisering; kompetensdelning; samverkan som ökar chansen till interoperabilitet mellan system och verksamheter.
 
@@ -65,15 +65,15 @@ Vi tror på att gå från Ego till Eko. Att offentlig verksamhet öppet samarbet
 
 Därför vill vi med detta nätverk bjuda in till kunskapsdelning och samverkan kring hur användande och samutveckling av öppna data och tillika öppen källkod och öppna standarder kan bidra till dessa vinster. Vårt mål är att hålla en praktisk tyngdpunkt och hjälpa och inspirera myndigheter i att ta nästa steg för att öka påverkan och driva på nyttiggörandet av öppna data och öppen källkod.
 
-### Kontakt
+**Kontakt**
 
 [Kontakta nosad via mail](mailto:maria.dalhage@digg.se)
 
-### Vem står bakom nätverket
+**Vem står bakom nätverket**
 
 [Arbetsförmedlingens JobTech](https://jobtechdev.se/), [DIGG](https://www.digg.se/), och [Internetstiftelsen](https://internetstiftelsen.se/) samarbetar tillsammans med [Trafiklab](https://www.trafiklab.se/), [RISE](https://www.ri.se/) och [SKR](https://skr.se/).
 
-### Cookies och privacy
+**Cookies och privacy**
 
 Målet är sajten inte ska spåra användaren på något sätt. 
 
@@ -82,7 +82,7 @@ Målet är sajten inte ska spåra användaren på något sätt.
 * Ingen loggning sker på servern.
 * Ingen användardata samlas in för webbanalys.
 
-### Förbättringsförslag denna sida
+**Förbättringsförslag denna sida**
 
 Om du har förslag på förbättringar kan du maila enligt [ovan](#Kontakt) eller [skapa ett ärende](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io/-/issues/new). I förstahand bör förslaget registreras öppet som ett ärende.
 
