@@ -1,5 +1,8 @@
 # Internationell omvärldsbevakning
-Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer från tidigare workshops](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie). 
+
+Uppdaterat 2022-04-17 av jonas, [versionshistorik](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Internationell-omv%C3%A4rldsbevakning/history).
+
+**Sammanfattning** | Sammanställning av bärande dokument från andra länder. Se också [nätverket rekommenderar](https://nosad.se/tips) och [presentationer från tidigare workshops](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie). 
 
 
 ## Policys och vägledningar kring öppen programvara inom offentlig sektor
