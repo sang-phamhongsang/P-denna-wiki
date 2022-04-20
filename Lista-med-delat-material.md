@@ -56,7 +56,6 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [Råd för delning och användning av öppen källkod | eSAM](https://www.esamverka.se/download/18.6668103d17f448916a34dffb/1647011001475/R%C3%A5d%20f%C3%B6r%20delning%20och%20anv%C3%A4ndning%20av%20%C3%B6ppen%20k%C3%A4llkod%20220311.pdf)
 
-[Vägledning progranvarulicensiering | eSAM](https://www.esamverka.se/download/18.1afa2964179effea5a286f48/1625144886153/V%C3%A4gledning%20programvarulicensiering.pdf)
 
 [Riskanalys öppen källkod | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f5c05112abe8904fd93d078b348f49e2/Riskanalys_%C3%96ppen_k%C3%A4llkod_1.0_-_20211025__002_.pdf)
 
@@ -79,7 +78,10 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [Metadatastandard för öppen källkod för offentlig sektor publiccode.yml: a metadata description standard for public software and policy repositories | Foundation for Public code](https://github.com/publiccodenet/publiccode.yml)
 
- 
+## Open source licenser
+[EUPL-licenser](https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%201_1%20Guidelines%20SV%20Joinup.pdf)
+
+[Vägledning progranvarulicensiering | eSAM](https://www.esamverka.se/download/18.1afa2964179effea5a286f48/1625144886153/V%C3%A4gledning%20programvarulicensiering.pdf)
 
 
 ## Öppet arbetssätt
