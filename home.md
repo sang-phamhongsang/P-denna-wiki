@@ -11,7 +11,7 @@
 <figure>
 
 
-**Sammanfattning** | _**Network Open Source and Data**_, förkortat _**NOSAD**_, verkar för öppna data och öppen källkod inom det offentliga. Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. Alla kan _delta, dela och diskutera_.
+**Sammanfattning** | _**Network Open Source and Data**_, förkortat _**NOSAD**_, verkar för öppna data och öppen källkod inom det offentliga. Nätverkets mål är att praktisk hjälpa och inspirera offentlig verksamhet att öka tillgängliggörandet och nyttjandet av öppna data. Över 40 timmar inspelat material, 100 delade länkar och dokument, ca 500 personer medverkar i nätverket. [Organisationer](/organisationer) som har bidragit. Alla kan _delta, dela och diskutera_.
 
 <hr/>
 
@@ -35,7 +35,7 @@ Nätverket träffas regelbundet (via videolänk), första tisdagen varje månad.
 
 _Mer info samt event kommer löpande_
 
-<a href="https://nosad.se/workshops" data-navigo>Arkivet - ta del av inspelningar och presentationer i efterhand</a>
+<a href="https://nosad.se/workshops">Arkivet - ta del av inspelningar och presentationer i efterhand</a>
 
 ## Nyhetsbrev
 
@@ -45,7 +45,7 @@ _Mer info samt event kommer löpande_
 
 Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen. Nätverket sammanställer regelbundet delat material i formen "Nätverkets lästips". Vi välkomnar förslag på nytt material eller kompletterings/ändringsförslag.
 
-<a href="/tips" data-navigo>Till nätverkets lästips</a>
+<a href="/tips">Till nätverkets lästips</a>
 
 ## Diskussionsforum
 
