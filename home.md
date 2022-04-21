@@ -4,7 +4,11 @@
 
 <figure>
 
-![Nätverket träffas digitalt](https://source.unsplash.com/YUuSAJkS3U4/640x460)
+  <img width="640" height="460"
+  class="blurry-load"
+  src="https://nosad.se/img/sigmund-YUuSAJkS3U4-unsplash-small.jpg"
+  data-large="https://nosad.se/img/sigmund-YUuSAJkS3U4-unsplash.jpg"
+/>
 
 <figcaption>Nätverket träffas digitalt en gång i månaden. <small>Bild av <a href="https://unsplash.com/@sigmund?utm_source=nosad&utm_medium=referral">Sigmund</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
