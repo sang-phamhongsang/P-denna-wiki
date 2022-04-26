@@ -10,7 +10,7 @@ Uppdaterad 2022-04-11, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 | Datum | Workshop |
 |---|---|
 | 2022-04-20 | [Så jobbar offentlig sektor med open source](https://www.goto10.se/event/hur-offentlig-sektor-jobbar-med-open-source/)
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/kompetensforsorjning-och-livslangt-larande/) |
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/) |
 | 2022-06-07 | [under planering](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
 
 _Mer info samt event kommer löpande_
