@@ -62,12 +62,9 @@ Paneldiskussion och frågor | Jonas Södergren (Arbetsförmedlingen), Johan Lin�
 
 Nu finns tillfälle att förstå det strategiska landskapet för ökad delning och nytta av data och varför man pratar om data som en strategisk resurs. Välkommen att diskutera med EU kommissionen, infrastrukturdepartementet och projektledarna för de olika regeringsuppdrag som ingår i den nationella datastrategin.
 
-
-
-
-
 ## Genomförda workshops
 ### Öppna data för ett hållbart godstransportsystem
+[Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220405-oppna-data-hallbart-godtransportsystem-3000x2000.mp4)
 
 <small>5 april 2022, kl 10-11</small>
  
