@@ -59,9 +59,9 @@ Nu finns tillfälle att förstå det strategiska landskapet för ökad delning o
  
 Både för delaktighet och samskapande är open source en viktig digital resurs, inte minst när det kommer till datadriven utveckling och innovation. Myndigheters bakomliggande IT-miljö utgörs idag  till största del open source-komponenter, ändå är det först nu som vi myndigheter strategiskt börjar planera och implementera open source i våra verksamheter. Under en timme kommer vi att presentera vilka strategiska satsningar som görs och vilket stöd som finns nu. Träffa DIGG, eSAM, Arbetsförmedlingen och Rise som berättar om vad de gör inom detta område. Delta också i diskussionen om hur vi kan undvika inlåsningseffekter och vilka incitament det finns hos leverantörer att jobba mer öppet.
  
-Introduktion till nätverket NOSAD samt varför DIGG har skapat ett Kompetensområde för öppen källkod | Maria Dalhage (DIGG) | [NOSAD_FOSS.pptx](uploads/dbbd8623cc4cdb148a8592784cca7e01/NOSAD_FOSS.pptx)
+Introduktion till nätverket NOSAD samt varför DIGG har skapat ett Kompetensområde för öppen källkod | Maria Dalhage (DIGG) | [NOSAD_FOSS.pptx](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/dbbd8623cc4cdb148a8592784cca7e01/NOSAD_FOSS.pptx)
  
-eSAMs Råd för delning och användning av Öppen källkod. | Hakim Sjöström (SCB), Mikael Österlund (Pensionsmyndigheten) |[eSam_-_Öppen_källkod_-_NOSAD_v1.0.pdf](uploads/1db677778f98b351c5846c86001fa42c/eSam_-_Öppen_källkod_-_NOSAD_v1.0.pdf)
+eSAMs Råd för delning och användning av Öppen källkod. | Hakim Sjöström (SCB), Mikael Österlund (Pensionsmyndigheten) |[eSam_-_Öppen_källkod_-_NOSAD_v1.0.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/1db677778f98b351c5846c86001fa42c/eSam_-_%C3%96ppen_k%C3%A4llkod_-_NOSAD_v1.0.pdf)
   
 Paneldiskussion och frågor | Jonas Södergren (Arbetsförmedlingen), Johan Linåker (Rise), Hakim Sjöström (SCB)
 
