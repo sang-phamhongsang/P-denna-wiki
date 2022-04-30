@@ -23,6 +23,8 @@ ChallengeGov [Hackathons och innovationstävlingar](https://data.jobtechdev.se/v
 
 Civic Tech Sweden [Utfrågning - Öppna datautredningen](https://www.youtube.com/watch?v=63l3-_WC7jc) | [Remissvar öppnadatautredningen - arbetsmöte ej inspelat]
 
+Closer [Öppna data för ett hållbart godstransportsystem](https://data.jobtechdev.se/videos/nosad-20220405-oppna-data-hallbart-godtransportsystem-3000x2000.mp4)
+
 #### D
 Datastory [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210615-offentlighetsprincipen-2736x1744.mp4)
 
@@ -84,6 +86,8 @@ Linux Foundation [Internetdagarna - inspelning kommer]
 
 Litteraturbanken (Göteborgs universitet) [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
 
+Logistikdatalabbet [Öppna data för ett hållbart godstransportsystem](https://data.jobtechdev.se/videos/nosad-20220405-oppna-data-hallbart-godtransportsystem-3000x2000.mp4)
+
 Lunds universitet [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4) | [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/) | 
 [Internetdagarna - inspelning kommer] | [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/) | [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
 
@@ -121,6 +125,8 @@ Pôle Emploi (Fr) [Internetdagarna - inspelning kommer]
 Public Money Public Code [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 PRV [Öppna licenser och immaterialrätt](https://www.youtube.com/watch?v=by_h0dWljqY)
+
+Predictive Movment [Öppna data för ett hållbart godstransportsystem](https://data.jobtechdev.se/videos/nosad-20220405-oppna-data-hallbart-godtransportsystem-3000x2000.mp4)
 
 #### R
 
