@@ -42,17 +42,6 @@ _Mer info samt event kommer löpande_
 | 2021-09-01 | [Öppna licenser och immaterialrätt](#öppna-licenser-och-immaterialrätt) |
 
 ## Kommande workshop
-### Så jobbar offentlig sektor med open source
-
-<small>20 april 2022, kl 10:30-111:30 </small>
- 
-Både för delaktighet och samskapande är open source en viktig digital resurs, inte minst när det kommer till datadriven utveckling och innovation. Myndigheters bakomliggande IT-miljö utgörs idag  till största del open source-komponenter, ändå är det först nu som vi myndigheter strategiskt börjar planera och implementera open source i våra verksamheter. Under en timme kommer vi att presentera vilka strategiska satsningar som görs och vilket stöd som finns nu. Träffa DIGG, eSAM, Arbetsförmedlingen och Rise som berättar om vad de gör inom detta område. Delta också i diskussionen om hur vi kan undvika inlåsningseffekter och vilka incitament det finns hos leverantörer att jobba mer öppet.
- 
-Introduktion till nätverket NOSAD samt varför DIGG har skapat ett Kompetensområde för öppen källkod | Maria Dalhage (DIGG) 
- 
-eSAMs Råd för delning och användning av Öppen källkod. | Hakim Sjöström (SCB), Mikael Österlund (Pensionsmyndigheten) 
-  
-Paneldiskussion och frågor | Jonas Södergren (Arbetsförmedlingen), Johan Linåker (Rise), Hakim Sjöström (SCB)
 
 
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
@@ -63,6 +52,19 @@ Paneldiskussion och frågor | Jonas Södergren (Arbetsförmedlingen), Johan Lin�
 Nu finns tillfälle att förstå det strategiska landskapet för ökad delning och nytta av data och varför man pratar om data som en strategisk resurs. Välkommen att diskutera med EU kommissionen, infrastrukturdepartementet och projektledarna för de olika regeringsuppdrag som ingår i den nationella datastrategin.
 
 ## Genomförda workshops
+
+### Så jobbar offentlig sektor med open source
+
+<small>20 april 2022, kl 10:30-111:30 </small>
+ 
+Både för delaktighet och samskapande är open source en viktig digital resurs, inte minst när det kommer till datadriven utveckling och innovation. Myndigheters bakomliggande IT-miljö utgörs idag  till största del open source-komponenter, ändå är det först nu som vi myndigheter strategiskt börjar planera och implementera open source i våra verksamheter. Under en timme kommer vi att presentera vilka strategiska satsningar som görs och vilket stöd som finns nu. Träffa DIGG, eSAM, Arbetsförmedlingen och Rise som berättar om vad de gör inom detta område. Delta också i diskussionen om hur vi kan undvika inlåsningseffekter och vilka incitament det finns hos leverantörer att jobba mer öppet.
+ 
+Introduktion till nätverket NOSAD samt varför DIGG har skapat ett Kompetensområde för öppen källkod | Maria Dalhage (DIGG) | [NOSAD_FOSS.pptx](uploads/dbbd8623cc4cdb148a8592784cca7e01/NOSAD_FOSS.pptx)
+ 
+eSAMs Råd för delning och användning av Öppen källkod. | Hakim Sjöström (SCB), Mikael Österlund (Pensionsmyndigheten) |[eSam_-_Öppen_källkod_-_NOSAD_v1.0.pdf](uploads/1db677778f98b351c5846c86001fa42c/eSam_-_Öppen_källkod_-_NOSAD_v1.0.pdf)
+  
+Paneldiskussion och frågor | Jonas Södergren (Arbetsförmedlingen), Johan Linåker (Rise), Hakim Sjöström (SCB)
+
 ### Öppna data för ett hållbart godstransportsystem
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220405-oppna-data-hallbart-godtransportsystem-3000x2000.mp4)
 
