@@ -78,10 +78,18 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 
 [Metadatastandard för öppen källkod för offentlig sektor publiccode.yml: a metadata description standard for public software and policy repositories | Foundation for Public code](https://github.com/publiccodenet/publiccode.yml)
 
+Göteborgs universitetsbibliotek (GUB:s) beslut att använda öppen källkodslösning var ett rent affärsmässigt beslut som togs för att möjliggöra operativ och strategisk flexibilitet genom att ta kontroll över utvecklingen av ett verksamhetskritiskt system. Detta tack vare att GUB har en egen utvecklingsavdelning och vana att delta i öppen källkodsprojekt. Artikeln beskriver även problematik kring upphandling av standardiserade proprietära systemlösningar som GUB gjorde innan, vilket ledde till oförutsedda kostnader som inte uppdagas vid upphandlingsförfarandet.
+[Göteborgs universitetsbibliotek: episodisk digital transformation](https://www.clearbyte.org/?p=7330&lang=sv)
+
 ## Open source licenser
 [EUPL-licenser](https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%201_1%20Guidelines%20SV%20Joinup.pdf)
 
 [Vägledning progranvarulicensiering | eSAM](https://www.esamverka.se/download/18.1afa2964179effea5a286f48/1625144886153/V%C3%A4gledning%20programvarulicensiering.pdf)
+
+
+
+
+
 
 
 ## Öppet arbetssätt
