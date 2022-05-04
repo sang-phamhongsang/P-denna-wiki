@@ -9,7 +9,6 @@ Uppdaterad 2022-04-11, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 | Datum | Workshop |
 |---|---|
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/) |
 | 2022-06-07 | [under planering](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
 
 _Mer info samt event kommer löpande_
@@ -18,6 +17,7 @@ _Mer info samt event kommer löpande_
 
 | Datum | Workshop |
 |---|---|
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/) 
 | 2022-04-20 | [Så jobbar offentlig sektor med open source](#så-jobbar-offentlig-sektor-med-open-source)
 | 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
 | 2022-03-01 | [Hälsa och säkerhet vid val av öppen programvara](#communityhälsa-och-säkerhet-vid-var-av-öppen-källkod) |
@@ -44,6 +44,9 @@ _Mer info samt event kommer löpande_
 ## Kommande workshop
 
 
+
+
+## Genomförda workshops
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
 
 <small>3 maj 2022, kl 10-12 </small>
@@ -51,7 +54,9 @@ _Mer info samt event kommer löpande_
 
 Nu finns tillfälle att förstå det strategiska landskapet för ökad delning och nytta av data och varför man pratar om data som en strategisk resurs. Välkommen att diskutera med EU kommissionen, infrastrukturdepartementet och projektledarna för de olika regeringsuppdrag som ingår i den nationella datastrategin.
 
-## Genomförda workshops
+Presentationer:
+
+[Kompetensförsörjning och Livslångtlärande | Erik Lejdemyr | Arbetsförmedlingen](uploads/46717745ba8735d7aeba7c35e9491598/3_maj_RU_KLL.pptx)
 
 ### Så jobbar offentlig sektor med open source
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
