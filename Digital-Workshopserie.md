@@ -58,6 +58,8 @@ Presentationer:
 
 [Kompetensförsörjning och Livslångtlärande | Erik Lejdemyr | Arbetsförmedlingen](uploads/46717745ba8735d7aeba7c35e9491598/3_maj_RU_KLL.pptx)
 
+[Nationellt_rymddatalabb_-fas_II | Tobias Edman | SNSA](uploads/f32da15b0948ecd1ed19af3460f5e0a9/Nationellt_rymddatalabb_-fas_II_NOSAD.pptx)
+
 ### Så jobbar offentlig sektor med open source
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
 
