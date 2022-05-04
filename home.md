@@ -31,7 +31,6 @@ Nätverket träffas regelbundet (via videolänk), första tisdagen varje månad.
 
 | Datum | Anmälan |
 |---|---|
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-6/)
 | 2022-06-07 | [under planering](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
 
 _Mer info samt event kommer löpande_
