@@ -56,7 +56,7 @@ Nu finns tillfälle att förstå det strategiska landskapet för ökad delning o
 
 Presentationer:
 
-[Kompetensförsörjning och Livslångtlärande | Erik Lejdemyr | Arbetsförmedlingen](uploads/46717745ba8735d7aeba7c35e9491598/3_maj_RU_KLL.pptx)
+[Kompetensförsörjning och Livslångtlärande | Erik Lejdemyr | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/46717745ba8735d7aeba7c35e9491598/3_maj_RU_KLL.pptxx)
 
 [Nationellt_rymddatalabb_-fas_II | Tobias Edman | SNSA](uploads/f32da15b0948ecd1ed19af3460f5e0a9/Nationellt_rymddatalabb_-fas_II_NOSAD.pptx)
 
