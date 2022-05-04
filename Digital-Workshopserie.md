@@ -18,7 +18,7 @@ _Mer info samt event kommer löpande_
 
 | Datum | Workshop |
 |---|---|
-| 2022-04-20 | [Så jobbar offentlig sektor med open source](https://www.goto10.se/event/hur-offentlig-sektor-jobbar-med-open-source/)
+| 2022-04-20 | [Så jobbar offentlig sektor med open source](#så-jobbar-offentlig-sektor-med-open-source)
 | 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
 | 2022-03-01 | [Hälsa och säkerhet vid val av öppen programvara](#communityhälsa-och-säkerhet-vid-var-av-öppen-källkod) |
 | 2022-02-01 | [Open by default inom offentlig verksamhet](#open-by-default) |
@@ -54,6 +54,7 @@ Nu finns tillfälle att förstå det strategiska landskapet för ökad delning o
 ## Genomförda workshops
 
 ### Så jobbar offentlig sektor med open source
+[Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
 
 <small>20 april 2022, kl 10:30-111:30 </small>
  
