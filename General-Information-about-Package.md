@@ -1,7 +1,7 @@
 # Metadataformat och öppna informationsstrukturer
 ## General Information about Package (GIP)
 
-Contributor: Tullverket, Magnus Wåhlberg.  [Kontakta mig för mer info] (magnus.wahlberg@tullverket.se) 
+Contributor: Tullverket, Magnus Wåhlberg.  [Kontakta Tullverket för mer info](magnus.wahlberg@tullverket.se) 
 
 General Information about Package är fjärde generationen av ett generellt öppet metadataformat anpassat för svenska myndigheters långsiktiga behov av återsökning och förvaltning av handlingar, dokument, databaser och så vidare. En svensk myndighet kan använda GIP-strukturen för att kunna förbättra möjligheterna att återsöka och förvalta sina handlingar, ärendeakter och register på ett systemoberoende sätt.
 
