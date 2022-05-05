@@ -54,6 +54,8 @@ Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen.
 ## Projekt
 Öppna dataprojekt samt öppna källkodsprojekt. Det är nätverkets deltagare som tipsar och lägger upp projekten.
 
+[Till nätverkets projekt](https://nosad.se/Projekt)
+
 ## Diskussionsforum
 
 För att kunna fortsätta diskussionen även utanför våra träffar, gör ett inlägg på vårt fråge- och diskussionsforum.
