@@ -25,3 +25,6 @@ XML-exempelfil med alla element ifyllda för paketnivån.
 XML Schema som används för att validera XML-filer på representationsnivån vilka följer GIPREP 4.0. 
 * [GIPREP XML-exempelfil för tester och demo på representationsnivån](uploads/c4f07ff2d71129a168b2752fe5bfc833/giprep_4.0_max_XSD_testing_A.xml)  
 XML-exempelfil med alla element ifyllda för representationsnivån.
+
+## Bidra till sidan
+Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/General-Information-about-Package) (för er med behörighet).
