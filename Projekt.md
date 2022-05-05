@@ -15,8 +15,11 @@
 
 <hr>
 
+## Öppna data
 [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
+[OpenData Umeå](https://opendata.umea.se/pages/bygglovsstatistik/)
 
+## Standarder, format och specifikationer
 [Metadatastandarder från Tullverket](https://nosad.se/General-Information-about-Package)
 
  ### Bidra till sidan
