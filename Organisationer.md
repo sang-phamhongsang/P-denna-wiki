@@ -11,7 +11,7 @@ Allmänhandling [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad
 
 Arbetsförmedlingen [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | 
 [eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3Rz7a_I0NvA/) | 
-[API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
+[API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4) | [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 #### B
 Bolagsverket [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/)
@@ -30,15 +30,19 @@ Datastory [Offentlighetsprincipen](https://data.jobtechdev.se/videos/nosad-20210
 
 Debricked [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jobtechdev.se/videos/nosad-20220301-halsa-sakerhet-oppen-programvara-2560x1440.mp4)
 
-DIGG  (Myndigheten för Digitalisering) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/) | [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4) | [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
+DIGG  (Myndigheten för Digitalisering) [Samverkan öppna data inom Offentlig verksamhet](https://www.youtube.com/watch?v=-agLPUX5i9Q) | [API-Profil och Playbook](https://www.youtube-nocookie.com/embed/CpaSiEjjqwU/) | [API praktiken Jypiter notebook och Open API Swagger](https://www.youtube-nocookie.com/embed/sfWWPpTysjk/) | [Hackathons och innovationstävlingar](https://data.jobtechdev.se/videos/nosad-20201208-hackathons-1920x1080.mp4) | [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4) | [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 #### E
+
+eHälsomyndigheten [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
+
 Entur (No)
 
 eSAM [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
 
 Etalab (Fr) [Öppen programvara i andra länder](https://youtu.be/UvtX4e_qRWY)
 
+EU-kommissionen [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 #### F
 
 Foss-north- [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
@@ -132,6 +136,8 @@ Predictive Movment [Öppna data för ett hållbart godstransportsystem](https://
 
 #### R
 
+Regeringkansliet [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
+
 Redbridge [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
 Redhat [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
@@ -143,9 +149,11 @@ Rise  [Communityhälsa och säkerhet vid val av öppen källkod](https://data.jo
 #### S 
 Sambruk [Öppen källkod som bas i den digitala allemansrätten](https://www.youtube-nocookie.com/embed/t5S7fSPgWOc/)
 
-SCB [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4) | [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
+SCB [Policy för öppen programvara](https://data.jobtechdev.se/videos/nosad-20210112-policy-oppen-programvara-myndigheter-1920x1080.mp4) | [Så jobbar offentlig sektor open source](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4) | [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 SMHI [Länkade data](https://www.youtube-nocookie.com/embed/fkgKoN0NkeM/)
+
+SNSA [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 Skatteverket [Öppna standarder](https://www.youtube-nocookie.com/embed/W1k12G4stdA/) | 
 [Introduktion till öppen programvara](https://www.youtube.com/watch?v=jxxiqFyZhDU)
@@ -169,6 +177,8 @@ Tullverket [eArkiv med öppen källkod](https://www.youtube-nocookie.com/embed/3
 
 #### V
 Vianova [Svenska städers behov av digital infrastruktur](https://www.youtube-nocookie.com/embed/qFA3nE_mE2U/)
+
+VTI [Nationella datastrategin och EU:s dataområden](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 
 #### U
