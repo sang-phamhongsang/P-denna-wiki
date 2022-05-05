@@ -1,6 +1,6 @@
 # Projekt
 
-Öppnadataprojekt samt öppna källkodsprojekt listas på denna sida. Det är Nätverket som  tipsar och lägger upp.
+
 
 <figure>
 
@@ -11,11 +11,11 @@
 <figcaption>Resultat som delas från olika projekt. <small>Bild av <a href="https://unsplash.com/@octadan?utm_source=nosad&utm_medium=referral">Octavian Dan</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
-**Sammanfattning** | Bidrag från olika öppna data projekt. 
+**Sammanfattning** | Öppna dataprojekt samt öppna källkodsprojekt listas på denna sida. Det är nätverkets deltagare som tipsar och lägger upp projekten.
 
 <hr>
 
-[NSÖD](https://nosad.se/NSÖD)
+[Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
 
 [Metadatastandarder från Tullverket](https://nosad.se/General-Information-about-Package)
 
