@@ -62,6 +62,8 @@ Presentationer:
 
 [Nationellt_rymddatalabb_-fas_II | Tobias Edman | SNSA](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f32da15b0948ecd1ed19af3460f5e0a9/Nationellt_rymddatalabb_-fas_II_NOSAD.pptx)
 
+[Data_för_smart_statistik_NOSAD| Marie Haldorson | SCB](uploads/5c6c06bb9b8ae5ea9fe37f3739b1552a/Data_för_smart_statistik_NOSAD_2022-05-03.pptx)
+
 ### Så jobbar offentlig sektor med open source
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-220420-offentlig-sektor-open-source_1920x890.mp4)
 
