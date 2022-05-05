@@ -22,7 +22,7 @@
 1. [Kalendarium](#kalendarium)
 2. [Nyhetsbrev](#nyhetsbrev)
 3. [Lästips](#lästips)
-4. [Projket](https://nosad.se/Projekt)
+4. [Projekt](#projekt)
 5. [Diskussionsforum](#diskussionsforum)
 6. [Om](#om)
 
@@ -50,6 +50,9 @@ _Mer info samt event kommer löpande_
 Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen. Nätverket sammanställer regelbundet delat material i formen "Nätverkets lästips". Vi välkomnar förslag på nytt material eller kompletterings/ändringsförslag.
 
 <a href="/tips">Till nätverkets lästips</a>
+
+## Projekt
+Öppna dataprojekt samt öppna källkodsprojekt. Det är nätverkets deltagare som tipsar och lägger upp projekten.
 
 ## Diskussionsforum
 
