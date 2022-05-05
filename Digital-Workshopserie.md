@@ -13,6 +13,7 @@ Uppdaterad 2022-04-11, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 | 2022-09-13 | [under planering - går ej ännu att boka]() |
 | 2022-10-11 | [Kompetensförsörjnng - går ej ännu att boka]() |
 | 2022-11-08 | [Affärsmodeller och leverantörsaspekter av open source - går ej ännu att boka]() |
+
 _Mer info samt event kommer löpande_
 
 **Tidigare event**
@@ -45,11 +46,9 @@ _Mer info samt event kommer löpande_
 
 ## Kommande workshop
 
-
-
-
 ## Genomförda workshops
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
+[Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska%20dataomr%C3%A5den_2256x1444.mp4)
 
 <small>3 maj 2022, kl 10-12 </small>
 
