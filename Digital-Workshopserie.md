@@ -48,7 +48,7 @@ _Mer info samt event kommer löpande_
 
 ## Genomförda workshops
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
-[Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska%20dataomr%C3%A5den_2256x1444.mp4)
+[Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 <small>3 maj 2022, kl 10-12 </small>
 
