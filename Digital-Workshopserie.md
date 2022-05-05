@@ -58,7 +58,7 @@ Nu finns tillfälle att förstå det strategiska landskapet för ökad delning o
 
 Presentationer:
 
-[Agenda | Maria Dalhage | DIGG](uploads/5c65cee8c073def6846f7f25d997450e/NOSAD_3_maj.pptx)
+[Agenda | Maria Dalhage | DIGG](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/5c65cee8c073def6846f7f25d997450e/NOSAD_3_maj.pptx)
 
 [Kompetensförsörjning och Livslångtlärande | Erik Lejdemyr | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/46717745ba8735d7aeba7c35e9491598/3_maj_RU_KLL.pptx)
 
