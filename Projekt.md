@@ -1,5 +1,7 @@
 # Projekt
 
+Öppnadataprojekt samt öppna källkodsprojekt listas på denna sida. Det är Nätverket som  tipsar och lägger upp.
+
 <figure>
 
   <img width="640" height="460"
