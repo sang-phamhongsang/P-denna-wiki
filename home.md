@@ -22,8 +22,9 @@
 1. [Kalendarium](#kalendarium)
 2. [Nyhetsbrev](#nyhetsbrev)
 3. [Lästips](#lästips)
-4. [Diskussionsforum](#diskussionsforum)
-5. [Om](#om)
+4. [Projket](https://nosad.se/Projekt)
+5. [Diskussionsforum](#diskussionsforum)
+6. [Om](#om)
 
 ## Kalendarium
 
