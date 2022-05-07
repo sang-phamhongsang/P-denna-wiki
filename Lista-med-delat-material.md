@@ -2,6 +2,13 @@
 
 Uppdaterad 2022-04-05, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material/history).
 
+<figure>
+  <img width="640" height="460"
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://nosad.se/img/sigmund-YUuSAJkS3U4-unsplash.jpg" alt="Kvinna läser böcker eller tips från NOSAD"
+/>
+<figcaption>Trevlig läsning. <small>Bild av <a href="https://unsplash.com/@sevenshooterimage?utm_source=nosad&utm_medium=referral">Seven</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+</figure>
+
 **Sammanfattning** | Nätverket rekommenderar att använda och läsa nedan listade dokument. Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>.
 
 <hr/>
