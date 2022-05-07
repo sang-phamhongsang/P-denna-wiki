@@ -1,6 +1,13 @@
 # Workshops
 Uppdaterad 2022-04-11, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/history).
 
+<figure>
+  <img width="640" height="460"
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/Ae3bA-rOdXA" alt="En typisk digital träff"
+/>
+<figcaption>All worksjops spelas in. <small>Bild av <a href="https://unsplash.com/@sevenshooterimage?utm_source=nosad&utm_medium=referral">Seven</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+</figure>
+
 **Sammanfattning** | Ta del av inspelningar och presentationer i efterhand. Möjligt att [söka NOSAD-event utifrån organisation](/organisationer). Några inspelningar länkar till youtube (no-cookie) men flyttas succesivt över till https://data.arbetsformedlingen.se/videos.
 
 <hr/>
