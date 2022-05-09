@@ -1,3 +1,17 @@
+# Katalog över öppen programvara inom offentlig sektor
+
+Uppdaterad 2022-05-09, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Programvaror/history).
+
+<figure>
+  <img width="640" height="460"
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/kn-UmDZQDjM" alt="Legobitar representerar att det finns många programvaror som används"
+/>
+<figcaption>Vem använder vad och varför? <small>Bild av <a href="https://unsplash.com/@xavi_cabrera?utm_source=nosad&utm_medium=referral">Xavi Cabrera</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+</figure>
+
+**Sammanfattning** | Se vad andra offentliga organisationer använder för programvara, berätta gärna vilken din organisation använder!
+
+<hr/>
 
 #### Arkiv- och katalogverktyg
 
