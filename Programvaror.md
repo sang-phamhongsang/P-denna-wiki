@@ -1,4 +1,4 @@
-```markdown
+
 #### Arkiv- och katalogverktyg
 
 [Access to Memory (AtoM)](https://www.accesstomemory.org/en/)\
@@ -329,4 +329,3 @@ Används av: DIGG, SCB, Skatteverket, [Västra Götalandsregionen](https://www.v
 
 [GNU Emacs](https://emacs.org)
 Används av: Arbetsförmedlingen
-```
