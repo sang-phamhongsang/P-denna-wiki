@@ -13,6 +13,12 @@ Uppdaterad 2022-05-09, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 <hr/>
 
+## Innehållsförteckning
+1. [Katalogen](#katalogen)
+2. [Bidra till listan](#bidra-till-listan)
+
+## Katalogen
+
 #### Arkiv- och katalogverktyg
 
 [Access to Memory (AtoM)](https://www.accesstomemory.org/en/)\
@@ -343,3 +349,8 @@ Används av: DIGG, SCB, Skatteverket, [Västra Götalandsregionen](https://www.v
 
 [GNU Emacs](https://emacs.org)
 Används av: Arbetsförmedlingen
+
+## Bidra till listan
+
+1. Maila - Kontakta johan.linaker [at] ri.se så lägger han till programvaran.
+2. Editeringssida - Behöriga kan ändra [denna sida](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Programvaror/) direkt
