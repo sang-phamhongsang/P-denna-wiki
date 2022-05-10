@@ -53,6 +53,42 @@ _Mer info samt event kommer löpande_
 
 ## Kommande workshop
 
+### Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?
+<small>7 maj 2022, kl 10-11:30 </small>
+
+Regeringen bjuder via NOSAD in till en dialog med civilsamhället om möjligheterna med digitalisering, öppna data och samverkan. Under detta event kommer vi att presentera den nya datalagen, dela goda exempel kring hur man kan jobba med öppna data, och ge er verktyg till fortsatt dialog och kommunikation bl.a. genom att presentera Sveriges dataportal och dess diskussionsforum som är öppet för alla. Vi kommer dessutom att presentera konceptet MIK-jam – ett skapande event för att ta fram nya koncept och främja dialog och lärande kring exempelvis öppna data.
+
+I gruppdiskussioner reder vi ut:
+Hur kan vi hjälpa varandra med att använda information från myndigheter som är öppna data? 
+
+Presenterande organisationer: _Regeringskansliet, DIGG, Interaktiva rum, Region Sörmland, Nationellt Organ för Dialog (NOD), MetaSolutions._
+
+Läsning inför event: 
+https://www.regeringen.se/rattsliga-dokument/lagradsremiss/2022/03/den-offentliga-sektorns-tillgangliggorande-av-data/
+
+
+Agenda
+
+10:00-10:05 Introduktion av eventet | NOSAD 
+
+10:05-10:25 Regeringskansliet presenterar den nya datalagen | Regeringskansliet 
+
+10:25-10:35 	Dataportalen och dess Community-forum| DIGG 
+
+
+10:35-10:48 	MIK-jam – Designa för demokrati (MIK-jam (mikjam.se)) |Martin Törnros (Interaktiva rum), Malin Klintholm (Biblioteksutveckling Sörmland)
+
+10:48-10:58 	Presentation från NOD om kommande tematisk samrådsserie på uppdrag av Infrastrukturdepartementet och arbetet med en ny handlingsplan för OGP| Jeremija Isakovic (Nationellt Organ för Dialog - NOD) 
+
+11:00-11:22	Gruppdiskussion: Introduktion till gruppdiskussion med olika tips, verktyg samt exempel på information om vad andra aktörer i civilsamhället har använt och efterfrågat tidigare| Mattias Axell (MetaSolutions)
+
+11:22-11:27   Redovisning med gemensam reflektion
+
+11:27-12:00   Avslut
+
+
+
+
 ## Genomförda workshops
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
