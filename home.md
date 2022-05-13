@@ -30,8 +30,8 @@ Nätverket träffas regelbundet (via videolänk), första tisdagen varje månad.
 
 | Datum | Anmälan |
 |---|---|
-| 2022-06-07 | [under planering](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
-| 2022-09-13 | [under planering - går ej ännu att boka]() |
+| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digitalinformation?](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
+| 2022-09-13 | [Under planering - går ej ännu att boka]() |
 | 2022-10-11 | [Kompetensförsörjnng - går ej ännu att boka]() |
 | 2022-11-08 | [Affärsmodeller och leverantörsaspekter av open source - går ej ännu att boka]() |
 
