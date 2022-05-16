@@ -61,7 +61,7 @@ Regeringskansliet bjuder via NOSAD in till en dialog med civilsamhället om möj
 I gruppdiskussioner reder vi ut:
 Hur kan vi hjälpa varandra med att använda information från myndigheter som är öppna data? 
 
-Presenterande organisationer: _Regeringskansliet, DIGG, Interaktiva rum, Region Sörmland, NOD - Nationellt Organ för Dialog, MetaSolutions._
+Presenterande organisationer: _Regeringskansliet, DIGG, Interaktiva rum, Region Sörmland, NOD - Nationellt organ för dialog och samråd mellan regeringen och det civila samhället.
 
 Läsning inför event: 
 https://www.regeringen.se/rattsliga-dokument/lagradsremiss/2022/03/den-offentliga-sektorns-tillgangliggorande-av-data/
@@ -78,9 +78,9 @@ Agenda
 
 10:35-10:48 	MIK-jam – Designa för demokrati (MIK-jam (mikjam.se)) |Martin Törnros (Interaktiva rum), Malin Klintholm (Biblioteksutveckling Sörmland)
 
-10:48-10:58 	Presentation från NOD om kommande tematisk samrådsserie på uppdrag av Infrastrukturdepartementet och arbetet med en ny handlingsplan för OGP| Jeremija Isakovic (Nationellt Organ för Dialog - NOD) 
+10:48-10:58 	Presentation från NOD om kommande tematisk samrådsserie på uppdrag av Infrastrukturdepartementet och arbetet med en ny handlingsplan för OGP| Jeremija Isakovic (NOD -Nationellt organ för dialog och samråd mellan regeringen och det civila samhället.) 
 
-11:00-11:22	Gruppdiskussion: Introduktion till gruppdiskussion med olika tips, verktyg samt exempel på information om vad andra aktörer i civilsamhället har använt och efterfrågat tidigare| Mattias Axell (MetaSolutions)
+11:00-11:22   Gruppdiskussion 
 
 11:22-11:27   Redovisning med gemensam reflektion
 
