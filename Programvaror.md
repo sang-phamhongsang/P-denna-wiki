@@ -155,7 +155,7 @@ Används av: Kungliga Biblioteket
 #### Filhantering och lagring
 
 [NextCloud](https://github.com/nextcloud)\
-Används av: SMHI, Sjöfartsverket, Försäkringskassan, Trafikverket, SVT
+Används av: SMHI, Sjöfartsverket, Försäkringskassan, Trafikverket, SVT, DIGG
 
 #### Geodata. System för lagring, hantering, analys och visualisering
 
