@@ -34,15 +34,14 @@ Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer
 - [Agenda](uploads/8b3a62c16b91e95ce59f376a347ea4f3/Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx)
 - [Combify](uploads/0eb29499d395a23ce3a0fa6892d6bd80/Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf)
 - [Dataverkstad](uploads/b607bb5dd5844a04f61caf9b3d01bbf6/Publik_Slutseminarium_NSÖD_29_april_2022_Dataverkstad.pptx)
-- [Leverantörsreskontra](Publik Slutseminarium NSÖD 29 april 2022 Leverantörsreskontra.pdf)
-- [Matilda Foodtech](Publik Slutseminarium NSÖD 29 april 2022 Matila Foodtech.pdf)
-- [Projektgenomförande[(Publik Slutseminarium NSÖD 29 april 2022 Projektgenomförande.pptx)
-- [Sambruk](Publik Slutseminarium NSÖD 29 april 2022 Sambruk.pdf)
+- [Leverantörsreskontra](uploads/feefe1abce0c4735c06928e65d87a50f/Publik_Slutseminarium_NSÖD_29_april_2022_Leverantörsreskontra.pdf)
+- [Matilda Foodtech](uploads/ff9ed1921e3e5b6391598bc2f54a10b4/Publik_Slutseminarium_NSÖD_29_april_2022_Matila_Foodtech.pdf)
+- [Projektgenomförande[(uploads/fe731aa62d312292e6414bcb9686aded/Publik_Slutseminarium_NSÖD_29_april_2022_Projektgenomförande.pptx)
+- [Sambruk](uploads/07062fce55da7ca146976f579f282e41/Publik_Slutseminarium_NSÖD_29_april_2022_Sambruk.pdf)
 - [Tietoevry](Publik Slutseminarium NSÖD 29 april 2022 Tietoevry.pptx)
-- [Utbildningar](Publik Slutseminarium NSÖD 29 april 2022 Utbildningar.pdf)
-- [Vägarbeten](Publik Slutseminarium NSÖD 29 april 2022 Vägarbeten.pptx)
+- [Utbildningar](uploads/758fb532d16587680a60f2ffe4c1801e/Publik_Slutseminarium_NSÖD_29_april_2022_Utbildningar.pdf)
+- [Vägarbeten](uploads/39ea37e8e7959aed0954e3e50dd0bff2/Publik_Slutseminarium_NSÖD_29_april_2022_Vägarbeten.pptx)
 
 ## Bidra till sidan
 
 Bidra genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D) (för er med behörighet).
-
