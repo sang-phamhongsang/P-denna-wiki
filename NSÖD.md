@@ -32,8 +32,8 @@ Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer
 
 - [Film från seminariet](Video Publik Slutseminarium NSÖD 29 april 2022.mp4)
 - [Agenda](uploads/8b3a62c16b91e95ce59f376a347ea4f3/Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx)
-- [Combify](Publik Slutseminarium NSÖD 29 april 2022 Combify.pdf)
-- [Dataverkstad](Publik Slutseminarium NSÖD 29 april 2022 Dataverkstad.pptx)
+- [Combify](uploads/0eb29499d395a23ce3a0fa6892d6bd80/Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf)
+- [Dataverkstad](uploads/b607bb5dd5844a04f61caf9b3d01bbf6/Publik_Slutseminarium_NSÖD_29_april_2022_Dataverkstad.pptx)
 - [Leverantörsreskontra](Publik Slutseminarium NSÖD 29 april 2022 Leverantörsreskontra.pdf)
 - [Matilda Foodtech](Publik Slutseminarium NSÖD 29 april 2022 Matila Foodtech.pdf)
 - [Projektgenomförande[(Publik Slutseminarium NSÖD 29 april 2022 Projektgenomförande.pptx)
@@ -45,8 +45,4 @@ Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer
 ## Bidra till sidan
 
 Bidra genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D) (för er med behörighet).
-[Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx]()
 
-[Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf](uploads/0eb29499d395a23ce3a0fa6892d6bd80/Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf)
-
-[Publik_Slutseminarium_NSÖD_29_april_2022_Dataverkstad.pptx](uploads/b607bb5dd5844a04f61caf9b3d01bbf6/Publik_Slutseminarium_NSÖD_29_april_2022_Dataverkstad.pptx)
