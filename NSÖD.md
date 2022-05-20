@@ -36,7 +36,7 @@ Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer
 - [Dataverkstad](uploads/b607bb5dd5844a04f61caf9b3d01bbf6/Publik_Slutseminarium_NSÖD_29_april_2022_Dataverkstad.pptx)
 - [Leverantörsreskontra](uploads/feefe1abce0c4735c06928e65d87a50f/Publik_Slutseminarium_NSÖD_29_april_2022_Leverantörsreskontra.pdf)
 - [Matilda Foodtech](uploads/ff9ed1921e3e5b6391598bc2f54a10b4/Publik_Slutseminarium_NSÖD_29_april_2022_Matila_Foodtech.pdf)
-- [Projektgenomförande[(uploads/fe731aa62d312292e6414bcb9686aded/Publik_Slutseminarium_NSÖD_29_april_2022_Projektgenomförande.pptx)
+- [Projektgenomförande](uploads/fe731aa62d312292e6414bcb9686aded/Publik_Slutseminarium_NSÖD_29_april_2022_Projektgenomförande.pptx)
 - [Sambruk](uploads/07062fce55da7ca146976f579f282e41/Publik_Slutseminarium_NSÖD_29_april_2022_Sambruk.pdf)
 - [Tietoevry](Publik Slutseminarium NSÖD 29 april 2022 Tietoevry.pptx)
 - [Utbildningar](uploads/758fb532d16587680a60f2ffe4c1801e/Publik_Slutseminarium_NSÖD_29_april_2022_Utbildningar.pdf)
