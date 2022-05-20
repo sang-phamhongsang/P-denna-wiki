@@ -26,6 +26,22 @@ Presentation för nyttoanalys av leverantörsreskontra som öppna data.
 
 [Innovationsveckan leverantorsreskontra](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d528102b64ef9e143a472550fb264ef2/2020-10-09_Innovationsveckan_Leverantorsreskontra.pdf)
 
+## Publikt slutseminarie
+
+Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer och presentationer från det tillfället.
+
+- [Film från seminariet](Video Publik Slutseminarium NSÖD 29 april 2022.mp4)
+- [Agenda](Agenda Publik Slutseminarium NSÖD 29 april 2022.pptx)
+- [Combify](Publik Slutseminarium NSÖD 29 april 2022 Combify.pdf)
+- [Dataverkstad](Publik Slutseminarium NSÖD 29 april 2022 Dataverkstad.pptx)
+- [Leverantörsreskontra](Publik Slutseminarium NSÖD 29 april 2022 Leverantörsreskontra.pdf)
+- [Matilda Foodtech](Publik Slutseminarium NSÖD 29 april 2022 Matila Foodtech.pdf)
+- [Projektgenomförande[(Publik Slutseminarium NSÖD 29 april 2022 Projektgenomförande.pptx)
+- [Sambruk](Publik Slutseminarium NSÖD 29 april 2022 Sambruk.pdf)
+- [Tietoevry](Publik Slutseminarium NSÖD 29 april 2022 Tietoevry.pptx)
+- [Utbildningar](Publik Slutseminarium NSÖD 29 april 2022 Utbildningar.pdf)
+- [Vägarbeten](Publik Slutseminarium NSÖD 29 april 2022 Vägarbeten.pptx)
+
 ## Bidra till sidan
 
 Bidra genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D) (för er med behörighet).
