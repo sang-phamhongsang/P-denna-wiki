@@ -31,7 +31,7 @@ Presentation för nyttoanalys av leverantörsreskontra som öppna data.
 Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer och presentationer från det tillfället.
 
 - [Film från seminariet](Video Publik Slutseminarium NSÖD 29 april 2022.mp4)
-- [Agenda](Agenda Publik Slutseminarium NSÖD 29 april 2022.pptx)
+- [Agenda](uploads/8b3a62c16b91e95ce59f376a347ea4f3/Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx)
 - [Combify](Publik Slutseminarium NSÖD 29 april 2022 Combify.pdf)
 - [Dataverkstad](Publik Slutseminarium NSÖD 29 april 2022 Dataverkstad.pptx)
 - [Leverantörsreskontra](Publik Slutseminarium NSÖD 29 april 2022 Leverantörsreskontra.pdf)
@@ -45,7 +45,7 @@ Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer
 ## Bidra till sidan
 
 Bidra genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D) (för er med behörighet).
-[Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx](uploads/8b3a62c16b91e95ce59f376a347ea4f3/Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx)
+[Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx]()
 
 [Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf](uploads/0eb29499d395a23ce3a0fa6892d6bd80/Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf)
 
