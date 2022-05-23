@@ -6,14 +6,14 @@ Uppdaterad 2022-05-02, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
   <img width="640" height="460"
   class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/uPXs5Vx5bIg" alt="NSÖD står för Nationell Skalning Öppna Data"
 />
-<figcaption>Mer kommunal och regional data via NSÖD <small>Bild av <a href="https://unsplash.com/@markusspiske?utm_source=nosad&utm_medium=referral">Markus Spiske</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+<figcaption>Mer kommunal och regional data via NSÖD. <small>Bild av <a href="https://unsplash.com/@markusspiske?utm_source=nosad&utm_medium=referral">Markus Spiske</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
 **Sammanfattning** | Nationell skalning öppna data, förkortat **NSÖD**, var ett projekt för enhetlig publicering av kommunal och regional data. Stora delar, men inte allt, av projektets resultat har publicerats i det digitala vetenskapliga arkivet DiVA. [NSÖDs alla leverabler och resultat finns samlat på DIGGs community](https://community.dataportal.se/topic/169/projektet-nsöd-nationell-skalning-öppna-data?_=1651166650112).
 
-I DiVA kan man bara publicera statiskt material för långsiktigt bevarande som pdf och csv. NSÖD skapade dock några leveranser som var interaktiva i form av Excel-dokument. Dessa publiceras här på NOSAD och vi har även en Powerpoint-presentation som inte publicerats på DiVA.
-
 <hr>
+
+I DiVA kan man bara publicera statiskt material för långsiktigt bevarande som pdf och csv. NSÖD skapade dock några leveranser som var interaktiva i form av Excel-dokument. Dessa publiceras här på NOSAD och vi har även en Powerpoint-presentation som inte publicerats på DiVA.
 
 **Guide för att registrera laddstationer (XLS)**
 
@@ -33,7 +33,7 @@ Presentation för nyttoanalys av leverantörsreskontra som öppna data.
 
 [Innovationsveckan leverantörsreskontra](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/d528102b64ef9e143a472550fb264ef2/2020-10-09_Innovationsveckan_Leverantorsreskontra.pdf)
 
-## Publikt slutseminarie
+**Publikt slutseminarie**
 
 Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer och presentationer från det tillfället.
 
