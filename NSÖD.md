@@ -38,7 +38,7 @@ Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer
 - [Matilda Foodtech](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/ff9ed1921e3e5b6391598bc2f54a10b4/Publik_Slutseminarium_NSÖD_29_april_2022_Matila_Foodtech.pdf)
 - [Projektgenomförande](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/fe731aa62d312292e6414bcb9686aded/Publik_Slutseminarium_NSÖD_29_april_2022_Projektgenomförande.pptx)
 - [Sambruk](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/07062fce55da7ca146976f579f282e41/Publik_Slutseminarium_NSÖD_29_april_2022_Sambruk.pdf)
-- [Tietoevry](Publik Slutseminarium NSÖD 29 april 2022 Tietoevry.pptx)
+- [Tietoevry](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c4c5bb18f52bb8b102c054bb3346d650/2022-04-29_SlutseminariumNSOD_Tietoevry.pdf)
 - [Utbildningar](uploads/758fb532d16587680a60f2ffe4c1801e/Publik_Slutseminarium_NSÖD_29_april_2022_Utbildningar.pdf)
 - [Vägarbeten](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/39ea37e8e7959aed0954e3e50dd0bff2/Publik_Slutseminarium_NSÖD_29_april_2022_Vägarbeten.pptx)
 
