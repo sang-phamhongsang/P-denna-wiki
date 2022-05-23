@@ -1,6 +1,6 @@
 # NSÖD
 
-Uppdaterad 2022-05-02, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D/history).
+Uppdaterad 2022-05-23, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D/history).
 
 <figure>
   <img width="640" height="460"
@@ -37,7 +37,7 @@ Presentation för nyttoanalys av leverantörsreskontra som öppna data.
 
 Den 29 april 2022 hölls ett publikt slutseminarie för NSÖD. Här finns filmer och presentationer från det tillfället.
 
-- [Film från seminariet](Video Publik Slutseminarium NSÖD 29 april 2022.mp4)
+- [Film från seminariet](https://data.jobtechdev.se/videos/nsod-20220429-publik-slutseminarium.mp4)
 - [Agenda](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/8b3a62c16b91e95ce59f376a347ea4f3/Agenda_Publik_Slutseminarium_NSÖD_29_april_2022.pptx)
 - [Combify](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/0eb29499d395a23ce3a0fa6892d6bd80/Publik_Slutseminarium_NSÖD_29_april_2022_Combify.pdf)
 - [Dataverkstad](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/b607bb5dd5844a04f61caf9b3d01bbf6/Publik_Slutseminarium_NSÖD_29_april_2022_Dataverkstad.pptx)
