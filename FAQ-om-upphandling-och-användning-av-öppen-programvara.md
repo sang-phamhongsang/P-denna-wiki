@@ -1,6 +1,17 @@
-[Baserat på workshop 6/10 | Daniel Melin (Skatteverket) | Se även: [Inspelning](https://youtu.be/jxxiqFyZhDU?t=1818)]
+# Myter om öppen källkod
 
-Daniel Melin, moln och datacenterstrateg hos Skatteverket, fortsatte därefter genom en allmän filosofering kring öppen programvara med syftet att ifrågasätta och punktera många av de myter som han har stött på genom åren. Mycket av hans kunskap kommer från att ha arbetat med öppen programvara sedan 90-talet samt efter elva år på Kammarkollegiet där han arbetat med frågor kring upphandling och då bl.a. i relation till öppen programvara. Nedan följer de frågor och myter som Daniel adresserade:
+<figure>
+  <img width="640" height="460"
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/T43wMC8WzsQ" alt="Myter om öppen källkod"
+/>
+<figcaption>Finns det oro vi behöver prata om? <small>Bild av <a href="https://unsplash.com/@elmuff?utm_source=nosad&utm_medium=referral">Sandra Grünewald</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+</figure>
+
+**Sammanfattning** | [Workshopen](https://youtu.be/jxxiqFyZhDU?t=1818) den 2020-10-06 adresserade Daniel Melin (Skatteverket) ett antal myter om öppen källkod. Mycket av hans kunskap kommer från att ha arbetat med öppen programvara sedan 90-talet samt efter elva år på Kammarkollegiet där han arbetat med frågor kring upphandling och då bl.a. i relation till öppen programvara.
+
+<hr>
+
+## Frågor och myter som adresserades
 
 * Finns det support för öppen programvara?
    * Många tror att så inte är fallet, men det är osant menar Daniel. I grunden beror det på hur populär en programvara är, inte om det är en öppen programvara eller inte. Är en öppen programvara populär, välanvänd samt har ett aktivt community kring sig så finns det support.
