@@ -353,14 +353,14 @@ Används av: Arbetsförmedlingen
 
 ## Delning
 
-###Dataportalen-Webb
+### Dataportalen-Webb
 Beskrivning: Källkoden för dataportal.se 
 
 Organisation: DIGG
 
 LICENSE: BSD-2-Clause license
 
-Länkar: [Dataportal-e](https://github.com/DIGGSweden/dataportal-web)
+Länkar: [Dataportalen github](https://github.com/DIGGSweden/dataportal-web)
 
 ### DCAT-AP-SE-Processor
 Beskrivning: automatiserad process för framställning av metadata. I syfte att hjälpa producenter av metadata, som ska publiceras på dataportalen. Verktyget skapar en metadataspecifikation på RDF format utifrån en API-definition alternativt separat metadatafil.
