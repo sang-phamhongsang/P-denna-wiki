@@ -352,6 +352,14 @@ Används av: DIGG, SCB, Skatteverket, [Västra Götalandsregionen](https://www.v
 Används av: Arbetsförmedlingen
 
 ## Delning
+### PXWeb
+Beskrivning: PxWeb är ett program för onlinepublicering av statistik – både data från SCB och dina egna data.
+
+Organisation: SCB
+
+Licens: Apache License 2.0
+
+Länkar: [PXWeb Github](https://github.com/statisticssweden/PxWeb) | [Github Statistic Sweden](https://github.com/statisticssweden) | [PxWeb på SCB](https://www.scb.se/px-web) 
 
 ## Bidra till listan
 
