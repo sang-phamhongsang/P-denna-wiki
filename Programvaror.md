@@ -353,6 +353,15 @@ Används av: Arbetsförmedlingen
 
 ## Delning
 
+###Dataportalen-Webb
+Beskrivning: Källkoden för dataportal.se 
+
+Organisation: DIGG
+
+LICENSE: BSD-2-Clause license
+
+Länkar: [Dataportal-e](https://github.com/DIGGSweden/dataportal-web)
+
 ### DCAT-AP-SE-Processor
 Beskrivning: automatiserad process för framställning av metadata. I syfte att hjälpa producenter av metadata, som ska publiceras på dataportalen. Verktyget skapar en metadataspecifikation på RDF format utifrån en API-definition alternativt separat metadatafil.
 
@@ -360,18 +369,18 @@ Organisation: DIGG
 
 LICENSE: GPL-3.0 license
 
-Länkar: [DCAT-AP-SE-Processor på github](https://github.com/DIGGSweden/DCAT-AP-SE-Processor)
+Länkar: [DCAT-AP-SE-Processor Github](https://github.com/DIGGSweden/DCAT-AP-SE-Processor)
 
 
 
-### PXWeb
+### PxWeb
 Beskrivning: PxWeb är ett program för onlinepublicering av statistik – både data från SCB och dina egna data.
 
 Organisation: SCB
 
 LICENSE: Apache License 2.0
 
-Länkar: [PXWeb Github](https://github.com/statisticssweden/PxWeb)| [PxWeb på SCB](https://www.scb.se/px-web) 
+Länkar: [PxWeb Github](https://github.com/statisticssweden/PxWeb)| [PxWeb på SCB](https://www.scb.se/px-web) 
 
 ## Bidra till listan
 
