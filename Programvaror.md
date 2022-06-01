@@ -352,14 +352,26 @@ Används av: DIGG, SCB, Skatteverket, [Västra Götalandsregionen](https://www.v
 Används av: Arbetsförmedlingen
 
 ## Delning
+
+### DCAT-AP-SE-Processor
+Beskrivning: automatiserad process för framställning av metadata. I syfte att hjälpa producenter av metadata, som ska publiceras på dataportalen. Verktyget skapar en metadataspecifikation på RDF format utifrån en API-definition alternativt separat metadatafil.
+
+Organisation: DIGG
+
+LICENSE: GPL-3.0 license
+
+Länkar: [DCAT-AP-SE-Processor på github](https://github.com/DIGGSweden/DCAT-AP-SE-Processor)
+
+
+
 ### PXWeb
 Beskrivning: PxWeb är ett program för onlinepublicering av statistik – både data från SCB och dina egna data.
 
 Organisation: SCB
 
-Licens: Apache License 2.0
+LICENSE: Apache License 2.0
 
-Länkar: [PXWeb Github](https://github.com/statisticssweden/PxWeb) | [Github Statistic Sweden](https://github.com/statisticssweden) | [PxWeb på SCB](https://www.scb.se/px-web) 
+Länkar: [PXWeb Github](https://github.com/statisticssweden/PxWeb)| [PxWeb på SCB](https://www.scb.se/px-web) 
 
 ## Bidra till listan
 
