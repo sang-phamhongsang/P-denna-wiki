@@ -9,15 +9,16 @@ Uppdaterad 2022-05-09, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 <figcaption>Vem använder vad och varför? <small>Bild av <a href="https://unsplash.com/@xavi_cabrera?utm_source=nosad&utm_medium=referral">Xavi Cabrera</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
-**Sammanfattning** | Se vad andra offentliga organisationer använder för programvara, berätta gärna vilken din organisation använder!
+**Sammanfattning** | Se vad andra offentliga organisationer använder eller delar för öppen programvara, berätta gärna vilken din organisation använder eller delar!
 
 <hr/>
 
 ## Innehållsförteckning
-1. [Katalogen](#katalogen)
-2. [Bidra till listan](#bidra-till-listan)
+1. [Katalogen - Programvara som används](#användning)
+2. [Katalogen - Programvara som delas](#delning)
+3. [Bidra till katalogen](#bidra-till-listan)
 
-## Katalogen
+## Användning
 
 #### Arkiv- och katalogverktyg
 
@@ -349,6 +350,8 @@ Används av: DIGG, SCB, Skatteverket, [Västra Götalandsregionen](https://www.v
 
 [GNU Emacs](https://emacs.org)
 Används av: Arbetsförmedlingen
+
+## Delning
 
 ## Bidra till listan
 
