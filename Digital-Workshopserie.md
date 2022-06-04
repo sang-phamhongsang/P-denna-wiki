@@ -487,7 +487,7 @@ På vilket sätt hänger satsning på öppen programvara ihop med de satsningar 
 
 - [Inledning till dagens workshop - Maria Dalhage (Arbetsförmedlingen) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/1af7b8c3f1827297865b209b641044ad/Introduktion_till_N%C3%A4tverket_Kunskapsdelning_%C3%96ppna_data_%C3%96ppen_k%C3%A4llkod.pdf)
 - [Introduktion till öppen programvara och samspelet med öppna data - Per Runeson (Lunds universitet) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/30cf0877919c5494d4532a288b1accac/Bortom_o%CC%88ppen_ka%CC%88llkod_2020.pdf) 
-- [Myter och missförstånd kring öppen källkod - Daniel Melin ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
+- [Myter och missförstånd kring öppen källkod - Daniel Melin ](https://nosad.se/FAQ-om-upphandling-och-anv%C3%A4ndning-av-%C3%B6ppen-programvara)
 - [Skolportaler - Göran Westerlund (Alingsås kommun)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/cb01bf4b18052612b01d563854963576/presentation201006.pdf) 
 - [Utveckling och samarbete kring öppen programvara - Dimitrij Aleshkov (Helsingborgs Stad) ](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/784cbd720f0e6ec969dab1c3d9e6efc5/Utveckling_och_samarbete_kring_%C3%B6ppen_programvara.pptx.pdf)
 -[Sammanställningar av gruppdiskussioner samt fortsatt diskussion i forum.](https://forum.jobtechdev.se/t/vad-for-utmaningar-moter-du-i-din-organisation-gallande-oppen-kallkod/154?u=mariad)
