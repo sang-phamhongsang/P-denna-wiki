@@ -55,7 +55,7 @@ Artikelserie från Inköpsrådet om upphandling och öppen programvara:
 
 [Del 4: Undvik inlåsning vid it-upphandling | Inköpsrådet](https://inkopsradet.se/undvik-inlasning-vid-it-upphandling//) 
 
- 
+[Rapport: Långsiktig informationshantering E-arkiv.pdf | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_l%C3%A5ngsiktig_informationshantering_E-arkiv.pdf)
 
  
 ## Öppen källkod som strategi 
