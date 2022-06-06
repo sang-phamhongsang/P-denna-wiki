@@ -30,7 +30,7 @@ Rekommendation om öppna licenser hjälper dig att välja rätt licens för dina
 
 [Vägledning för att tillgängliggöra information | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)
 
-[Vägledning för strategiska beslut och åtgärder | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-strategisk)
+[Vägledning för strategiska beslut och åtgärder | DIGG](https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/vagledning-for-strategiska-beslut-och-atgarder)
 
 
 
