@@ -61,7 +61,7 @@ Regeringskansliet bjuder via NOSAD in till en dialog med civilsamhället om möj
 I gruppdiskussioner reder vi ut:
 Hur kan vi hjälpa varandra med att använda information från myndigheter som är öppna data? 
 
-Presenterande organisationer: _Regeringskansliet, DIGG, Interaktiva rum, Region Sörmland, NOD - Nationellt organ för dialog och samråd mellan regeringen och det civila samhället.
+Presenterande organisationer: Regeringskansliet, DIGG, Interaktiva rum, Region Sörmland, NOD - Nationellt organ för dialog och samråd mellan regeringen och det civila samhället och MUSF.
 
 Läsning inför event: 
 https://www.regeringen.se/rattsliga-dokument/lagradsremiss/2022/03/den-offentliga-sektorns-tillgangliggorande-av-data/
