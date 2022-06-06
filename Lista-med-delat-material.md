@@ -26,7 +26,7 @@ Rekommendation om öppna licenser hjälper dig att välja rätt licens för dina
 
 [Dokumentation och tjänster - Sveriges dataportal | DIGG](https://docs.dataportal.se/)
 
-[Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/oppna-licenser-och-immaterialratt)
+[Rekommendation om öppna licenser och immaterialrätt | DIGG](https://www.digg.se/kunskap-och-stod/oppna-och-delade-data/offentliga-aktorer/rekommendation-om-oppna-licenser-och-immaterialratt)
 
 [Vägledning för att tillgängliggöra information | DIGG](https://www.digg.se/utveckling-av-digital-forvaltning/oppna-och-delade-data/offentliga-aktorer/vagledning-tillgangliggora)
 
