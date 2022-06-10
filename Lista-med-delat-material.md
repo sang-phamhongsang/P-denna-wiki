@@ -67,7 +67,7 @@ Offentliga Sverige använder redan idag open source-lösningar. Först nu börja
 [Riskanalys öppen källkod | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/f5c05112abe8904fd93d078b348f49e2/Riskanalys_%C3%96ppen_k%C3%A4llkod_1.0_-_20211025__002_.pdf)
 
 
-[Diggs policy för öppen programvara | DIGG](https://www.digg.se/4a3a3e/globalassets/dokument/om-oss/nyheter/policy-for-utveckling-av-programvara.pdf)
+[Diggs policy för utveckling av programvara | DIGG](uploads/f101bdec3e1bd05889b02a1c974b3b19/Policy_för_utveckling_av_programvara.pdf))
 
 [Analys av Diggs policy | Björn Lundell, Högskolan i Skövde](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1457306&dswid=-3570)
 
