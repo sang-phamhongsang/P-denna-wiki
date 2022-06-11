@@ -131,8 +131,8 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 
 **Agenda**
 
-- Vilken roll har ett datalabb för datadelning och datadriven innovation- Vanja Carlén (Logistikdatalabbet)
-- Så kan en digital tvilling minska utsläppen från vägtrafiken- Johanna Lindberg och Christian Landgren (Predictive Movemement)
+- [Vilken roll har ett datalabb för datadelning och datadriven innovation | Vanja Carlén (Logistikdatalabbet)](uploads/180989951eb90e76ed68e8659c29e7db/Logistikdatalabbet_NOSAD.pdf)
+- [Så kan en digital tvilling minska utsläppen från vägtrafiken | Johanna Lindberg och Christian Landgren (Predictive Movemement)](uploads/5472d6634d1d8ae61614d0362de97a71/PM_Nosad_5_april.pptx)
 - Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
 
 ### Livslångt lärande
