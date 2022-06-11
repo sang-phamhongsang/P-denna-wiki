@@ -131,7 +131,7 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 
 **Agenda**
 
-- [Vilken roll har ett datalabb för datadelning och datadriven innovation | Vanja Carlén (Logistikdatalabbet)](uploads/180989951eb90e76ed68e8659c29e7db/Logistikdatalabbet_NOSAD.pdf)
+- [Vilken roll har ett datalabb för datadelning och datadriven innovation | Vanja Carlén (Logistikdatalabbet)](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/180989951eb90e76ed68e8659c29e7db/Logistikdatalabbet_NOSAD.pdf)
 - [Så kan en digital tvilling minska utsläppen från vägtrafiken | Johanna Lindberg och Christian Landgren (Predictive Movemement)](uploads/5472d6634d1d8ae61614d0362de97a71/PM_Nosad_5_april.pptx)
 - Avslutande paneldiskussion och frågestund: Per Olof Arnäs, Johanna Lindberg, Christian Landgren.
 
@@ -141,6 +141,7 @@ På denna workshop kommer vi att diskutera kommersiella aktörers förmåga och 
 <small>29 mars 2022, kl 10-12 </small>
 
 Hur kan vi tillsammans förbättra arbetsmarknadens matchningsutmaning och kompetensförsörjning? Vilka data skulle ni behöva för att ta fram morgondagens lösningar? På denna workshop vill berörda myndigheter fånga pågående satsningar och behov av data.
+
 ### Communityhälsa och säkerhet vid var av öppen källkod
 
 <small>1 mars 2022 </small>
