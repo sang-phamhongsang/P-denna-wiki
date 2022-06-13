@@ -371,8 +371,6 @@ LICENSE: GPL-3.0 license
 
 Länkar: [DCAT-AP-SE-Processor Github](https://github.com/DIGGSweden/DCAT-AP-SE-Processor)
 
-
-
 ### PxWeb
 Beskrivning: PxWeb är ett program för onlinepublicering av statistik – både data från SCB och dina egna data.
 
@@ -380,7 +378,18 @@ Organisation: SCB
 
 LICENSE: Apache License 2.0
 
-Länkar: [PxWeb Github](https://github.com/statisticssweden/PxWeb)| [PxWeb på SCB](https://www.scb.se/px-web) 
+Länkar: [PxWeb Github](https://github.com/statisticssweden/PxWeb)| [PxWeb på SCB](https://www.scb.se/px-web)
+
+### Plattform för arbetsmarknaden
+
+Beskrivning: Arbetsförmedlingen delar all källkod som är relaterad till produktionen av öppna data. Ett exempelvis hur gör man effektiva sökningar bland många annonser (API för Platsbanken). Idag delas ca 400 källkodsrepon som utgör början till en plattform för arbetsmarknaden. Primärt används tillåtande licenser i syftet att underlätta samverkan.
+
+Organisation: Arbetsförmedlingen | [Om JobTech/Arbetsförmedlingen](https://jobtechdev.se)
+
+LICENSE: Apache License 2.0
+
+Länkar:
+[Gitlab](https://gitlab.com/arbetsformedlingen)
 
 ## Bidra till listan
 
