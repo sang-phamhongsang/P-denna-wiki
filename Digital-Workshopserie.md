@@ -16,10 +16,9 @@ Uppdaterad 2022-04-11, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 | Datum | Workshop |
 |---|---|
-| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digitalinformation?](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
-| 2022-09-13 | [under planering - går ej ännu att boka]() |
-| 2022-10-11 | [Dialog kring efterfrågade datamängder - går ej ännu att boka]() |
-| 2022-11-08 | [Affärsmodeller och leverantörsaspekter av open source - går ej ännu att boka]() |
+| 2022-09-13 | [Open sourcelicenser?](https://www.goto10.se/event/nosad-2/) |
+| 2022-10-11 | [Dialog kring efterfrågade datamängder](https://www.goto10.se/event/dialog-kring-efterfragade-datamangder/ ) |
+| 2022-11-08 | [Affärsmodeller och leverantörsaspekter av open source](https://www.goto10.se/event/affarsmodeller-och-leverantorsaspekter-av-open-source/) |
 
 _Mer info samt event kommer löpande_
 
@@ -27,6 +26,7 @@ _Mer info samt event kommer löpande_
 
 | Datum | Workshop |
 |---|---|
+| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digitalinformation?](https://www.goto10.se/event/nosad-natverkande-kring-oppna-data-och-oppen-kallkod-7/) |
 | 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4) 
 | 2022-04-20 | [Så jobbar offentlig sektor med open source](#så-jobbar-offentlig-sektor-med-open-source)
 | 2022-04-05 |[Öppna data för ett hållbart godstransportsystem](https://data.jobtechdev.se/videos/nosad-20220405-oppna-data-hallbart-godtransportsystem-3000x2000.mp4)
