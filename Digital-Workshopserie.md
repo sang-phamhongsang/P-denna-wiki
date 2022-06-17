@@ -54,8 +54,11 @@ _Mer info samt event kommer löpande_
 
 ## Kommande workshop
 
+
+## Genomförda workshops
 ### Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?
-<small>7 juni 2022, kl 10-11:30 </small>
+[Se inspelning i efterhand](https://data.jobtechdev.se/videos/index.html?C=M&O=A)
+<small>7 juni 2022 </small>
 
 Regeringskansliet bjuder via NOSAD in till en dialog med civilsamhället om möjligheterna med digitalisering, öppna data och samverkan. Under detta event kommer vi att presentera den nya datalagen, dela goda exempel kring hur man kan jobba med öppna data, och ge er verktyg till fortsatt dialog och kommunikation bl.a. genom att presentera Sveriges dataportal och dess diskussionsforum som är öppet för alla. Vi kommer dessutom att presentera konceptet MIK-jam – ett skapande event för att ta fram nya koncept och främja dialog och lärande kring exempelvis öppna data.
 
@@ -90,7 +93,6 @@ Agenda
 
 
 
-## Genomförda workshops
 ### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
