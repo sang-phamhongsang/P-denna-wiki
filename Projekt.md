@@ -11,7 +11,7 @@
 <figcaption>Resultat som delas från olika projekt. <small>Bild av <a href="https://unsplash.com/@octadan?utm_source=nosad&utm_medium=referral">Octavian Dan</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
-**Sammanfattning** | Öppna dataprojekt samt öppna källkodsprojekt listas på denna sida. Det är nätverkets deltagare som tipsar och lägger upp projekten.
+**Sammanfattning** | Öppna dataprojekt samt öppna källkodsprojekt listas på denna sida. Det är nätverkets deltagare som tipsar och lägger upp projekten. Även skapade artiklar inom öppna data, öppen källkod och öppna standarder samt arbetssätt visualiseras på denna sida.
 
 <hr>
 
@@ -22,6 +22,10 @@
 
 ## Standarder, format och specifikationer
 [Metadatastandarder från Tullverket](https://nosad.se/General-Information-about-Package)
+
+## Artiklar - Berätta för omvärlden
+
+[Rapport från Digital Commons Working Team | DIGG](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Commons-paper) 
 
  ### Bidra till sidan
 Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Projekt) (för er med behörighet).
