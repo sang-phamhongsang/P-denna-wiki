@@ -1,4 +1,4 @@
-# Workshops
+# Digital commons paper
 Uppdaterad 2022-06-24, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/history).
 
 ![image](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4209fec93dc3a135943622f4227e6fe2/image.png)
