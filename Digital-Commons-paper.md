@@ -1,7 +1,7 @@
 # Workshops
 Uppdaterad 2022-06-24, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie/history).
 
-![image](uploads/4209fec93dc3a135943622f4227e6fe2/image.png)
+![image](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/4209fec93dc3a135943622f4227e6fe2/image.png)
 
 
 **Sammanfattning** | Introduktion till rapporten *Towards a sovereign digital infrastructure of commons* som tagits fram av Digital Commons Working Team: Ett Europeiskt frivilligt samarbete med 18 medlemsländer för att för att främja och påskynda utvecklingen av digitala allmänningar (Digital Commons). Arbetet leddas av Frankrike under deras ordförandeskap i EU:s ministerråd. Deltagande i arbetsgruppen från Sveriges räkning är Maria Dalhage, DIGG.
