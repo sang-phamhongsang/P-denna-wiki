@@ -4,7 +4,7 @@ Uppdaterad 2022-06-25, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 <figure>
   <img width="640" height="460"
-  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://unsplash.com/photos/n95VMLxqM2I" alt="Handskakning för att visualisera överenskommelse.
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/photos/n95VMLxqM2I" alt="Handskakning för att visualisera överenskommelse.
 />
 <figcaption>Mer kommunal och regional data via NSÖD. <small>Bild av Photo by <a href="https://unsplash.com/es/@cytonn_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cytonn Photography</a> on <a href="https://unsplash.com/s/photos/business-agreement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</small> </figcaption>
 </figure>
@@ -54,6 +54,6 @@ I sann anda av återanvändning har denna manual inspirerats av denna manual: [F
 
 ### Bidra till sidan
 
-Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Projekt) (för er med behörighet).
+Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Policy) (för er med behörighet).
 
 Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
