@@ -94,3 +94,4 @@ Om du har förslag på förbättringar kan du maila enligt [ovan](#Kontakt) elle
 
 * Contributors/behöriga kan göra innehållsändringar på denna sida, [till editering](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Home)
 * För tekniska ändringar finns källkoden [på GitLab](https://gitlab.com/open-data-knowledge-sharing/open-data-knowledge-sharing.gitlab.io), alla MergeRequest uppmuntras.
+* Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
