@@ -32,15 +32,11 @@ Syftet med att skapa en sida är att dela goda exempel och uppmuntra till återa
 
 <hr>
 
-## Öppna data
+# Skapade sidor
+
 [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
 
-[OpenData Umeå](https://opendata.umea.se/pages/bygglovsstatistik/)
-
-## Standarder, format och specifikationer
 [Metadatastandarder från Tullverket](https://nosad.se/General-Information-about-Package)
-
-## Artiklar - berätta för omvärlden
 
 [Rapport från Digital Commons Working Team | DIGG](https://nosad.se/Digital-Commons-paper) 
 
