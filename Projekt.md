@@ -40,7 +40,7 @@ Syftet med att skapa en sida är att dela goda exempel och uppmuntra till återa
 ## Standarder, format och specifikationer
 [Metadatastandarder från Tullverket](https://nosad.se/General-Information-about-Package)
 
-## Artiklar - Berätta för omvärlden
+## Artiklar - berätta för omvärlden
 
 [Rapport från Digital Commons Working Team | DIGG](https://nosad.se/Digital-Commons-paper) 
 
