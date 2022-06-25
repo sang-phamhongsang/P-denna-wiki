@@ -4,7 +4,7 @@ Uppdaterad 2022-06-25, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 <figure>
   <img width="640" height="460"
-  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/photos/n95VMLxqM2I" alt="Handskakning för att visualisera överenskommelse.
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/n95VMLxqM2I" alt="Handskakning för att visualisera överenskommelse.
 />
 <figcaption>Mer kommunal och regional data via NSÖD. <small>Bild av Photo by <a href="https://unsplash.com/es/@cytonn_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cytonn Photography</a> on <a href="https://unsplash.com/s/photos/business-agreement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</small> </figcaption>
 </figure>
