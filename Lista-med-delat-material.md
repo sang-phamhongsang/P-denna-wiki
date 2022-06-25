@@ -115,3 +115,4 @@ Samverkan, samutveckling och ekosystem är begrepp som används i sammanhang som
 ## Bidra till listan
 Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) (för er med behörighet).
 
+Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
