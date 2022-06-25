@@ -1,4 +1,21 @@
 # Policy för bidrag
+
+Uppdaterad 2022-05-23, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/NS%C3%96D/history).
+
+<figure>
+  <img width="640" height="460"
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://unsplash.com/photos/n95VMLxqM2I" alt="Handskakning för att visualisera överenskommelse.
+/>
+<figcaption>Mer kommunal och regional data via NSÖD. <small>Bild av <a href="https://unsplash.com/@markusspiske?utm_source=nosad&utm_medium=referral">Markus Spiske</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+</figure>
+
+**Sammanfattning** | Under policy för bidrag beskrivs vad som gäller för att bidra till nosad.se
+
+<hr>
+
+
+
+# Policy för bidrag
 Vi vill göra det enkelt att göra ett bidrag till denna sajt, ett exempel kan vara att dela ett dokument som du tror skapar ett värde för andra organisationer. All delning uppmuntras och ditt bidrag kommer att uppskattas av många. En viktig del är att välja en öppen licens så att det är tydligt hur materialet får användas.
 
 ## Gitlab som samverkansplattform
