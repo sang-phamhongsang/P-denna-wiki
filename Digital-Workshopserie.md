@@ -541,6 +541,8 @@ Var med och skapa vår gemensamma mötesserie genom att bidra med inspiration, u
 
 [Editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) (för er med behörighet).
 
+Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
+
 
 
 
