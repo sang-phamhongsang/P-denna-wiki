@@ -11,7 +11,24 @@
 <figcaption>Resultat som delas från olika projekt. <small>Bild av <a href="https://unsplash.com/@octadan?utm_source=nosad&utm_medium=referral">Octavian Dan</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
-**Sammanfattning** | Öppna dataprojekt samt öppna källkodsprojekt listas på denna sida. Det är nätverkets deltagare som tipsar och lägger upp projekten. Även skapade artiklar inom öppna data, öppen källkod och öppna standarder samt arbetssätt visualiseras på denna sida.
+**Sammanfattning** | Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. 
+
+
+# Communitydriven publicering
+
+Via nosad.se får alla i nätverket möjlighet att skapa en snygg webbsida för att visa upp sin leverans och publicera en artikel. Här behövs inte kunskaper i hur man bygger hemsidor eller skapar domäner. Det räcker att skapa en wikisida på GitLab. Kan det bli enklare?
+
+Via NOSAD får du möjligheter att editera en sida.  -> publicera på extern yta -> länka till publicerat innehåll (Gärna i Dataportalens Community.)
+
+Se exempel med [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
+
+
+**Villkor för publicering**
+
+Detta tjänst lyder under lagen om elektroniska anslagstavlor (1998:112), därför förbehåller vi oss rätten att ta bort innehåll som strider mot denna lag.
+
+Syftet med att skapa en sida är att dela goda exempel och uppmuntra till återanvändning. Därför behöver innehållet ha en tillåtande öppna data-licens. Innehållet på denna sajt är licensierad med Creative Commons Attribution 4.0 International License. Personer som bidrar med innehåll till sajten har också godkänt ovan licens för innehållsbidrag om inte annat uttrycks.
+
 
 <hr>
 
