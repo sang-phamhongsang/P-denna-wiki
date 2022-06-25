@@ -6,7 +6,7 @@ Uppdaterad 2022-06-25, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
   <img width="640" height="460"
   class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/n95VMLxqM2I" alt="Handskakning för att visualisera överenskommelse.
 />
-<figcaption><small>Bild av Photo by <a href="https://unsplash.com/es/@cytonn_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cytonn Photography</a> on <a href="https://unsplash.com/s/photos/business-agreement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</small> </figcaption>
+<figcaption><small>Bild av <a href="https://unsplash.com/es/@cytonn_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cytonn Photography</a> on <a href="https://unsplash.com/s/photos/business-agreement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</small> </figcaption>
 </figure>
 
 **Sammanfattning** | Under policy för bidrag beskrivs vad som gäller för att bidra till nosad.se
@@ -30,6 +30,7 @@ På följande villkor:
 
 
 **Erkännande** — Du måste ge ett korrekt erkännande, ange en hyperlänk till licensen, och ange om bearbetningar är gjorda . Du behöver göra så i enlighet med god sed, och inte på ett sätt som ger en bild av att licensgivaren stödjer dig eller ditt användande.
+
 **Inga ytterligare begränsningar** — Du får inte tillämpa lagliga begränsningar eller teknologiska metoder som juridiskt begränsar andra från att gör något som licensen tillåter.
 
 ### Rapportera problem med sajten eller kom med förbättringsförslag
