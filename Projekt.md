@@ -1,7 +1,5 @@
 # Communitydriven publicering
 
-
-
 <figure>
 
   <img width="640" height="460"
@@ -13,6 +11,7 @@
 
 **Sammanfattning** | Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. 
 
+<hr/>
 
 Via nosad.se får alla i nätverket möjlighet att skapa en snygg webbsida för att visa upp sin leverans och publicera en artikel. Här behövs inte kunskaper i hur man bygger hemsidor eller skapar domäner. Det räcker att skapa en wikisida på GitLab. Kan det bli enklare?
 
@@ -20,17 +19,13 @@ Via NOSAD får du möjligheter att editera en sida.  -> publicera på extern yta
 
 Se exempel med [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
 
-
 **Villkor för publicering**
 
 Detta tjänst lyder under lagen om elektroniska anslagstavlor (1998:112), därför förbehåller vi oss rätten att ta bort innehåll som strider mot denna lag.
 
 Syftet med att skapa en sida är att dela goda exempel och uppmuntra till återanvändning. Därför behöver innehållet ha en tillåtande öppna data-licens. Innehållet på denna sajt är licensierad med Creative Commons Attribution 4.0 International License. Personer som bidrar med innehåll till sajten har också godkänt ovan licens för innehållsbidrag om inte annat uttrycks.
 
-
-<hr>
-
-# Skapade sidor
+## Skapade sidor
 
 [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
 
@@ -38,5 +33,5 @@ Syftet med att skapa en sida är att dela goda exempel och uppmuntra till återa
 
 [Rapport från Digital Commons Working Team | DIGG](https://nosad.se/Digital-Commons-paper) 
 
- ### Bidra till sidan
+### Bidra till sidan
 Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Projekt) (för er med behörighet).
