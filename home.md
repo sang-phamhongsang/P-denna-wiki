@@ -20,7 +20,7 @@
 1. [Kalendarium](#kalendarium)
 2. [Nyhetsbrev](#nyhetsbrev)
 3. [Lästips](#lästips)
-4. [Projekt](#projekt)
+4. [Projekt](#communitydriven-publicering)
 5. [Diskussionsforum](#diskussionsforum)
 6. [Om](#om)
 
@@ -48,10 +48,10 @@ Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen.
 
 <a href="/tips">Till nätverkets lästips</a>
 
-## Projekt
-Öppna dataprojekt samt öppna källkodsprojekt. Det är nätverkets deltagare som tipsar och lägger upp projekten.
+## Communitydriven publicering
+Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. Här finner ni av nätverket upplagda resultat från projekt eller spaningar.
 
-[Till nätverkets projekt](https://nosad.se/Projekt)
+[Till Communitydriven publicering](https://nosad.se/Projekt)
 
 ## Diskussionsforum
 
