@@ -15,15 +15,9 @@
 
 Via nosad.se får alla i nätverket möjlighet att skapa en snygg webbsida för att visa upp sin leverans och publicera en artikel. Här behövs inte kunskaper i hur man bygger hemsidor eller skapar domäner. Det räcker att skapa en wikisida på GitLab. Kan det bli enklare?
 
-Via NOSAD får du möjligheter att editera en sida.  -> publicera på extern yta -> länka till publicerat innehåll (Gärna i Dataportalens Community.)
+Via NOSAD får du möjligheter att editera en sida.  -> publicera på extern yta -> länka till publicerat innehåll - gärna i [Dataportalens communityforum.](https://community.dataportal.se)
 
 Se exempel med [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
-
-**Villkor för publicering**
-
-Detta tjänst lyder under lagen om elektroniska anslagstavlor (1998:112), därför förbehåller vi oss rätten att ta bort innehåll som strider mot denna lag.
-
-Syftet med att skapa en sida är att dela goda exempel och uppmuntra till återanvändning. Därför behöver innehållet ha en tillåtande öppna data-licens. Innehållet på denna sajt är licensierad med Creative Commons Attribution 4.0 International License. Personer som bidrar med innehåll till sajten har också godkänt ovan licens för innehållsbidrag om inte annat uttrycks.
 
 ## Skapade sidor
 
