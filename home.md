@@ -20,7 +20,7 @@
 1. [Kalendarium](#kalendarium)
 2. [Nyhetsbrev](#nyhetsbrev)
 3. [Lästips](#lästips)
-4. [Projekt](#communitydriven-publicering)
+4. [Communitydriven publicering](#communitydriven-publicering)
 5. [Diskussionsforum](#diskussionsforum)
 6. [Om](#om)
 
