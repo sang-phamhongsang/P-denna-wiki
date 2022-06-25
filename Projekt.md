@@ -1,4 +1,4 @@
-# Projekt
+# Communitydriven publicering
 
 
 
@@ -13,8 +13,6 @@
 
 **Sammanfattning** | Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. 
 
-
-# Communitydriven publicering
 
 Via nosad.se får alla i nätverket möjlighet att skapa en snygg webbsida för att visa upp sin leverans och publicera en artikel. Här behövs inte kunskaper i hur man bygger hemsidor eller skapar domäner. Det räcker att skapa en wikisida på GitLab. Kan det bli enklare?
 
