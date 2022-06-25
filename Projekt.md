@@ -29,3 +29,5 @@ Se exempel med [Nationell Skalning Öppna Data - NSÖD](https://nosad.se/NSÖD)
 
 ### Bidra till sidan
 Bidra till listan genom att [kontakta NOSAD](mailto:maria.dalhage@digg.se) med ditt bidrag. Eller gå direkt till [editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Projekt) (för er med behörighet).
+
+Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
