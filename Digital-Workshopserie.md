@@ -26,8 +26,8 @@ _Mer info samt event kommer löpande_
 
 | Datum | Workshop |
 |---|---|
-| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?](#hur-kan-civilsamhället-och-offentlig-sektor-samarbeta kring-digital-information?) |
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](#mer-datadriven-utveckling genom-den-nationella-datastrategin-och-europeiska dataområden. ) 
+| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?](#hur-kan-civilsamhället-och-offentlig-sektor-samarbeta-kring-digital-information?) |
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](#mer-datadriven-utveckling genom-den-nationella-datastrategin-och-europeiska-dataområden. ) 
 | 2022-04-20 | [Så jobbar offentlig sektor med open source](#så-jobbar-offentlig-sektor-med-open-source)
 | 2022-04-05 |[Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem])
 | 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
@@ -79,7 +79,6 @@ Agenda
 
 10:25-10:35 	Dataportalen och dess Community-forum| DIGG 
 
-
 10:35-10:48 	MIK-jam – Designa för demokrati (MIK-jam (mikjam.se)) |Martin Törnros (Interaktiva rum), Malin Klintholm (Biblioteksutveckling Sörmland)
 
 10:48-10:58 	Presentation från NOD om kommande tematisk samrådsserie på uppdrag av Infrastrukturdepartementet och arbetet med en ny handlingsplan för OGP| Jeremija Isakovic (NOD -Nationellt organ för dialog och samråd mellan regeringen och det civila samhället.) 
@@ -90,14 +89,10 @@ Agenda
 
 11:27-12:00   Avslut
 
-
-
-
-### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden. 
+### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden 
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 <small>3 maj 2022, kl 10-12 </small>
-
 
 Nu finns tillfälle att förstå det strategiska landskapet för ökad delning och nytta av data och varför man pratar om data som en strategisk resurs. Välkommen att diskutera med EU kommissionen, infrastrukturdepartementet och projektledarna för de olika regeringsuppdrag som ingår i den nationella datastrategin.
 
