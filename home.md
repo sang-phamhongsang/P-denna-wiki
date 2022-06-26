@@ -49,7 +49,7 @@ Omvärldsanalys och kunskapsdelning krävs för att lyckas med digitaliseringen.
 <a href="/tips">Till nätverkets lästips</a>
 
 ## Communitydriven publicering
-Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. Här finner ni av nätverket upplagda resultat från projekt eller spaningar.
+Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. Här finner ni av nätverket upplagda resultat från projekt eller landningsida för pågående arbete.
 
 [Till Communitydriven publicering](https://nosad.se/Projekt)
 
