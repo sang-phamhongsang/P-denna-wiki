@@ -27,7 +27,7 @@ _Mer info samt event kommer löpande_
 | Datum | Workshop |
 |---|---|
 | 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?](#hur-kan-civilsamhället-och-offentlig-sektor-samarbeta-kring-digital-information) |
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden](#mer-datadriven-utveckling genom-den-nationella-datastrategin-och-europeiska-dataområden) 
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden](#mer-datadriven-utveckling-genom-den-nationella-datastrategin-och-europeiska-dataområden) 
 | 2022-04-20 | [Så jobbar offentlig sektor med open source](#så-jobbar-offentlig-sektor-med-open-source)
 | 2022-04-05 |[Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem])
 | 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
@@ -53,7 +53,6 @@ _Mer info samt event kommer löpande_
 | 2021-09-01 | [Öppna licenser och immaterialrätt](#öppna-licenser-och-immaterialrätt) |
 
 ## Kommande workshop
-
 
 ## Genomförda workshops
 ### Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?
@@ -89,7 +88,7 @@ Agenda
 
 11:27-12:00   Avslut
 
-### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden 
+### Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden
 [Se inspelning i efterhand](https://data.jobtechdev.se/videos/nosad-20220503-datadriven-utveckling-nationella-datastrategin-europeiska-dataomraden_2256x1444.mp4)
 
 <small>3 maj 2022, kl 10-12 </small>
