@@ -11,7 +11,7 @@ Uppdaterad 2022-04-05, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 **Sammanfattning** | Nätverket rekommenderar att använda och läsa nedan listade dokument. Syftet är att ge tillgång till praktiska dokument som hjälper er vid ert arbete. Se också <a href="https://nosad.se/workshops" data-navigo>tidigare workshops</a> och <a href="https://nosad.se/internationellt" data-navigo>internationell omvärldsbevakning</a>. 
 
-En sammanfattning av NOSAD presenterades i Helsningborg juni 2022. [H22_20220613.pdf](uploads/55d6345ca74c8550f4673938eef630a4/H22_20220613.pdf)
+En sammanfattning av NOSAD presenterades i Helsningborg juni 2022. [H22_20220613.pdf](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/55d6345ca74c8550f4673938eef630a4/H22_20220613.pdf)
 
 <hr/>
 
