@@ -393,6 +393,5 @@ Länkar:
 
 ## Bidra till listan
 
-1. Maila - Kontakta johan.linaker [at] ri.se så lägger han till programvaran.
-2. Editeringssida - Behöriga kan ändra [denna sida](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Programvaror/) direkt
-3. Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
+1. Editeringssida - Behöriga kan ändra [denna sida](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Programvaror/) direkt
+2. Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
