@@ -10,7 +10,7 @@ Rapporten presenterades på Digital Assembly i Toulouse 21-22 juni 2022.
 
 <hr/>
 
-# Introduktion till rapporten Towards a sovereign digital infrastructure of commons
+## Introduktion till rapporten Towards a sovereign digital infrastructure of commons
 I rapporten som tagits fram av Digital Commons Working Team som består av representanter från ett 20-tal medlemsländer (hädanefter kallad arbetsgruppen) benämns dessa för Digital Commons (Digitala allmänningar), d.v.s. de digitala resurser som alla har rätt att använda oavsett om det är allmänheten, privat- eller offentlig sektor som producerar och konsumerar dessa. 
 
 Exempel på digitala allmänningar är öppna data, öppen källkod och öppna standarder. För att nyttja möjligheterna med öppna data och datadelning överhuvudtaget behöver även standarder och programkod vara öppen, dels för att säkerställa interoperabilitet – att systemen ska förstå varandras data –, dels för att säkerställa agil och snabbrörlig utveckling utan beroenden till leverantörer, men där istället kraften av samarbete och distribuerad utveckling samt återanvändning av de digitala allmänningarna främjas. 
