@@ -11,7 +11,7 @@ Rapporten presenterades på Digital Assembly i Toulouse 21-22 juni 2022.
 <hr/>
 
 # Introduktion till rapporten Towards a sovereign digital infrastructure of commons
-För att kunna förflytta oss i den digitala tidseran behöver vi i högre grad återanvända varandras digitala resurser. I rapporten som tagits fram av Digital Commons Working Team som består av representanter från ett 20-tal medlemsländer (hädanefter kallad arbetsgruppen) benämns dessa för Digital Commons (Digitala allmänningar), d.v.s. de digitala resurser som alla har rätt att använda oavsett om det är allmänheten, privat- eller offentlig sektor som producerar och konsumerar dessa. 
+I rapporten som tagits fram av Digital Commons Working Team som består av representanter från ett 20-tal medlemsländer (hädanefter kallad arbetsgruppen) benämns dessa för Digital Commons (Digitala allmänningar), d.v.s. de digitala resurser som alla har rätt att använda oavsett om det är allmänheten, privat- eller offentlig sektor som producerar och konsumerar dessa. 
 
 Exempel på digitala allmänningar är öppna data, öppen källkod och öppna standarder. För att nyttja möjligheterna med öppna data och datadelning överhuvudtaget behöver även standarder och programkod vara öppen, dels för att säkerställa interoperabilitet – att systemen ska förstå varandras data –, dels för att säkerställa agil och snabbrörlig utveckling utan beroenden till leverantörer, men där istället kraften av samarbete och distribuerad utveckling samt återanvändning av de digitala allmänningarna främjas. 
 
@@ -24,6 +24,8 @@ Vidare konstaterar arbetsgruppen att utan en kultur-förflyttning och förståel
 I rapporten redovisas olika satsningar som genomförs på nationell och EU-nivå. Vidare föreslås ett antal förslag på hur EU och dess medlemsländer kan ta ytterligare steg  i arbetet med digitala allmänningar i syfte att stärka Europas ekonomi, innovationskraft, säkerhet, motståndskraft och demokrati. 
 
 Genom denna gemensamma rapport vill arbetsgruppen sända en politisk signal genom att uppmärksamma de underutnyttjade möjligheter som digitala allmänningar erbjuder; uppmana offentliga aktörer, regeringar och europeiska institutioner att inkludera digitala allmänningar i sina strategier samt att börja med att ta några ytterligare steg i detta gemensamma arbete.
+
+[Rapporten](https://www.diplomatie.gouv.fr/IMG/pdf/report_of_the_european_working_team_on_digital_commons_digital_assembly_june_2022_wnetherlands_cle843dbf.pdf)
 
 ## Bidra till sajten
 
