@@ -9,7 +9,8 @@
 <figcaption>Resultat som delas från olika projekt. <small>Bild av <a href="https://unsplash.com/@octadan?utm_source=nosad&utm_medium=referral">Octavian Dan</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
-**Sammanfattning** | Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. 
+**Sammanfattning** | Communitydriven publicering är en tjänst där NOSAD erbjuder nätverket att skapa och publicera kunskap. Här finner ni av nätverket upplagda resultat från projekt eller landningsida för pågående arbete.
+
 
 <hr/>
 
