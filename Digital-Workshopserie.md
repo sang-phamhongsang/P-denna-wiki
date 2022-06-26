@@ -26,8 +26,8 @@ _Mer info samt event kommer löpande_
 
 | Datum | Workshop |
 |---|---|
-| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?](#hur-kan-civilsamhället-och-offentlig-sektor-samarbeta-kring-digital-information?) |
-| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden.](#mer-datadriven-utveckling genom-den-nationella-datastrategin-och-europeiska-dataområden. ) 
+| 2022-06-07 | [Hur kan civilsamhället och offentlig sektor samarbeta kring digital information?](#hur-kan-civilsamhället-och-offentlig-sektor-samarbeta-kring-digital-information) |
+| 2022-05-03 | [Mer datadriven utveckling genom den nationella datastrategin och europeiska dataområden](#mer-datadriven-utveckling genom-den-nationella-datastrategin-och-europeiska-dataområden) 
 | 2022-04-20 | [Så jobbar offentlig sektor med open source](#så-jobbar-offentlig-sektor-med-open-source)
 | 2022-04-05 |[Öppna data för ett hållbart godstransportsystem](#öppna-data-för-ett-hållbart-godstransportsystem])
 | 2022-03-29 | [Livslångt lärande](#livslångt-lärande) |
