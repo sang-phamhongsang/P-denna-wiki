@@ -24,6 +24,6 @@ Genom denna gemensamma rapport vill arbetsgruppen sända en politisk signal geno
 
 ## Bidra till sajten
 
-[Editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Workshopserie) (för er med behörighet).
+[Editeringssidan](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Digital-Commons-paper) (för er med behörighet).
 
 Läs vår [policy (villkor)](https://nosad.se/Policy) för att bidra till sidan.
