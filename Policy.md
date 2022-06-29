@@ -44,9 +44,6 @@ Vi använder [Gitlab issues](https://gitlab.com/open-data-knowledge-sharing/wiki
 
 Det blir enklare för alla inblandade ju mer utförlig du är. Det roliga är att detta är ett av få fall då väldigt långa texter uppskattas.
 
-### Lagrum
-Detta tjänst lyder under lagen om elektroniska anslagstavlor (1998:112), därför förbehåller vi oss rätten att ta bort innehåll som strider mot denna lag.
-
 ### Licens
 [Apache 2](https://www.apache.org/licenses/LICENSE-2.0) är den licens som används om du bidrar med källkod. 
 
