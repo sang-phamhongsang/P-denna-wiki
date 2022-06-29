@@ -59,6 +59,8 @@ Artikelserie från Inköpsrådet om upphandling och öppen programvara:
 
 [Rapport: Långsiktig informationshantering E-arkiv.pdf | Arbetsförmedlingen](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/uploads/c7d94fc0e6bdea26df7182e54b6e6683/Rapport_l%C3%A5ngsiktig_informationshantering_E-arkiv.pdf)
 
+[API-relaterade krav vid upphandling | Sundsvalls kommun](https://utveckling.sundsvall.se/metoder-och-riktlinjer/api-relaterade-krav-vid-upphandling)
+
  
 ## Öppen källkod som strategi 
 Offentliga Sverige använder redan idag open source-lösningar. Först nu börjar strategiska dokument att komma från svenska myndigheter för att hantera anskaffning, användning och delning av öppen källkod. 
