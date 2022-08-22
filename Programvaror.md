@@ -35,14 +35,14 @@ Beskrivning: En webbaserad databas och ett katalogiseringverktyg för museer, ar
 Se även: [Collective Access Sverige](https://casverige.wordpress.com/)   
 
 [ESSArch](https://www.essarch.org/)\
-Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan, Luftfartsverket, Sjöfartsverket
+Används av: Svensk Riksarkivet, Norska Arkivverket, Sydarkivera, Svenska kyrkan
 
 [NetarchiveSuite](https://sbforge.org/display/NAS/NetarchiveSuite)\
 Beskrivning: Verktyg för insamling och arkivering av hemsidor.\
 Används av: Kungliga Biblioteket  
 
 [Roda](https://www.roda-community.org/#welcome)\
-Används av: Tullverket
+Används av: Tullverket, Luftfartsverket, Sjöfartsverket
 
 #### Automatiseringsplattform
 
