@@ -4,10 +4,10 @@ Grupperat enligt SSYK från [SCB](https://www.scb.se/contentassets/0c0089cc085a4
 
 Information som går att anteckna per yrke nedan:
 
-1. Vilket fackförbund är kopplat till de respektive yrkena.
-2. Går att länka till statistik från de fackförbund som är öppna med sin information om lön
-3. Går att återanvända av andra handläggare.
-4. etc.
+1. _Vilket fackförbund är kopplat till de respektive yrkena._
+2. _Går att länka till statistik från de fackförbund som är öppna med sin information om lön_
+3. _Går att återanvända av andra handläggare._
+4. _etc._
 
 ## Status
 
