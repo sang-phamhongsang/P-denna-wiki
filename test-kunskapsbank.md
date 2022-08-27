@@ -22,7 +22,7 @@ Information som går att anteckna per yrke nedan:
 3. _Går att återanvända av andra handläggare._
 4. _etc._
 
-## Snabblänkar
+## Lönefakta per yrke
 
 [Fastighetsmäklare](https://www.scb.se/hitta-statistik/sverige-i-siffror/lonesok/Search/?lon=Fastighetsmäklare)  
 [Fastighetsförvaltare](https://www.scb.se/hitta-statistik/sverige-i-siffror/lonesok/Search/?lon=Fastighetsförvaltare)  
