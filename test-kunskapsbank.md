@@ -9,7 +9,7 @@ Uppdaterad 2022-08-27, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 <figcaption>Jämföra löner är svårt. <small>Bild av <a href="https://unsplash.com/@towfiqu999999utm_source=nosad&utm_medium=referral">Towfiqu</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
 </figure>
 
-**Sammanfattning** | Testsida baserad på öppen information. Grupperat enligt SSYK från [SCB](https://www.scb.se/contentassets/0c0089cc085a45d49c1dc83923ad933a/ssyk-2012-koder.xlsx). Länkar till lönestatistiken från 2021. Finns en potential i att handläggare själva kan bygga en kunskapsbank per yke utifrån de lönebedömnignar som göra vid beslut.
+**Sammanfattning** | Testsida baserad på öppen information. Grupperat enligt SSYK från [SCB](https://www.scb.se/contentassets/0c0089cc085a45d49c1dc83923ad933a/ssyk-2012-koder.xlsx). Länkar till lönestatistiken från 2021. Finns en potential i att handläggare själva kan bygga en kunskapsbank per yrke utifrån de lönebedömningar som görs vid beslut.
 
 <hr/>
 
@@ -18,7 +18,7 @@ Uppdaterad 2022-08-27, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 Information som går att anteckna per yrke nedan:
 
 1. _Vilket fackförbund är kopplat till de respektive yrkena._
-2. _Går att länka till statistik från de fackförbund som är öppna med sin information om lön_
+2. _Går att länka till lönestatistik från fackförbund, [exempel unionen](https://www.unionen.se/sites/default/files/files/ALS%20L%C3%B6nestatistik_broschyr_2021.pdf)_
 3. _Går att återanvända av andra handläggare._
 4. _etc._
 
