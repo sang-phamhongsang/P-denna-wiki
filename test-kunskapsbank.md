@@ -1,6 +1,19 @@
 # Löner
 
-Grupperat enligt SSYK från [SCB](https://www.scb.se/contentassets/0c0089cc085a45d49c1dc83923ad933a/ssyk-2012-koder.xlsx). Länkar till lönestatistiken från 2021. Finns en potential i att handläggare själva kan bygga en kunskapsbank per yke utifrån de lönebedömnignar som göra vid beslut.
+Uppdaterad 2022-08-27, [ändringslogg](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/test-kunskapsbank/history).
+
+<figure>
+  <img width="640" height="460"
+  class="blurry-load" src="data:image/gif;base64,R0lGODlhAwACAPIFAD1KI0JSIWp2WXOIj4WVlYicngAAAAAAACH5BAAAAAAALAAAAAADAAIAAAMESDUSkAA7" data-large="https://source.unsplash.com/jpqyfK7GB4w" alt="Man som spaltar mynt"
+/>
+<figcaption>Jämföra löner är svårt. <small>Bild av <a href="https://unsplash.com/@towfiqu999999utm_source=nosad&utm_medium=referral">Towfiqu</a> från <a href="https://unsplash.com/?utm_source=your_app_name&utm_medium=referral">Unsplash</a>.</small> </figcaption>
+</figure>
+
+**Sammanfattning** | Testsida baserad på öppen information. Grupperat enligt SSYK från [SCB](https://www.scb.se/contentassets/0c0089cc085a45d49c1dc83923ad933a/ssyk-2012-koder.xlsx). Länkar till lönestatistiken från 2021. Finns en potential i att handläggare själva kan bygga en kunskapsbank per yke utifrån de lönebedömnignar som göra vid beslut.
+
+<hr/>
+
+## Ideér 
 
 Information som går att anteckna per yrke nedan:
 
@@ -8,10 +21,6 @@ Information som går att anteckna per yrke nedan:
 2. _Går att länka till statistik från de fackförbund som är öppna med sin information om lön_
 3. _Går att återanvända av andra handläggare._
 4. _etc._
-
-## Status
-
-Testsida som är baserad på öppen information.
 
 ## Snabblänkar
 
