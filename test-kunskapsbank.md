@@ -55812,3 +55812,4 @@ Data från Medlingsinstitutet avseende år 2021 (ansvarig för lönestatistik i 
 </tr>
 </tbody>
 </table>
+
