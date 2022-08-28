@@ -436,7 +436,3 @@ Specialistofficerare [SCB](https://www.scb.se/hitta-statistik/sverige-i-siffror/
 Soldater m.fl. [SCB](https://www.scb.se/hitta-statistik/sverige-i-siffror/lonesok/Search/?lon=Soldater%20m.fl.) - [AllaStudier](https://allastudier.se/jobb-o-l%C3%B6n/?q=\"Soldater%20m.fl.\")  
 Undersköterskor, hemtjänst, hemsjukvård, äldreboende och habilitering [SCB](https://www.scb.se/hitta-statistik/sverige-i-siffror/lonesok/Search/?lon=Undersköterskor,%20hemtjänst,%20hemsjukvård,%20äldreboende%20och%20habilitering) - [AllaStudier](https://allastudier.se/jobb-o-l%C3%B6n/?q=\"Undersköterskor,%20hemtjänst,%20hemsjukvård,%20äldreboende%20och%20habilitering\")  
 Undersköterskor, vård- och specialavdelning och mottagning [SCB](https://www.scb.se/hitta-statistik/sverige-i-siffror/lonesok/Search/?lon=Undersköterskor,%20vård-%20och%20specialavdelning%20och%20mottagning) - [AllaStudier](https://allastudier.se/jobb-o-l%C3%B6n/?q=\"Undersköterskor,%20vård-%20och%20specialavdelning%20och%20mottagning\")  
-
-## Uppslagstabell
-
-Data från Medlingsinstitutet avseende år 2021 (ansvarig för lönestatistik i Sverige) via SCB:s verktyg PxWeb.
