@@ -13,14 +13,26 @@ Uppdaterad 2022-08-27, [ändringslogg](https://gitlab.com/open-data-knowledge-sh
 
 <hr/>
 
-## Ideér 
+## Innehållsförteckning
 
-Information som går att anteckna per yrke nedan:
+1. [Introduktion](#introduktion)
+2. [Lönefakta per yrke](#lönefakta-per-yrke)
+3. [Uppslagstabell](#uppslagstabell)
+
+## Introduktion 
+
+Informationen om löner på denna sidan är baserad på officiell statistik och kan användas. 
+
+**Förslag på information** som handläggare/arbetsförmedlare skulle kunna utöka sidan med om de fick skrivrättigheter till denna sida. 
 
 1. _Vilket fackförbund är kopplat till de respektive yrkena._
 2. _Går att länka till lönestatistik från fackförbund, [exempel unionen](https://www.unionen.se/sites/default/files/files/ALS%20L%C3%B6nestatistik_broschyr_2021.pdf)_
 3. _Går att återanvända av andra handläggare._
 4. _etc._
+
+Nästa steg: 
+1. Utvärdera om arbetsförmedlare tycker sidan är meningsfull.
+2. Om sidan tillför ett värde i beslutsfattandet är frågan om arbetsförmedlare vill delta i att uppdatera sidan och bygga en kunskapsbank.
 
 ## Lönefakta per yrke
 
